@@ -1,0 +1,243 @@
+date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_report_url,home_pk_goals,home_pk_attempts,home_yellow_cards,home_red_cards,home_shots,home_shots_on_target,home_tackles,home_interceptions,home_fouls_committed,away_pk_goals,away_pk_attempts,away_yellow_cards,away_red_cards,away_shots,away_shots_on_target,away_tackles,away_interceptions,away_fouls_committed,season
+2019-03-30,Odd,Brann,3,2,NA,NA,7295,Espen Andreas Eskås,https://fbref.com/en/matches/08a0072f/Odd-Brann-March-30-2019-Eliteserien,0,0,0,0,10,4,3,3,8,1,1,2,0,13,7,8,6,13,2019
+2019-03-30,Vålerenga,Mjøndalen,2,0,NA,NA,8055,Kristoffer Hagenes,https://fbref.com/en/matches/651dc62f/Valerenga-Mjondalen-March-30-2019-Eliteserien,0,0,2,0,22,10,9,6,8,0,0,1,0,8,6,7,6,9,2019
+2019-03-31,Strømsgodset,Haugesund,3,2,NA,NA,5040,Ola Nilsen,https://fbref.com/en/matches/ebb9448d/Stromsgodset-Haugesund-March-31-2019-Eliteserien,1,1,2,0,12,4,8,6,13,0,0,1,0,12,6,7,7,12,2019
+2019-03-31,Sarpsborg 08,Molde,1,1,NA,NA,5964,Tore Hansen,https://fbref.com/en/matches/ec310791/Sarpsborg-08-Molde-March-31-2019-Eliteserien,0,0,1,0,15,4,6,9,15,0,0,2,0,6,3,6,8,16,2019
+2019-03-31,Viking,Kristiansund,2,0,NA,NA,10059,Rohit Saggi,https://fbref.com/en/matches/6c9958b8/Viking-Kristiansund-March-31-2019-Eliteserien,0,0,2,0,16,6,11,7,20,0,0,1,0,14,3,14,9,7,2019
+2019-03-31,Ranheim,Tromsø,1,2,NA,NA,1694,Trygve Kjensli,https://fbref.com/en/matches/26cd04f1/Ranheim-Tromso-March-31-2019-Eliteserien,0,0,1,0,10,3,16,12,21,0,0,2,0,10,2,7,11,11,2019
+2019-03-31,Bodø/Glimt,Rosenborg,2,0,NA,NA,2793,Tom Hagen,https://fbref.com/en/matches/e5f491ef/BodoGlimt-Rosenborg-March-31-2019-Eliteserien,0,0,3,0,13,7,6,4,14,0,0,2,0,7,1,7,12,14,2019
+2019-04-01,Stabæk,Lillestrøm,1,1,NA,NA,4031,Svein Oddvar Moen,https://fbref.com/en/matches/e7e1621b/Stabaek-Lillestrom-April-1-2019-Eliteserien,0,0,0,0,9,3,11,8,12,0,1,0,0,8,3,10,13,19,2019
+2019-04-06,Mjøndalen,Bodø/Glimt,4,5,NA,NA,2211,Ola Nilsen,https://fbref.com/en/matches/5fe6575a/Mjondalen-BodoGlimt-April-6-2019-Eliteserien,1,1,2,0,11,6,5,5,13,1,1,2,0,16,9,3,8,11,2019
+2019-04-07,Tromsø,Viking,0,2,NA,NA,2888,Kristoffer Hagenes,https://fbref.com/en/matches/5aefb020/Tromso-Viking-April-7-2019-Eliteserien,0,0,3,0,15,3,8,6,17,0,0,3,0,9,3,13,15,11,2019
+2019-04-07,Haugesund,Sarpsborg 08,1,1,NA,NA,3671,Sigurd Kringstad,https://fbref.com/en/matches/43a17a12/Haugesund-Sarpsborg-08-April-7-2019-Eliteserien,0,0,1,0,10,1,15,6,16,0,0,1,0,7,4,8,3,17,2019
+2019-04-07,Kristiansund,Vålerenga,2,0,NA,NA,3984,Dag Vidar Hafsås,https://fbref.com/en/matches/ab8258d5/Kristiansund-Valerenga-April-7-2019-Eliteserien,0,0,1,0,15,5,12,9,10,0,0,3,1,6,2,8,8,18,2019
+2019-04-07,Molde,Stabæk,3,0,NA,NA,6372,Tom Hagen,https://fbref.com/en/matches/b4acbc49/Molde-Stabaek-April-7-2019-Eliteserien,0,0,0,0,26,15,8,9,8,0,0,2,0,7,4,17,12,4,2019
+2019-04-07,Lillestrøm,Ranheim,2,1,NA,NA,5829,Tore Hansen,https://fbref.com/en/matches/bde850e7/Lillestrom-Ranheim-April-7-2019-Eliteserien,0,0,0,0,12,2,8,7,16,0,0,1,0,11,3,9,9,7,2019
+2019-04-07,Brann,Strømsgodset,1,1,NA,NA,13213,Trond Døvle,https://fbref.com/en/matches/be45c90c/Brann-Stromsgodset-April-7-2019-Eliteserien,0,0,1,0,18,4,8,4,12,0,0,4,0,7,3,5,11,11,2019
+2019-04-08,Rosenborg,Odd,1,1,NA,NA,11723,Tommy Skjerven,https://fbref.com/en/matches/440582c8/Rosenborg-Odd-April-8-2019-Eliteserien,0,0,0,0,7,1,12,3,20,0,0,2,0,16,2,11,18,7,2019
+2019-04-10,Molde,Vålerenga,4,1,NA,NA,6202,Rohit Saggi,https://fbref.com/en/matches/1548ba7e/Molde-Valerenga-April-10-2019-Eliteserien,1,1,4,0,12,5,12,5,11,0,0,2,0,14,5,10,8,9,2019
+2019-04-10,Brann,Kristiansund,2,1,NA,NA,11103,Svein Oddvar Moen,https://fbref.com/en/matches/8d9bf1e4/Brann-Kristiansund-April-10-2019-Eliteserien,0,0,0,0,16,5,13,8,10,0,0,1,0,14,1,9,15,9,2019
+2019-04-12,Strømsgodset,Mjøndalen,2,3,NA,NA,8505,Dag Vidar Hafsås,https://fbref.com/en/matches/e5a3e6b3/Stromsgodset-Mjondalen-April-12-2019-Eliteserien,0,0,5,0,21,6,8,3,12,0,0,1,0,15,8,7,2,12,2019
+2019-04-13,Viking,Brann,2,1,NA,NA,13029,Ola Nilsen,https://fbref.com/en/matches/31336b26/Viking-Brann-April-13-2019-Eliteserien,0,0,5,1,9,5,4,8,17,0,0,5,0,25,7,8,3,12,2019
+2019-04-14,Stabæk,Rosenborg,3,1,NA,NA,4521,Trond Døvle,https://fbref.com/en/matches/f230ca08/Stabaek-Rosenborg-April-14-2019-Eliteserien,0,0,0,0,9,3,7,8,15,0,0,2,0,9,3,10,4,16,2019
+2019-04-14,Odd,Kristiansund,2,0,NA,NA,4608,Trygve Kjensli,https://fbref.com/en/matches/bcf0aab6/Odd-Kristiansund-April-14-2019-Eliteserien,0,0,2,0,10,3,9,7,7,0,0,2,0,9,2,16,4,17,2019
+2019-04-14,Bodø/Glimt,Molde,3,2,NA,NA,3240,Sigurd Kringstad,https://fbref.com/en/matches/4ee2e1ed/BodoGlimt-Molde-April-14-2019-Eliteserien,0,0,1,0,17,7,9,7,11,1,1,2,0,15,6,10,6,14,2019
+2019-04-14,Ranheim,Haugesund,0,2,NA,NA,1353,Tommy Skjerven,https://fbref.com/en/matches/1fc55b93/Ranheim-Haugesund-April-14-2019-Eliteserien,0,0,1,0,8,2,10,9,9,0,0,1,0,11,5,9,6,9,2019
+2019-04-14,Sarpsborg 08,Lillestrøm,1,0,NA,NA,5567,Espen Andreas Eskås,https://fbref.com/en/matches/065789ae/Sarpsborg-08-Lillestrom-April-14-2019-Eliteserien,0,0,3,0,21,5,13,9,13,0,0,2,0,10,5,9,9,18,2019
+2019-04-14,Vålerenga,Tromsø,4,1,NA,NA,5719,Svein Oddvar Moen,https://fbref.com/en/matches/458e2c03/Valerenga-Tromso-April-14-2019-Eliteserien,0,0,1,0,8,4,13,13,11,0,0,0,0,11,1,12,10,8,2019
+2019-04-22,Haugesund,Stabæk,3,0,NA,NA,4020,Rohit Saggi,https://fbref.com/en/matches/005010ac/Haugesund-Stabaek-April-22-2019-Eliteserien,0,0,1,0,25,7,13,8,10,0,0,4,1,4,1,6,12,15,2019
+2019-04-22,Rosenborg,Strømsgodset,0,0,NA,NA,11367,Ola Nilsen,https://fbref.com/en/matches/b6c190c2/Rosenborg-Stromsgodset-April-22-2019-Eliteserien,0,0,1,0,14,5,9,4,12,0,0,1,0,6,2,14,6,11,2019
+2019-04-22,Kristiansund,Ranheim,0,0,NA,NA,4037,Trond Døvle,https://fbref.com/en/matches/f26b635f/Kristiansund-Ranheim-April-22-2019-Eliteserien,0,0,2,0,12,3,7,5,15,0,0,3,0,9,1,10,5,21,2019
+2019-04-22,Lillestrøm,Molde,0,2,NA,NA,5248,Svein Oddvar Moen,https://fbref.com/en/matches/86ec8821/Lillestrom-Molde-April-22-2019-Eliteserien,0,0,0,0,17,1,8,7,9,0,0,0,0,14,4,7,15,13,2019
+2019-04-22,Mjøndalen,Tromsø,1,1,NA,NA,2058,Espen Andreas Eskås,https://fbref.com/en/matches/ea8d0241/Mjondalen-Tromso-April-22-2019-Eliteserien,1,1,1,0,21,6,6,6,16,0,0,1,0,14,6,7,7,13,2019
+2019-04-22,Bodø/Glimt,Sarpsborg 08,1,1,NA,NA,3663,Tommy Skjerven,https://fbref.com/en/matches/545b984a/BodoGlimt-Sarpsborg-08-April-22-2019-Eliteserien,0,0,2,0,15,5,8,3,8,0,0,1,0,12,5,11,5,16,2019
+2019-04-22,Brann,Vålerenga,1,1,NA,NA,10889,Tore Hansen,https://fbref.com/en/matches/c1815256/Brann-Valerenga-April-22-2019-Eliteserien,0,0,1,0,13,1,9,12,9,0,0,1,0,4,1,6,5,13,2019
+2019-04-23,Odd,Viking,1,0,NA,NA,4775,Tom Hagen,https://fbref.com/en/matches/aa596a90/Odd-Viking-April-23-2019-Eliteserien,0,0,0,0,8,4,6,15,13,0,0,1,0,10,2,7,20,11,2019
+2019-04-27,Sarpsborg 08,Mjøndalen,1,1,NA,NA,5451,Tom Hagen,https://fbref.com/en/matches/81fb08c8/Sarpsborg-08-Mjondalen-April-27-2019-Eliteserien,0,0,3,0,13,4,6,5,17,0,0,2,0,5,2,3,7,9,2019
+2019-04-28,Stabæk,Bodø/Glimt,2,0,NA,NA,3531,Kristoffer Hagenes,https://fbref.com/en/matches/caec59da/Stabaek-BodoGlimt-April-28-2019-Eliteserien,1,1,2,0,8,4,14,18,12,0,0,1,0,10,3,10,2,9,2019
+2019-04-28,Tromsø,Brann,1,2,NA,NA,3137,Tommy Skjerven,https://fbref.com/en/matches/ae8feea9/Tromso-Brann-April-28-2019-Eliteserien,0,0,1,0,4,2,9,14,10,1,1,0,0,12,3,13,8,12,2019
+2019-04-28,Strømsgodset,Kristiansund,2,3,NA,NA,4875,Espen Andreas Eskås,https://fbref.com/en/matches/bfba7f43/Stromsgodset-Kristiansund-April-28-2019-Eliteserien,0,0,0,0,9,3,6,5,11,1,1,0,0,8,6,5,3,13,2019
+2019-04-28,Lillestrøm,Haugesund,1,0,NA,NA,4828,Ola Nilsen,https://fbref.com/en/matches/26823e83/Lillestrom-Haugesund-April-28-2019-Eliteserien,0,0,0,0,9,4,7,16,15,0,0,0,0,22,6,6,8,14,2019
+2019-04-28,Ranheim,Viking,5,2,NA,NA,1950,Rohit Saggi,https://fbref.com/en/matches/c6718d0c/Ranheim-Viking-April-28-2019-Eliteserien,0,0,3,0,13,6,6,13,13,1,1,2,0,17,7,7,6,12,2019
+2019-04-28,Molde,Rosenborg,3,0,NA,NA,9010,Tore Hansen,https://fbref.com/en/matches/46a849d8/Molde-Rosenborg-April-28-2019-Eliteserien,0,0,3,0,10,5,11,10,21,0,0,1,0,5,2,14,12,6,2019
+2019-04-29,Vålerenga,Odd,1,0,NA,NA,6766,Sigurd Kringstad,https://fbref.com/en/matches/7f9760c1/Valerenga-Odd-April-29-2019-Eliteserien,0,0,2,0,9,2,5,6,16,0,0,1,0,5,2,11,9,15,2019
+2019-05-04,Mjøndalen,Stabæk,1,0,NA,NA,2236,Tore Hansen,https://fbref.com/en/matches/ff7fc657/Mjondalen-Stabaek-May-4-2019-Eliteserien,0,0,2,0,19,7,9,14,7,0,0,1,0,7,4,10,13,12,2019
+2019-05-05,Haugesund,Molde,1,2,NA,NA,3772,Dag Vidar Hafsås,https://fbref.com/en/matches/618c2054/Haugesund-Molde-May-5-2019-Eliteserien,0,0,2,0,16,6,12,8,9,1,1,3,0,8,5,15,9,21,2019
+2019-05-05,Bodø/Glimt,Lillestrøm,4,0,NA,NA,2789,Rohit Saggi,https://fbref.com/en/matches/941f90a6/BodoGlimt-Lillestrom-May-5-2019-Eliteserien,0,0,1,0,26,9,14,3,8,0,0,2,0,10,6,12,10,16,2019
+2019-05-05,Kristiansund,Tromsø,1,0,NA,NA,3852,Kristoffer Hagenes,https://fbref.com/en/matches/ec8a300d/Kristiansund-Tromso-May-5-2019-Eliteserien,0,0,1,0,15,3,15,9,16,0,0,2,1,8,0,7,10,13,2019
+2019-05-05,Brann,Ranheim,0,1,NA,NA,10026,Trygve Kjensli,https://fbref.com/en/matches/dc237f34/Brann-Ranheim-May-5-2019-Eliteserien,0,0,1,0,21,7,5,12,12,0,0,2,0,3,2,10,8,13,2019
+2019-05-05,Odd,Strømsgodset,2,1,NA,NA,5252,Trond Døvle,https://fbref.com/en/matches/f587f2a7/Odd-Stromsgodset-May-5-2019-Eliteserien,0,0,1,0,22,10,5,5,7,0,0,2,0,11,4,12,6,11,2019
+2019-05-05,Rosenborg,Sarpsborg 08,1,0,NA,NA,10040,Svein Oddvar Moen,https://fbref.com/en/matches/d669b892/Rosenborg-Sarpsborg-08-May-5-2019-Eliteserien,0,0,1,0,12,5,8,14,15,0,0,1,0,18,7,13,7,14,2019
+2019-05-06,Viking,Vålerenga,1,1,NA,NA,7659,Tommy Skjerven,https://fbref.com/en/matches/b51a28f9/Viking-Valerenga-May-6-2019-Eliteserien,0,0,1,0,23,9,2,11,13,0,0,3,1,10,3,1,1,17,2019
+2019-05-11,Lillestrøm,Rosenborg,1,1,NA,NA,8839,Rohit Saggi,https://fbref.com/en/matches/d6c35564/Lillestrom-Rosenborg-May-11-2019-Eliteserien,0,0,1,0,11,3,13,17,19,0,0,1,0,19,7,7,11,11,2019
+2019-05-12,Tromsø,Odd,1,2,NA,NA,2514,Dag Vidar Hafsås,https://fbref.com/en/matches/f901087e/Tromso-Odd-May-12-2019-Eliteserien,0,0,0,0,11,4,8,9,17,0,0,1,0,14,3,10,10,10,2019
+2019-05-12,Sarpsborg 08,Kristiansund,0,1,NA,NA,4903,Tore Hansen,https://fbref.com/en/matches/d698a0ad/Sarpsborg-08-Kristiansund-May-12-2019-Eliteserien,0,0,1,0,23,2,9,4,15,0,0,3,0,5,3,20,9,9,2019
+2019-05-12,Molde,Mjøndalen,1,0,NA,NA,6995,Trond Døvle,https://fbref.com/en/matches/f51d6e6c/Molde-Mjondalen-May-12-2019-Eliteserien,0,1,0,0,19,3,10,5,11,0,0,1,0,10,1,9,10,9,2019
+2019-05-12,Haugesund,Bodø/Glimt,1,1,NA,NA,3777,Trygve Kjensli,https://fbref.com/en/matches/2bee65f4/Haugesund-BodoGlimt-May-12-2019-Eliteserien,0,0,4,1,11,3,10,7,11,1,1,2,0,9,2,7,5,7,2019
+2019-05-12,Ranheim,Vålerenga,1,5,NA,NA,1950,Kristoffer Hagenes,https://fbref.com/en/matches/a6594a0d/Ranheim-Valerenga-May-12-2019-Eliteserien,1,1,3,0,6,3,13,7,9,0,0,1,0,11,8,7,4,9,2019
+2019-05-12,Stabæk,Brann,0,1,NA,NA,3942,Tom Hagen,https://fbref.com/en/matches/4ab5e154/Stabaek-Brann-May-12-2019-Eliteserien,0,0,1,0,3,1,16,13,15,0,0,3,0,21,8,11,8,8,2019
+2019-05-13,Strømsgodset,Viking,0,0,NA,NA,4576,Sigurd Kringstad,https://fbref.com/en/matches/64ac5530/Stromsgodset-Viking-May-13-2019-Eliteserien,0,0,2,0,12,1,7,13,13,0,0,1,0,8,2,5,15,9,2019
+2019-05-16,Brann,Sarpsborg 08,2,1,NA,NA,16484,Svein Oddvar Moen,https://fbref.com/en/matches/329e1321/Brann-Sarpsborg-08-May-16-2019-Eliteserien,0,0,0,0,23,9,9,9,7,0,0,2,0,11,5,6,5,13,2019
+2019-05-16,Kristiansund,Molde,3,2,NA,NA,4444,Tommy Skjerven,https://fbref.com/en/matches/437c709a/Kristiansund-Molde-May-16-2019-Eliteserien,0,0,2,0,10,6,12,9,14,0,0,2,0,13,3,13,8,16,2019
+2019-05-16,Odd,Ranheim,1,0,NA,NA,6289,Rohit Saggi,https://fbref.com/en/matches/c400e09b/Odd-Ranheim-May-16-2019-Eliteserien,0,0,2,0,19,6,7,5,13,0,0,2,0,8,2,13,10,11,2019
+2019-05-16,Viking,Stabæk,3,0,NA,NA,15029,Tore Hansen,https://fbref.com/en/matches/c071006b/Viking-Stabaek-May-16-2019-Eliteserien,1,1,6,0,16,6,18,17,12,0,0,4,1,15,3,15,9,17,2019
+2019-05-16,Tromsø,Bodø/Glimt,1,2,NA,NA,4368,Ola Nilsen,https://fbref.com/en/matches/ed7c20ca/Tromso-BodoGlimt-May-16-2019-Eliteserien,0,0,3,0,11,5,12,8,14,1,1,3,0,16,7,10,6,13,2019
+2019-05-16,Mjøndalen,Lillestrøm,2,2,NA,NA,2380,Kristoffer Hagenes,https://fbref.com/en/matches/ac28d6fd/Mjondalen-Lillestrom-May-16-2019-Eliteserien,0,0,3,0,12,5,7,3,9,0,0,0,0,7,4,9,6,12,2019
+2019-05-16,Rosenborg,Haugesund,0,2,NA,NA,4368,Trond Døvle,https://fbref.com/en/matches/e437553b/Rosenborg-Haugesund-May-16-2019-Eliteserien,0,0,2,0,24,3,9,3,18,0,0,1,0,9,4,13,5,17,2019
+2019-05-16,Vålerenga,Strømsgodset,2,0,NA,NA,10780,Tom Hagen,https://fbref.com/en/matches/9e8f1b62/Valerenga-Stromsgodset-May-16-2019-Eliteserien,0,0,0,0,20,10,7,5,11,0,0,2,0,3,1,6,7,7,2019
+2019-05-19,Strømsgodset,Tromsø,3,1,NA,NA,4628,Trygve Kjensli,https://fbref.com/en/matches/d7decbae/Stromsgodset-Tromso-May-19-2019-Eliteserien,0,0,3,0,20,9,13,7,24,0,0,0,0,13,2,4,4,11,2019
+2019-05-19,Sarpsborg 08,Ranheim,1,3,NA,NA,4767,Sigurd Kringstad,https://fbref.com/en/matches/56bc2d3c/Sarpsborg-08-Ranheim-May-19-2019-Eliteserien,0,0,4,0,14,7,3,9,15,0,0,2,0,16,7,9,10,12,2019
+2019-05-19,Lillestrøm,Odd,0,3,NA,NA,4439,Tommy Skjerven,https://fbref.com/en/matches/cd55c5e7/Lillestrom-Odd-May-19-2019-Eliteserien,0,0,1,0,10,1,9,14,13,1,1,0,0,10,5,6,7,11,2019
+2019-05-19,Haugesund,Kristiansund,0,0,NA,NA,4559,Rohit Saggi,https://fbref.com/en/matches/7a37bc6e/Haugesund-Kristiansund-May-19-2019-Eliteserien,0,0,1,0,17,2,7,7,11,0,0,1,0,14,3,11,9,14,2019
+2019-05-19,Rosenborg,Mjøndalen,3,2,NA,NA,13038,Tom Hagen,https://fbref.com/en/matches/bd6c5791/Rosenborg-Mjondalen-May-19-2019-Eliteserien,0,0,2,0,14,10,9,11,15,0,0,2,0,16,4,8,5,8,2019
+2019-05-19,Bodø/Glimt,Brann,1,2,NA,NA,3721,Dag Vidar Hafsås,https://fbref.com/en/matches/22cdb1be/BodoGlimt-Brann-May-19-2019-Eliteserien,0,0,0,0,12,4,10,8,8,0,0,1,0,8,3,6,12,18,2019
+2019-05-20,Molde,Viking,5,1,NA,NA,6108,Kristoffer Hagenes,https://fbref.com/en/matches/bf9e8535/Molde-Viking-May-20-2019-Eliteserien,1,1,0,0,29,9,9,10,9,0,0,0,0,11,4,6,13,6,2019
+2019-05-25,Vålerenga,Lillestrøm,0,3,NA,NA,14418,Svein Oddvar Moen,https://fbref.com/en/matches/dad079d6/Valerenga-Lillestrom-May-25-2019-Eliteserien,0,0,4,1,11,3,1,4,10,0,0,1,0,12,5,7,11,16,2019
+2019-05-26,Ranheim,Strømsgodset,1,0,NA,NA,1766,Ola Nilsen,https://fbref.com/en/matches/c2b8bcaa/Ranheim-Stromsgodset-May-26-2019-Eliteserien,0,0,1,0,6,3,4,12,9,0,0,1,0,10,1,20,6,11,2019
+2019-05-26,Mjøndalen,Haugesund,1,4,NA,NA,1963,Espen Andreas Eskås,https://fbref.com/en/matches/29f3d06a/Mjondalen-Haugesund-May-26-2019-Eliteserien,0,0,3,1,12,3,4,5,5,0,0,0,0,14,5,10,11,7,2019
+2019-05-26,Tromsø,Molde,2,1,NA,NA,2779,Trond Døvle,https://fbref.com/en/matches/02f37225/Tromso-Molde-May-26-2019-Eliteserien,0,0,3,1,8,5,6,15,7,0,1,2,0,21,7,13,9,18,2019
+2019-05-26,Brann,Rosenborg,0,1,NA,NA,14956,Tore Hansen,https://fbref.com/en/matches/fec2c94b/Brann-Rosenborg-May-26-2019-Eliteserien,0,0,0,0,8,2,12,11,10,0,0,1,0,8,1,9,3,15,2019
+2019-06-15,Haugesund,Brann,1,1,NA,NA,7001,Tom Hagen,https://fbref.com/en/matches/f6151073/Haugesund-Brann-June-15-2019-Eliteserien,0,0,2,0,10,3,11,11,11,1,2,1,0,18,6,5,7,12,2019
+2019-06-16,Lillestrøm,Viking,0,2,NA,NA,5676,Dag Vidar Hafsås,https://fbref.com/en/matches/54d36783/Lillestrom-Viking-June-16-2019-Eliteserien,0,0,1,1,15,3,8,8,6,0,0,2,0,26,9,6,10,9,2019
+2019-06-16,Bodø/Glimt,Strømsgodset,2,0,NA,NA,3061,Kristoffer Hagenes,https://fbref.com/en/matches/fc69a699/BodoGlimt-Stromsgodset-June-16-2019-Eliteserien,0,0,1,0,14,4,13,6,8,0,0,1,0,6,2,10,1,7,2019
+2019-06-16,Sarpsborg 08,Odd,2,0,NA,NA,5515,Ola Nilsen,https://fbref.com/en/matches/977b3b2e/Sarpsborg-08-Odd-June-16-2019-Eliteserien,0,0,0,0,11,5,13,5,14,0,0,1,0,15,5,6,3,9,2019
+2019-06-16,Molde,Ranheim,2,0,NA,NA,6615,Espen Andreas Eskås,https://fbref.com/en/matches/87c2b2ec/Molde-Ranheim-June-16-2019-Eliteserien,0,0,1,0,14,5,2,18,13,0,0,0,0,13,2,11,10,6,2019
+2019-06-16,Mjøndalen,Kristiansund,1,1,NA,NA,1978,Trygve Kjensli,https://fbref.com/en/matches/acdca03b/Mjondalen-Kristiansund-June-16-2019-Eliteserien,0,0,1,0,15,6,13,8,8,0,0,2,0,13,5,6,11,12,2019
+2019-06-16,Rosenborg,Vålerenga,3,0,NA,NA,13320,Rohit Saggi,https://fbref.com/en/matches/37e1e1b0/Rosenborg-Valerenga-June-16-2019-Eliteserien,0,0,1,0,19,5,10,6,16,0,0,2,0,11,3,4,4,10,2019
+2019-06-17,Stabæk,Tromsø,0,1,NA,NA,3682,Svein Oddvar Moen,https://fbref.com/en/matches/1813a94c/Stabaek-Tromso-June-17-2019-Eliteserien,0,1,1,0,11,4,11,13,15,1,1,1,0,9,4,14,9,8,2019
+2019-06-22,Strømsgodset,Molde,0,4,NA,NA,5313,Ola Nilsen,https://fbref.com/en/matches/5c431b64/Stromsgodset-Molde-June-22-2019-Eliteserien,0,0,2,0,6,0,10,7,15,0,0,2,0,9,4,8,9,11,2019
+2019-06-23,Vålerenga,Sarpsborg 08,1,1,NA,NA,8130,Kai Erik Steen,https://fbref.com/en/matches/b3d04a52/Valerenga-Sarpsborg-08-June-23-2019-Eliteserien,0,0,1,0,11,4,5,4,13,0,0,1,0,11,3,16,11,9,2019
+2019-06-23,Kristiansund,Stabæk,0,1,NA,NA,4118,Sigurd Kringstad,https://fbref.com/en/matches/29ed20c2/Kristiansund-Stabaek-June-23-2019-Eliteserien,0,1,3,0,22,6,13,10,13,1,1,1,0,10,2,9,11,10,2019
+2019-06-23,Viking,Bodø/Glimt,3,4,NA,NA,8203,Tore Hansen,https://fbref.com/en/matches/e7da3b42/Viking-BodoGlimt-June-23-2019-Eliteserien,0,0,0,0,14,5,14,14,12,0,0,3,0,14,8,18,10,16,2019
+2019-06-23,Odd,Haugesund,3,1,NA,NA,5589,Espen Andreas Eskås,https://fbref.com/en/matches/cd4fd382/Odd-Haugesund-June-23-2019-Eliteserien,0,0,1,0,13,4,10,6,11,0,0,2,0,8,3,7,4,17,2019
+2019-06-23,Tromsø,Rosenborg,1,0,NA,NA,4501,Tommy Skjerven,https://fbref.com/en/matches/eca5c528/Tromso-Rosenborg-June-23-2019-Eliteserien,0,0,2,0,13,5,10,5,9,0,0,2,0,16,3,11,5,10,2019
+2019-06-23,Ranheim,Mjøndalen,1,1,NA,NA,2044,Trond Døvle,https://fbref.com/en/matches/05d96295/Ranheim-Mjondalen-June-23-2019-Eliteserien,0,0,2,0,22,9,14,8,14,0,0,1,0,12,5,4,19,8,2019
+2019-06-23,Brann,Lillestrøm,1,0,NA,NA,9523,Rohit Saggi,https://fbref.com/en/matches/9302aba2/Brann-Lillestrom-June-23-2019-Eliteserien,0,0,0,0,15,4,8,9,10,0,0,1,0,10,3,9,16,15,2019
+2019-06-29,Rosenborg,Kristiansund,1,0,NA,NA,13522,Trond Døvle,https://fbref.com/en/matches/1843a26a/Rosenborg-Kristiansund-June-29-2019-Eliteserien,1,1,3,0,21,5,13,4,14,0,0,3,0,6,1,11,9,15,2019
+2019-06-30,Mjøndalen,Viking,1,1,NA,NA,2550,Kai Erik Steen,https://fbref.com/en/matches/c2c890a3/Mjondalen-Viking-June-30-2019-Eliteserien,0,0,1,0,15,4,12,8,11,0,0,2,0,14,3,8,13,12,2019
+2019-06-30,Haugesund,Vålerenga,1,4,NA,NA,3817,Kristoffer Hagenes,https://fbref.com/en/matches/db90395d/Haugesund-Valerenga-June-30-2019-Eliteserien,0,0,0,0,16,4,16,9,14,0,0,4,0,11,6,4,3,18,2019
+2019-06-30,Lillestrøm,Tromsø,4,0,NA,NA,5108,Espen Andreas Eskås,https://fbref.com/en/matches/8d94f1f3/Lillestrom-Tromso-June-30-2019-Eliteserien,0,0,3,0,16,6,11,8,21,0,0,1,0,6,2,7,6,7,2019
+2019-06-30,Stabæk,Ranheim,0,0,NA,NA,3256,Tom Hagen,https://fbref.com/en/matches/5f92b94e/Stabaek-Ranheim-June-30-2019-Eliteserien,0,0,3,0,7,2,9,19,15,0,0,1,0,12,2,12,5,12,2019
+2019-06-30,Bodø/Glimt,Odd,3,0,NA,NA,3442,Trygve Kjensli,https://fbref.com/en/matches/def62342/BodoGlimt-Odd-June-30-2019-Eliteserien,0,0,1,0,15,7,4,10,16,0,0,2,0,13,3,6,10,5,2019
+2019-06-30,Molde,Brann,1,1,NA,NA,6900,Svein Oddvar Moen,https://fbref.com/en/matches/78a0e133/Molde-Brann-June-30-2019-Eliteserien,1,2,1,0,17,6,12,15,7,0,0,0,0,9,2,2,11,11,2019
+2019-07-01,Sarpsborg 08,Strømsgodset,2,2,NA,NA,5443,Tore Hansen,https://fbref.com/en/matches/ab956ea5/Sarpsborg-08-Stromsgodset-July-1-2019-Eliteserien,0,0,1,0,22,8,8,7,14,0,0,4,0,3,1,10,15,22,2019
+2019-07-04,Ranheim,Rosenborg,2,3,NA,NA,2925,Svein Oddvar Moen,https://fbref.com/en/matches/42170e75/Ranheim-Rosenborg-July-4-2019-Eliteserien,0,0,1,0,8,5,4,17,5,0,0,0,0,18,6,11,5,10,2019
+2019-07-05,Brann,Mjøndalen,0,0,NA,NA,10,Tom Hagen,https://fbref.com/en/matches/d2586b9e/Brann-Mjondalen-July-5-2019-Eliteserien,0,0,0,0,15,4,13,6,13,0,0,3,0,3,0,7,4,8,2019
+2019-07-05,Tromsø,Sarpsborg 08,2,0,NA,NA,2982,Kristoffer Hagenes,https://fbref.com/en/matches/8436c7dc/Tromso-Sarpsborg-08-July-5-2019-Eliteserien,0,0,2,0,12,4,9,1,19,0,0,3,0,14,7,11,5,24,2019
+2019-07-05,Strømsgodset,Stabæk,0,2,NA,NA,5078,Tommy Skjerven,https://fbref.com/en/matches/29fcd7c2/Stromsgodset-Stabaek-July-5-2019-Eliteserien,0,1,0,0,14,4,9,10,19,0,0,3,0,7,2,2,17,10,2019
+2019-07-05,Kristiansund,Lillestrøm,5,2,NA,NA,4316,Kai Erik Steen,https://fbref.com/en/matches/6d51c475/Kristiansund-Lillestrom-July-5-2019-Eliteserien,0,0,4,0,13,6,5,8,10,0,0,3,0,13,5,13,11,18,2019
+2019-07-05,Odd,Molde,2,2,NA,NA,6129,Ola Nilsen,https://fbref.com/en/matches/d07b9e5d/Odd-Molde-July-5-2019-Eliteserien,0,0,0,0,14,2,6,7,13,0,0,1,0,8,3,8,5,9,2019
+2019-07-05,Vålerenga,Bodø/Glimt,6,0,NA,NA,8836,Sigurd Kringstad,https://fbref.com/en/matches/c67947f6/Valerenga-BodoGlimt-July-5-2019-Eliteserien,1,1,0,0,14,8,5,12,14,0,0,0,0,17,3,9,3,12,2019
+2019-07-05,Viking,Haugesund,0,0,NA,NA,8169,Espen Andreas Eskås,https://fbref.com/en/matches/1939b8c9/Viking-Haugesund-July-5-2019-Eliteserien,0,0,2,0,18,2,7,7,11,0,0,4,0,13,3,8,15,15,2019
+2019-07-10,Odd,Stabæk,2,1,NA,NA,5157,Dag Vidar Hafsås,https://fbref.com/en/matches/f4f5564a/Odd-Stabaek-July-10-2019-Eliteserien,1,1,1,0,16,7,5,5,10,0,0,1,0,5,3,9,12,20,2019
+2019-07-13,Rosenborg,Viking,5,1,NA,NA,12659,Ola Nilsen,https://fbref.com/en/matches/774e1724/Rosenborg-Viking-July-13-2019-Eliteserien,0,0,1,0,25,8,12,6,10,0,0,1,0,10,3,12,6,12,2019
+2019-07-13,Bodø/Glimt,Ranheim,5,1,NA,NA,3322,Tommy Skjerven,https://fbref.com/en/matches/8bfc8060/BodoGlimt-Ranheim-July-13-2019-Eliteserien,0,0,1,0,9,6,8,4,11,0,0,0,0,14,5,11,11,5,2019
+2019-07-14,Haugesund,Tromsø,5,1,NA,NA,3421,Trygve Kjensli,https://fbref.com/en/matches/a901d609/Haugesund-Tromso-July-14-2019-Eliteserien,0,0,0,0,22,8,17,14,8,0,0,3,0,5,1,7,8,10,2019
+2019-07-14,Mjøndalen,Odd,2,0,NA,NA,2358,Trond Døvle,https://fbref.com/en/matches/4a042711/Mjondalen-Odd-July-14-2019-Eliteserien,1,1,3,0,9,5,4,10,14,0,0,2,0,13,1,2,8,12,2019
+2019-07-14,Lillestrøm,Strømsgodset,2,1,NA,NA,4337,Svein Oddvar Moen,https://fbref.com/en/matches/03638d25/Lillestrom-Stromsgodset-July-14-2019-Eliteserien,0,0,1,0,14,4,12,5,11,0,0,1,0,12,3,11,8,5,2019
+2019-07-15,Stabæk,Sarpsborg 08,3,3,NA,NA,3321,Kristoffer Hagenes,https://fbref.com/en/matches/7e81fc9c/Stabaek-Sarpsborg-08-July-15-2019-Eliteserien,0,1,1,0,17,6,6,11,10,0,0,2,0,8,5,10,18,19,2019
+2019-07-21,Brann,Stabæk,2,1,NA,NA,9049,Tore Hansen,https://fbref.com/en/matches/0a71e8d0/Brann-Stabaek-July-21-2019-Eliteserien,0,0,0,0,20,7,13,10,10,0,0,0,0,7,4,8,17,8,2019
+2019-07-21,Molde,Sarpsborg 08,2,1,NA,NA,7027,Tom Hagen,https://fbref.com/en/matches/59b34f1b/Molde-Sarpsborg-08-July-21-2019-Eliteserien,0,0,2,0,18,7,10,10,13,0,0,1,0,19,5,12,10,10,2019
+2019-08-03,Odd,Lillestrøm,2,1,NA,NA,4720,Kristoffer Hagenes,https://fbref.com/en/matches/82e0f87c/Odd-Lillestrom-August-3-2019-Eliteserien,0,0,1,0,17,4,6,10,9,0,0,0,0,6,1,8,12,11,2019
+2019-08-03,Sarpsborg 08,Rosenborg,1,1,NA,NA,7042,Rohit Saggi,https://fbref.com/en/matches/bb93bfef/Sarpsborg-08-Rosenborg-August-3-2019-Eliteserien,0,0,2,0,13,4,9,7,18,0,0,2,0,8,2,3,4,12,2019
+2019-08-04,Viking,Molde,0,2,NA,NA,7069,Tom Hagen,https://fbref.com/en/matches/b67f0f2c/Viking-Molde-August-4-2019-Eliteserien,0,0,2,0,8,3,6,10,9,0,0,2,0,15,5,6,9,5,2019
+2019-08-04,Ranheim,Brann,0,3,NA,NA,2145,Sigurd Kringstad,https://fbref.com/en/matches/8d2c6877/Ranheim-Brann-August-4-2019-Eliteserien,0,0,2,0,4,0,1,8,13,1,1,0,0,8,3,6,16,9,2019
+2019-08-04,Tromsø,Mjøndalen,2,2,NA,NA,3101,Dag Vidar Hafsås,https://fbref.com/en/matches/ce12f096/Tromso-Mjondalen-August-4-2019-Eliteserien,0,0,0,0,12,2,6,9,15,0,0,0,0,11,3,9,9,15,2019
+2019-08-04,Stabæk,Haugesund,1,1,NA,NA,3153,Trond Døvle,https://fbref.com/en/matches/671ad1a7/Stabaek-Haugesund-August-4-2019-Eliteserien,0,0,0,0,9,1,13,14,12,0,0,3,0,9,6,17,12,15,2019
+2019-08-04,Vålerenga,Kristiansund,1,1,NA,NA,6248,Tore Hansen,https://fbref.com/en/matches/c8087280/Valerenga-Kristiansund-August-4-2019-Eliteserien,0,0,2,0,16,3,7,7,16,0,0,2,0,12,2,10,11,15,2019
+2019-08-05,Strømsgodset,Bodø/Glimt,1,3,NA,NA,4943,Espen Andreas Eskås,https://fbref.com/en/matches/c48d533b/Stromsgodset-BodoGlimt-August-5-2019-Eliteserien,0,0,0,0,21,9,6,15,11,0,0,4,0,12,5,12,8,8,2019
+2019-08-10,Rosenborg,Tromsø,5,2,NA,NA,12869,Tore Hansen,https://fbref.com/en/matches/d0d953cc/Rosenborg-Tromso-August-10-2019-Eliteserien,0,0,0,0,15,9,9,12,19,0,1,3,0,17,4,7,3,8,2019
+2019-08-11,Haugesund,Ranheim,0,1,NA,NA,3305,Rohit Saggi,https://fbref.com/en/matches/f6760495/Haugesund-Ranheim-August-11-2019-Eliteserien,0,0,2,0,10,1,10,16,13,0,0,1,0,10,5,8,10,15,2019
+2019-08-11,Kristiansund,Odd,1,1,NA,NA,4016,Espen Andreas Eskås,https://fbref.com/en/matches/14bcba7a/Kristiansund-Odd-August-11-2019-Eliteserien,0,0,2,0,14,2,13,16,14,0,0,3,0,8,2,14,13,14,2019
+2019-08-11,Bodø/Glimt,Viking,2,1,NA,NA,3567,Trond Døvle,https://fbref.com/en/matches/ecfe6639/BodoGlimt-Viking-August-11-2019-Eliteserien,0,0,1,0,15,8,6,9,14,0,0,3,0,11,4,8,7,16,2019
+2019-08-11,Strømsgodset,Vålerenga,3,2,NA,NA,5318,Tommy Skjerven,https://fbref.com/en/matches/616b3864/Stromsgodset-Valerenga-August-11-2019-Eliteserien,0,0,1,0,17,6,11,6,13,0,0,0,0,9,4,9,7,9,2019
+2019-08-12,Lillestrøm,Mjøndalen,3,2,NA,NA,5544,Trygve Kjensli,https://fbref.com/en/matches/ea711afc/Lillestrom-Mjondalen-August-12-2019-Eliteserien,1,1,0,0,13,6,16,8,15,0,0,3,0,10,3,10,6,15,2019
+2019-08-14,Stabæk,Vålerenga,1,1,NA,NA,4621,Kai Erik Steen,https://fbref.com/en/matches/21b5e7c2/Stabaek-Valerenga-August-14-2019-Eliteserien,0,0,3,0,5,3,5,8,19,0,0,5,0,12,4,8,7,15,2019
+2019-08-14,Viking,Sarpsborg 08,2,1,NA,NA,7020,Sigurd Kringstad,https://fbref.com/en/matches/8e932412/Viking-Sarpsborg-08-August-14-2019-Eliteserien,1,1,2,0,11,5,10,6,18,0,0,3,1,9,3,8,7,16,2019
+2019-08-14,Kristiansund,Bodø/Glimt,1,2,NA,NA,4123,Tom Hagen,https://fbref.com/en/matches/4056da77/Kristiansund-BodoGlimt-August-14-2019-Eliteserien,0,0,1,0,20,4,10,7,12,0,0,4,1,7,2,7,11,15,2019
+2019-08-17,Odd,Rosenborg,1,1,NA,NA,7218,Tommy Skjerven,https://fbref.com/en/matches/1bf66a72/Odd-Rosenborg-August-17-2019-Eliteserien,0,0,2,0,12,5,14,10,14,0,0,3,0,12,3,13,5,10,2019
+2019-08-18,Stabæk,Kristiansund,2,0,NA,NA,3831,Svein Oddvar Moen,https://fbref.com/en/matches/3a56a223/Stabaek-Kristiansund-August-18-2019-Eliteserien,0,0,2,0,14,6,11,6,12,0,0,1,0,12,2,17,12,8,2019
+2019-08-18,Tromsø,Lillestrøm,1,1,NA,NA,3409,Rohit Saggi,https://fbref.com/en/matches/78c4cf26/Tromso-Lillestrom-August-18-2019-Eliteserien,0,0,2,0,15,2,8,5,13,1,1,3,0,8,3,16,12,13,2019
+2019-08-18,Mjøndalen,Brann,2,1,NA,NA,2614,Trond Døvle,https://fbref.com/en/matches/4c40bcc3/Mjondalen-Brann-August-18-2019-Eliteserien,0,0,3,0,10,6,5,3,5,0,0,2,0,11,2,11,1,16,2019
+2019-08-18,Ranheim,Molde,2,3,NA,NA,2655,Ola Nilsen,https://fbref.com/en/matches/c6379416/Ranheim-Molde-August-18-2019-Eliteserien,0,0,1,0,22,10,6,13,18,0,0,2,0,10,8,10,10,14,2019
+2019-08-18,Vålerenga,Haugesund,1,2,NA,NA,7304,Dag Vidar Hafsås,https://fbref.com/en/matches/710ad10e/Valerenga-Haugesund-August-18-2019-Eliteserien,0,0,3,0,9,3,9,13,18,0,0,2,0,10,5,12,10,14,2019
+2019-08-18,Viking,Strømsgodset,4,0,NA,NA,6822,Kristoffer Hagenes,https://fbref.com/en/matches/88c7d444/Viking-Stromsgodset-August-18-2019-Eliteserien,1,1,1,0,15,7,7,16,6,0,0,2,0,15,3,8,9,12,2019
+2019-08-19,Sarpsborg 08,Bodø/Glimt,1,1,NA,NA,5311,Espen Andreas Eskås,https://fbref.com/en/matches/22f9b53c/Sarpsborg-08-BodoGlimt-August-19-2019-Eliteserien,0,0,3,0,15,5,7,6,13,0,0,2,0,12,4,11,3,12,2019
+2019-08-24,Rosenborg,Stabæk,3,2,NA,NA,12298,Tom Hagen,https://fbref.com/en/matches/6810f756/Rosenborg-Stabaek-August-24-2019-Eliteserien,1,1,1,0,27,14,8,2,9,0,0,2,0,6,4,13,14,6,2019
+2019-08-25,Kristiansund,Mjøndalen,4,0,NA,NA,3820,Sigurd Kringstad,https://fbref.com/en/matches/0d1b10a0/Kristiansund-Mjondalen-August-25-2019-Eliteserien,0,0,0,0,16,7,8,9,18,0,0,0,0,10,2,7,4,6,2019
+2019-08-25,Haugesund,Lillestrøm,0,2,NA,NA,4045,Ola Nilsen,https://fbref.com/en/matches/1e86bb24/Haugesund-Lillestrom-August-25-2019-Eliteserien,0,0,1,0,12,4,11,6,11,0,0,3,0,14,6,7,10,7,2019
+2019-08-25,Viking,Ranheim,2,2,NA,NA,8135,Tore Hansen,https://fbref.com/en/matches/bd5dd4dc/Viking-Ranheim-August-25-2019-Eliteserien,0,0,1,0,13,4,12,7,12,0,0,2,0,19,6,2,7,10,2019
+2019-08-25,Brann,Tromsø,2,3,NA,NA,10314,Tommy Skjerven,https://fbref.com/en/matches/edb0d03f/Brann-Tromso-August-25-2019-Eliteserien,0,0,2,0,16,6,15,11,13,0,0,2,0,9,3,5,7,6,2019
+2019-08-25,Molde,Odd,2,2,NA,NA,6843,Kai Erik Steen,https://fbref.com/en/matches/67fa37c6/Molde-Odd-August-25-2019-Eliteserien,0,0,2,0,17,7,9,10,9,0,0,0,0,12,5,5,14,7,2019
+2019-08-25,Strømsgodset,Sarpsborg 08,2,1,NA,NA,4855,Dag Vidar Hafsås,https://fbref.com/en/matches/44edb26a/Stromsgodset-Sarpsborg-08-August-25-2019-Eliteserien,0,0,1,0,17,7,19,8,13,0,0,1,0,9,4,17,8,10,2019
+2019-08-26,Bodø/Glimt,Vålerenga,4,0,NA,NA,3860,Kristoffer Hagenes,https://fbref.com/en/matches/909dce04/BodoGlimt-Valerenga-August-26-2019-Eliteserien,0,0,0,0,20,9,16,9,9,0,0,1,0,6,3,13,10,13,2019
+2019-08-30,Odd,Bodø/Glimt,3,1,NA,NA,6118,Ola Nilsen,https://fbref.com/en/matches/ba7303a7/Odd-BodoGlimt-August-30-2019-Eliteserien,0,0,1,0,14,7,15,11,11,0,0,2,0,9,3,13,4,13,2019
+2019-08-31,Stabæk,Strømsgodset,2,1,NA,NA,3674,Kristoffer Hagenes,https://fbref.com/en/matches/ccebd968/Stabaek-Stromsgodset-August-31-2019-Eliteserien,0,0,1,0,15,4,10,6,9,0,0,1,0,13,3,13,7,13,2019
+2019-09-01,Mjøndalen,Molde,1,3,NA,NA,2314,Espen Andreas Eskås,https://fbref.com/en/matches/f8b86188/Mjondalen-Molde-September-1-2019-Eliteserien,0,0,2,0,14,3,3,14,7,0,0,1,0,11,4,9,11,11,2019
+2019-09-01,Sarpsborg 08,Viking,2,2,NA,NA,5366,Kai Erik Steen,https://fbref.com/en/matches/d31ac53d/Sarpsborg-08-Viking-September-1-2019-Eliteserien,0,0,4,1,14,6,8,2,10,0,0,2,0,9,5,7,1,12,2019
+2019-09-01,Ranheim,Kristiansund,1,2,NA,NA,1869,Trygve Kjensli,https://fbref.com/en/matches/f3821ea3/Ranheim-Kristiansund-September-1-2019-Eliteserien,1,1,1,0,11,4,13,14,11,0,0,1,0,12,3,9,12,9,2019
+2019-09-01,Lillestrøm,Brann,1,3,NA,NA,6771,Svein Oddvar Moen,https://fbref.com/en/matches/08d2a2a3/Lillestrom-Brann-September-1-2019-Eliteserien,0,0,4,0,11,3,7,11,7,0,0,2,0,13,5,7,8,7,2019
+2019-09-01,Tromsø,Haugesund,2,2,NA,NA,3245,Trond Døvle,https://fbref.com/en/matches/a02a67a1/Tromso-Haugesund-September-1-2019-Eliteserien,0,0,3,0,11,4,6,13,13,0,0,0,0,24,10,16,12,13,2019
+2019-09-01,Vålerenga,Rosenborg,1,1,NA,NA,11101,Rohit Saggi,https://fbref.com/en/matches/65897e1a/Valerenga-Rosenborg-September-1-2019-Eliteserien,0,0,1,0,17,2,8,12,11,0,0,3,1,9,2,7,6,15,2019
+2019-09-14,Rosenborg,Lillestrøm,3,1,NA,NA,12183,Espen Andreas Eskås,https://fbref.com/en/matches/29397e03/Rosenborg-Lillestrom-September-14-2019-Eliteserien,0,0,1,0,15,8,11,10,9,0,0,3,0,10,2,11,13,16,2019
+2019-09-15,Molde,Tromsø,3,0,NA,NA,5952,Sigurd Kringstad,https://fbref.com/en/matches/afb6b64b/Molde-Tromso-September-15-2019-Eliteserien,0,0,1,0,8,4,12,9,18,0,0,1,0,15,2,11,4,7,2019
+2019-09-15,Bodø/Glimt,Stabæk,3,3,NA,NA,3569,Svein Oddvar Moen,https://fbref.com/en/matches/05cc8d1c/BodoGlimt-Stabaek-September-15-2019-Eliteserien,1,1,1,0,21,6,15,10,9,1,1,2,0,9,5,13,17,8,2019
+2019-09-15,Viking,Odd,2,0,NA,NA,7519,Tommy Skjerven,https://fbref.com/en/matches/50135a36/Viking-Odd-September-15-2019-Eliteserien,0,0,2,0,11,3,11,11,21,0,0,5,0,8,3,8,6,9,2019
+2019-09-15,Strømsgodset,Ranheim,1,0,NA,NA,4913,Ola Nilsen,https://fbref.com/en/matches/d0fd983c/Stromsgodset-Ranheim-September-15-2019-Eliteserien,0,0,2,0,15,10,5,12,18,0,0,2,0,8,4,13,9,9,2019
+2019-09-15,Haugesund,Mjøndalen,0,0,NA,NA,3512,Tore Hansen,https://fbref.com/en/matches/d6c400a1/Haugesund-Mjondalen-September-15-2019-Eliteserien,0,0,1,0,19,6,9,9,7,0,0,0,0,18,3,6,5,7,2019
+2019-09-15,Kristiansund,Brann,1,0,NA,NA,4007,Dag Vidar Hafsås,https://fbref.com/en/matches/6e1a3c22/Kristiansund-Brann-September-15-2019-Eliteserien,0,0,1,0,16,7,3,17,10,0,0,1,0,8,2,8,6,13,2019
+2019-09-16,Sarpsborg 08,Vålerenga,1,0,NA,NA,5454,Tom Hagen,https://fbref.com/en/matches/29c2f55e/Sarpsborg-08-Valerenga-September-16-2019-Eliteserien,0,0,2,0,8,4,6,14,15,0,0,1,0,10,4,5,11,19,2019
+2019-09-21,Brann,Haugesund,0,0,NA,NA,10129,Rohit Saggi,https://fbref.com/en/matches/1f225afe/Brann-Haugesund-September-21-2019-Eliteserien,0,0,2,0,11,2,7,7,11,0,0,1,0,9,1,12,9,10,2019
+2019-09-22,Odd,Sarpsborg 08,3,0,NA,NA,5496,Trygve Kjensli,https://fbref.com/en/matches/ba6846ac/Odd-Sarpsborg-08-September-22-2019-Eliteserien,0,0,0,0,21,6,6,4,14,0,0,3,0,12,4,10,7,20,2019
+2019-09-22,Vålerenga,Viking,0,4,NA,NA,7056,Kristoffer Hagenes,https://fbref.com/en/matches/b13d664e/Valerenga-Viking-September-22-2019-Eliteserien,0,1,3,0,16,7,7,12,16,0,0,2,0,10,5,8,17,14,2019
+2019-09-22,Tromsø,Strømsgodset,0,1,NA,NA,2943,Kai Erik Steen,https://fbref.com/en/matches/dec56382/Tromso-Stromsgodset-September-22-2019-Eliteserien,0,0,2,0,8,2,3,6,10,0,0,2,0,14,3,15,10,9,2019
+2019-09-22,Ranheim,Bodø/Glimt,1,1,NA,NA,1833,Tom Hagen,https://fbref.com/en/matches/1f4816d7/Ranheim-BodoGlimt-September-22-2019-Eliteserien,1,1,0,0,7,3,9,4,11,0,0,0,0,16,4,6,2,12,2019
+2019-09-22,Lillestrøm,Kristiansund,1,1,NA,NA,5177,Tore Hansen,https://fbref.com/en/matches/4213bbf5/Lillestrom-Kristiansund-September-22-2019-Eliteserien,0,0,2,0,8,3,5,11,7,0,1,1,0,14,5,16,18,8,2019
+2019-09-22,Mjøndalen,Rosenborg,1,2,NA,NA,2462,Ola Nilsen,https://fbref.com/en/matches/06f6263a/Mjondalen-Rosenborg-September-22-2019-Eliteserien,0,0,0,0,8,1,9,10,10,1,1,1,0,18,7,5,3,16,2019
+2019-09-23,Stabæk,Molde,1,2,NA,NA,3915,Trond Døvle,https://fbref.com/en/matches/ffac47c1/Stabaek-Molde-September-23-2019-Eliteserien,0,0,5,0,20,5,9,6,6,0,0,6,1,11,5,12,11,18,2019
+2019-09-28,Rosenborg,Brann,0,0,NA,NA,12578,Svein Oddvar Moen,https://fbref.com/en/matches/125d716a/Rosenborg-Brann-September-28-2019-Eliteserien,0,0,1,0,17,3,7,7,11,0,0,2,0,10,3,15,9,13,2019
+2019-09-29,Molde,Lillestrøm,2,1,NA,NA,6626,Rohit Saggi,https://fbref.com/en/matches/adb212cd/Molde-Lillestrom-September-29-2019-Eliteserien,0,0,1,0,19,6,5,9,8,1,1,1,0,9,3,11,11,12,2019
+2019-09-29,Sarpsborg 08,Stabæk,0,0,NA,NA,4971,Tommy Skjerven,https://fbref.com/en/matches/0b404967/Sarpsborg-08-Stabaek-September-29-2019-Eliteserien,0,0,1,0,13,6,6,7,10,0,0,2,0,5,1,9,14,12,2019
+2019-09-29,Vålerenga,Ranheim,1,1,NA,NA,5037,Tore Hansen,https://fbref.com/en/matches/0b90f691/Valerenga-Ranheim-September-29-2019-Eliteserien,0,0,0,0,15,8,11,11,7,0,0,0,0,5,1,14,10,11,2019
+2019-09-29,Kristiansund,Haugesund,2,2,NA,NA,3952,Sigurd Kringstad,https://fbref.com/en/matches/885ba97d/Kristiansund-Haugesund-September-29-2019-Eliteserien,0,0,2,0,15,5,10,7,11,0,0,2,0,9,3,11,2,9,2019
+2019-09-29,Strømsgodset,Odd,2,3,NA,NA,5001,Tom Hagen,https://fbref.com/en/matches/46d352ac/Stromsgodset-Odd-September-29-2019-Eliteserien,0,0,3,0,11,3,5,6,19,0,0,1,0,8,4,7,4,6,2019
+2019-09-29,Bodø/Glimt,Tromsø,4,0,NA,NA,4248,Espen Andreas Eskås,https://fbref.com/en/matches/33995548/BodoGlimt-Tromso-September-29-2019-Eliteserien,0,0,0,0,21,11,18,3,11,0,0,2,0,10,2,7,8,10,2019
+2019-09-30,Viking,Mjøndalen,4,1,NA,NA,6500,Dag Vidar Hafsås,https://fbref.com/en/matches/a9685262/Viking-Mjondalen-September-30-2019-Eliteserien,0,0,0,0,17,7,7,7,6,0,0,1,0,12,2,5,8,8,2019
+2019-10-04,Mjøndalen,Strømsgodset,1,1,NA,NA,3350,Svein Oddvar Moen,https://fbref.com/en/matches/7c9af1fb/Mjondalen-Stromsgodset-October-4-2019-Eliteserien,0,0,1,0,15,4,9,4,6,0,0,2,0,15,6,10,3,11,2019
+2019-10-05,Odd,Vålerenga,1,1,NA,NA,5362,Kristoffer Hagenes,https://fbref.com/en/matches/e80a47f7/Odd-Valerenga-October-5-2019-Eliteserien,0,0,1,0,7,4,5,4,13,0,0,2,0,12,4,10,5,11,2019
+2019-10-06,Stabæk,Viking,0,0,NA,NA,3127,Sigurd Kringstad,https://fbref.com/en/matches/f03de987/Stabaek-Viking-October-6-2019-Eliteserien,0,0,2,0,12,2,6,8,15,0,0,1,0,10,1,7,13,9,2019
+2019-10-06,Haugesund,Rosenborg,2,1,NA,NA,5322,Trond Døvle,https://fbref.com/en/matches/91c786f5/Haugesund-Rosenborg-October-6-2019-Eliteserien,0,0,2,0,14,4,17,11,9,0,0,1,0,13,2,11,7,18,2019
+2019-10-06,Lillestrøm,Bodø/Glimt,0,0,NA,NA,5305,Trygve Kjensli,https://fbref.com/en/matches/9e2fdb52/Lillestrom-BodoGlimt-October-6-2019-Eliteserien,0,0,1,0,7,2,15,15,12,0,0,0,0,11,1,4,6,11,2019
+2019-10-06,Tromsø,Kristiansund,5,0,NA,NA,2717,Ola Nilsen,https://fbref.com/en/matches/2a77bc89/Tromso-Kristiansund-October-6-2019-Eliteserien,0,0,2,0,13,6,2,5,13,0,0,2,1,11,3,21,14,13,2019
+2019-10-06,Ranheim,Sarpsborg 08,0,2,NA,NA,1501,Kai Erik Steen,https://fbref.com/en/matches/c105ea9d/Ranheim-Sarpsborg-08-October-6-2019-Eliteserien,0,0,0,0,11,0,9,8,11,0,0,0,0,12,3,4,7,15,2019
+2019-10-06,Brann,Molde,0,0,NA,NA,9821,Espen Andreas Eskås,https://fbref.com/en/matches/6d7c6c32/Brann-Molde-October-6-2019-Eliteserien,0,0,0,0,13,5,8,3,15,0,0,0,0,12,2,6,6,5,2019
+2019-10-19,Kristiansund,Rosenborg,2,2,NA,NA,4444,Svein Oddvar Moen,https://fbref.com/en/matches/fc4f8288/Kristiansund-Rosenborg-October-19-2019-Eliteserien,0,0,0,0,12,6,19,14,9,0,0,1,0,12,4,11,9,15,2019
+2019-10-19,Vålerenga,Stabæk,0,2,NA,NA,5511,Tom Hagen,https://fbref.com/en/matches/7bb32486/Valerenga-Stabaek-October-19-2019-Eliteserien,0,0,2,1,20,4,11,8,12,0,0,0,0,10,5,11,15,12,2019
+2019-10-20,Molde,Haugesund,3,1,NA,NA,6304,Ola Nilsen,https://fbref.com/en/matches/0698db45/Molde-Haugesund-October-20-2019-Eliteserien,0,0,1,0,13,7,11,7,8,0,0,0,0,4,3,14,9,9,2019
+2019-10-20,Strømsgodset,Lillestrøm,1,1,NA,NA,5604,Tore Hansen,https://fbref.com/en/matches/2367594a/Stromsgodset-Lillestrom-October-20-2019-Eliteserien,0,0,0,0,15,8,10,15,3,0,0,1,0,13,2,4,14,6,2019
+2019-10-20,Viking,Tromsø,2,1,NA,NA,8212,Rohit Saggi,https://fbref.com/en/matches/655d1b78/Viking-Tromso-October-20-2019-Eliteserien,0,0,3,0,19,8,8,14,18,0,0,3,0,11,5,5,8,10,2019
+2019-10-20,Ranheim,Odd,4,1,NA,NA,1453,Espen Andreas Eskås,https://fbref.com/en/matches/0c21a3b9/Ranheim-Odd-October-20-2019-Eliteserien,0,0,1,0,11,6,8,2,19,0,0,3,0,11,3,7,6,9,2019
+2019-10-20,Sarpsborg 08,Brann,1,1,NA,NA,4947,Dag Vidar Hafsås,https://fbref.com/en/matches/2b5ce0ae/Sarpsborg-08-Brann-October-20-2019-Eliteserien,0,0,1,0,15,4,4,7,15,0,0,1,0,6,1,5,7,7,2019
+2019-10-21,Bodø/Glimt,Mjøndalen,0,0,NA,NA,2782,Tommy Skjerven,https://fbref.com/en/matches/12ca04ca/BodoGlimt-Mjondalen-October-21-2019-Eliteserien,0,0,0,0,31,6,10,3,12,0,0,2,0,7,1,8,11,15,2019
+2019-10-26,Lillestrøm,Vålerenga,0,0,NA,NA,9884,Tommy Skjerven,https://fbref.com/en/matches/d2396e20/Lillestrom-Valerenga-October-26-2019-Eliteserien,0,0,0,0,7,0,9,6,13,0,0,1,0,8,1,5,8,17,2019
+2019-10-27,Mjøndalen,Sarpsborg 08,0,0,NA,NA,2273,Trond Døvle,https://fbref.com/en/matches/daea31a4/Mjondalen-Sarpsborg-08-October-27-2019-Eliteserien,0,0,0,0,6,2,9,11,11,0,0,1,0,9,2,9,9,16,2019
+2019-10-27,Tromsø,Ranheim,4,2,NA,NA,3002,Kristoffer Hagenes,https://fbref.com/en/matches/8cde8956/Tromso-Ranheim-October-27-2019-Eliteserien,0,0,1,0,16,7,9,13,15,0,0,3,0,15,5,13,10,19,2019
+2019-10-27,Stabæk,Odd,0,0,NA,NA,3082,Trond Døvle,https://fbref.com/en/matches/246cc96e/Stabaek-Odd-October-27-2019-Eliteserien,0,0,1,0,12,4,13,12,13,0,0,2,0,10,1,7,10,10,2019
+2019-10-27,Haugesund,Strømsgodset,2,2,NA,NA,3465,Trygve Kjensli,https://fbref.com/en/matches/c122832a/Haugesund-Stromsgodset-October-27-2019-Eliteserien,1,1,3,0,14,4,4,13,8,0,0,2,0,19,5,9,13,12,2019
+2019-10-27,Kristiansund,Viking,4,2,NA,NA,4301,Tore Hansen,https://fbref.com/en/matches/c6cab8e4/Kristiansund-Viking-October-27-2019-Eliteserien,0,0,1,0,19,6,6,6,7,0,0,0,0,14,7,8,19,10,2019
+2019-10-27,Rosenborg,Molde,3,1,NA,NA,14093,Tom Hagen,https://fbref.com/en/matches/8fdbc69f/Rosenborg-Molde-October-27-2019-Eliteserien,0,0,3,1,13,8,16,9,13,0,0,2,0,21,4,8,12,11,2019
+2019-10-28,Brann,Bodø/Glimt,1,1,NA,NA,8875,Rohit Saggi,https://fbref.com/en/matches/e4d0a4fd/Brann-BodoGlimt-October-28-2019-Eliteserien,0,0,1,0,12,5,14,8,12,0,0,1,0,17,5,3,11,12,2019
+2019-11-01,Strømsgodset,Rosenborg,3,3,NA,NA,5457,Svein Oddvar Moen,https://fbref.com/en/matches/47cea3fc/Stromsgodset-Rosenborg-November-1-2019-Eliteserien,1,1,0,0,20,11,9,8,11,1,1,0,0,17,3,5,8,11,2019
+2019-11-02,Molde,Kristiansund,2,0,NA,NA,8776,Kai Erik Steen,https://fbref.com/en/matches/6863f412/Molde-Kristiansund-November-2-2019-Eliteserien,0,0,2,0,15,6,12,17,10,0,0,1,0,12,3,9,12,12,2019
+2019-11-03,Viking,Lillestrøm,3,0,NA,NA,7037,Kristoffer Hagenes,https://fbref.com/en/matches/0f40030b/Viking-Lillestrom-November-3-2019-Eliteserien,1,1,1,0,12,5,11,0,14,0,0,2,0,16,3,6,10,12,2019
+2019-11-03,Sarpsborg 08,Tromsø,3,2,NA,NA,6267,Espen Andreas Eskås,https://fbref.com/en/matches/1a33258b/Sarpsborg-08-Tromso-November-3-2019-Eliteserien,0,0,1,0,13,4,6,7,19,0,0,1,0,11,5,11,4,21,2019
+2019-11-03,Ranheim,Stabæk,0,2,NA,NA,1402,Rohit Saggi,https://fbref.com/en/matches/ffa6c09d/Ranheim-Stabaek-November-3-2019-Eliteserien,0,0,4,0,9,1,11,9,11,0,0,0,0,16,9,10,13,11,2019
+2019-11-03,Bodø/Glimt,Haugesund,2,2,NA,NA,2777,Tom Hagen,https://fbref.com/en/matches/ee97e46b/BodoGlimt-Haugesund-November-3-2019-Eliteserien,0,0,3,1,15,6,13,7,8,0,0,1,0,13,2,14,8,9,2019
+2019-11-03,Vålerenga,Brann,1,0,NA,NA,5889,Tore Hansen,https://fbref.com/en/matches/4e54e109/Valerenga-Brann-November-3-2019-Eliteserien,0,0,1,0,13,4,9,14,13,0,0,4,0,7,0,6,17,14,2019
+2019-11-04,Odd,Mjøndalen,3,2,NA,NA,4492,Trygve Kjensli,https://fbref.com/en/matches/5692d899/Odd-Mjondalen-November-4-2019-Eliteserien,1,1,0,0,22,4,3,6,5,0,0,1,0,10,5,12,7,15,2019
+2019-11-08,Brann,Odd,1,0,NA,NA,8693,Tommy Skjerven,https://fbref.com/en/matches/29816cfb/Brann-Odd-November-8-2019-Eliteserien,0,0,3,0,14,4,11,8,17,0,0,0,0,2,0,6,8,7,2019
+2019-11-09,Haugesund,Viking,1,0,NA,NA,5742,Ola Nilsen,https://fbref.com/en/matches/1e5593e3/Haugesund-Viking-November-9-2019-Eliteserien,1,1,0,0,18,4,11,3,6,0,0,0,0,9,2,9,5,15,2019
+2019-11-10,Lillestrøm,Stabæk,1,3,NA,NA,4650,Kai Erik Steen,https://fbref.com/en/matches/8ad897c2/Lillestrom-Stabaek-November-10-2019-Eliteserien,0,0,2,0,25,9,8,15,12,0,1,0,0,18,10,7,8,9,2019
+2019-11-10,Molde,Strømsgodset,4,0,NA,NA,7098,Kristoffer Hagenes,https://fbref.com/en/matches/33cb7d14/Molde-Stromsgodset-November-10-2019-Eliteserien,0,0,3,0,16,6,7,21,9,0,0,1,0,8,2,11,10,11,2019
+2019-11-10,Kristiansund,Sarpsborg 08,4,0,NA,NA,3856,Rohit Saggi,https://fbref.com/en/matches/63f63f87/Kristiansund-Sarpsborg-08-November-10-2019-Eliteserien,0,0,0,0,19,3,5,6,15,0,0,3,0,8,0,5,8,13,2019
+2019-11-10,Mjøndalen,Ranheim,3,1,NA,NA,2077,Svein Oddvar Moen,https://fbref.com/en/matches/79eb5128/Mjondalen-Ranheim-November-10-2019-Eliteserien,1,1,0,0,13,6,10,11,12,0,0,0,0,19,4,5,6,8,2019
+2019-11-10,Tromsø,Vålerenga,0,0,NA,NA,2575,Dag Vidar Hafsås,https://fbref.com/en/matches/a24ee56b/Tromso-Valerenga-November-10-2019-Eliteserien,0,0,1,0,9,3,13,11,7,0,0,0,0,13,3,7,4,17,2019
+2019-11-10,Rosenborg,Bodø/Glimt,3,2,NA,NA,12039,Espen Andreas Eskås,https://fbref.com/en/matches/5b5530a9/Rosenborg-BodoGlimt-November-10-2019-Eliteserien,1,1,4,0,21,12,6,6,14,1,1,2,0,12,5,8,7,12,2019
+2019-11-24,Vålerenga,Molde,2,4,NA,NA,6666,Rohit Saggi,https://fbref.com/en/matches/73d5a0e1/Valerenga-Molde-November-24-2019-Eliteserien,0,0,0,0,12,8,11,8,10,0,0,3,0,18,7,9,4,9,2019
+2019-11-24,Stabæk,Mjøndalen,4,2,NA,NA,3106,Tommy Skjerven,https://fbref.com/en/matches/e4b2c60e/Stabaek-Mjondalen-November-24-2019-Eliteserien,0,0,1,0,21,11,13,11,3,0,0,1,0,15,6,4,12,11,2019
+2019-11-24,Ranheim,Lillestrøm,2,1,NA,NA,1708,Tom Hagen,https://fbref.com/en/matches/337b4e60/Ranheim-Lillestrom-November-24-2019-Eliteserien,0,0,1,0,26,7,6,7,8,1,1,1,0,11,4,10,9,17,2019
+2019-11-24,Bodø/Glimt,Kristiansund,3,0,NA,NA,3265,Trond Døvle,https://fbref.com/en/matches/012ae217/BodoGlimt-Kristiansund-November-24-2019-Eliteserien,0,0,0,0,24,9,7,5,15,0,0,0,0,6,1,6,11,7,2019
+2019-11-24,Odd,Tromsø,2,1,NA,NA,5478,Espen Andreas Eskås,https://fbref.com/en/matches/6961f06d/Odd-Tromso-November-24-2019-Eliteserien,0,0,3,0,9,3,12,4,16,0,1,2,0,22,9,8,10,15,2019
+2019-11-24,Strømsgodset,Brann,6,0,NA,NA,5352,Svein Oddvar Moen,https://fbref.com/en/matches/37f609b9/Stromsgodset-Brann-November-24-2019-Eliteserien,0,0,1,0,14,8,5,15,7,0,0,0,0,18,5,8,10,6,2019
+2019-11-24,Sarpsborg 08,Haugesund,1,1,NA,NA,5924,Trygve Kjensli,https://fbref.com/en/matches/c054e445/Sarpsborg-08-Haugesund-November-24-2019-Eliteserien,0,0,0,0,12,7,8,13,13,0,0,1,0,10,5,7,11,8,2019
+2019-11-24,Viking,Rosenborg,2,2,NA,NA,13540,Tore Hansen,https://fbref.com/en/matches/3e4c35c8/Viking-Rosenborg-November-24-2019-Eliteserien,0,0,1,0,13,6,16,15,18,0,0,3,0,16,4,4,7,13,2019
+2019-12-01,Mjøndalen,Vålerenga,1,0,NA,NA,2321,Kai Erik Steen,https://fbref.com/en/matches/b5690125/Mjondalen-Valerenga-December-1-2019-Eliteserien,0,0,1,0,13,4,11,6,11,0,0,1,0,12,2,5,8,13,2019
+2019-12-01,Kristiansund,Strømsgodset,1,2,NA,NA,4106,Ola Nilsen,https://fbref.com/en/matches/1cff5208/Kristiansund-Stromsgodset-December-1-2019-Eliteserien,0,0,1,0,7,2,9,5,16,0,0,2,0,16,5,9,11,9,2019
+2019-12-01,Molde,Bodø/Glimt,4,2,NA,NA,7512,Espen Andreas Eskås,https://fbref.com/en/matches/cd2b9610/Molde-BodoGlimt-December-1-2019-Eliteserien,0,0,4,0,15,8,15,14,19,0,0,0,0,12,7,14,11,9,2019
+2019-12-01,Rosenborg,Ranheim,3,2,NA,NA,11026,Trond Døvle,https://fbref.com/en/matches/78ed86d4/Rosenborg-Ranheim-December-1-2019-Eliteserien,0,1,2,0,20,6,8,11,19,0,0,2,0,5,2,12,2,9,2019
+2019-12-01,Haugesund,Odd,4,1,NA,NA,3358,Kristoffer Hagenes,https://fbref.com/en/matches/ab126a88/Haugesund-Odd-December-1-2019-Eliteserien,1,1,1,0,18,9,13,6,14,0,0,3,0,8,2,12,14,12,2019
+2019-12-01,Tromsø,Stabæk,1,1,NA,NA,5522,Tore Hansen,https://fbref.com/en/matches/b05abac9/Tromso-Stabaek-December-1-2019-Eliteserien,0,0,1,0,28,12,15,16,4,0,0,2,0,13,6,14,13,19,2019
+2019-12-01,Brann,Viking,1,5,NA,NA,14490,Dag Vidar Hafsås,https://fbref.com/en/matches/d69374d3/Brann-Viking-December-1-2019-Eliteserien,0,0,3,0,12,4,5,8,10,0,0,0,0,10,6,7,12,12,2019
+2019-12-01,Lillestrøm,Sarpsborg 08,0,0,NA,NA,5293,Svein Oddvar Moen,https://fbref.com/en/matches/e9da463a/Lillestrom-Sarpsborg-08-December-1-2019-Eliteserien,0,0,2,0,15,3,15,6,15,0,0,2,0,6,3,6,8,16,2019
+2019-12-07,Start,Lillestrøm,2,1,NA,NA,4013,Trygve Kjensli,https://fbref.com/en/matches/f4efc35b/Start-Lillestrom-December-7-2019-Norwegian-12-RelegationPromotion-Playoffs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019
+2019-12-11,Lillestrøm,Start,4,3,NA,NA,7892,Ola Nilsen,https://fbref.com/en/matches/c9d987cf/Lillestrom-Start-December-11-2019-Norwegian-12-RelegationPromotion-Playoffs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019

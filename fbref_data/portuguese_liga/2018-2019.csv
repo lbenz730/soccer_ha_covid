@@ -1,0 +1,307 @@
+date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_report_url,home_pk_goals,home_pk_attempts,home_yellow_cards,home_red_cards,home_shots,home_shots_on_target,home_tackles,home_interceptions,home_fouls_committed,away_pk_goals,away_pk_attempts,away_yellow_cards,away_red_cards,away_shots,away_shots_on_target,away_tackles,away_interceptions,away_fouls_committed,season
+2018-08-10,Benfica,Vitória,3,2,NA,NA,55219,João Pinheiro,https://fbref.com/en/matches/ccb3880d/Benfica-Vitoria-Guimaraes-August-10-2018-Primeira-Liga,0,1,0,0,19,11,13,8,17,0,0,4,0,9,5,14,14,25,2018-2019
+2018-08-11,Vitória Setúbal,Aves,2,0,NA,NA,5182,Hélder Malheiro,https://fbref.com/en/matches/cedf97d7/Vitoria-Setubal-Aves-August-11-2018-Primeira-Liga,0,0,2,0,15,5,6,14,16,0,0,2,2,5,1,9,17,16,2018-2019
+2018-08-11,Tondela,Belenenses,0,1,NA,NA,2010,Luís Godinho,https://fbref.com/en/matches/ef13f774/Tondela-Belenenses-August-11-2018-Primeira-Liga,0,0,1,1,18,3,12,9,14,0,0,2,0,8,3,14,23,13,2018-2019
+2018-08-11,Porto,Chaves,5,0,NA,NA,46509,Nuno Almeida,https://fbref.com/en/matches/daaffbed/Porto-Chaves-August-11-2018-Primeira-Liga,0,0,0,0,19,6,14,22,11,0,0,2,1,3,0,18,14,12,2018-2019
+2018-08-12,Marítimo,Santa Clara,1,0,NA,NA,5893,Anzhony Rodrigues,https://fbref.com/en/matches/af740880/Maritimo-Santa-Clara-August-12-2018-Primeira-Liga,1,1,0,0,16,3,7,15,14,0,0,3,0,13,5,3,13,10,2018-2019
+2018-08-12,Feirense,Rio Ave,2,0,NA,NA,2646,António Nobre,https://fbref.com/en/matches/b8905632/Feirense-Rio-Ave-August-12-2018-Primeira-Liga,0,0,1,0,13,4,19,32,16,0,0,2,0,10,3,22,13,8,2018-2019
+2018-08-12,Moreirense,Sporting CP,1,3,NA,NA,4886,Tiago Martins,https://fbref.com/en/matches/79c6a71c/Moreirense-Sporting-CP-August-12-2018-Primeira-Liga,0,0,5,0,10,3,9,14,21,1,1,5,0,12,8,19,13,17,2018-2019
+2018-08-12,Braga,Nacional,4,2,NA,NA,12387,Carlos Xistra,https://fbref.com/en/matches/3a72d467/Braga-Nacional-August-12-2018-Primeira-Liga,0,0,1,0,21,11,16,23,14,1,1,3,0,16,9,10,17,14,2018-2019
+2018-08-13,Portimonense,Boavista,0,2,NA,NA,3990,João Santos Capela,https://fbref.com/en/matches/19cb4ad4/Portimonense-Boavista-August-13-2018-Primeira-Liga,0,1,0,0,12,4,10,14,19,0,0,4,0,9,2,16,16,27,2018-2019
+2018-08-17,Aves,Tondela,2,2,NA,NA,1872,Artur Soares Dias,https://fbref.com/en/matches/edc8a385/Aves-Tondela-August-17-2018-Primeira-Liga,0,0,3,0,16,6,13,14,14,0,0,3,0,12,5,8,14,15,2018-2019
+2018-08-18,Chaves,Portimonense,2,0,NA,NA,5240,André Narciso,https://fbref.com/en/matches/b36965d5/Chaves-Portimonense-August-18-2018-Primeira-Liga,1,1,3,0,12,5,12,15,17,0,0,4,0,9,2,13,6,21,2018-2019
+2018-08-18,Boavista,Benfica,0,2,NA,NA,15189,Manuel Mota,https://fbref.com/en/matches/5db1b77e/Boavista-Benfica-August-18-2018-Primeira-Liga,0,0,4,0,4,1,18,19,12,0,0,1,0,18,8,11,7,21,2018-2019
+2018-08-18,Sporting CP,Vitória Setúbal,2,1,NA,NA,40611,Manuel Oliveira,https://fbref.com/en/matches/fe37204b/Sporting-CP-Vitoria-Setubal-August-18-2018-Primeira-Liga,0,0,2,0,17,5,15,17,20,0,0,5,0,9,3,12,11,29,2018-2019
+2018-08-19,Rio Ave,Marítimo,3,1,NA,NA,12234,Vitor Ferreira Fernandes,https://fbref.com/en/matches/8e932f27/Rio-Ave-Maritimo-August-19-2018-Primeira-Liga,0,0,1,0,13,5,8,6,11,1,1,3,0,16,4,16,6,23,2018-2019
+2018-08-19,Nacional,Moreirense,1,2,NA,NA,2491,António Nobre,https://fbref.com/en/matches/9a9dadee/Nacional-Moreirense-August-19-2018-Primeira-Liga,0,1,0,0,17,8,17,13,11,0,0,5,0,14,8,12,16,25,2018-2019
+2018-08-19,Belenenses,Porto,2,3,NA,NA,10901,Carlos Xistra,https://fbref.com/en/matches/bbb9aca4/Belenenses-Porto-August-19-2018-Primeira-Liga,1,1,2,0,12,6,16,19,18,1,1,3,0,16,6,20,22,11,2018-2019
+2018-08-19,Santa Clara,Braga,3,3,NA,NA,3915,Rui Oliveira,https://fbref.com/en/matches/5cd22a81/Santa-Clara-Braga-August-19-2018-Primeira-Liga,0,0,2,0,12,8,8,9,13,0,0,3,0,14,8,13,10,8,2018-2019
+2018-08-20,Vitória,Feirense,0,1,NA,NA,1872,Hugo Miguel,https://fbref.com/en/matches/a6e82ec5/Vitoria-Guimaraes-Feirense-August-20-2018-Primeira-Liga,0,0,1,0,10,3,11,16,17,0,0,3,0,7,4,12,16,19,2018-2019
+2018-08-24,Marítimo,Chaves,2,1,NA,NA,5398,Tiago Martins,https://fbref.com/en/matches/4703e737/Maritimo-Chaves-August-24-2018-Primeira-Liga,0,0,4,0,13,6,15,13,12,0,0,4,0,10,3,11,15,9,2018-2019
+2018-08-25,Portimonense,Santa Clara,2,2,NA,NA,2185,João Pinheiro,https://fbref.com/en/matches/9d95a85e/Portimonense-Santa-Clara-August-25-2018-Primeira-Liga,0,0,0,0,27,11,11,13,13,0,0,3,0,9,3,16,19,23,2018-2019
+2018-08-25,Benfica,Sporting CP,1,1,NA,NA,60486,Luís Godinho,https://fbref.com/en/matches/81b591b1/Benfica-Sporting-CP-August-25-2018-Primeira-Liga,0,0,4,0,19,10,11,12,15,1,1,5,0,11,4,15,19,16,2018-2019
+2018-08-25,Porto,Vitória,2,3,NA,NA,47008,Fábio Costa,https://fbref.com/en/matches/62a5e807/Porto-Vitoria-Guimaraes-August-25-2018-Primeira-Liga,0,0,3,0,19,10,16,13,16,1,1,2,0,9,3,10,15,12,2018-2019
+2018-08-26,Vitória Setúbal,Nacional,1,2,NA,NA,5690,Cláudio Ruivo Pereira,https://fbref.com/en/matches/653124e5/Vitoria-Setubal-Nacional-August-26-2018-Primeira-Liga,0,0,4,1,11,4,10,10,19,1,1,5,0,11,4,9,14,28,2018-2019
+2018-08-26,Feirense,Boavista,1,1,NA,NA,3711,Rui Costa,https://fbref.com/en/matches/f094b00d/Feirense-Boavista-August-26-2018-Primeira-Liga,0,0,2,0,17,4,6,8,16,1,1,5,1,8,4,17,13,24,2018-2019
+2018-08-26,Tondela,Rio Ave,1,1,NA,NA,2045,Manuel Mota,https://fbref.com/en/matches/db3041e4/Tondela-Rio-Ave-August-26-2018-Primeira-Liga,0,0,2,1,14,5,20,18,24,0,0,2,0,14,4,7,12,6,2018-2019
+2018-08-26,Braga,Aves,3,1,NA,NA,10103,Manuel Oliveira,https://fbref.com/en/matches/d856c67c/Braga-Aves-August-26-2018-Primeira-Liga,0,0,1,0,20,7,14,10,12,0,0,4,0,8,4,10,17,18,2018-2019
+2018-08-27,Moreirense,Belenenses,1,1,NA,NA,1400,Rui Oliveira,https://fbref.com/en/matches/bd769be0/Moreirense-Belenenses-August-27-2018-Primeira-Liga,0,0,2,0,17,7,6,15,22,0,0,2,0,9,3,10,18,11,2018-2019
+2018-08-31,Chaves,Braga,0,1,NA,NA,5983,Luís Godinho,https://fbref.com/en/matches/0ba5f531/Chaves-Braga-August-31-2018-Primeira-Liga,0,0,2,0,17,2,16,9,19,0,0,5,0,9,3,11,15,24,2018-2019
+2018-08-31,Vitória,Tondela,1,0,NA,NA,20128,Nuno Almeida,https://fbref.com/en/matches/e3c07f96/Vitoria-Guimaraes-Tondela-August-31-2018-Primeira-Liga,0,0,2,0,6,2,7,13,16,0,0,1,1,9,3,12,8,18,2018-2019
+2018-09-01,Belenenses,Vitória Setúbal,0,0,NA,NA,1449,Manuel Mota,https://fbref.com/en/matches/f18eb094/Belenenses-Vitoria-Setubal-September-1-2018-Primeira-Liga,0,0,0,0,8,4,3,13,19,0,0,1,0,6,2,9,10,12,2018-2019
+2018-09-01,Santa Clara,Boavista,4,2,NA,NA,4448,António Nobre,https://fbref.com/en/matches/b30941cd/Santa-Clara-Boavista-September-1-2018-Primeira-Liga,0,0,4,0,11,5,9,9,22,0,0,3,0,15,6,7,26,20,2018-2019
+2018-09-01,Sporting CP,Feirense,1,0,NA,NA,38688,Rui Oliveira,https://fbref.com/en/matches/4c5d4ebd/Sporting-CP-Feirense-September-1-2018-Primeira-Liga,0,0,4,0,26,12,14,8,21,0,0,6,0,6,2,16,22,14,2018-2019
+2018-09-02,Aves,Marítimo,0,1,NA,NA,1272,João Pinheiro,https://fbref.com/en/matches/708f4ebc/Aves-Maritimo-September-2-2018-Primeira-Liga,0,0,1,0,12,3,10,22,23,0,0,3,0,16,3,14,18,15,2018-2019
+2018-09-02,Rio Ave,Portimonense,2,1,NA,NA,2539,Artur Soares Dias,https://fbref.com/en/matches/32b4bf73/Rio-Ave-Portimonense-September-2-2018-Primeira-Liga,0,0,3,0,22,5,14,5,14,0,0,2,2,11,4,14,12,18,2018-2019
+2018-09-02,Nacional,Benfica,0,4,NA,NA,4793,Fábio Costa,https://fbref.com/en/matches/e6426587/Nacional-Benfica-September-2-2018-Primeira-Liga,0,0,1,0,5,2,14,16,7,0,0,3,0,16,7,21,15,16,2018-2019
+2018-09-02,Porto,Moreirense,3,0,NA,NA,43316,Hélder Malheiro,https://fbref.com/en/matches/8b00f45d/Porto-Moreirense-September-2-2018-Primeira-Liga,0,0,2,0,15,5,17,18,14,0,0,1,0,7,3,13,18,9,2018-2019
+2018-09-21,Boavista,Chaves,1,2,NA,NA,4565,João Pinheiro,https://fbref.com/en/matches/92e65c20/Boavista-Chaves-September-21-2018-Primeira-Liga,0,0,3,0,19,5,14,15,15,1,1,4,0,7,3,15,17,17,2018-2019
+2018-09-22,Santa Clara,Rio Ave,1,3,NA,NA,3199,João Santos Capela,https://fbref.com/en/matches/1cf74348/Santa-Clara-Rio-Ave-September-22-2018-Primeira-Liga,0,0,2,1,20,7,8,10,21,1,1,2,1,10,4,14,9,14,2018-2019
+2018-09-22,Marítimo,Belenenses,0,0,NA,NA,6137,Hugo Miguel,https://fbref.com/en/matches/7d06b584/Maritimo-Belenenses-September-22-2018-Primeira-Liga,0,0,1,0,10,3,9,13,13,0,0,1,0,16,5,6,17,16,2018-2019
+2018-09-22,Vitória Setúbal,Porto,0,2,NA,NA,10628,Manuel Oliveira,https://fbref.com/en/matches/e08f4838/Vitoria-Setubal-Porto-September-22-2018-Primeira-Liga,0,0,1,0,11,2,11,15,14,0,0,2,0,11,4,8,13,16,2018-2019
+2018-09-23,Feirense,Nacional,0,0,NA,NA,3178,Nuno Almeida,https://fbref.com/en/matches/29ac4680/Feirense-Nacional-September-23-2018-Primeira-Liga,0,0,2,0,4,0,11,12,15,0,0,2,0,11,4,13,14,26,2018-2019
+2018-09-23,Tondela,Moreirense,2,0,NA,NA,1710,Tiago Martins,https://fbref.com/en/matches/c5b46189/Tondela-Moreirense-September-23-2018-Primeira-Liga,0,0,0,0,10,5,13,8,17,0,0,0,0,13,1,11,10,15,2018-2019
+2018-09-23,Benfica,Aves,2,0,NA,NA,53606,Rui Costa,https://fbref.com/en/matches/75c1f83b/Benfica-Aves-September-23-2018-Primeira-Liga,0,0,1,0,26,7,12,11,15,0,0,4,0,12,4,11,17,17,2018-2019
+2018-09-23,Portimonense,Vitória,3,2,NA,NA,3129,Luís Godinho,https://fbref.com/en/matches/64faf7f0/Portimonense-Vitoria-Guimaraes-September-23-2018-Primeira-Liga,0,0,2,0,13,6,19,9,19,0,0,4,0,9,4,17,7,13,2018-2019
+2018-09-24,Braga,Sporting CP,1,0,NA,NA,16038,Artur Soares Dias,https://fbref.com/en/matches/a2a44cbd/Braga-Sporting-CP-September-24-2018-Primeira-Liga,0,0,1,0,12,4,13,13,10,0,0,2,0,12,3,17,12,11,2018-2019
+2018-09-27,Chaves,Benfica,2,2,NA,NA,7783,João Santos Capela,https://fbref.com/en/matches/461c58ba/Chaves-Benfica-September-27-2018-Primeira-Liga,0,0,3,0,7,3,5,13,8,0,0,1,1,9,4,11,10,17,2018-2019
+2018-09-28,Porto,Tondela,1,0,NA,NA,40011,Luís Godinho,https://fbref.com/en/matches/c1c3fcc0/Porto-Tondela-September-28-2018-Primeira-Liga,0,0,3,0,31,9,8,16,19,0,0,5,0,7,0,15,16,22,2018-2019
+2018-09-29,Moreirense,Feirense,1,0,NA,NA,1551,Artur Soares Dias,https://fbref.com/en/matches/d2f73f7f/Moreirense-Feirense-September-29-2018-Primeira-Liga,0,0,1,0,20,5,12,18,22,0,0,2,0,6,2,15,18,17,2018-2019
+2018-09-29,Rio Ave,Boavista,2,1,NA,NA,3099,Hugo Miguel,https://fbref.com/en/matches/8973c028/Rio-Ave-Boavista-September-29-2018-Primeira-Liga,0,0,2,0,21,5,12,3,16,0,0,3,1,17,5,14,11,18,2018-2019
+2018-09-29,Sporting CP,Marítimo,2,0,NA,NA,35238,Nuno Almeida,https://fbref.com/en/matches/f33afb95/Sporting-CP-Maritimo-September-29-2018-Primeira-Liga,1,1,2,0,12,3,6,15,15,0,0,3,0,7,1,10,15,14,2018-2019
+2018-09-30,Nacional,Santa Clara,0,3,NA,NA,2427,Manuel Mota,https://fbref.com/en/matches/fe70d783/Nacional-Santa-Clara-September-30-2018-Primeira-Liga,0,0,1,0,13,2,6,15,7,0,0,2,0,12,5,11,8,18,2018-2019
+2018-09-30,Vitória,Vitória Setúbal,1,1,NA,NA,17920,António Nobre,https://fbref.com/en/matches/6d8ca746/Vitoria-Guimaraes-Vitoria-Setubal-September-30-2018-Primeira-Liga,0,0,2,0,14,5,8,14,15,0,0,3,0,15,4,9,20,16,2018-2019
+2018-09-30,Belenenses,Braga,0,3,NA,NA,2237,Fábio Costa,https://fbref.com/en/matches/52cd11a5/Belenenses-Braga-September-30-2018-Primeira-Liga,0,0,4,0,8,0,9,21,10,1,1,0,0,18,8,17,22,7,2018-2019
+2018-10-01,Aves,Portimonense,3,0,NA,NA,1911,João Pinto,https://fbref.com/en/matches/ee033c51/Aves-Portimonense-October-1-2018-Primeira-Liga,0,0,2,0,12,4,13,15,14,0,0,1,0,17,2,13,16,10,2018-2019
+2018-10-05,Tondela,Nacional,1,1,NA,NA,1549,André Narciso,https://fbref.com/en/matches/5bfa78b4/Tondela-Nacional-October-5-2018-Primeira-Liga,0,0,1,0,16,3,11,5,11,0,0,2,0,16,4,10,14,11,2018-2019
+2018-10-05,Santa Clara,Chaves,1,0,NA,NA,3431,Cláudio Ruivo Pereira,https://fbref.com/en/matches/23f574ab/Santa-Clara-Chaves-October-5-2018-Primeira-Liga,0,0,2,0,12,5,8,8,16,0,0,1,0,9,2,4,6,9,2018-2019
+2018-10-05,Feirense,Belenenses,0,0,NA,NA,3469,João Pinheiro,https://fbref.com/en/matches/9be958ee/Feirense-Belenenses-October-5-2018-Primeira-Liga,0,0,3,0,13,1,8,6,18,0,0,2,0,9,1,10,13,17,2018-2019
+2018-10-06,Vitória Setúbal,Moreirense,3,0,NA,NA,2914,Luís Godinho,https://fbref.com/en/matches/49e3d789/Vitoria-Setubal-Moreirense-October-6-2018-Primeira-Liga,1,1,2,0,12,6,8,13,25,0,0,2,2,11,3,12,9,17,2018-2019
+2018-10-06,Marítimo,Vitória,1,3,NA,NA,5674,Manuel Oliveira,https://fbref.com/en/matches/c04544be/Maritimo-Vitoria-Guimaraes-October-6-2018-Primeira-Liga,0,0,1,0,20,6,15,8,14,1,1,0,0,15,6,10,14,11,2018-2019
+2018-10-06,Braga,Rio Ave,1,1,NA,NA,12645,Tiago Martins,https://fbref.com/en/matches/7b107884/Braga-Rio-Ave-October-6-2018-Primeira-Liga,0,0,3,1,13,6,20,18,26,0,0,4,0,9,3,8,18,11,2018-2019
+2018-10-07,Boavista,Aves,1,0,NA,NA,4331,Vitor Ferreira Fernandes,https://fbref.com/en/matches/27d70f72/Boavista-Aves-October-7-2018-Primeira-Liga,0,0,3,0,20,5,16,12,13,0,0,4,0,11,2,18,13,23,2018-2019
+2018-10-07,Benfica,Porto,1,0,NA,NA,61567,Fábio Costa,https://fbref.com/en/matches/c1987bef/Benfica-Porto-October-7-2018-Primeira-Liga,0,0,3,1,10,2,21,13,24,0,0,5,0,11,1,8,18,20,2018-2019
+2018-10-07,Portimonense,Sporting CP,4,2,NA,NA,5685,Hugo Miguel,https://fbref.com/en/matches/6d1071b2/Portimonense-Sporting-CP-October-7-2018-Primeira-Liga,0,0,5,0,12,6,13,10,22,0,0,1,0,17,5,16,14,14,2018-2019
+2018-10-26,Nacional,Portimonense,0,1,NA,NA,1458,Manuel Oliveira,https://fbref.com/en/matches/256afda0/Nacional-Portimonense-October-26-2018-Primeira-Liga,0,0,1,0,8,3,14,11,10,0,0,1,0,7,2,13,6,17,2018-2019
+2018-10-26,Vitória,Braga,1,1,NA,NA,26170,Hugo Miguel,https://fbref.com/en/matches/7c71a320/Vitoria-Guimaraes-Braga-October-26-2018-Primeira-Liga,0,0,1,0,13,4,12,18,18,0,0,2,0,15,1,14,4,14,2018-2019
+2018-10-27,Aves,Santa Clara,1,2,NA,NA,1806,Fábio Costa,https://fbref.com/en/matches/501b8146/Aves-Santa-Clara-October-27-2018-Primeira-Liga,0,0,2,0,19,6,12,20,18,0,0,2,1,9,4,12,10,15,2018-2019
+2018-10-27,Rio Ave,Chaves,1,0,NA,NA,2894,Hélder Malheiro,https://fbref.com/en/matches/3a81e986/Rio-Ave-Chaves-October-27-2018-Primeira-Liga,0,0,3,0,8,6,15,10,19,0,0,3,0,12,2,14,6,24,2018-2019
+2018-10-27,Belenenses,Benfica,2,0,NA,NA,10635,Artur Soares Dias,https://fbref.com/en/matches/b828f944/Belenenses-Benfica-October-27-2018-Primeira-Liga,1,1,2,0,7,6,12,10,16,0,1,2,0,24,7,15,16,14,2018-2019
+2018-10-28,Tondela,Vitória Setúbal,1,2,NA,NA,1393,João Pinto,https://fbref.com/en/matches/7db819f4/Tondela-Vitoria-Setubal-October-28-2018-Primeira-Liga,0,0,3,0,10,6,8,13,19,0,0,3,0,9,3,14,20,21,2018-2019
+2018-10-28,Moreirense,Marítimo,1,0,NA,NA,1627,João Santos Capela,https://fbref.com/en/matches/27fb73e4/Moreirense-Maritimo-October-28-2018-Primeira-Liga,0,0,1,0,19,5,11,10,14,0,0,2,0,11,2,15,12,11,2018-2019
+2018-10-28,Porto,Feirense,2,0,NA,NA,46028,Rui Oliveira,https://fbref.com/en/matches/7f2d868c/Porto-Feirense-October-28-2018-Primeira-Liga,0,0,1,0,18,8,12,4,21,0,0,3,0,6,3,13,9,11,2018-2019
+2018-10-28,Sporting CP,Boavista,3,0,NA,NA,27784,Carlos Xistra,https://fbref.com/en/matches/16c94c0b/Sporting-CP-Boavista-October-28-2018-Primeira-Liga,0,0,2,0,22,10,15,17,12,0,0,3,0,10,1,10,27,15,2018-2019
+2018-11-02,Benfica,Moreirense,1,3,NA,NA,47216,Nuno Almeida,https://fbref.com/en/matches/31570dc9/Benfica-Moreirense-November-2-2018-Primeira-Liga,0,0,2,1,21,9,10,11,17,0,0,3,0,9,4,6,24,12,2018-2019
+2018-11-03,Portimonense,Belenenses,1,1,NA,NA,2921,João Santos Capela,https://fbref.com/en/matches/403383ae/Portimonense-Belenenses-November-3-2018-Primeira-Liga,1,1,2,0,12,3,11,15,19,1,1,3,0,8,1,15,12,10,2018-2019
+2018-11-03,Marítimo,Porto,0,2,NA,NA,9620,Carlos Xistra,https://fbref.com/en/matches/1c2a303e/Maritimo-Porto-November-3-2018-Primeira-Liga,0,0,4,1,6,2,8,12,17,0,1,2,0,15,4,9,8,16,2018-2019
+2018-11-03,Boavista,Vitória,0,0,NA,NA,5739,Tiago Martins,https://fbref.com/en/matches/4e2aa4d4/Boavista-Vitoria-Guimaraes-November-3-2018-Primeira-Liga,0,0,3,0,7,3,8,21,25,0,0,4,0,20,4,13,8,13,2018-2019
+2018-11-04,Feirense,Tondela,2,4,NA,NA,2136,Hugo Miguel,https://fbref.com/en/matches/62e55da9/Feirense-Tondela-November-4-2018-Primeira-Liga,1,1,4,0,13,6,7,13,17,1,1,3,0,16,7,14,10,22,2018-2019
+2018-11-04,Santa Clara,Sporting CP,1,2,NA,NA,9968,Manuel Mota,https://fbref.com/en/matches/8b34f767/Santa-Clara-Sporting-CP-November-4-2018-Primeira-Liga,0,0,2,1,9,1,16,17,10,1,1,3,0,18,7,11,17,8,2018-2019
+2018-11-04,Braga,Vitória Setúbal,2,1,NA,NA,7254,Hélder Malheiro,https://fbref.com/en/matches/778f8112/Braga-Vitoria-Setubal-November-4-2018-Primeira-Liga,0,0,1,0,17,3,18,15,18,0,0,3,0,12,5,10,8,20,2018-2019
+2018-11-05,Rio Ave,Nacional,3,3,NA,NA,2232,João Pinto,https://fbref.com/en/matches/21db2e6b/Rio-Ave-Nacional-November-5-2018-Primeira-Liga,1,1,2,0,14,6,10,13,13,1,1,5,0,13,6,14,15,19,2018-2019
+2018-11-05,Chaves,Aves,1,2,NA,NA,2720,Rui Costa,https://fbref.com/en/matches/97f585fb/Chaves-Aves-November-5-2018-Primeira-Liga,0,0,3,0,13,2,10,12,10,0,0,3,0,12,5,8,16,14,2018-2019
+2018-11-09,Moreirense,Portimonense,2,0,NA,NA,1234,Hugo Miguel,https://fbref.com/en/matches/3d20fdc4/Moreirense-Portimonense-November-9-2018-Primeira-Liga,0,0,2,0,12,4,13,20,18,0,0,1,0,12,4,7,14,15,2018-2019
+2018-11-09,Vitória Setúbal,Feirense,2,1,NA,NA,2196,Fábio Costa,https://fbref.com/en/matches/57a442b7/Vitoria-Setubal-Feirense-November-9-2018-Primeira-Liga,0,0,4,0,10,2,10,21,20,0,0,4,0,6,1,7,7,20,2018-2019
+2018-11-10,Belenenses,Boavista,0,0,NA,NA,1622,André Narciso,https://fbref.com/en/matches/84ea6f1c/Belenenses-Boavista-November-10-2018-Primeira-Liga,0,0,5,0,12,2,10,15,23,0,0,6,0,11,3,11,8,26,2018-2019
+2018-11-10,Aves,Rio Ave,2,1,NA,NA,1419,Luís Godinho,https://fbref.com/en/matches/39b7d572/Aves-Rio-Ave-November-10-2018-Primeira-Liga,1,1,3,0,19,8,14,8,22,0,0,3,1,11,5,10,5,10,2018-2019
+2018-11-10,Nacional,Marítimo,1,0,NA,NA,2981,Rui Costa,https://fbref.com/en/matches/266a54ad/Nacional-Maritimo-November-10-2018-Primeira-Liga,0,0,3,0,16,3,16,11,13,0,0,2,0,9,2,10,10,24,2018-2019
+2018-11-10,Porto,Braga,1,0,NA,NA,47929,Artur Soares Dias,https://fbref.com/en/matches/4d16b933/Porto-Braga-November-10-2018-Primeira-Liga,0,0,1,0,17,3,5,15,17,0,0,1,0,10,2,12,12,19,2018-2019
+2018-11-11,Vitória,Santa Clara,2,0,NA,NA,12484,Carlos Xistra,https://fbref.com/en/matches/df3e4dc7/Vitoria-Guimaraes-Santa-Clara-November-11-2018-Primeira-Liga,1,1,1,0,20,7,10,14,14,0,0,2,0,8,1,12,8,13,2018-2019
+2018-11-11,Tondela,Benfica,1,3,NA,NA,4755,João Pinheiro,https://fbref.com/en/matches/ba68b647/Tondela-Benfica-November-11-2018-Primeira-Liga,0,0,3,2,7,4,11,15,14,0,0,3,0,15,5,7,9,12,2018-2019
+2018-11-11,Sporting CP,Chaves,2,1,NA,NA,20359,Tiago Martins,https://fbref.com/en/matches/510fac15/Sporting-CP-Chaves-November-11-2018-Primeira-Liga,1,1,1,0,17,5,19,13,11,0,0,2,1,3,1,9,15,10,2018-2019
+2018-11-30,Santa Clara,Belenenses,2,3,NA,NA,2369,António Nobre,https://fbref.com/en/matches/e378381c/Santa-Clara-Belenenses-November-30-2018-Primeira-Liga,1,1,2,1,13,3,9,15,14,1,1,0,0,10,6,18,13,15,2018-2019
+2018-12-01,Marítimo,Vitória Setúbal,0,1,NA,NA,4256,Artur Soares Dias,https://fbref.com/en/matches/fbc6b53e/Maritimo-Vitoria-Setubal-December-1-2018-Primeira-Liga,0,0,1,0,12,3,14,15,17,0,0,2,0,10,4,10,14,23,2018-2019
+2018-12-01,Benfica,Feirense,4,0,NA,NA,44547,Rui Costa,https://fbref.com/en/matches/d4ada794/Benfica-Feirense-December-1-2018-Primeira-Liga,0,0,2,0,15,7,14,10,15,0,0,2,0,3,1,15,17,15,2018-2019
+2018-12-01,Braga,Moreirense,2,0,NA,NA,9807,Manuel Oliveira,https://fbref.com/en/matches/d1701b5e/Braga-Moreirense-December-1-2018-Primeira-Liga,1,1,1,0,14,5,17,16,13,0,0,2,0,15,2,9,7,19,2018-2019
+2018-12-02,Aves,Nacional,2,3,NA,NA,1596,João Pinheiro,https://fbref.com/en/matches/8164928d/Aves-Nacional-December-2-2018-Primeira-Liga,0,0,3,0,15,6,15,6,16,1,1,4,0,16,7,11,19,19,2018-2019
+2018-12-02,Portimonense,Tondela,3,2,NA,NA,2383,Vitor Ferreira Fernandes,https://fbref.com/en/matches/635acc5a/Portimonense-Tondela-December-2-2018-Primeira-Liga,1,1,3,0,16,6,7,10,17,0,0,5,1,10,5,9,10,20,2018-2019
+2018-12-02,Chaves,Vitória,0,1,NA,NA,5980,João Santos Capela,https://fbref.com/en/matches/a86d37b7/Chaves-Vitoria-Guimaraes-December-2-2018-Primeira-Liga,0,0,1,0,15,8,13,16,12,0,0,0,0,15,7,8,16,17,2018-2019
+2018-12-02,Boavista,Porto,0,1,NA,NA,13556,Hugo Miguel,https://fbref.com/en/matches/09e47b93/Boavista-Porto-December-2-2018-Primeira-Liga,0,0,6,0,4,2,19,4,25,0,0,1,0,24,6,12,13,11,2018-2019
+2018-12-03,Rio Ave,Sporting CP,1,3,NA,NA,5957,Carlos Xistra,https://fbref.com/en/matches/3bef3933/Rio-Ave-Sporting-CP-December-3-2018-Primeira-Liga,0,0,3,0,12,4,7,15,11,0,0,5,0,20,6,9,11,26,2018-2019
+2018-12-07,Porto,Portimonense,4,1,NA,NA,33511,Manuel Mota,https://fbref.com/en/matches/ae538c1e/Porto-Portimonense-December-7-2018-Primeira-Liga,0,0,2,0,25,9,16,18,10,0,0,1,0,8,4,16,15,10,2018-2019
+2018-12-08,Belenenses,Chaves,1,0,NA,NA,1537,Luís Godinho,https://fbref.com/en/matches/37fcb38d/Belenenses-Chaves-December-8-2018-Primeira-Liga,0,0,1,0,11,5,8,15,11,0,0,1,0,14,4,15,5,18,2018-2019
+2018-12-08,Tondela,Braga,0,1,NA,NA,2265,Rui Costa,https://fbref.com/en/matches/3b0283cc/Tondela-Braga-December-8-2018-Primeira-Liga,0,0,3,0,8,3,9,13,16,0,0,1,0,7,3,14,12,18,2018-2019
+2018-12-08,Vitória Setúbal,Benfica,0,1,NA,NA,9300,Carlos Xistra,https://fbref.com/en/matches/272ab024/Vitoria-Setubal-Benfica-December-8-2018-Primeira-Liga,0,0,3,0,14,3,12,12,23,0,0,4,0,12,3,15,8,19,2018-2019
+2018-12-09,Moreirense,Santa Clara,0,1,NA,NA,1384,André Narciso,https://fbref.com/en/matches/4ba0101e/Moreirense-Santa-Clara-December-9-2018-Primeira-Liga,0,0,4,1,12,3,19,11,21,0,0,4,0,11,4,10,18,14,2018-2019
+2018-12-09,Nacional,Boavista,0,0,NA,NA,1758,Cláudio Ruivo Pereira,https://fbref.com/en/matches/a0bb7577/Nacional-Boavista-December-9-2018-Primeira-Liga,0,0,2,0,26,8,15,12,15,0,0,2,0,5,1,8,15,24,2018-2019
+2018-12-09,Vitória,Rio Ave,3,2,NA,NA,22299,Nuno Almeida,https://fbref.com/en/matches/c35f75c0/Vitoria-Guimaraes-Rio-Ave-December-9-2018-Primeira-Liga,2,2,4,0,13,9,12,11,20,1,1,2,0,11,3,6,11,15,2018-2019
+2018-12-09,Sporting CP,Aves,4,1,NA,NA,35124,Vitor Ferreira Fernandes,https://fbref.com/en/matches/e5d09a8b/Sporting-CP-Aves-December-9-2018-Primeira-Liga,1,1,1,1,10,5,8,8,16,0,0,5,0,15,4,6,17,12,2018-2019
+2018-12-10,Feirense,Marítimo,1,1,NA,NA,2110,Hélder Malheiro,https://fbref.com/en/matches/ee224db4/Feirense-Maritimo-December-10-2018-Primeira-Liga,1,1,3,0,10,5,10,17,26,0,0,4,0,11,5,9,23,21,2018-2019
+2018-12-14,Portimonense,Vitória Setúbal,3,1,NA,NA,2294,Hélder Malheiro,https://fbref.com/en/matches/31e60a4a/Portimonense-Vitoria-Setubal-December-14-2018-Primeira-Liga,0,0,1,0,18,7,6,13,17,0,0,4,0,15,7,17,11,20,2018-2019
+2018-12-14,Braga,Feirense,4,0,NA,NA,7061,Nuno Almeida,https://fbref.com/en/matches/07eacab8/Braga-Feirense-December-14-2018-Primeira-Liga,2,2,0,0,16,6,19,13,19,0,0,1,0,4,1,13,5,16,2018-2019
+2018-12-15,Boavista,Tondela,2,0,NA,NA,3834,Artur Soares Dias,https://fbref.com/en/matches/1d9d1a06/Boavista-Tondela-December-15-2018-Primeira-Liga,0,0,2,0,18,6,7,17,24,0,0,4,0,10,3,17,10,19,2018-2019
+2018-12-15,Chaves,Moreirense,1,2,NA,NA,2780,Rui Costa,https://fbref.com/en/matches/fb9aee88/Chaves-Moreirense-December-15-2018-Primeira-Liga,0,1,0,0,8,1,11,9,18,0,0,2,0,14,5,13,11,18,2018-2019
+2018-12-15,Aves,Vitória,1,1,NA,NA,3100,Carlos Xistra,https://fbref.com/en/matches/ef140462/Aves-Vitoria-Guimaraes-December-15-2018-Primeira-Liga,0,0,2,0,15,5,15,24,20,0,0,0,0,13,6,16,11,13,2018-2019
+2018-12-15,Santa Clara,Porto,1,2,NA,NA,8315,Luís Godinho,https://fbref.com/en/matches/979c8e98/Santa-Clara-Porto-December-15-2018-Primeira-Liga,0,0,1,0,11,4,16,13,21,0,0,3,0,15,8,14,20,25,2018-2019
+2018-12-16,Rio Ave,Belenenses,2,2,NA,NA,2288,Manuel Mota,https://fbref.com/en/matches/2b8fc139/Rio-Ave-Belenenses-December-16-2018-Primeira-Liga,0,0,3,0,9,1,6,14,19,1,1,1,0,12,4,13,10,20,2018-2019
+2018-12-16,Marítimo,Benfica,0,1,NA,NA,9830,João Pinheiro,https://fbref.com/en/matches/20f605b8/Maritimo-Benfica-December-16-2018-Primeira-Liga,0,0,5,0,6,0,16,20,19,1,1,3,0,14,5,7,15,12,2018-2019
+2018-12-16,Sporting CP,Nacional,5,2,NA,NA,31408,Fábio Costa,https://fbref.com/en/matches/7a50e5a6/Sporting-CP-Nacional-December-16-2018-Primeira-Liga,2,2,3,0,20,9,11,8,25,0,0,3,0,15,5,12,18,10,2018-2019
+2018-12-22,Feirense,Portimonense,0,1,NA,NA,2510,João Pinto,https://fbref.com/en/matches/118d226b/Feirense-Portimonense-December-22-2018-Primeira-Liga,0,0,4,0,12,2,15,13,19,0,0,4,0,16,6,14,15,13,2018-2019
+2018-12-22,Tondela,Marítimo,2,1,NA,NA,1344,Carlos Xistra,https://fbref.com/en/matches/d96dce2e/Tondela-Maritimo-December-22-2018-Primeira-Liga,0,0,4,0,15,7,7,9,16,0,0,3,1,11,2,9,8,19,2018-2019
+2018-12-22,Vitória Setúbal,Santa Clara,0,2,NA,NA,3079,João Pinheiro,https://fbref.com/en/matches/7df2e4ea/Vitoria-Setubal-Santa-Clara-December-22-2018-Primeira-Liga,0,0,4,0,8,5,11,7,31,1,1,4,0,10,3,19,21,16,2018-2019
+2018-12-22,Belenenses,Aves,5,2,NA,NA,1241,Nuno Almeida,https://fbref.com/en/matches/5e1bda0d/Belenenses-Aves-December-22-2018-Primeira-Liga,0,0,0,0,12,8,4,12,13,0,0,1,0,7,4,9,8,20,2018-2019
+2018-12-22,Moreirense,Boavista,2,1,NA,NA,1634,Manuel Oliveira,https://fbref.com/en/matches/a699e77b/Moreirense-Boavista-December-22-2018-Primeira-Liga,1,1,3,0,13,6,13,14,20,0,0,4,1,12,4,10,19,13,2018-2019
+2018-12-23,Nacional,Chaves,2,0,NA,NA,2127,Vitor Ferreira Fernandes,https://fbref.com/en/matches/3161abc5/Nacional-Chaves-December-23-2018-Primeira-Liga,1,1,3,0,10,3,10,16,18,0,0,4,0,12,4,14,7,21,2018-2019
+2018-12-23,Porto,Rio Ave,2,1,NA,NA,48208,Tiago Martins,https://fbref.com/en/matches/1d76feb1/Porto-Rio-Ave-December-23-2018-Primeira-Liga,0,0,1,0,18,4,14,16,16,0,0,3,1,6,2,5,14,19,2018-2019
+2018-12-23,Benfica,Braga,6,2,NA,NA,57842,Artur Soares Dias,https://fbref.com/en/matches/f857fe3b/Benfica-Braga-December-23-2018-Primeira-Liga,0,0,1,0,14,8,15,11,16,0,0,3,0,11,5,13,20,17,2018-2019
+2018-12-23,Vitória,Sporting CP,1,0,NA,NA,27435,Luís Godinho,https://fbref.com/en/matches/a9f4f800/Vitoria-Guimaraes-Sporting-CP-December-23-2018-Primeira-Liga,0,0,3,0,19,7,15,18,14,0,0,3,0,17,2,16,14,17,2018-2019
+2019-01-02,Santa Clara,Tondela,1,2,NA,NA,2105,Cláudio Ruivo Pereira,https://fbref.com/en/matches/9290f607/Santa-Clara-Tondela-January-2-2019-Primeira-Liga,1,1,2,1,9,4,11,8,19,0,0,3,0,12,4,27,8,19,2018-2019
+2019-01-02,Boavista,Vitória Setúbal,1,0,NA,NA,3688,Tiago Martins,https://fbref.com/en/matches/8a77afd4/Boavista-Vitoria-Setubal-January-2-2019-Primeira-Liga,0,0,4,2,12,3,12,10,19,0,0,4,0,16,7,11,10,18,2018-2019
+2019-01-02,Braga,Marítimo,2,0,NA,NA,8714,Manuel Oliveira,https://fbref.com/en/matches/95c57c4b/Braga-Maritimo-January-2-2019-Primeira-Liga,0,0,2,0,14,5,15,6,14,0,0,1,0,6,1,13,14,18,2018-2019
+2019-01-02,Nacional,Vitória,1,0,NA,NA,2229,Hélder Malheiro,https://fbref.com/en/matches/deb6a8d2/Nacional-Vitoria-Guimaraes-January-2-2019-Primeira-Liga,0,0,3,0,11,3,16,15,17,0,0,4,0,6,2,13,8,15,2018-2019
+2019-01-02,Portimonense,Benfica,2,0,NA,NA,5884,Manuel Mota,https://fbref.com/en/matches/ae94a750/Portimonense-Benfica-January-2-2019-Primeira-Liga,0,0,2,0,9,5,9,22,16,0,0,2,1,14,3,10,11,13,2018-2019
+2019-01-02,Rio Ave,Moreirense,1,2,NA,NA,2089,Fábio Costa,https://fbref.com/en/matches/8af64c07/Rio-Ave-Moreirense-January-2-2019-Primeira-Liga,0,0,3,0,12,3,7,13,12,0,0,3,0,15,4,9,7,18,2018-2019
+2019-01-03,Chaves,Feirense,0,0,NA,NA,2170,Artur Soares Dias,https://fbref.com/en/matches/68f57d4f/Chaves-Feirense-January-3-2019-Primeira-Liga,0,0,2,0,12,4,12,16,14,0,0,3,0,6,1,9,10,26,2018-2019
+2019-01-03,Sporting CP,Belenenses,2,1,NA,NA,30054,João Santos Capela,https://fbref.com/en/matches/38e34278/Sporting-CP-Belenenses-January-3-2019-Primeira-Liga,0,0,3,0,13,5,15,13,20,0,0,4,0,11,4,17,18,15,2018-2019
+2019-01-03,Aves,Porto,0,1,NA,NA,5338,João Pinheiro,https://fbref.com/en/matches/016eff0f/Aves-Porto-January-3-2019-Primeira-Liga,0,0,2,0,13,2,14,12,22,0,0,1,0,9,5,7,11,18,2018-2019
+2019-01-05,Marítimo,Portimonense,2,1,NA,NA,6443,Tiago Martins,https://fbref.com/en/matches/c8812ea9/Maritimo-Portimonense-January-5-2019-Primeira-Liga,0,0,4,0,9,4,14,17,16,1,1,4,0,17,8,12,11,14,2018-2019
+2019-01-06,Vitória Setúbal,Chaves,0,0,NA,NA,3205,Hugo Miguel,https://fbref.com/en/matches/f77ebb24/Vitoria-Setubal-Chaves-January-6-2019-Primeira-Liga,0,0,0,0,13,1,16,10,21,0,0,1,0,12,3,14,11,19,2018-2019
+2019-01-06,Belenenses,Vitória,1,0,NA,NA,3382,Artur Soares Dias,https://fbref.com/en/matches/5551d715/Belenenses-Vitoria-Guimaraes-January-6-2019-Primeira-Liga,0,0,0,0,5,4,9,18,16,0,0,1,0,16,2,6,6,13,2018-2019
+2019-01-06,Feirense,Santa Clara,2,2,NA,NA,2098,Carlos Xistra,https://fbref.com/en/matches/03ca8082/Feirense-Santa-Clara-January-6-2019-Primeira-Liga,1,1,4,0,6,4,9,14,23,0,0,2,0,11,3,10,17,15,2018-2019
+2019-01-06,Benfica,Rio Ave,4,2,NA,NA,49281,Luís Godinho,https://fbref.com/en/matches/75057bcd/Benfica-Rio-Ave-January-6-2019-Primeira-Liga,0,0,3,0,11,6,12,8,25,0,0,3,0,13,5,11,8,19,2018-2019
+2019-01-06,Braga,Boavista,1,0,NA,NA,9133,João Santos Capela,https://fbref.com/en/matches/cd890128/Braga-Boavista-January-6-2019-Primeira-Liga,0,0,3,0,10,5,10,8,16,0,0,3,1,20,3,7,10,14,2018-2019
+2019-01-07,Moreirense,Aves,1,0,NA,NA,1682,Manuel Mota,https://fbref.com/en/matches/22b67ac7/Moreirense-Aves-January-7-2019-Primeira-Liga,0,0,1,0,17,9,10,14,12,0,0,1,0,8,4,15,5,13,2018-2019
+2019-01-07,Tondela,Sporting CP,2,1,NA,NA,4772,Nuno Almeida,https://fbref.com/en/matches/4fd89cb5/Tondela-Sporting-CP-January-7-2019-Primeira-Liga,0,0,4,1,7,5,9,14,24,0,0,4,0,22,7,11,11,17,2018-2019
+2019-01-07,Porto,Nacional,3,1,NA,NA,33708,Rui Costa,https://fbref.com/en/matches/6bb7f80b/Porto-Nacional-January-7-2019-Primeira-Liga,0,0,0,0,13,4,19,15,17,0,0,0,0,8,3,14,22,11,2018-2019
+2019-01-10,Portimonense,Braga,1,1,NA,NA,3363,Fábio Costa,https://fbref.com/en/matches/86c8aa2c/Portimonense-Braga-January-10-2019-Primeira-Liga,0,0,3,1,11,5,4,10,14,0,0,2,0,14,6,10,8,11,2018-2019
+2019-01-11,Santa Clara,Benfica,0,2,NA,NA,10000,João Santos Capela,https://fbref.com/en/matches/66c6167e/Santa-Clara-Benfica-January-11-2019-Primeira-Liga,0,0,3,1,6,4,10,19,11,0,0,3,0,19,4,15,7,17,2018-2019
+2019-01-11,Aves,Feirense,1,1,NA,NA,870,Manuel Oliveira,https://fbref.com/en/matches/2a3e6086/Aves-Feirense-January-11-2019-Primeira-Liga,0,0,0,0,22,7,7,9,18,0,0,3,0,6,3,9,12,25,2018-2019
+2019-01-11,Vitória,Moreirense,1,0,NA,NA,15318,Carlos Xistra,https://fbref.com/en/matches/e89d6458/Vitoria-Guimaraes-Moreirense-January-11-2019-Primeira-Liga,1,1,3,1,9,3,13,12,14,0,0,2,0,9,0,15,11,20,2018-2019
+2019-01-12,Sporting CP,Porto,0,0,NA,NA,45174,Hugo Miguel,https://fbref.com/en/matches/c372f55b/Sporting-CP-Porto-January-12-2019-Primeira-Liga,0,0,4,0,12,3,9,8,23,0,0,4,0,9,1,12,18,19,2018-2019
+2019-01-12,Boavista,Marítimo,0,1,NA,NA,3907,Luís Godinho,https://fbref.com/en/matches/bc5b502e/Boavista-Maritimo-January-12-2019-Primeira-Liga,0,0,2,0,23,5,5,31,19,0,0,3,0,8,3,6,15,19,2018-2019
+2019-01-13,Nacional,Belenenses,0,1,NA,NA,2235,André Narciso,https://fbref.com/en/matches/3318f5c4/Nacional-Belenenses-January-13-2019-Primeira-Liga,0,0,3,0,20,4,11,13,16,0,0,3,0,11,4,14,10,18,2018-2019
+2019-01-13,Chaves,Tondela,2,1,NA,NA,2666,António Nobre,https://fbref.com/en/matches/cbadf610/Chaves-Tondela-January-13-2019-Primeira-Liga,0,1,4,0,13,3,12,15,23,1,1,1,1,15,4,10,5,13,2018-2019
+2019-01-13,Rio Ave,Vitória Setúbal,1,1,NA,NA,2163,Manuel Mota,https://fbref.com/en/matches/93e3a402/Rio-Ave-Vitoria-Setubal-January-13-2019-Primeira-Liga,0,0,4,1,8,6,4,10,17,0,0,6,0,14,10,13,7,30,2018-2019
+2019-01-18,Nacional,Braga,0,3,NA,NA,2313,Hugo Miguel,https://fbref.com/en/matches/8fe10235/Nacional-Braga-January-18-2019-Primeira-Liga,0,0,2,0,4,0,13,11,26,0,0,2,0,18,6,9,17,13,2018-2019
+2019-01-18,Chaves,Porto,1,4,NA,NA,5950,Nuno Almeida,https://fbref.com/en/matches/018cc1d7/Chaves-Porto-January-18-2019-Primeira-Liga,1,1,1,0,10,3,9,13,19,0,0,2,0,16,6,14,13,10,2018-2019
+2019-01-18,Vitória,Benfica,0,1,NA,NA,22841,Tiago Martins,https://fbref.com/en/matches/527bedd2/Vitoria-Guimaraes-Benfica-January-18-2019-Primeira-Liga,0,0,4,0,10,2,13,9,13,0,0,2,0,11,3,22,16,11,2018-2019
+2019-01-19,Belenenses,Tondela,2,2,NA,NA,1521,Carlos Xistra,https://fbref.com/en/matches/19da8e53/Belenenses-Tondela-January-19-2019-Primeira-Liga,0,1,3,0,13,4,8,15,19,0,0,0,0,13,3,15,11,22,2018-2019
+2019-01-19,Sporting CP,Moreirense,2,1,NA,NA,30121,Rui Costa,https://fbref.com/en/matches/c3b124fd/Sporting-CP-Moreirense-January-19-2019-Primeira-Liga,0,0,2,0,10,4,12,13,14,0,0,2,0,7,2,9,23,8,2018-2019
+2019-01-19,Santa Clara,Marítimo,0,1,NA,NA,3139,Hélder Malheiro,https://fbref.com/en/matches/93c671d3/Santa-Clara-Maritimo-January-19-2019-Primeira-Liga,0,0,1,0,14,2,7,8,18,0,0,6,0,12,4,14,14,20,2018-2019
+2019-01-20,Aves,Vitória Setúbal,2,1,NA,NA,1617,Artur Soares Dias,https://fbref.com/en/matches/f9d630cc/Aves-Vitoria-Setubal-January-20-2019-Primeira-Liga,0,0,1,0,16,4,12,13,21,0,0,3,1,6,1,16,9,15,2018-2019
+2019-01-20,Boavista,Portimonense,0,2,NA,NA,4145,Manuel Mota,https://fbref.com/en/matches/05967561/Boavista-Portimonense-January-20-2019-Primeira-Liga,0,0,1,0,13,2,12,12,17,0,0,1,0,12,4,14,16,13,2018-2019
+2019-01-20,Rio Ave,Feirense,0,0,NA,NA,2052,João Pinheiro,https://fbref.com/en/matches/199f4b22/Rio-Ave-Feirense-January-20-2019-Primeira-Liga,0,0,0,0,12,2,2,10,15,0,0,4,0,8,3,10,13,31,2018-2019
+2019-01-28,Marítimo,Rio Ave,0,2,NA,NA,5420,Hugo Miguel,https://fbref.com/en/matches/358391a8/Maritimo-Rio-Ave-January-28-2019-Primeira-Liga,0,0,3,0,12,2,7,12,17,1,1,2,0,11,6,12,16,13,2018-2019
+2019-01-28,Tondela,Aves,0,2,NA,NA,1478,Vitor Ferreira Fernandes,https://fbref.com/en/matches/1b73b1c0/Tondela-Aves-January-28-2019-Primeira-Liga,0,0,2,1,6,3,10,12,11,0,0,1,0,14,8,12,18,19,2018-2019
+2019-01-28,Moreirense,Nacional,2,1,NA,NA,1329,Manuel Mota,https://fbref.com/en/matches/a9d28c40/Moreirense-Nacional-January-28-2019-Primeira-Liga,0,0,1,0,15,5,17,7,13,0,0,3,1,6,3,8,9,17,2018-2019
+2019-01-28,Feirense,Vitória,1,2,NA,NA,3014,Nuno Almeida,https://fbref.com/en/matches/8d8ce57b/Feirense-Vitoria-Guimaraes-January-28-2019-Primeira-Liga,0,0,0,0,9,4,15,13,22,0,0,1,0,17,7,7,9,15,2018-2019
+2019-01-29,Benfica,Boavista,5,1,NA,NA,41352,Rui Costa,https://fbref.com/en/matches/c15021c6/Benfica-Boavista-January-29-2019-Primeira-Liga,0,0,0,0,18,9,13,10,16,0,1,1,0,7,3,4,20,16,2018-2019
+2019-01-29,Portimonense,Chaves,0,1,NA,NA,2163,André Narciso,https://fbref.com/en/matches/f3686357/Portimonense-Chaves-January-29-2019-Primeira-Liga,0,0,4,0,14,4,9,14,18,0,0,6,0,10,5,11,19,11,2018-2019
+2019-01-29,Braga,Santa Clara,1,0,NA,NA,6933,João Santos Capela,https://fbref.com/en/matches/7daa23c7/Braga-Santa-Clara-January-29-2019-Primeira-Liga,0,0,2,0,16,2,12,8,19,0,1,1,0,12,2,7,20,17,2018-2019
+2019-01-30,Vitória Setúbal,Sporting CP,1,1,NA,NA,5098,Hélder Malheiro,https://fbref.com/en/matches/0b0b1bed/Vitoria-Setubal-Sporting-CP-January-30-2019-Primeira-Liga,0,0,3,0,10,5,12,5,20,0,0,6,1,23,9,7,17,18,2018-2019
+2019-01-30,Porto,Belenenses,3,0,NA,NA,21808,Luís Godinho,https://fbref.com/en/matches/10c11b8a/Porto-Belenenses-January-30-2019-Primeira-Liga,0,0,1,0,17,8,14,20,18,0,0,2,1,12,2,8,18,16,2018-2019
+2019-02-01,Rio Ave,Tondela,2,2,NA,NA,1159,João Santos Capela,https://fbref.com/en/matches/63d29cc8/Rio-Ave-Tondela-February-1-2019-Primeira-Liga,0,0,4,0,6,3,5,10,24,0,0,3,1,13,4,14,8,17,2018-2019
+2019-02-02,Chaves,Marítimo,1,0,NA,NA,2477,Luís Godinho,https://fbref.com/en/matches/91ba5037/Chaves-Maritimo-February-2-2019-Primeira-Liga,0,0,2,0,11,3,7,12,21,0,0,4,0,9,2,10,16,20,2018-2019
+2019-02-02,Boavista,Feirense,2,0,NA,NA,4056,Hugo Miguel,https://fbref.com/en/matches/c6a3356e/Boavista-Feirense-February-2-2019-Primeira-Liga,0,0,4,0,12,7,8,26,16,0,0,4,0,7,1,13,11,21,2018-2019
+2019-02-02,Aves,Braga,0,2,NA,NA,2175,Hélder Malheiro,https://fbref.com/en/matches/272e0164/Aves-Braga-February-2-2019-Primeira-Liga,0,0,3,0,7,0,11,15,20,0,0,4,0,13,5,5,9,13,2018-2019
+2019-02-03,Santa Clara,Portimonense,2,1,NA,NA,2321,Vitor Ferreira Fernandes,https://fbref.com/en/matches/6408e263/Santa-Clara-Portimonense-February-3-2019-Primeira-Liga,0,0,2,0,23,11,9,11,7,0,0,1,1,14,6,11,13,12,2018-2019
+2019-02-03,Nacional,Vitória Setúbal,0,0,NA,NA,1675,João Pinto,https://fbref.com/en/matches/3521383a/Nacional-Vitoria-Setubal-February-3-2019-Primeira-Liga,0,0,2,0,16,1,11,13,20,0,1,4,0,8,2,10,9,26,2018-2019
+2019-02-03,Sporting CP,Benfica,2,4,NA,NA,45503,Artur Soares Dias,https://fbref.com/en/matches/7dd542b2/Sporting-CP-Benfica-February-3-2019-Primeira-Liga,1,1,5,0,17,7,19,10,21,1,1,2,1,15,8,14,14,25,2018-2019
+2019-02-03,Vitória,Porto,0,0,NA,NA,25110,Rui Costa,https://fbref.com/en/matches/556921d1/Vitoria-Guimaraes-Porto-February-3-2019-Primeira-Liga,0,0,1,0,8,3,25,14,19,0,0,4,0,22,6,14,14,20,2018-2019
+2019-02-04,Belenenses,Moreirense,0,1,NA,NA,298,Cláudio Ruivo Pereira,https://fbref.com/en/matches/b28edd4b/Belenenses-Moreirense-February-4-2019-Primeira-Liga,0,0,2,0,7,3,11,18,17,0,0,1,0,14,4,14,19,16,2018-2019
+2019-02-08,Moreirense,Porto,1,1,NA,NA,3941,Jorge de Sousa,https://fbref.com/en/matches/10fb13c1/Moreirense-Porto-February-8-2019-Primeira-Liga,0,0,3,0,14,2,18,18,19,0,0,0,0,13,3,12,14,9,2018-2019
+2019-02-09,Marítimo,Aves,0,1,NA,NA,6307,Rui Costa,https://fbref.com/en/matches/512d8e8d/Maritimo-Aves-February-9-2019-Primeira-Liga,0,0,2,0,9,0,13,16,17,0,0,2,0,15,5,7,13,20,2018-2019
+2019-02-09,Portimonense,Rio Ave,0,1,NA,NA,2495,Hélder Malheiro,https://fbref.com/en/matches/9e0d2e4a/Portimonense-Rio-Ave-February-9-2019-Primeira-Liga,0,0,4,1,14,4,8,10,32,0,0,1,0,8,3,15,9,21,2018-2019
+2019-02-09,Tondela,Vitória,1,0,NA,NA,2410,Manuel Oliveira,https://fbref.com/en/matches/6d7e3e37/Tondela-Vitoria-Guimaraes-February-9-2019-Primeira-Liga,0,0,2,0,13,5,11,17,20,0,0,1,0,10,3,6,6,12,2018-2019
+2019-02-10,Braga,Chaves,2,1,NA,NA,17362,Hugo Miguel,https://fbref.com/en/matches/5c3c3b97/Braga-Chaves-February-10-2019-Primeira-Liga,0,0,2,0,15,6,15,14,10,0,0,2,0,9,2,11,21,11,2018-2019
+2019-02-10,Boavista,Santa Clara,1,0,NA,NA,4072,Artur Soares Dias,https://fbref.com/en/matches/867d343d/Boavista-Santa-Clara-February-10-2019-Primeira-Liga,1,1,1,0,13,1,9,11,16,0,0,1,0,10,4,10,16,17,2018-2019
+2019-02-10,Benfica,Nacional,10,0,NA,NA,54810,Nuno Almeida,https://fbref.com/en/matches/68aa1f35/Benfica-Nacional-February-10-2019-Primeira-Liga,1,1,1,0,24,14,17,18,13,0,0,0,0,5,2,14,14,14,2018-2019
+2019-02-10,Feirense,Sporting CP,1,3,NA,NA,4114,Manuel Mota,https://fbref.com/en/matches/8ce23f47/Feirense-Sporting-CP-February-10-2019-Primeira-Liga,0,0,6,0,10,6,11,6,20,0,0,2,0,7,5,13,10,25,2018-2019
+2019-02-11,Vitória Setúbal,Belenenses,0,0,NA,NA,2471,João Santos Capela,https://fbref.com/en/matches/104402bb/Vitoria-Setubal-Belenenses-February-11-2019-Primeira-Liga,0,0,2,0,8,3,6,14,26,0,0,2,1,9,2,8,21,18,2018-2019
+2019-02-15,Rio Ave,Santa Clara,1,2,NA,NA,2343,Vitor Ferreira Fernandes,https://fbref.com/en/matches/37a49394/Rio-Ave-Santa-Clara-February-15-2019-Primeira-Liga,0,0,2,0,15,4,13,12,15,0,0,2,0,9,4,8,20,14,2018-2019
+2019-02-16,Nacional,Feirense,4,0,NA,NA,2654,João Pinheiro,https://fbref.com/en/matches/557d7e1d/Nacional-Feirense-February-16-2019-Primeira-Liga,0,0,1,0,12,6,15,19,17,0,0,4,0,6,0,7,8,18,2018-2019
+2019-02-16,Vitória,Portimonense,2,0,NA,NA,16341,Artur Soares Dias,https://fbref.com/en/matches/f0601210/Vitoria-Guimaraes-Portimonense-February-16-2019-Primeira-Liga,0,0,2,0,14,9,8,5,13,0,0,4,0,9,1,14,12,22,2018-2019
+2019-02-16,Porto,Vitória Setúbal,2,0,NA,NA,41116,Nuno Almeida,https://fbref.com/en/matches/a3cbdb6b/Porto-Vitoria-Setubal-February-16-2019-Primeira-Liga,0,0,3,0,20,6,9,4,16,0,0,4,1,3,0,8,10,7,2018-2019
+2019-02-17,Belenenses,Marítimo,0,1,NA,NA,648,António Nobre,https://fbref.com/en/matches/1bad1d31/Belenenses-Maritimo-February-17-2019-Primeira-Liga,0,0,4,0,15,1,9,7,15,0,0,1,0,14,5,15,7,17,2018-2019
+2019-02-17,Moreirense,Tondela,2,0,NA,NA,2090,Rui Costa,https://fbref.com/en/matches/1ffea9fc/Moreirense-Tondela-February-17-2019-Primeira-Liga,0,0,2,0,13,5,18,15,14,0,0,1,0,8,2,19,11,18,2018-2019
+2019-02-17,Chaves,Boavista,1,1,NA,NA,4836,Manuel Oliveira,https://fbref.com/en/matches/155fd00e/Chaves-Boavista-February-17-2019-Primeira-Liga,1,1,2,0,14,3,9,12,13,0,0,2,0,13,5,8,14,14,2018-2019
+2019-02-17,Sporting CP,Braga,3,0,NA,NA,27673,Jorge de Sousa,https://fbref.com/en/matches/200a95d9/Sporting-CP-Braga-February-17-2019-Primeira-Liga,1,1,5,0,13,7,14,15,21,0,0,3,0,5,1,3,11,18,2018-2019
+2019-02-18,Aves,Benfica,0,3,NA,NA,5159,Hugo Miguel,https://fbref.com/en/matches/97ae6b06/Aves-Benfica-February-18-2019-Primeira-Liga,0,0,1,0,17,4,15,15,16,0,0,3,1,13,6,13,7,16,2018-2019
+2019-02-22,Braga,Belenenses,0,2,NA,NA,9054,Nuno Almeida,https://fbref.com/en/matches/223e241a/Braga-Belenenses-February-22-2019-Primeira-Liga,0,0,1,0,17,5,6,14,10,0,0,3,0,6,4,9,9,10,2018-2019
+2019-02-22,Tondela,Porto,0,3,NA,NA,3963,Luís Godinho,https://fbref.com/en/matches/c695b8d5/Tondela-Porto-February-22-2019-Primeira-Liga,0,0,1,0,11,2,13,15,13,0,0,1,0,15,5,11,10,26,2018-2019
+2019-02-23,Feirense,Moreirense,1,3,NA,NA,3241,Manuel Oliveira,https://fbref.com/en/matches/ad268e0a/Feirense-Moreirense-February-23-2019-Primeira-Liga,0,0,2,0,11,4,17,10,23,0,0,0,0,10,5,15,13,16,2018-2019
+2019-02-23,Portimonense,Aves,1,1,NA,NA,2850,Jorge de Sousa,https://fbref.com/en/matches/25249a26/Portimonense-Aves-February-23-2019-Primeira-Liga,0,0,2,0,11,5,13,12,15,0,0,3,0,7,3,13,11,21,2018-2019
+2019-02-23,Vitória Setúbal,Vitória,1,1,NA,NA,2954,Hugo Miguel,https://fbref.com/en/matches/35f7e19e/Vitoria-Setubal-Vitoria-Guimaraes-February-23-2019-Primeira-Liga,1,1,2,0,14,6,12,4,17,0,0,3,1,21,6,11,6,19,2018-2019
+2019-02-24,Santa Clara,Nacional,2,0,NA,NA,1896,António Nobre,https://fbref.com/en/matches/730e9243/Santa-Clara-Nacional-February-24-2019-Primeira-Liga,0,0,3,0,8,3,9,17,22,0,0,3,1,13,3,9,14,10,2018-2019
+2019-02-24,Boavista,Rio Ave,1,0,NA,NA,4649,Fábio Costa,https://fbref.com/en/matches/79c85629/Boavista-Rio-Ave-February-24-2019-Primeira-Liga,1,1,4,0,8,5,11,16,22,0,0,4,2,17,5,10,15,20,2018-2019
+2019-02-25,Marítimo,Sporting CP,0,0,NA,NA,9174,Tiago Martins,https://fbref.com/en/matches/1b2a453e/Maritimo-Sporting-CP-February-25-2019-Primeira-Liga,0,0,5,0,7,2,7,24,16,0,0,4,1,17,5,5,12,12,2018-2019
+2019-02-25,Benfica,Chaves,4,0,NA,NA,46897,Manuel Mota,https://fbref.com/en/matches/01bb202f/Benfica-Chaves-February-25-2019-Primeira-Liga,0,0,3,0,25,11,19,9,12,0,0,3,0,5,2,9,14,14,2018-2019
+2019-03-01,Aves,Boavista,2,0,NA,NA,2710,Nuno Almeida,https://fbref.com/en/matches/3f37b3b4/Aves-Boavista-March-1-2019-Primeira-Liga,0,0,2,0,22,7,14,11,14,0,0,3,0,3,1,11,18,19,2018-2019
+2019-03-02,Nacional,Tondela,3,2,NA,NA,2335,Hélder Malheiro,https://fbref.com/en/matches/017f1276/Nacional-Tondela-March-2-2019-Primeira-Liga,0,0,2,0,19,6,11,10,11,1,1,4,0,13,4,7,13,22,2018-2019
+2019-03-02,Moreirense,Vitória Setúbal,1,1,NA,NA,1868,João Pinto,https://fbref.com/en/matches/5015f73c/Moreirense-Vitoria-Setubal-March-2-2019-Primeira-Liga,0,0,2,1,15,3,9,9,20,0,0,4,0,5,1,19,17,16,2018-2019
+2019-03-02,Porto,Benfica,1,2,NA,NA,49220,Jorge de Sousa,https://fbref.com/en/matches/9b65c54c/Porto-Benfica-March-2-2019-Primeira-Liga,0,0,2,0,21,7,11,8,12,0,0,5,1,9,4,16,11,21,2018-2019
+2019-03-03,Belenenses,Feirense,4,0,NA,NA,2241,Luís Godinho,https://fbref.com/en/matches/22b9597a/Belenenses-Feirense-March-3-2019-Primeira-Liga,0,0,1,0,12,6,9,13,18,0,0,2,0,13,2,10,20,22,2018-2019
+2019-03-03,Chaves,Santa Clara,0,0,NA,NA,3570,Cláudio Ruivo Pereira,https://fbref.com/en/matches/cf9c3212/Chaves-Santa-Clara-March-3-2019-Primeira-Liga,0,0,2,0,11,2,16,14,22,0,0,3,0,7,1,9,10,18,2018-2019
+2019-03-03,Rio Ave,Braga,1,2,NA,NA,3306,Artur Soares Dias,https://fbref.com/en/matches/c8699e17/Rio-Ave-Braga-March-3-2019-Primeira-Liga,0,0,2,1,8,2,8,13,10,0,0,4,0,14,3,12,4,15,2018-2019
+2019-03-03,Sporting CP,Portimonense,3,1,NA,NA,24907,João Santos Capela,https://fbref.com/en/matches/bb9d7490/Sporting-CP-Portimonense-March-3-2019-Primeira-Liga,1,1,3,0,15,5,16,12,21,0,0,2,0,15,7,16,9,19,2018-2019
+2019-03-04,Vitória,Marítimo,1,0,NA,NA,15301,João Pinheiro,https://fbref.com/en/matches/ba9b4654/Vitoria-Guimaraes-Maritimo-March-4-2019-Primeira-Liga,0,0,4,0,18,7,10,13,20,0,0,1,0,15,4,15,17,8,2018-2019
+2019-03-08,Chaves,Rio Ave,1,1,NA,NA,2990,Rui Costa,https://fbref.com/en/matches/baf1fb5f/Chaves-Rio-Ave-March-8-2019-Primeira-Liga,0,0,4,0,20,5,18,6,19,0,0,7,1,7,1,8,8,18,2018-2019
+2019-03-09,Marítimo,Moreirense,3,2,NA,NA,5700,Hugo Miguel,https://fbref.com/en/matches/d76324e6/Maritimo-Moreirense-March-9-2019-Primeira-Liga,0,0,2,0,13,4,11,20,25,0,0,1,0,15,5,9,20,17,2018-2019
+2019-03-09,Braga,Vitória,1,0,NA,NA,16778,Luís Godinho,https://fbref.com/en/matches/268bffcf/Braga-Vitoria-Guimaraes-March-9-2019-Primeira-Liga,0,0,1,0,10,6,13,22,26,0,0,2,0,11,3,8,13,16,2018-2019
+2019-03-09,Boavista,Sporting CP,1,2,NA,NA,7628,João Pinheiro,https://fbref.com/en/matches/b05cab13/Boavista-Sporting-CP-March-9-2019-Primeira-Liga,0,0,4,0,7,2,14,7,23,1,1,1,0,23,5,11,4,15,2018-2019
+2019-03-10,Santa Clara,Aves,0,0,NA,NA,3015,Tiago Martins,https://fbref.com/en/matches/314e9ce7/Santa-Clara-Aves-March-10-2019-Primeira-Liga,0,0,2,0,10,2,9,10,18,0,0,2,0,9,2,4,17,16,2018-2019
+2019-03-10,Portimonense,Nacional,5,1,NA,NA,3066,Vitor Ferreira Fernandes,https://fbref.com/en/matches/15ffd97a/Portimonense-Nacional-March-10-2019-Primeira-Liga,1,2,1,0,21,12,4,9,11,0,0,5,1,12,5,11,26,16,2018-2019
+2019-03-10,Vitória Setúbal,Tondela,0,0,NA,NA,4094,Fábio Costa,https://fbref.com/en/matches/79830261/Vitoria-Setubal-Tondela-March-10-2019-Primeira-Liga,0,0,3,0,11,2,12,13,16,0,0,6,1,5,0,13,6,16,2018-2019
+2019-03-10,Feirense,Porto,1,2,NA,NA,5414,Artur Soares Dias,https://fbref.com/en/matches/b5640daf/Feirense-Porto-March-10-2019-Primeira-Liga,0,0,2,0,5,2,8,14,19,0,0,0,0,17,5,6,12,14,2018-2019
+2019-03-11,Benfica,Belenenses,2,2,NA,NA,52158,João Santos Capela,https://fbref.com/en/matches/c60361bb/Benfica-Belenenses-March-11-2019-Primeira-Liga,0,0,0,0,22,1,11,12,12,0,0,4,1,8,3,11,10,15,2018-2019
+2019-03-15,Sporting CP,Santa Clara,1,0,NA,NA,28129,Manuel Oliveira,https://fbref.com/en/matches/c1a3ccf4/Sporting-CP-Santa-Clara-March-15-2019-Primeira-Liga,0,0,2,0,16,7,7,7,16,0,0,1,0,6,2,7,15,14,2018-2019
+2019-03-16,Vitória Setúbal,Braga,0,1,NA,NA,5717,Manuel Mota,https://fbref.com/en/matches/8d8dec3e/Vitoria-Setubal-Braga-March-16-2019-Primeira-Liga,0,0,1,0,15,8,10,16,19,0,0,2,0,13,6,17,8,13,2018-2019
+2019-03-16,Belenenses,Portimonense,2,2,NA,NA,2219,André Narciso,https://fbref.com/en/matches/3224c146/Belenenses-Portimonense-March-16-2019-Primeira-Liga,0,0,1,0,10,4,11,13,14,0,0,1,0,17,6,10,15,16,2018-2019
+2019-03-16,Vitória,Boavista,3,1,NA,NA,17985,Tiago Martins,https://fbref.com/en/matches/01a1c51c/Vitoria-Guimaraes-Boavista-March-16-2019-Primeira-Liga,0,0,2,0,16,10,14,8,18,0,0,1,0,10,3,19,21,18,2018-2019
+2019-03-16,Porto,Marítimo,3,0,NA,NA,46413,João Santos Capela,https://fbref.com/en/matches/28e6c3f6/Porto-Maritimo-March-16-2019-Primeira-Liga,1,1,1,0,32,8,8,10,12,0,0,2,1,0,0,8,7,8,2018-2019
+2019-03-17,Nacional,Rio Ave,0,1,NA,NA,2373,António Nobre,https://fbref.com/en/matches/dce72c89/Nacional-Rio-Ave-March-17-2019-Primeira-Liga,0,0,2,0,20,6,12,9,15,0,0,2,0,4,2,10,7,18,2018-2019
+2019-03-17,Aves,Chaves,0,1,NA,NA,3491,Artur Soares Dias,https://fbref.com/en/matches/05610aab/Aves-Chaves-March-17-2019-Primeira-Liga,0,0,2,0,26,5,14,12,17,0,0,2,0,7,2,24,16,11,2018-2019
+2019-03-17,Moreirense,Benfica,0,4,NA,NA,5510,Nuno Almeida,https://fbref.com/en/matches/f890eadb/Moreirense-Benfica-March-17-2019-Primeira-Liga,0,0,4,0,11,3,16,10,18,0,0,0,0,10,5,13,12,10,2018-2019
+2019-03-17,Tondela,Feirense,1,1,NA,NA,1871,Jorge de Sousa,https://fbref.com/en/matches/24603eb8/Tondela-Feirense-March-17-2019-Primeira-Liga,0,0,7,1,12,3,9,11,22,0,0,1,0,12,4,10,6,23,2018-2019
+2019-03-29,Portimonense,Moreirense,0,2,NA,NA,2462,João Pinheiro,https://fbref.com/en/matches/ef64f72c/Portimonense-Moreirense-March-29-2019-Primeira-Liga,0,0,3,0,23,8,16,16,15,0,0,1,0,13,5,11,16,15,2018-2019
+2019-03-30,Braga,Porto,2,3,NA,NA,20106,Jorge de Sousa,https://fbref.com/en/matches/c29a5110/Braga-Porto-March-30-2019-Primeira-Liga,0,0,1,0,9,3,8,7,22,2,2,4,0,14,6,6,5,12,2018-2019
+2019-03-30,Chaves,Sporting CP,1,3,NA,NA,6229,Manuel Mota,https://fbref.com/en/matches/fc4be526/Chaves-Sporting-CP-March-30-2019-Primeira-Liga,0,0,4,1,8,2,14,15,13,0,0,2,1,19,7,15,12,11,2018-2019
+2019-03-30,Santa Clara,Vitória,1,0,NA,NA,2601,Hugo Miguel,https://fbref.com/en/matches/1deb9cef/Santa-Clara-Vitoria-Guimaraes-March-30-2019-Primeira-Liga,0,0,3,0,9,4,9,16,11,0,0,1,0,11,2,10,11,15,2018-2019
+2019-03-30,Benfica,Tondela,1,0,NA,NA,56594,Carlos Xistra,https://fbref.com/en/matches/4ee59e55/Benfica-Tondela-March-30-2019-Primeira-Liga,0,0,1,0,16,4,15,10,9,0,0,4,0,12,4,14,24,13,2018-2019
+2019-03-31,Marítimo,Nacional,3,2,NA,NA,8972,Luís Godinho,https://fbref.com/en/matches/0fd3a65c/Maritimo-Nacional-March-31-2019-Primeira-Liga,1,1,2,0,11,5,17,13,15,2,2,3,0,20,6,8,8,16,2018-2019
+2019-03-31,Rio Ave,Aves,0,2,NA,NA,4955,Vitor Ferreira Fernandes,https://fbref.com/en/matches/79cd92ea/Rio-Ave-Aves-March-31-2019-Primeira-Liga,0,0,1,0,20,3,8,4,12,1,1,4,0,17,5,12,9,16,2018-2019
+2019-03-31,Boavista,Belenenses,2,0,NA,NA,10812,Nuno Almeida,https://fbref.com/en/matches/6ccc9c1b/Boavista-Belenenses-March-31-2019-Primeira-Liga,0,0,2,0,14,4,15,13,26,0,0,1,0,7,4,7,11,10,2018-2019
+2019-04-01,Feirense,Vitória Setúbal,0,1,NA,NA,2632,Rui Costa,https://fbref.com/en/matches/63fa0a02/Feirense-Vitoria-Setubal-April-1-2019-Primeira-Liga,0,0,1,1,16,3,10,11,13,0,0,2,0,9,3,10,10,16,2018-2019
+2019-04-05,Porto,Boavista,2,0,NA,NA,39129,Rui Costa,https://fbref.com/en/matches/0418197c/Porto-Boavista-April-5-2019-Primeira-Liga,1,1,0,0,17,8,10,9,15,0,0,2,0,5,1,12,16,17,2018-2019
+2019-04-06,Nacional,Aves,0,0,NA,NA,2367,Jorge de Sousa,https://fbref.com/en/matches/4920ab99/Nacional-Aves-April-6-2019-Primeira-Liga,0,0,3,1,14,5,9,11,9,0,0,2,1,9,2,20,5,16,2018-2019
+2019-04-06,Belenenses,Santa Clara,1,1,NA,NA,1509,Carlos Xistra,https://fbref.com/en/matches/e14c1ea8/Belenenses-Santa-Clara-April-6-2019-Primeira-Liga,0,0,1,1,8,2,8,13,14,0,0,5,0,15,1,8,4,17,2018-2019
+2019-04-06,Vitória,Chaves,4,0,NA,NA,12606,João Santos Capela,https://fbref.com/en/matches/05ccaeb3/Vitoria-Guimaraes-Chaves-April-6-2019-Primeira-Liga,1,1,0,0,13,6,12,5,12,0,0,1,0,18,6,10,14,14,2018-2019
+2019-04-06,Moreirense,Braga,1,0,NA,NA,1502,Artur Soares Dias,https://fbref.com/en/matches/9e454340/Moreirense-Braga-April-6-2019-Primeira-Liga,0,0,1,0,8,2,14,8,20,0,0,1,0,6,2,20,16,11,2018-2019
+2019-04-07,Vitória Setúbal,Marítimo,1,0,NA,NA,2702,Manuel Oliveira,https://fbref.com/en/matches/1f7bc799/Vitoria-Setubal-Maritimo-April-7-2019-Primeira-Liga,0,0,2,0,14,5,12,15,20,0,0,1,0,6,3,10,7,20,2018-2019
+2019-04-07,Feirense,Benfica,1,4,NA,NA,5449,João Pinheiro,https://fbref.com/en/matches/c30b4ff9/Feirense-Benfica-April-7-2019-Primeira-Liga,0,0,2,0,6,1,11,23,14,1,1,0,0,18,7,14,11,11,2018-2019
+2019-04-07,Sporting CP,Rio Ave,3,0,NA,NA,26198,Luís Godinho,https://fbref.com/en/matches/644e7a9d/Sporting-CP-Rio-Ave-April-7-2019-Primeira-Liga,1,1,0,0,12,5,13,7,20,0,0,0,0,8,3,7,7,11,2018-2019
+2019-04-08,Tondela,Portimonense,3,2,NA,NA,2066,Tiago Martins,https://fbref.com/en/matches/6b13aafc/Tondela-Portimonense-April-8-2019-Primeira-Liga,0,0,2,1,28,8,12,11,8,0,0,4,0,13,5,14,11,13,2018-2019
+2019-04-12,Chaves,Belenenses,2,2,NA,NA,4280,Hélder Malheiro,https://fbref.com/en/matches/e1c88f05/Chaves-Belenenses-April-12-2019-Primeira-Liga,0,0,1,2,13,3,13,17,15,0,0,3,1,22,4,12,12,15,2018-2019
+2019-04-13,Santa Clara,Moreirense,1,1,NA,NA,1277,António Nobre,https://fbref.com/en/matches/348ff9ae/Santa-Clara-Moreirense-April-13-2019-Primeira-Liga,0,0,2,0,11,6,7,10,18,0,0,0,1,17,6,5,7,12,2018-2019
+2019-04-13,Portimonense,Porto,0,3,NA,NA,5989,Fábio Costa,https://fbref.com/en/matches/fb26c520/Portimonense-Porto-April-13-2019-Primeira-Liga,0,0,4,0,9,1,12,17,14,0,0,2,0,11,5,10,19,19,2018-2019
+2019-04-13,Aves,Sporting CP,1,3,NA,NA,2895,Artur Soares Dias,https://fbref.com/en/matches/0bf13cde/Aves-Sporting-CP-April-13-2019-Primeira-Liga,1,1,3,0,21,6,9,8,19,0,0,3,1,13,8,14,10,11,2018-2019
+2019-04-14,Marítimo,Feirense,2,0,NA,NA,7331,Vitor Ferreira Fernandes,https://fbref.com/en/matches/a4fb5a4f/Maritimo-Feirense-April-14-2019-Primeira-Liga,0,0,4,0,8,2,10,6,13,0,1,6,2,5,2,10,8,16,2018-2019
+2019-04-14,Rio Ave,Vitória,2,1,NA,NA,5739,Manuel Oliveira,https://fbref.com/en/matches/f72c7a67/Rio-Ave-Vitoria-Guimaraes-April-14-2019-Primeira-Liga,1,1,3,1,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2018-2019
+2019-04-14,Boavista,Nacional,1,0,NA,NA,16302,Hugo Miguel,https://fbref.com/en/matches/95c01d5a/Boavista-Nacional-April-14-2019-Primeira-Liga,0,0,1,0,15,6,7,10,19,0,0,1,0,14,0,12,9,8,2018-2019
+2019-04-14,Braga,Tondela,3,0,NA,NA,10636,Nuno Almeida,https://fbref.com/en/matches/574adf6b/Braga-Tondela-April-14-2019-Primeira-Liga,0,0,2,0,20,8,15,11,14,0,0,2,0,9,0,13,15,12,2018-2019
+2019-04-14,Benfica,Vitória Setúbal,4,2,NA,NA,56463,Rui Costa,https://fbref.com/en/matches/d79efe99/Benfica-Vitoria-Setubal-April-14-2019-Primeira-Liga,0,1,3,0,20,8,12,12,18,1,1,4,0,15,4,14,9,16,2018-2019
+2019-04-19,Vitória Setúbal,Portimonense,1,1,NA,NA,4167,João Pinheiro,https://fbref.com/en/matches/80e42d70/Vitoria-Setubal-Portimonense-April-19-2019-Primeira-Liga,0,0,2,0,10,2,17,13,18,0,0,4,0,11,5,4,7,13,2018-2019
+2019-04-19,Tondela,Boavista,1,0,NA,NA,3398,Artur Soares Dias,https://fbref.com/en/matches/61b95f22/Tondela-Boavista-April-19-2019-Primeira-Liga,0,0,1,0,19,4,11,10,14,0,0,3,0,16,4,9,14,18,2018-2019
+2019-04-19,Nacional,Sporting CP,0,1,NA,NA,3804,Carlos Xistra,https://fbref.com/en/matches/14b40790/Nacional-Sporting-CP-April-19-2019-Primeira-Liga,0,0,2,0,3,1,13,12,9,0,0,3,0,24,11,11,10,13,2018-2019
+2019-04-19,Vitória,Aves,0,2,NA,NA,12024,Manuel Mota,https://fbref.com/en/matches/dfd61d05/Vitoria-Guimaraes-Aves-April-19-2019-Primeira-Liga,0,0,0,0,19,4,10,10,12,0,0,0,0,14,6,16,15,16,2018-2019
+2019-04-20,Moreirense,Chaves,0,1,NA,NA,1654,Jorge de Sousa,https://fbref.com/en/matches/57ff56e7/Moreirense-Chaves-April-20-2019-Primeira-Liga,0,0,4,0,18,4,11,5,23,0,0,3,0,7,2,14,16,20,2018-2019
+2019-04-20,Belenenses,Rio Ave,1,3,NA,NA,1523,Nuno Almeida,https://fbref.com/en/matches/bedffe73/Belenenses-Rio-Ave-April-20-2019-Primeira-Liga,0,0,2,0,16,3,10,8,21,0,0,1,0,16,7,9,9,11,2018-2019
+2019-04-20,Feirense,Braga,0,2,NA,NA,2157,Fábio Costa,https://fbref.com/en/matches/3bbecb96/Feirense-Braga-April-20-2019-Primeira-Liga,0,0,0,0,8,4,6,11,14,0,0,2,0,21,5,10,2,14,2018-2019
+2019-04-20,Porto,Santa Clara,1,0,NA,NA,43911,Manuel Oliveira,https://fbref.com/en/matches/a372713c/Porto-Santa-Clara-April-20-2019-Primeira-Liga,0,0,2,0,14,5,12,8,14,0,0,1,0,6,2,12,16,14,2018-2019
+2019-04-22,Benfica,Marítimo,6,0,NA,NA,52224,Luís Godinho,https://fbref.com/en/matches/683f7725/Benfica-Maritimo-April-22-2019-Primeira-Liga,0,0,0,0,25,11,9,15,10,0,0,3,0,1,0,6,16,17,2018-2019
+2019-04-26,Rio Ave,Porto,2,2,NA,NA,7532,Artur Soares Dias,https://fbref.com/en/matches/c0089771/Rio-Ave-Porto-April-26-2019-Primeira-Liga,0,0,2,1,10,4,14,14,12,0,0,1,0,11,4,12,15,14,2018-2019
+2019-04-27,Santa Clara,Vitória Setúbal,0,0,NA,NA,2417,Carlos Xistra,https://fbref.com/en/matches/b08f303b/Santa-Clara-Vitoria-Setubal-April-27-2019-Primeira-Liga,0,0,3,0,10,4,2,14,14,0,0,3,0,9,2,6,15,21,2018-2019
+2019-04-27,Portimonense,Feirense,1,0,NA,NA,2540,João Santos Capela,https://fbref.com/en/matches/49c05aa5/Portimonense-Feirense-April-27-2019-Primeira-Liga,0,0,2,1,18,6,11,5,13,0,0,0,1,5,3,16,6,13,2018-2019
+2019-04-27,Sporting CP,Vitória,2,0,NA,NA,44107,Rui Costa,https://fbref.com/en/matches/fd0971e0/Sporting-CP-Vitoria-Guimaraes-April-27-2019-Primeira-Liga,0,0,0,0,24,8,15,15,17,0,0,1,0,10,2,8,9,8,2018-2019
+2019-04-27,Aves,Belenenses,3,0,NA,NA,2027,Fábio Costa,https://fbref.com/en/matches/41e3e3ca/Aves-Belenenses-April-27-2019-Primeira-Liga,2,2,2,0,14,8,12,16,14,0,0,4,0,10,3,9,10,12,2018-2019
+2019-04-28,Chaves,Nacional,4,1,NA,NA,4045,Luís Godinho,https://fbref.com/en/matches/ecd10943/Chaves-Nacional-April-28-2019-Primeira-Liga,1,1,2,0,12,4,16,7,17,1,1,2,0,17,4,9,10,15,2018-2019
+2019-04-28,Marítimo,Tondela,2,0,NA,NA,5873,Hugo Miguel,https://fbref.com/en/matches/3e585266/Maritimo-Tondela-April-28-2019-Primeira-Liga,0,0,2,0,8,2,13,17,9,0,0,0,0,9,3,9,8,7,2018-2019
+2019-04-28,Braga,Benfica,1,4,NA,NA,24046,Tiago Martins,https://fbref.com/en/matches/d0e8d9f6/Braga-Benfica-April-28-2019-Primeira-Liga,1,1,4,0,12,3,9,9,14,2,2,6,0,18,9,14,9,16,2018-2019
+2019-04-28,Boavista,Moreirense,3,1,NA,NA,12374,Nuno Almeida,https://fbref.com/en/matches/f2dd9e68/Boavista-Moreirense-April-28-2019-Primeira-Liga,0,0,2,0,8,4,18,8,11,0,0,3,0,7,4,15,4,14,2018-2019
+2019-05-03,Moreirense,Rio Ave,1,2,NA,NA,1193,João Pinto,https://fbref.com/en/matches/c4a40f5d/Moreirense-Rio-Ave-May-3-2019-Primeira-Liga,0,0,2,0,14,6,15,9,16,0,0,3,0,6,2,12,10,20,2018-2019
+2019-05-04,Feirense,Chaves,4,4,NA,NA,2183,Manuel Mota,https://fbref.com/en/matches/8d884a8e/Feirense-Chaves-May-4-2019-Primeira-Liga,0,0,5,0,12,6,12,11,22,0,0,1,0,13,7,10,12,19,2018-2019
+2019-05-04,Marítimo,Braga,1,0,NA,NA,5753,Manuel Oliveira,https://fbref.com/en/matches/65a64da0/Maritimo-Braga-May-4-2019-Primeira-Liga,0,0,0,1,6,3,5,9,10,0,0,1,0,21,6,5,7,10,2018-2019
+2019-05-04,Benfica,Portimonense,5,1,NA,NA,60677,Artur Soares Dias,https://fbref.com/en/matches/3ae8a686/Benfica-Portimonense-May-4-2019-Primeira-Liga,0,0,0,0,19,12,14,8,10,0,0,0,0,11,5,10,11,11,2018-2019
+2019-05-04,Porto,Aves,4,0,NA,NA,40017,Hugo Miguel,https://fbref.com/en/matches/94493f0c/Porto-Aves-May-4-2019-Primeira-Liga,1,1,1,0,20,11,14,13,14,0,0,2,0,7,1,13,9,16,2018-2019
+2019-05-05,Tondela,Santa Clara,1,3,NA,NA,3916,João Pinheiro,https://fbref.com/en/matches/4ac6e75d/Tondela-Santa-Clara-May-5-2019-Primeira-Liga,1,1,1,0,15,7,5,16,19,1,1,3,0,10,4,11,13,11,2018-2019
+2019-05-05,Belenenses,Sporting CP,1,8,NA,NA,5209,João Santos Capela,https://fbref.com/en/matches/68fbd01c/Belenenses-Sporting-CP-May-5-2019-Primeira-Liga,0,0,2,1,9,3,5,8,10,1,1,2,0,23,12,8,5,17,2018-2019
+2019-05-05,Vitória,Nacional,2,2,NA,NA,13753,Jorge de Sousa,https://fbref.com/en/matches/b89a8038/Vitoria-Guimaraes-Nacional-May-5-2019-Primeira-Liga,1,1,4,1,10,5,9,7,12,0,0,5,0,13,5,8,7,25,2018-2019
+2019-05-06,Vitória Setúbal,Boavista,0,3,NA,NA,5830,Fábio Costa,https://fbref.com/en/matches/81248ee6/Vitoria-Setubal-Boavista-May-6-2019-Primeira-Liga,0,0,2,3,7,1,9,8,17,0,0,2,0,13,4,10,9,21,2018-2019
+2019-05-10,Aves,Moreirense,0,1,NA,NA,2468,João Santos Capela,https://fbref.com/en/matches/8922f310/Aves-Moreirense-May-10-2019-Primeira-Liga,0,1,2,0,12,4,15,14,8,0,0,2,0,7,3,6,16,17,2018-2019
+2019-05-11,Santa Clara,Feirense,4,4,NA,NA,3746,João Pinto,https://fbref.com/en/matches/b2607350/Santa-Clara-Feirense-May-11-2019-Primeira-Liga,0,0,1,0,11,5,8,13,13,1,1,2,0,9,6,6,13,19,2018-2019
+2019-05-11,Portimonense,Marítimo,3,2,NA,NA,2921,Cláudio Ruivo Pereira,https://fbref.com/en/matches/58bc7593/Portimonense-Maritimo-May-11-2019-Primeira-Liga,0,0,0,0,16,5,6,6,13,1,1,2,0,6,3,9,7,18,2018-2019
+2019-05-11,Boavista,Braga,4,2,NA,NA,19592,André Narciso,https://fbref.com/en/matches/f0def1f2/Boavista-Braga-May-11-2019-Primeira-Liga,0,0,4,0,14,6,15,12,19,1,1,1,0,25,9,12,11,24,2018-2019
+2019-05-11,Sporting CP,Tondela,1,1,NA,NA,41665,Tiago Martins,https://fbref.com/en/matches/10a01360/Sporting-CP-Tondela-May-11-2019-Primeira-Liga,1,1,4,1,17,6,13,12,16,0,0,6,0,15,4,9,12,18,2018-2019
+2019-05-12,Chaves,Vitória Setúbal,1,2,NA,NA,7650,Artur Soares Dias,https://fbref.com/en/matches/0543ace1/Chaves-Vitoria-Setubal-May-12-2019-Primeira-Liga,1,1,4,0,9,2,8,9,21,0,0,4,0,8,4,10,17,15,2018-2019
+2019-05-12,Vitória,Belenenses,5,1,NA,NA,14417,Hélder Malheiro,https://fbref.com/en/matches/8215e38e/Vitoria-Guimaraes-Belenenses-May-12-2019-Primeira-Liga,1,1,1,0,14,8,6,7,8,0,0,2,0,8,3,12,14,18,2018-2019
+2019-05-12,Nacional,Porto,0,4,NA,NA,4098,Carlos Xistra,https://fbref.com/en/matches/82aa5470/Nacional-Porto-May-12-2019-Primeira-Liga,0,0,1,0,12,4,12,6,17,1,1,0,0,17,6,10,8,18,2018-2019
+2019-05-12,Rio Ave,Benfica,2,3,NA,NA,8836,Hugo Miguel,https://fbref.com/en/matches/e2aa4ea4/Rio-Ave-Benfica-May-12-2019-Primeira-Liga,0,0,3,0,12,6,11,10,10,0,0,4,0,13,6,9,14,15,2018-2019
+2019-05-16,Belenenses,Nacional,3,0,NA,NA,942,Vitor Ferreira Fernandes,https://fbref.com/en/matches/ea50dea9/Belenenses-Nacional-May-16-2019-Primeira-Liga,0,0,2,0,9,5,10,14,18,0,0,3,0,18,4,9,13,14,2018-2019
+2019-05-17,Braga,Portimonense,2,0,NA,NA,6541,João Santos Capela,https://fbref.com/en/matches/37be80b0/Braga-Portimonense-May-17-2019-Primeira-Liga,1,1,1,0,13,7,12,9,17,0,0,2,0,7,1,10,16,25,2018-2019
+2019-05-18,Marítimo,Boavista,0,1,NA,NA,4795,João Pinto,https://fbref.com/en/matches/26afa14e/Maritimo-Boavista-May-18-2019-Primeira-Liga,0,0,1,0,18,5,11,4,18,0,0,3,0,9,3,18,8,16,2018-2019
+2019-05-18,Vitória Setúbal,Rio Ave,1,3,NA,NA,6109,Cláudio Ruivo Pereira,https://fbref.com/en/matches/b8e75066/Vitoria-Setubal-Rio-Ave-May-18-2019-Primeira-Liga,0,0,1,0,9,4,18,14,19,0,0,2,0,15,7,7,2,20,2018-2019
+2019-05-18,Feirense,Aves,2,1,NA,NA,1772,André Narciso,https://fbref.com/en/matches/95a58ae8/Feirense-Aves-May-18-2019-Primeira-Liga,0,0,3,0,17,8,11,12,20,0,0,1,0,15,4,12,9,14,2018-2019
+2019-05-18,Porto,Sporting CP,2,1,NA,NA,39808,Fábio Costa,https://fbref.com/en/matches/4da455e9/Porto-Sporting-CP-May-18-2019-Primeira-Liga,0,0,4,1,29,8,14,11,18,0,0,4,1,2,1,5,10,11,2018-2019
+2019-05-18,Benfica,Santa Clara,4,1,NA,NA,64064,Jorge de Sousa,https://fbref.com/en/matches/b0be94ec/Benfica-Santa-Clara-May-18-2019-Primeira-Liga,0,0,0,0,21,8,12,10,10,0,0,1,0,17,3,12,12,3,2018-2019
+2019-05-19,Tondela,Chaves,5,2,NA,NA,4985,João Pinheiro,https://fbref.com/en/matches/01c82422/Tondela-Chaves-May-19-2019-Primeira-Liga,0,0,5,0,13,7,11,5,19,0,0,3,0,18,5,4,7,28,2018-2019
+2019-05-19,Moreirense,Vitória,1,3,NA,NA,4185,Carlos Xistra,https://fbref.com/en/matches/01405edf/Moreirense-Vitoria-Guimaraes-May-19-2019-Primeira-Liga,0,0,3,0,16,6,10,13,23,0,0,2,0,14,6,9,7,16,2018-2019

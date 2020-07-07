@@ -1,0 +1,469 @@
+date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_report_url,home_pk_goals,home_pk_attempts,home_yellow_cards,home_red_cards,home_shots,home_shots_on_target,home_tackles,home_interceptions,home_fouls_committed,away_pk_goals,away_pk_attempts,away_yellow_cards,away_red_cards,away_shots,away_shots_on_target,away_tackles,away_interceptions,away_fouls_committed,season
+2016-08-19,Mirandés,Getafe,1,1,NA,NA,3041,Alberola Rojas,https://fbref.com/en/matches/6c23154d/Mirandes-Getafe-August-19-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2016-2017
+2016-08-19,Almería,Cádiz,1,1,NA,NA,8771,Francisco Arias,https://fbref.com/en/matches/2cb40c1a/Almeria-Cadiz-August-19-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-08-20,Elche,Rayo Vallecano,2,1,NA,NA,7025,Rubén Eiriz,https://fbref.com/en/matches/fab5f359/Elche-Rayo-Vallecano-August-20-2016-Segunda-Division,1,1,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2016-08-20,Mallorca,Reus,0,1,NA,NA,8437,Saúl Ais,https://fbref.com/en/matches/9404e091/Mallorca-Reus-August-20-2016-Segunda-Division,0,0,3,1,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2016-2017
+2016-08-20,Alcorcón,Huesca,0,0,NA,NA,1621,Gorka Sagues,https://fbref.com/en/matches/3ed108d8/Alcorcon-Huesca-August-20-2016-Segunda-Division,0,0,5,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-08-20,Córdoba,Tenerife,1,0,NA,NA,12564,Eduardo Prieto ,https://fbref.com/en/matches/ccf6a3e2/Cordoba-Tenerife-August-20-2016-Segunda-Division,0,1,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
+2016-08-21,Gimnàstic,Lugo,2,2,NA,NA,4846,Guillermo Cuadra,https://fbref.com/en/matches/f7fdaf36/Gimnastic-Lugo-August-21-2016-Segunda-Division,1,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2016-2017
+2016-08-21,Numancia,Levante,0,1,NA,NA,3151,Pablo González,https://fbref.com/en/matches/932c0be5/Numancia-Levante-August-21-2016-Segunda-Division,0,0,3,2,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2016-2017
+2016-08-21,Sevilla B,Girona,3,3,NA,NA,4057,Juan Pulido,https://fbref.com/en/matches/6b826e33/Sevilla-Atletico-Girona-August-21-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-08-21,Valladolid,Oviedo,1,0,NA,NA,7996,Pedro Pérez,https://fbref.com/en/matches/89e2cc32/Valladolid-Oviedo-August-21-2016-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-08-22,Zaragoza,UCAM Murcia,3,1,NA,NA,14900,Jorge Valdés Aller,https://fbref.com/en/matches/ff936835/Zaragoza-UCAM-Murcia-August-22-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2016-2017
+2016-08-26,Getafe,Numancia,0,0,NA,NA,4366,Dámaso Arcediano,https://fbref.com/en/matches/64b9129f/Getafe-Numancia-August-26-2016-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
+2016-08-26,Tenerife,Sevilla B,1,1,NA,NA,7915,Oliver De La Fuente,https://fbref.com/en/matches/5877453c/Tenerife-Sevilla-Atletico-August-26-2016-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,2016-2017
+2016-08-27,Girona,Elche,3,1,NA,NA,4381,Aitor Gorostegui,https://fbref.com/en/matches/c3254d40/Girona-Elche-August-27-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-08-27,Oviedo,Almería,2,0,NA,NA,12604,Adrián Cordero,https://fbref.com/en/matches/49207e5f/Oviedo-Almeria-August-27-2016-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,2016-2017
+2016-08-27,Reus,Mirandés,1,1,NA,NA,3078,Juan López,https://fbref.com/en/matches/04365b6b/Reus-Mirandes-August-27-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-08-27,Lugo,Zaragoza,3,3,NA,NA,3920,Jorge Figueroa,https://fbref.com/en/matches/36ec1e1a/Lugo-Zaragoza-August-27-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-08-28,Levante,Alcorcón,2,0,NA,NA,10225,Víctor Areces,https://fbref.com/en/matches/aeadff20/Levante-Alcorcon-August-28-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-08-28,Huesca,Gimnàstic,1,1,NA,NA,2763,David Pérez,https://fbref.com/en/matches/a375dbe6/Huesca-Gimnastic-August-28-2016-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-08-28,UCAM Murcia,Córdoba,1,1,NA,NA,2813,Isidro Díaz de Mera,https://fbref.com/en/matches/26ed7e13/UCAM-Murcia-Cordoba-August-28-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-08-28,Rayo Vallecano,Valladolid,0,0,NA,NA,8095,David Medié,https://fbref.com/en/matches/366fe306/Rayo-Vallecano-Valladolid-August-28-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2016-08-28,Cádiz,Mallorca,1,1,NA,NA,16471,Valentín Pizarro,https://fbref.com/en/matches/2f099ca4/Cadiz-Mallorca-August-28-2016-Segunda-Division,1,1,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2016-2017
+2016-09-02,Sevilla B,UCAM Murcia,1,1,NA,NA,4669,Gorka Sagues,https://fbref.com/en/matches/61cb7992/Sevilla-Atletico-UCAM-Murcia-September-2-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2016-2017
+2016-09-02,Córdoba,Lugo,3,3,NA,NA,14449,Juan Pulido,https://fbref.com/en/matches/e70a6456/Cordoba-Lugo-September-2-2016-Segunda-Division,2,2,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2016-2017
+2016-09-03,Mirandés,Cádiz,3,2,NA,NA,3060,Saúl Ais,https://fbref.com/en/matches/0d3c1fb5/Mirandes-Cadiz-September-3-2016-Segunda-Division,1,1,1,0,0,0,0,0,0,0,0,7,1,0,0,0,0,0,2016-2017
+2016-09-03,Almería,Rayo Vallecano,3,0,NA,NA,7826,Javier Alberola Rojas,https://fbref.com/en/matches/35af1bf2/Almeria-Rayo-Vallecano-September-3-2016-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-09-03,Valladolid,Girona,2,1,NA,NA,7958,Jorge Valdés Aller,https://fbref.com/en/matches/3b760c95/Valladolid-Girona-September-3-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-09-03,Getafe,Reus,1,1,NA,NA,4529,Guillermo Cuadra,https://fbref.com/en/matches/b5e5c73d/Getafe-Reus-September-3-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2016-2017
+2016-09-03,Elche,Tenerife,3,1,NA,NA,7363,Jorge Valdés Aller,https://fbref.com/en/matches/0798b1a6/Elche-Tenerife-September-3-2016-Segunda-Division,1,1,1,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,2016-2017
+2016-09-04,Numancia,Alcorcón,1,1,NA,NA,2104,Francisco Arias,https://fbref.com/en/matches/5d14eb3e/Numancia-Alcorcon-September-4-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-09-04,Gimnàstic,Levante,1,1,NA,NA,4781,Pedro Pérez,https://fbref.com/en/matches/489ed0c0/Gimnastic-Levante-September-4-2016-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-09-04,Mallorca,Oviedo,0,0,NA,NA,9471,Eduardo Prieto ,https://fbref.com/en/matches/1c633f38/Mallorca-Oviedo-September-4-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-09-04,Zaragoza,Huesca,1,0,NA,NA,21345,Pablo González,https://fbref.com/en/matches/a4f3147b/Zaragoza-Huesca-September-4-2016-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2016-2017
+2016-09-10,Lugo,Sevilla B,1,0,NA,NA,2552,Isidro Díaz de Mera,https://fbref.com/en/matches/e8e9f03e/Lugo-Sevilla-Atletico-September-10-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2016-09-10,Tenerife,Valladolid,1,0,NA,NA,7785,Dámaso Arcediano,https://fbref.com/en/matches/83e1d70a/Tenerife-Valladolid-September-10-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-09-10,Reus,Numancia,1,1,NA,NA,3152,Aitor Gorostegui,https://fbref.com/en/matches/745bfd3f/Reus-Numancia-September-10-2016-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,2016-2017
+2016-09-10,Levante,Zaragoza,4,2,NA,NA,11698,David Medié,https://fbref.com/en/matches/21ce6450/Levante-Zaragoza-September-10-2016-Segunda-Division,1,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-09-11,Rayo Vallecano,Mallorca,1,0,NA,NA,8142,Jorge Figueroa,https://fbref.com/en/matches/12ae73e2/Rayo-Vallecano-Mallorca-September-11-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2016-09-11,Oviedo,Mirandés,0,0,NA,NA,13452,Valentín Pizarro,https://fbref.com/en/matches/885b312b/Oviedo-Mirandes-September-11-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-09-11,UCAM Murcia,Elche,1,1,NA,NA,4893,Oliver De La Fuente,https://fbref.com/en/matches/4243fb86/UCAM-Murcia-Elche-September-11-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2016-09-11,Huesca,Córdoba,3,0,NA,NA,2654,Adrián Cordero,https://fbref.com/en/matches/cf1e1cee/Huesca-Cordoba-September-11-2016-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-09-11,Alcorcón,Gimnàstic,1,0,NA,NA,2176,Juan López,https://fbref.com/en/matches/7e2160f3/Alcorcon-Gimnastic-September-11-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-09-11,Cádiz,Getafe,3,0,NA,NA,15323,David Pérez,https://fbref.com/en/matches/59038329/Cadiz-Getafe-September-11-2016-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-09-11,Girona,Almería,3,3,NA,NA,4917,Víctor Areces,https://fbref.com/en/matches/d3766cda/Girona-Almeria-September-11-2016-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-09-17,Numancia,Gimnàstic,1,0,NA,NA,2392,Juan Pulido,https://fbref.com/en/matches/6f0433ee/Numancia-Gimnastic-September-17-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2016-2017
+2016-09-17,Reus,Cádiz,1,0,NA,NA,3913,Eduardo Prieto ,https://fbref.com/en/matches/ad6d0b83/Reus-Cadiz-September-17-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-09-17,Córdoba,Levante,1,0,NA,NA,13568,Gorka Sagues,https://fbref.com/en/matches/b6670511/Cordoba-Levante-September-17-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-09-17,Valladolid,UCAM Murcia,0,1,NA,NA,8391,Pablo González,https://fbref.com/en/matches/7d795c40/Valladolid-UCAM-Murcia-September-17-2016-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2016-09-17,Elche,Lugo,0,3,NA,NA,8030,Javier Alberola Rojas,https://fbref.com/en/matches/a8a802d9/Elche-Lugo-September-17-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-09-17,Zaragoza,Alcorcón,2,0,NA,NA,15926,Saúl Ais,https://fbref.com/en/matches/9898b848/Zaragoza-Alcorcon-September-17-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-09-18,Almería,Tenerife,0,1,NA,NA,8107,Guillermo Cuadra,https://fbref.com/en/matches/5aed56af/Almeria-Tenerife-September-18-2016-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-09-18,Mirandés,Rayo Vallecano,2,1,NA,NA,3559,Francisco Arias,https://fbref.com/en/matches/ef29f394/Mirandes-Rayo-Vallecano-September-18-2016-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-09-18,Getafe,Oviedo,2,1,NA,NA,6547,Rubén Eiriz,https://fbref.com/en/matches/2a42fac5/Getafe-Oviedo-September-18-2016-Segunda-Division,0,0,2,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-09-18,Sevilla B,Huesca,2,0,NA,NA,3203,Jorge Valdés Aller,https://fbref.com/en/matches/ffe98f2b/Sevilla-Atletico-Huesca-September-18-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-09-18,Mallorca,Girona,1,0,NA,NA,8696,Pedro Pérez,https://fbref.com/en/matches/b7a02904/Mallorca-Girona-September-18-2016-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-09-20,Alcorcón,Córdoba,0,1,NA,NA,2442,Dámaso Arcediano,https://fbref.com/en/matches/0beae5d8/Alcorcon-Cordoba-September-20-2016-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2016-09-20,Lugo,Valladolid,1,0,NA,NA,2986,Adrián Cordero,https://fbref.com/en/matches/5c57a22d/Lugo-Valladolid-September-20-2016-Segunda-Division,1,1,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-09-20,Cádiz,Numancia,1,0,NA,NA,11474,Isidro Díaz de Mera,https://fbref.com/en/matches/4a09281e/Cadiz-Numancia-September-20-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-09-20,Gimnàstic,Zaragoza,0,0,NA,NA,4255,Víctor Areces,https://fbref.com/en/matches/7679b1e7/Gimnastic-Zaragoza-September-20-2016-Segunda-Division,0,1,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-09-21,Huesca,Elche,0,3,NA,NA,2410,David Medié,https://fbref.com/en/matches/86d27fc2/Huesca-Elche-September-21-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
+2016-09-21,Levante,Sevilla B,1,0,NA,NA,10528,Valentín Pizarro,https://fbref.com/en/matches/c1959920/Levante-Sevilla-Atletico-September-21-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-09-21,UCAM Murcia,Almería,4,0,NA,NA,2985,David Pérez,https://fbref.com/en/matches/83943a3b/UCAM-Murcia-Almeria-September-21-2016-Segunda-Division,1,1,2,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2016-2017
+2016-09-22,Rayo Vallecano,Getafe,2,0,NA,NA,9173,Juan López,https://fbref.com/en/matches/7219cfce/Rayo-Vallecano-Getafe-September-22-2016-Segunda-Division,0,1,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-09-22,Oviedo,Reus,0,1,NA,NA,12103,Oliver De La Fuente,https://fbref.com/en/matches/17a27954/Oviedo-Reus-September-22-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-09-22,Girona,Mirandés,1,1,NA,NA,3588,Jorge Figueroa,https://fbref.com/en/matches/3a92cf7e/Girona-Mirandes-September-22-2016-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-09-22,Tenerife,Mallorca,0,0,NA,NA,8019,Aitor Gorostegui,https://fbref.com/en/matches/1d85a378/Tenerife-Mallorca-September-22-2016-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2016-09-24,Sevilla B,Alcorcón,1,1,NA,NA,2145,Rubén Eiriz,https://fbref.com/en/matches/c184601b/Sevilla-Atletico-Alcorcon-September-24-2016-Segunda-Division,0,0,3,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-09-24,Córdoba,Gimnàstic,2,0,NA,NA,13542,Jorge Valdés Aller,https://fbref.com/en/matches/3b6de074/Cordoba-Gimnastic-September-24-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-09-24,Almería,Lugo,0,0,NA,NA,6882,Saúl Ais,https://fbref.com/en/matches/2a5b2fe2/Almeria-Lugo-September-24-2016-Segunda-Division,0,0,1,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-09-24,Valladolid,Huesca,1,2,NA,NA,7990,Eduardo Prieto ,https://fbref.com/en/matches/9a1bc487/Valladolid-Huesca-September-24-2016-Segunda-Division,0,0,3,1,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2016-2017
+2016-09-24,Elche,Levante,0,1,NA,NA,8031,Guillermo Cuadra,https://fbref.com/en/matches/7c056fda/Elche-Levante-September-24-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-09-25,Cádiz,Oviedo,0,2,NA,NA,16142,Juan Pulido,https://fbref.com/en/matches/83543a81/Cadiz-Oviedo-September-25-2016-Segunda-Division,0,0,0,1,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2016-2017
+2016-09-25,Mirandés,Tenerife,3,2,NA,NA,3080,Pablo González,https://fbref.com/en/matches/62406d38/Mirandes-Tenerife-September-25-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-09-25,Numancia,Zaragoza,2,1,NA,NA,4571,Pedro Pérez,https://fbref.com/en/matches/3aa69afe/Numancia-Zaragoza-September-25-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-09-25,Getafe,Girona,0,2,NA,NA,5175,Francisco Arias,https://fbref.com/en/matches/be06f7fa/Getafe-Girona-September-25-2016-Segunda-Division,0,1,0,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-09-25,Mallorca,UCAM Murcia,0,0,NA,NA,9081,Alberola Rojas,https://fbref.com/en/matches/a6b1591a/Mallorca-UCAM-Murcia-September-25-2016-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-09-25,Reus,Rayo Vallecano,1,1,NA,NA,4027,Gorka Sagues,https://fbref.com/en/matches/b31c45ad/Reus-Rayo-Vallecano-September-25-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-10-01,Huesca,Almería,2,0,NA,NA,2538,Oliver De La Fuente,https://fbref.com/en/matches/b3172821/Huesca-Almeria-October-1-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-10-01,Lugo,Mallorca,3,1,NA,NA,3826,Víctor Areces,https://fbref.com/en/matches/39a8381a/Lugo-Mallorca-October-1-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
+2016-10-01,Gimnàstic,Sevilla B,1,1,NA,NA,5206,Dámaso Arcediano,https://fbref.com/en/matches/07cc863e/Gimnastic-Sevilla-Atletico-October-1-2016-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,6,1,0,0,0,0,0,2016-2017
+2016-10-01,Alcorcón,Elche,1,0,NA,NA,2864,Isidro Díaz de Mera,https://fbref.com/en/matches/f1f345a7/Alcorcon-Elche-October-1-2016-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-10-01,Zaragoza,Córdoba,1,1,NA,NA,17100,David Pérez,https://fbref.com/en/matches/93571a1c/Zaragoza-Cordoba-October-1-2016-Segunda-Division,0,0,4,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2016-2017
+2016-10-02,UCAM Murcia,Mirandés,2,2,NA,NA,3523,Aitor Gorostegui,https://fbref.com/en/matches/e8152243/UCAM-Murcia-Mirandes-October-2-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
+2016-10-02,Girona,Reus,1,0,NA,NA,4907,Valentín Pizarro,https://fbref.com/en/matches/7258802b/Girona-Reus-October-2-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2016-10-02,Levante,Valladolid,3,2,NA,NA,12298,Jorge Figueroa,https://fbref.com/en/matches/85a65166/Levante-Valladolid-October-2-2016-Segunda-Division,1,1,1,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-10-02,Tenerife,Getafe,0,0,NA,NA,9053,David Medié,https://fbref.com/en/matches/ddd1ea8b/Tenerife-Getafe-October-2-2016-Segunda-Division,0,0,2,1,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2016-2017
+2016-10-02,Oviedo,Numancia,2,2,NA,NA,14392,Juan López,https://fbref.com/en/matches/5a55f3ff/Oviedo-Numancia-October-2-2016-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-10-02,Rayo Vallecano,Cádiz,3,0,NA,NA,11871,Adrián Cordero,https://fbref.com/en/matches/fb77141c/Rayo-Vallecano-Cadiz-October-2-2016-Segunda-Division,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
+2016-10-08,Reus,Tenerife,0,0,NA,NA,3966,Saúl Ais,https://fbref.com/en/matches/9f98c1aa/Reus-Tenerife-October-8-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,2016-2017
+2016-10-08,Valladolid,Alcorcón,2,0,NA,NA,8318,Gorka Sagues,https://fbref.com/en/matches/007525dd/Valladolid-Alcorcon-October-8-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-10-08,Numancia,Córdoba,1,1,NA,NA,3047,Rubén Eiriz,https://fbref.com/en/matches/1be89b51/Numancia-Cordoba-October-8-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-10-08,Getafe,UCAM Murcia,2,0,NA,NA,4940,Eduardo Prieto ,https://fbref.com/en/matches/0daae7c6/Getafe-UCAM-Murcia-October-8-2016-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-10-08,Elche,Gimnàstic,4,4,NA,NA,7061,Pablo González,https://fbref.com/en/matches/3b3bf9fa/Elche-Gimnastic-October-8-2016-Segunda-Division,0,0,5,1,0,0,0,0,0,1,1,5,1,0,0,0,0,0,2016-2017
+2016-10-08,Sevilla B,Zaragoza,2,1,NA,NA,7180,Alberola Rojas,https://fbref.com/en/matches/7f965f14/Sevilla-Atletico-Zaragoza-October-8-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2016-10-09,Oviedo,Rayo Vallecano,2,0,NA,NA,14618,Jorge Valdés Aller,https://fbref.com/en/matches/8fe458b0/Oviedo-Rayo-Vallecano-October-9-2016-Segunda-Division,1,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-10-09,Mirandés,Lugo,2,2,NA,NA,3180,Pedro Pérez,https://fbref.com/en/matches/c1b86f8f/Mirandes-Lugo-October-9-2016-Segunda-Division,1,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-10-09,Cádiz,Girona,0,0,NA,NA,12907,Guillermo Cuadra,https://fbref.com/en/matches/ee75090f/Cadiz-Girona-October-9-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-10-09,Almería,Levante,2,2,NA,NA,7435,Juan Pulido,https://fbref.com/en/matches/1ef41ee5/Almeria-Levante-October-9-2016-Segunda-Division,1,1,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2016-10-09,Mallorca,Huesca,3,0,NA,NA,8579,Francisco Arias,https://fbref.com/en/matches/9a60f222/Mallorca-Huesca-October-9-2016-Segunda-Division,0,0,4,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2016-10-15,Lugo,Getafe,0,1,NA,NA,3709,Oliver De La Fuente,https://fbref.com/en/matches/40f19038/Lugo-Getafe-October-15-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2016-10-15,Alcorcón,Almería,0,0,NA,NA,2367,Aitor Gorostegui,https://fbref.com/en/matches/63ae09ba/Alcorcon-Almeria-October-15-2016-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,6,1,0,0,0,0,0,2016-2017
+2016-10-15,Huesca,Mirandés,3,0,NA,NA,2777,Isidro Díaz de Mera,https://fbref.com/en/matches/94524757/Huesca-Mirandes-October-15-2016-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-10-15,Girona,Oviedo,0,0,NA,NA,4713,David Pérez,https://fbref.com/en/matches/a5174f38/Girona-Oviedo-October-15-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,2016-2017
+2016-10-15,Levante,Mallorca,2,1,NA,NA,11781,Dámaso Arcediano,https://fbref.com/en/matches/26bd0212/Levante-Mallorca-October-15-2016-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-10-16,Zaragoza,Elche,1,3,NA,NA,15960,Adrián Cordero,https://fbref.com/en/matches/c0550058/Zaragoza-Elche-October-16-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-10-16,Córdoba,Sevilla B,0,1,NA,NA,15192,David Medié,https://fbref.com/en/matches/e820f249/Cordoba-Sevilla-Atletico-October-16-2016-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-10-16,Gimnàstic,Valladolid,1,2,NA,NA,6244,Juan López,https://fbref.com/en/matches/c19cebf0/Gimnastic-Valladolid-October-16-2016-Segunda-Division,0,0,3,1,0,0,0,0,0,0,1,3,0,0,0,0,0,0,2016-2017
+2016-10-16,Rayo Vallecano,Numancia,3,3,NA,NA,9387,Víctor Areces,https://fbref.com/en/matches/22a71f7f/Rayo-Vallecano-Numancia-October-16-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2016-10-16,UCAM Murcia,Reus,0,2,NA,NA,4036,Jorge Figueroa,https://fbref.com/en/matches/0f3fc9a1/UCAM-Murcia-Reus-October-16-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
+2016-10-16,Tenerife,Cádiz,1,1,NA,NA,8120,Valentín Pizarro,https://fbref.com/en/matches/c2df6d52/Tenerife-Cadiz-October-16-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2016-2017
+2016-10-22,Elche,Córdoba,1,1,NA,NA,7053,Francisco Arias,https://fbref.com/en/matches/5d422424/Elche-Cordoba-October-22-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-10-22,Getafe,Huesca,1,1,NA,NA,3894,Pedro Pérez,https://fbref.com/en/matches/7e8e619b/Getafe-Huesca-October-22-2016-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-10-22,Numancia,Sevilla B,1,2,NA,NA,2837,Guillermo Cuadra,https://fbref.com/en/matches/f564760f/Numancia-Sevilla-Atletico-October-22-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
+2016-10-22,Reus,Lugo,2,1,NA,NA,3992,Jorge Valdés Aller,https://fbref.com/en/matches/cfa9074b/Reus-Lugo-October-22-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2016-10-22,Rayo Vallecano,Girona,1,0,NA,NA,7385,Saúl Ais,https://fbref.com/en/matches/cd6e6bd9/Rayo-Vallecano-Girona-October-22-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-10-23,Mallorca,Alcorcón,1,0,NA,NA,7646,Pablo González,https://fbref.com/en/matches/5a9c7f2e/Mallorca-Alcorcon-October-23-2016-Segunda-Division,1,2,5,0,0,0,0,0,0,0,1,4,1,0,0,0,0,0,2016-2017
+2016-10-23,Valladolid,Zaragoza,0,0,NA,NA,8106,Alexis Carlos Pulido,https://fbref.com/en/matches/6e15e495/Valladolid-Zaragoza-October-23-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2016-2017
+2016-10-23,Almería,Gimnàstic,3,0,NA,NA,7223,Gorka Sagues,https://fbref.com/en/matches/35baf744/Almeria-Gimnastic-October-23-2016-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2016-2017
+2016-10-23,Mirandés,Levante,0,3,NA,NA,3281,Eduardo Prieto ,https://fbref.com/en/matches/377cb58d/Mirandes-Levante-October-23-2016-Segunda-Division,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2016-10-23,Cádiz,UCAM Murcia,2,2,NA,NA,8987,Rubén Eiriz,https://fbref.com/en/matches/dfa2f8d6/Cadiz-UCAM-Murcia-October-23-2016-Segunda-Division,0,0,2,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-10-23,Oviedo,Tenerife,2,0,NA,NA,13676,Alberola Rojas,https://fbref.com/en/matches/5e8e48f1/Oviedo-Tenerife-October-23-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2016-10-29,Huesca,Reus,2,1,NA,NA,2974,Juan López,https://fbref.com/en/matches/b37ab0b6/Huesca-Reus-October-29-2016-Segunda-Division,1,1,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2016-2017
+2016-10-29,Tenerife,Rayo Vallecano,3,2,NA,NA,7416,Jorge Figueroa,https://fbref.com/en/matches/0886fcc0/Tenerife-Rayo-Vallecano-October-29-2016-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-10-29,Zaragoza,Almería,2,1,NA,NA,15184,Isidro Díaz de Mera,https://fbref.com/en/matches/070eb592/Zaragoza-Almeria-October-29-2016-Segunda-Division,0,0,4,0,0,0,0,0,0,1,1,5,0,0,0,0,0,0,2016-2017
+2016-10-29,Córdoba,Valladolid,1,1,NA,NA,13227,Aitor Gorostegui,https://fbref.com/en/matches/ff8d8ef7/Cordoba-Valladolid-October-29-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2016-10-30,Girona,Numancia,3,0,NA,NA,4786,Juan Pulido,https://fbref.com/en/matches/320f470f/Girona-Numancia-October-30-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-10-30,Sevilla B,Elche,2,0,NA,NA,11817,Víctor Areces,https://fbref.com/en/matches/5b705cfe/Sevilla-Atletico-Elche-October-30-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-10-30,Lugo,Cádiz,0,1,NA,NA,4645,David Medié,https://fbref.com/en/matches/49b8cbbe/Lugo-Cadiz-October-30-2016-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-10-30,Alcorcón,Mirandés,1,0,NA,NA,2508,David Pérez,https://fbref.com/en/matches/f3cdeee6/Alcorcon-Mirandes-October-30-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-10-30,Gimnàstic,Mallorca,2,2,NA,NA,5731,Oliver De La Fuente,https://fbref.com/en/matches/a0433b3c/Gimnastic-Mallorca-October-30-2016-Segunda-Division,0,0,4,1,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
+2016-10-30,UCAM Murcia,Oviedo,0,1,NA,NA,4413,Dámaso Arcediano,https://fbref.com/en/matches/3f52e2bc/UCAM-Murcia-Oviedo-October-30-2016-Segunda-Division,0,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-10-30,Levante,Getafe,1,1,NA,NA,12766,Adrián Cordero,https://fbref.com/en/matches/3e6fc3d9/Levante-Getafe-October-30-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-11-05,Cádiz,Huesca,1,0,NA,NA,10821,Saúl Ais,https://fbref.com/en/matches/c9a15540/Cadiz-Huesca-November-5-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,2016-2017
+2016-11-05,Girona,Tenerife,1,1,NA,NA,4588,Gorka Sagues,https://fbref.com/en/matches/760048b2/Girona-Tenerife-November-5-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-11-05,Rayo Vallecano,UCAM Murcia,0,1,NA,NA,6875,Pedro Pérez,https://fbref.com/en/matches/bbc2ba89/Rayo-Vallecano-UCAM-Murcia-November-5-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
+2016-11-05,Valladolid,Sevilla B,2,0,NA,NA,7609,Francisco Arias,https://fbref.com/en/matches/849ea0b6/Valladolid-Sevilla-Atletico-November-5-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-11-05,Mallorca,Zaragoza,2,2,NA,NA,8288,Valentín Pizarro,https://fbref.com/en/matches/b8667d4c/Mallorca-Zaragoza-November-5-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-11-06,Mirandés,Gimnàstic,0,1,NA,NA,2938,Guillermo Cuadra,https://fbref.com/en/matches/e45d029f/Mirandes-Gimnastic-November-6-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
+2016-11-06,Numancia,Elche,2,2,NA,NA,2679,Alberola Rojas,https://fbref.com/en/matches/8d4275af/Numancia-Elche-November-6-2016-Segunda-Division,0,1,1,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,2016-2017
+2016-11-06,Oviedo,Lugo,1,1,NA,NA,13363,Eduardo Prieto ,https://fbref.com/en/matches/f5cf664f/Oviedo-Lugo-November-6-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-11-06,Getafe,Alcorcón,1,0,NA,NA,6035,Jorge Valdés Aller,https://fbref.com/en/matches/88c9dfaa/Getafe-Alcorcon-November-6-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2016-2017
+2016-11-06,Almería,Córdoba,3,1,NA,NA,7964,Pablo González,https://fbref.com/en/matches/ff029c50/Almeria-Cordoba-November-6-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-11-06,Reus,Levante,0,1,NA,NA,4107,Rubén Eiriz,https://fbref.com/en/matches/3f98a312/Reus-Levante-November-6-2016-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2016-11-11,Córdoba,Mallorca,0,2,NA,NA,11805,Adrián Cordero,https://fbref.com/en/matches/44bdf33f/Cordoba-Mallorca-November-11-2016-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2016-11-12,Elche,Valladolid,2,0,NA,NA,6730,Isidro Díaz de Mera,https://fbref.com/en/matches/b0ab427b/Elche-Valladolid-November-12-2016-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-11-12,Huesca,Oviedo,4,0,NA,NA,3057,Jorge Figueroa,https://fbref.com/en/matches/9b389f1e/Huesca-Oviedo-November-12-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2016-2017
+2016-11-12,Gimnàstic,Getafe,1,0,NA,NA,5463,Juan Pulido,https://fbref.com/en/matches/b35679cf/Gimnastic-Getafe-November-12-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-11-12,Tenerife,Numancia,1,1,NA,NA,9874,David Pérez,https://fbref.com/en/matches/e95ca010/Tenerife-Numancia-November-12-2016-Segunda-Division,1,1,4,1,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2016-2017
+2016-11-12,Alcorcón,Reus,1,0,NA,NA,2330,Víctor Areces,https://fbref.com/en/matches/a3e14d76/Alcorcon-Reus-November-12-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-11-12,Levante,Cádiz,0,0,NA,NA,13153,Alberola Rojas,https://fbref.com/en/matches/f2ea92dc/Levante-Cadiz-November-12-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-11-13,Lugo,Rayo Vallecano,1,0,NA,NA,4528,Aitor Gorostegui,https://fbref.com/en/matches/cfbbe67e/Lugo-Rayo-Vallecano-November-13-2016-Segunda-Division,0,0,1,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-11-13,Sevilla B,Almería,1,0,NA,NA,7326,Dámaso Arcediano,https://fbref.com/en/matches/275ec657/Sevilla-Atletico-Almeria-November-13-2016-Segunda-Division,0,0,5,1,0,0,0,0,0,0,1,3,0,0,0,0,0,0,2016-2017
+2016-11-13,UCAM Murcia,Girona,0,1,NA,NA,4156,Juan López,https://fbref.com/en/matches/8e3872ce/UCAM-Murcia-Girona-November-13-2016-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-11-13,Zaragoza,Mirandés,2,0,NA,NA,15500,David Medié,https://fbref.com/en/matches/0063e734/Zaragoza-Mirandes-November-13-2016-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-11-18,Almería,Elche,2,1,NA,NA,6988,Jorge Valdés Aller,https://fbref.com/en/matches/51e3608f/Almeria-Elche-November-18-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2016-2017
+2016-11-19,Numancia,Valladolid,2,1,NA,NA,3455,Valentín Pizarro,https://fbref.com/en/matches/d165f9dd/Numancia-Valladolid-November-19-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-11-19,Oviedo,Levante,2,0,NA,NA,14361,Francisco Arias,https://fbref.com/en/matches/a6422335/Oviedo-Levante-November-19-2016-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-11-19,Mallorca,Sevilla B,2,2,NA,NA,9946,Rubén Eiriz,https://fbref.com/en/matches/938a3a21/Mallorca-Sevilla-Atletico-November-19-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,2,0,0,0,0,0,2016-2017
+2016-11-19,Girona,Lugo,3,1,NA,NA,4151,Pablo González,https://fbref.com/en/matches/0a5d9031/Girona-Lugo-November-19-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,2016-2017
+2016-11-20,Reus,Gimnàstic,1,0,NA,NA,4193,Pedro Pérez,https://fbref.com/en/matches/aae49a6d/Reus-Gimnastic-November-20-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2016-2017
+2016-11-20,Getafe,Zaragoza,1,0,NA,NA,4802,Oliver De La Fuente,https://fbref.com/en/matches/7881dd7f/Getafe-Zaragoza-November-20-2016-Segunda-Division,1,1,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
+2016-11-20,Tenerife,UCAM Murcia,2,1,NA,NA,8895,Saúl Ais,https://fbref.com/en/matches/eaa2718c/Tenerife-UCAM-Murcia-November-20-2016-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-11-20,Rayo Vallecano,Huesca,2,2,NA,NA,7202,Guillermo Cuadra,https://fbref.com/en/matches/0927e22b/Rayo-Vallecano-Huesca-November-20-2016-Segunda-Division,1,1,3,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2016-2017
+2016-11-20,Cádiz,Alcorcón,4,1,NA,NA,11794,Eduardo Prieto ,https://fbref.com/en/matches/f04e6f8c/Cadiz-Alcorcon-November-20-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2016-2017
+2016-11-20,Mirandés,Córdoba,1,1,NA,NA,2496,Víctor Areces,https://fbref.com/en/matches/1e90a84b/Mirandes-Cordoba-November-20-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-11-25,Gimnàstic,Cádiz,1,0,NA,NA,5180,Jorge Valdés Aller,https://fbref.com/en/matches/6563e29a/Gimnastic-Cadiz-November-25-2016-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2016-11-26,Lugo,Tenerife,1,3,NA,NA,3096,Dámaso Arcediano,https://fbref.com/en/matches/694c5e53/Lugo-Tenerife-November-26-2016-Segunda-Division,0,0,5,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2016-2017
+2016-11-26,UCAM Murcia,Numancia,3,2,NA,NA,2856,Rubén Eiriz,https://fbref.com/en/matches/f922160c/UCAM-Murcia-Numancia-November-26-2016-Segunda-Division,1,1,5,1,0,0,0,0,0,0,0,4,2,0,0,0,0,0,2016-2017
+2016-11-26,Alcorcón,Oviedo,5,1,NA,NA,2765,Alberola Rojas,https://fbref.com/en/matches/f1e44417/Alcorcon-Oviedo-November-26-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-11-26,Valladolid,Almería,0,0,NA,NA,7495,David Medié,https://fbref.com/en/matches/06471030/Valladolid-Almeria-November-26-2016-Segunda-Division,0,0,1,1,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2016-2017
+2016-11-26,Zaragoza,Reus,2,2,NA,NA,12965,Aitor Gorostegui,https://fbref.com/en/matches/e9dee91f/Zaragoza-Reus-November-26-2016-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-11-27,Elche,Mallorca,1,0,NA,NA,7267,Juan López,https://fbref.com/en/matches/d0cc1c7b/Elche-Mallorca-November-27-2016-Segunda-Division,0,1,6,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,2016-2017
+2016-11-27,Huesca,Girona,1,2,NA,NA,3381,Valentín Pizarro,https://fbref.com/en/matches/7d2621fd/Huesca-Girona-November-27-2016-Segunda-Division,0,0,5,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-11-27,Córdoba,Getafe,1,3,NA,NA,10946,Saúl Ais,https://fbref.com/en/matches/1e061973/Cordoba-Getafe-November-27-2016-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-11-27,Sevilla B,Mirandés,1,0,NA,NA,2513,Pablo González,https://fbref.com/en/matches/0dd1fb09/Sevilla-Atletico-Mirandes-November-27-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-12-02,Getafe,Sevilla B,2,0,NA,NA,6474,Aitor Gorostegui,https://fbref.com/en/matches/2106ee80/Getafe-Sevilla-Atletico-December-2-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-12-03,Numancia,Almería,1,0,NA,NA,2771,Eduardo Prieto ,https://fbref.com/en/matches/a52fc4da/Numancia-Almeria-December-3-2016-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-12-03,Mirandés,Elche,1,0,NA,NA,2724,Jorge Figueroa,https://fbref.com/en/matches/8fffe575/Mirandes-Elche-December-3-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2016-12-03,UCAM Murcia,Lugo,1,2,NA,NA,2040,Francisco Arias,https://fbref.com/en/matches/eb9b9d31/UCAM-Murcia-Lugo-December-3-2016-Segunda-Division,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-12-03,Cádiz,Zaragoza,3,0,NA,NA,7465,Adrián Cordero,https://fbref.com/en/matches/562b7257/Cadiz-Zaragoza-December-3-2016-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
+2016-12-04,Girona,Levante,2,1,NA,NA,6086,Oliver De La Fuente,https://fbref.com/en/matches/7bdc11c9/Girona-Levante-December-4-2016-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,2016-2017
+2016-12-04,Rayo Vallecano,Alcorcón,2,0,NA,NA,7432,David Pérez,https://fbref.com/en/matches/f35df861/Rayo-Vallecano-Alcorcon-December-4-2016-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-12-04,Oviedo,Gimnàstic,1,0,NA,NA,13615,Dámaso Arcediano,https://fbref.com/en/matches/a794894a/Oviedo-Gimnastic-December-4-2016-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-12-04,Tenerife,Huesca,1,1,NA,NA,9725,Alberola Rojas,https://fbref.com/en/matches/92a52baf/Tenerife-Huesca-December-4-2016-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
+2016-12-04,Mallorca,Valladolid,0,3,NA,NA,9768,Víctor Areces,https://fbref.com/en/matches/472e87c0/Mallorca-Valladolid-December-4-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2016-12-04,Reus,Córdoba,1,2,NA,NA,3689,Juan Pulido,https://fbref.com/en/matches/72f06283/Reus-Cordoba-December-4-2016-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-12-09,Sevilla B,Reus,0,1,NA,NA,3758,Isidro Díaz de Mera,https://fbref.com/en/matches/9396cc2d/Sevilla-Atletico-Reus-December-9-2016-Segunda-Division,0,0,4,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2016-2017
+2016-12-10,Gimnàstic,Rayo Vallecano,0,1,NA,NA,5120,Pablo González,https://fbref.com/en/matches/fd4c3b2e/Gimnastic-Rayo-Vallecano-December-10-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-12-10,Huesca,UCAM Murcia,5,2,NA,NA,2919,Dámaso Arcediano,https://fbref.com/en/matches/de927637/Huesca-UCAM-Murcia-December-10-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-12-10,Elche,Getafe,2,2,NA,NA,6693,Víctor Areces,https://fbref.com/en/matches/8150778f/Elche-Getafe-December-10-2016-Segunda-Division,0,1,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-12-10,Levante,Tenerife,1,0,NA,NA,12054,Rubén Eiriz,https://fbref.com/en/matches/a2f6eb29/Levante-Tenerife-December-10-2016-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-12-11,Almería,Mallorca,2,1,NA,NA,6784,David Pérez,https://fbref.com/en/matches/64010b1a/Almeria-Mallorca-December-11-2016-Segunda-Division,1,1,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-12-11,Córdoba,Cádiz,1,3,NA,NA,15600,Oliver De La Fuente,https://fbref.com/en/matches/bb585efc/Cordoba-Cadiz-December-11-2016-Segunda-Division,1,1,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-12-11,Lugo,Numancia,3,1,NA,NA,3243,Alberola Rojas,https://fbref.com/en/matches/8a1d8457/Lugo-Numancia-December-11-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
+2016-12-11,Valladolid,Mirandés,5,0,NA,NA,8032,Francisco Arias,https://fbref.com/en/matches/5490586f/Valladolid-Mirandes-December-11-2016-Segunda-Division,1,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-12-11,Alcorcón,Girona,2,1,NA,NA,2446,Jorge Figueroa,https://fbref.com/en/matches/bc6b5b3c/Alcorcon-Girona-December-11-2016-Segunda-Division,1,1,2,0,0,0,0,0,0,1,1,4,1,0,0,0,0,0,2016-2017
+2016-12-11,Zaragoza,Oviedo,2,1,NA,NA,13350,Eduardo Prieto ,https://fbref.com/en/matches/15911952/Zaragoza-Oviedo-December-11-2016-Segunda-Division,1,1,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2016-2017
+2016-12-14,Levante,Rayo Vallecano,1,0,NA,NA,9674,Isidro Díaz de Mera,https://fbref.com/en/matches/f5a2e01a/Levante-Rayo-Vallecano-December-14-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-12-16,Reus,Elche,0,1,NA,NA,2058,Pablo González,https://fbref.com/en/matches/45932faa/Reus-Elche-December-16-2016-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
+2016-12-17,Getafe,Valladolid,3,1,NA,NA,5327,David Pérez,https://fbref.com/en/matches/1c28dafe/Getafe-Valladolid-December-17-2016-Segunda-Division,0,0,5,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
+2016-12-17,Tenerife,Alcorcón,2,0,NA,NA,6652,Adrián Cordero,https://fbref.com/en/matches/e177c591/Tenerife-Alcorcon-December-17-2016-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2016-2017
+2016-12-17,Oviedo,Córdoba,1,2,NA,NA,12414,Aitor Gorostegui,https://fbref.com/en/matches/3f1ce5fa/Oviedo-Cordoba-December-17-2016-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,2016-2017
+2016-12-17,Lugo,Huesca,1,1,NA,NA,4033,Juan Pulido,https://fbref.com/en/matches/6976304c/Lugo-Huesca-December-17-2016-Segunda-Division,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2016-2017
+2016-12-17,Girona,Gimnàstic,4,2,NA,NA,4571,Juan López,https://fbref.com/en/matches/2f590c37/Girona-Gimnastic-December-17-2016-Segunda-Division,1,1,1,0,0,0,0,0,0,1,1,4,2,0,0,0,0,0,2016-2017
+2016-12-18,Numancia,Mallorca,3,1,NA,NA,2703,David Medié,https://fbref.com/en/matches/2baa5fcd/Numancia-Mallorca-December-18-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,7,1,0,0,0,0,0,2016-2017
+2016-12-18,Mirandés,Almería,2,1,NA,NA,3087,Valentín Pizarro,https://fbref.com/en/matches/070a4bf9/Mirandes-Almeria-December-18-2016-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-12-18,Rayo Vallecano,Zaragoza,1,2,NA,NA,8573,Francisco Arias,https://fbref.com/en/matches/e74ea37c/Rayo-Vallecano-Zaragoza-December-18-2016-Segunda-Division,1,1,1,0,0,0,0,0,0,1,1,2,1,0,0,0,0,0,2016-2017
+2016-12-18,Cádiz,Sevilla B,4,1,NA,NA,13968,Dámaso Arcediano,https://fbref.com/en/matches/be5567c7/Cadiz-Sevilla-Atletico-December-18-2016-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-01-06,Almería,Getafe,0,1,NA,NA,6552,Rubén Eiriz,https://fbref.com/en/matches/7160de74/Almeria-Getafe-January-6-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-01-06,Valladolid,Reus,1,0,NA,NA,4571,Alberola Rojas,https://fbref.com/en/matches/d87f5169/Valladolid-Reus-January-6-2017-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-01-06,Numancia,Huesca,0,0,NA,NA,3070,Isidro Díaz de Mera,https://fbref.com/en/matches/4d066ff7/Numancia-Huesca-January-6-2017-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
+2017-01-06,Mallorca,Mirandés,2,0,NA,NA,7739,Gorka Sagues,https://fbref.com/en/matches/c0bd32a3/Mallorca-Mirandes-January-6-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-01-07,Levante,Lugo,1,0,NA,NA,11981,Aitor Gorostegui,https://fbref.com/en/matches/23c52370/Levante-Lugo-January-7-2017-Segunda-Division,1,1,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-01-07,Córdoba,Rayo Vallecano,0,0,NA,NA,12622,Dámaso Arcediano,https://fbref.com/en/matches/cfc91cde/Cordoba-Rayo-Vallecano-January-7-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-01-08,Alcorcón,UCAM Murcia,0,0,NA,NA,2245,Oliver De La Fuente,https://fbref.com/en/matches/72f0dfae/Alcorcon-UCAM-Murcia-January-8-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-01-08,Gimnàstic,Tenerife,1,1,NA,NA,7321,Jorge Figueroa,https://fbref.com/en/matches/32a06cc0/Gimnastic-Tenerife-January-8-2017-Segunda-Division,0,0,5,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-01-08,Zaragoza,Girona,0,2,NA,NA,18500,Víctor Areces,https://fbref.com/en/matches/c414a3e5/Zaragoza-Girona-January-8-2017-Segunda-Division,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-01-08,Elche,Cádiz,2,3,NA,NA,8703,Eduardo Prieto ,https://fbref.com/en/matches/7e6674e7/Elche-Cadiz-January-8-2017-Segunda-Division,0,0,1,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-01-08,Sevilla B,Oviedo,5,3,NA,NA,2776,Valentín Pizarro,https://fbref.com/en/matches/89d755c9/Sevilla-Atletico-Oviedo-January-8-2017-Segunda-Division,1,1,3,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2016-2017
+2017-01-11,UCAM Murcia,Levante,0,2,NA,NA,3522,Jorge Valdés Aller,https://fbref.com/en/matches/dd834d5c/UCAM-Murcia-Levante-January-11-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-01-13,Cádiz,Valladolid,0,1,NA,NA,13625,David Medié,https://fbref.com/en/matches/75a77cc5/Cadiz-Valladolid-January-13-2017-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-01-14,Rayo Vallecano,Sevilla B,1,1,NA,NA,7846,Jorge Valdés Aller,https://fbref.com/en/matches/59d252f9/Rayo-Vallecano-Sevilla-Atletico-January-14-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-01-14,Mirandés,Numancia,0,3,NA,NA,2795,Pablo González,https://fbref.com/en/matches/e6ebd0c6/Mirandes-Numancia-January-14-2017-Segunda-Division,0,0,4,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2016-2017
+2017-01-14,UCAM Murcia,Gimnàstic,1,1,NA,NA,3421,Juan Pulido,https://fbref.com/en/matches/90b6fbfd/UCAM-Murcia-Gimnastic-January-14-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2016-2017
+2017-01-14,Oviedo,Elche,2,1,NA,NA,11975,David Pérez,https://fbref.com/en/matches/de70d305/Oviedo-Elche-January-14-2017-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
+2017-01-14,Tenerife,Zaragoza,1,0,NA,NA,9148,Juan López,https://fbref.com/en/matches/af02df3a/Tenerife-Zaragoza-January-14-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-01-15,Getafe,Mallorca,1,1,NA,NA,7919,Saúl Ais,https://fbref.com/en/matches/929d1684/Getafe-Mallorca-January-15-2017-Segunda-Division,1,1,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
+2017-01-15,Reus,Almería,1,0,NA,NA,3587,Francisco Arias,https://fbref.com/en/matches/d642ea54/Reus-Almeria-January-15-2017-Segunda-Division,0,1,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
+2017-01-15,Huesca,Levante,0,2,NA,NA,3149,Víctor Areces,https://fbref.com/en/matches/8952c78a/Huesca-Levante-January-15-2017-Segunda-Division,0,0,5,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2017-01-15,Lugo,Alcorcón,1,0,NA,NA,3076,Pedro Pérez,https://fbref.com/en/matches/1615cdcb/Lugo-Alcorcon-January-15-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-01-15,Girona,Córdoba,2,0,NA,NA,3826,Adrián Cordero,https://fbref.com/en/matches/8920c668/Girona-Cordoba-January-15-2017-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-01-21,Oviedo,Valladolid,1,0,NA,NA,13681,Rubén Eiriz,https://fbref.com/en/matches/3f136eee/Oviedo-Valladolid-January-21-2017-Segunda-Division,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
+2017-01-21,Tenerife,Córdoba,2,0,NA,NA,11462,Gorka Sagues,https://fbref.com/en/matches/d35c7219/Tenerife-Cordoba-January-21-2017-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-01-21,Rayo Vallecano,Elche,1,1,NA,NA,7298,Isidro Díaz de Mera,https://fbref.com/en/matches/48ffaeaf/Rayo-Vallecano-Elche-January-21-2017-Segunda-Division,1,1,4,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-01-21,Huesca,Alcorcón,0,1,NA,NA,2598,Aitor Gorostegui,https://fbref.com/en/matches/6cbd9fbb/Huesca-Alcorcon-January-21-2017-Segunda-Division,0,0,5,1,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
+2017-01-21,Lugo,Gimnàstic,2,3,NA,NA,3084,Valentín Pizarro,https://fbref.com/en/matches/68a1324b/Lugo-Gimnastic-January-21-2017-Segunda-Division,1,1,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2017-01-21,UCAM Murcia,Zaragoza,1,0,NA,NA,2737,Saúl Ais,https://fbref.com/en/matches/2c07be81/UCAM-Murcia-Zaragoza-January-21-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-01-22,Levante,Numancia,1,0,NA,NA,10814,Eduardo Prieto ,https://fbref.com/en/matches/599606f9/Levante-Numancia-January-22-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-01-22,Reus,Mallorca,1,1,NA,NA,3863,Pedro Pérez,https://fbref.com/en/matches/159b790b/Reus-Mallorca-January-22-2017-Segunda-Division,0,1,0,1,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2016-2017
+2017-01-22,Getafe,Mirandés,1,1,NA,NA,5870,Jorge Figueroa,https://fbref.com/en/matches/ab3a9497/Getafe-Mirandes-January-22-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-01-22,Girona,Sevilla B,2,0,NA,NA,2528,Alberola Rojas,https://fbref.com/en/matches/172840e3/Girona-Sevilla-Atletico-January-22-2017-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-01-22,Cádiz,Almería,1,0,NA,NA,10890,Pablo González,https://fbref.com/en/matches/954a3795/Cadiz-Almeria-January-22-2017-Segunda-Division,0,0,2,1,0,0,0,0,0,0,0,6,0,0,0,0,0,0,2016-2017
+2017-01-27,Elche,Girona,1,0,NA,NA,5766,Jorge Valdés Aller,https://fbref.com/en/matches/d4050e1f/Elche-Girona-January-27-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-01-28,Sevilla B,Tenerife,0,0,NA,NA,3627,Eduardo Prieto ,https://fbref.com/en/matches/ac4ecd66/Sevilla-Atletico-Tenerife-January-28-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-01-28,Alcorcón,Levante,2,0,NA,NA,2567,David Pérez,https://fbref.com/en/matches/7dbee5f1/Alcorcon-Levante-January-28-2017-Segunda-Division,1,1,2,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-01-28,Mirandés,Reus,1,1,NA,NA,3123,Juan Pulido,https://fbref.com/en/matches/d59de949/Mirandes-Reus-January-28-2017-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
+2017-01-28,Gimnàstic,Huesca,0,0,NA,NA,5612,Rubén Eiriz,https://fbref.com/en/matches/181a779c/Gimnastic-Huesca-January-28-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-01-28,Valladolid,Rayo Vallecano,2,1,NA,NA,8406,Juan López,https://fbref.com/en/matches/2f51180e/Valladolid-Rayo-Vallecano-January-28-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-01-29,Numancia,Getafe,2,0,NA,NA,2967,Dámaso Arcediano,https://fbref.com/en/matches/5222f8a6/Numancia-Getafe-January-29-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2016-2017
+2017-01-29,Córdoba,UCAM Murcia,1,1,NA,NA,10906,Víctor Areces,https://fbref.com/en/matches/675b5e9f/Cordoba-UCAM-Murcia-January-29-2017-Segunda-Division,0,0,3,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-01-29,Mallorca,Cádiz,0,0,NA,NA,9961,Adrián Cordero,https://fbref.com/en/matches/d748d71d/Mallorca-Cadiz-January-29-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2017-01-29,Almería,Oviedo,3,0,NA,NA,7123,David Medié,https://fbref.com/en/matches/f338e977/Almeria-Oviedo-January-29-2017-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-01-29,Zaragoza,Lugo,1,1,NA,NA,13955,Oliver De La Fuente,https://fbref.com/en/matches/905e7816/Zaragoza-Lugo-January-29-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-02-03,UCAM Murcia,Sevilla B,1,0,NA,NA,3326,Gorka Sagues,https://fbref.com/en/matches/23e74ad0/UCAM-Murcia-Sevilla-Atletico-February-3-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-02-04,Alcorcón,Numancia,2,3,NA,NA,2110,Saúl Ais,https://fbref.com/en/matches/97deaf08/Alcorcon-Numancia-February-4-2017-Segunda-Division,1,1,3,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2016-2017
+2017-02-04,Tenerife,Elche,2,0,NA,NA,14376,Pedro Pérez,https://fbref.com/en/matches/69a5fb37/Tenerife-Elche-February-4-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2016-2017
+2017-02-04,Lugo,Córdoba,1,0,NA,NA,2423,Eduardo Prieto ,https://fbref.com/en/matches/05eaa8d8/Lugo-Cordoba-February-4-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-02-04,Cádiz,Mirandés,2,1,NA,NA,16000,Víctor Areces,https://fbref.com/en/matches/ee25c77c/Cadiz-Mirandes-February-4-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-02-04,Huesca,Zaragoza,2,3,NA,NA,4203,Pablo González,https://fbref.com/en/matches/496ddb7c/Huesca-Zaragoza-February-4-2017-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-02-05,Oviedo,Mallorca,2,1,NA,NA,11933,Juan Pulido,https://fbref.com/en/matches/f069db4d/Oviedo-Mallorca-February-5-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2017-02-05,Rayo Vallecano,Almería,1,0,NA,NA,7816,Alberola Rojas,https://fbref.com/en/matches/f2cb0575/Rayo-Vallecano-Almeria-February-5-2017-Segunda-Division,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2016-2017
+2017-02-05,Levante,Gimnàstic,2,1,NA,NA,11542,Jorge Valdés Aller,https://fbref.com/en/matches/0553e7c7/Levante-Gimnastic-February-5-2017-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2017-02-05,Reus,Getafe,1,1,NA,NA,3376,Aitor Gorostegui,https://fbref.com/en/matches/adb2d8db/Reus-Getafe-February-5-2017-Segunda-Division,1,1,3,1,0,0,0,0,0,1,1,7,2,0,0,0,0,0,2016-2017
+2017-02-05,Girona,Valladolid,2,1,NA,NA,5171,Jorge Figueroa,https://fbref.com/en/matches/47a08070/Girona-Valladolid-February-5-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
+2017-02-10,Sevilla B,Lugo,1,1,NA,NA,1646,David Medié,https://fbref.com/en/matches/cb7fc55f/Sevilla-Atletico-Lugo-February-10-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-02-11,Almería,Girona,0,0,NA,NA,7004,Dámaso Arcediano,https://fbref.com/en/matches/b7552c3e/Almeria-Girona-February-11-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
+2017-02-11,Zaragoza,Levante,0,1,NA,NA,15800,Rubén Eiriz,https://fbref.com/en/matches/f037a7c1/Zaragoza-Levante-February-11-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-02-11,Gimnàstic,Alcorcón,1,1,NA,NA,5043,Juan López,https://fbref.com/en/matches/73759ea7/Gimnastic-Alcorcon-February-11-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-02-11,Getafe,Cádiz,3,2,NA,NA,5882,Juan Pulido,https://fbref.com/en/matches/66f68417/Getafe-Cadiz-February-11-2017-Segunda-Division,1,1,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-02-12,Córdoba,Huesca,0,2,NA,NA,8522,David Pérez,https://fbref.com/en/matches/ba8bafca/Cordoba-Huesca-February-12-2017-Segunda-Division,0,0,1,2,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2017-02-12,Valladolid,Tenerife,0,0,NA,NA,8139,Valentín Pizarro,https://fbref.com/en/matches/f357837f/Valladolid-Tenerife-February-12-2017-Segunda-Division,0,0,3,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-02-12,Mirandés,Oviedo,0,2,NA,NA,4150,Gorka Sagues,https://fbref.com/en/matches/edddb8c3/Mirandes-Oviedo-February-12-2017-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-02-12,Numancia,Reus,1,0,NA,NA,3041,Adrián Cordero,https://fbref.com/en/matches/1505b25e/Numancia-Reus-February-12-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-02-12,Elche,UCAM Murcia,1,1,NA,NA,8361,Jorge Figueroa,https://fbref.com/en/matches/a81776ce/Elche-UCAM-Murcia-February-12-2017-Segunda-Division,1,1,4,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2016-2017
+2017-02-12,Mallorca,Rayo Vallecano,2,1,NA,NA,7719,Oliver De La Fuente,https://fbref.com/en/matches/a0caa226/Mallorca-Rayo-Vallecano-February-12-2017-Segunda-Division,1,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2017-02-17,Lugo,Elche,1,2,NA,NA,4382,Gorka Sagues,https://fbref.com/en/matches/5590df09/Lugo-Elche-February-17-2017-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-02-18,UCAM Murcia,Valladolid,1,3,NA,NA,4106,Alberola Rojas,https://fbref.com/en/matches/17ae660c/UCAM-Murcia-Valladolid-February-18-2017-Segunda-Division,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
+2017-02-18,Tenerife,Almería,1,0,NA,NA,12134,Jorge Valdés Aller,https://fbref.com/en/matches/50f8711e/Tenerife-Almeria-February-18-2017-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2017-02-18,Levante,Córdoba,3,1,NA,NA,11940,Oliver De La Fuente,https://fbref.com/en/matches/ee15f06b/Levante-Cordoba-February-18-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-02-18,Gimnàstic,Numancia,2,0,NA,NA,5577,Francisco Arias,https://fbref.com/en/matches/15f00947/Gimnastic-Numancia-February-18-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-02-18,Girona,Mallorca,1,0,NA,NA,5618,Isidro Díaz de Mera,https://fbref.com/en/matches/f8e4b248/Girona-Mallorca-February-18-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2016-2017
+2017-02-19,Huesca,Sevilla B,2,1,NA,NA,3382,Saúl Ais,https://fbref.com/en/matches/4d80f289/Huesca-Sevilla-Atletico-February-19-2017-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-02-19,Cádiz,Reus,0,0,NA,NA,12179,Eduardo Prieto ,https://fbref.com/en/matches/3a83a33d/Cadiz-Reus-February-19-2017-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-02-19,Oviedo,Getafe,2,1,NA,NA,17623,Pedro Pérez,https://fbref.com/en/matches/b3ce721d/Oviedo-Getafe-February-19-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-02-19,Rayo Vallecano,Mirandés,1,2,NA,NA,8632,Pablo González,https://fbref.com/en/matches/aec1222c/Rayo-Vallecano-Mirandes-February-19-2017-Segunda-Division,0,0,3,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-02-19,Alcorcón,Zaragoza,1,1,NA,NA,2933,David Medié,https://fbref.com/en/matches/80fa2f00/Alcorcon-Zaragoza-February-19-2017-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-02-24,Reus,Oviedo,1,1,NA,NA,4098,Dámaso Arcediano,https://fbref.com/en/matches/6b9e590c/Reus-Oviedo-February-24-2017-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-02-25,Córdoba,Alcorcón,1,0,NA,NA,11677,Juan Pulido,https://fbref.com/en/matches/402c494a/Cordoba-Alcorcon-February-25-2017-Segunda-Division,0,0,2,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2016-2017
+2017-02-25,Mallorca,Tenerife,1,4,NA,NA,8136,David Pérez,https://fbref.com/en/matches/9499da2b/Mallorca-Tenerife-February-25-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2016-2017
+2017-02-25,Elche,Huesca,1,1,NA,NA,8111,Valentín Pizarro,https://fbref.com/en/matches/2f9169d6/Elche-Huesca-February-25-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-02-25,Mirandés,Girona,0,2,NA,NA,3230,Juan López,https://fbref.com/en/matches/ac8c8c23/Mirandes-Girona-February-25-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,1,1,4,0,0,0,0,0,0,2016-2017
+2017-02-25,Getafe,Rayo Vallecano,1,0,NA,NA,6858,Rubén Eiriz,https://fbref.com/en/matches/f46edac1/Getafe-Rayo-Vallecano-February-25-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
+2017-02-26,Numancia,Cádiz,0,3,NA,NA,2886,Pablo González,https://fbref.com/en/matches/0cb44088/Numancia-Cadiz-February-26-2017-Segunda-Division,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
+2017-02-26,Almería,UCAM Murcia,2,3,NA,NA,5841,Aitor Gorostegui,https://fbref.com/en/matches/3a6c9346/Almeria-UCAM-Murcia-February-26-2017-Segunda-Division,0,1,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-02-26,Sevilla B,Levante,1,1,NA,NA,2930,Adrián Cordero,https://fbref.com/en/matches/982d9e63/Sevilla-Atletico-Levante-February-26-2017-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,2016-2017
+2017-02-26,Valladolid,Lugo,1,1,NA,NA,8899,Víctor Areces,https://fbref.com/en/matches/16f3a194/Valladolid-Lugo-February-26-2017-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2017-02-26,Zaragoza,Gimnàstic,1,2,NA,NA,15277,Jorge Figueroa,https://fbref.com/en/matches/e8cd79f3/Zaragoza-Gimnastic-February-26-2017-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
+2017-03-03,Tenerife,Mirandés,1,1,NA,NA,15506,Rubén Eiriz,https://fbref.com/en/matches/60985718/Tenerife-Mirandes-March-3-2017-Segunda-Division,0,0,5,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
+2017-03-04,Alcorcón,Sevilla B,0,0,NA,NA,2148,Pablo González,https://fbref.com/en/matches/03403d7b/Alcorcon-Sevilla-Atletico-March-4-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-03-04,Girona,Getafe,5,1,NA,NA,7360,Jorge Valdés Aller,https://fbref.com/en/matches/f8297c0e/Girona-Getafe-March-4-2017-Segunda-Division,1,1,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
+2017-03-04,Rayo Vallecano,Reus,0,0,NA,NA,7671,Gorka Sagues,https://fbref.com/en/matches/b6b43e37/Rayo-Vallecano-Reus-March-4-2017-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-03-04,Oviedo,Cádiz,2,1,NA,NA,18946,Isidro Díaz de Mera,https://fbref.com/en/matches/f47d83ba/Oviedo-Cadiz-March-4-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-03-05,UCAM Murcia,Mallorca,1,1,NA,NA,4060,Eduardo Prieto ,https://fbref.com/en/matches/2fdd45e9/UCAM-Murcia-Mallorca-March-5-2017-Segunda-Division,1,1,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-03-05,Huesca,Valladolid,1,0,NA,NA,3125,Pedro Pérez,https://fbref.com/en/matches/9e364c44/Huesca-Valladolid-March-5-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2017-03-05,Levante,Elche,2,1,NA,NA,12442,Francisco Arias,https://fbref.com/en/matches/f09c00d5/Levante-Elche-March-5-2017-Segunda-Division,1,2,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-03-05,Lugo,Almería,1,2,NA,NA,3130,Oliver De La Fuente,https://fbref.com/en/matches/3512b6ef/Lugo-Almeria-March-5-2017-Segunda-Division,0,0,5,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2017-03-05,Gimnàstic,Córdoba,2,1,NA,NA,9121,Saúl Ais,https://fbref.com/en/matches/32a02cc4/Gimnastic-Cordoba-March-5-2017-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2016-2017
+2017-03-05,Zaragoza,Numancia,3,0,NA,NA,14773,Valentín Pizarro,https://fbref.com/en/matches/811b5693/Zaragoza-Numancia-March-5-2017-Segunda-Division,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-03-10,Elche,Alcorcón,0,0,NA,NA,7508,Dámaso Arcediano,https://fbref.com/en/matches/9bf88227/Elche-Alcorcon-March-10-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2017-03-11,Mallorca,Lugo,1,1,NA,NA,7567,Juan Pulido,https://fbref.com/en/matches/9b065a52/Mallorca-Lugo-March-11-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
+2017-03-11,Mirandés,UCAM Murcia,1,1,NA,NA,3211,David Pérez,https://fbref.com/en/matches/b8c28d37/Mirandes-UCAM-Murcia-March-11-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-03-11,Numancia,Oviedo,0,0,NA,NA,3770,Juan López,https://fbref.com/en/matches/dab9df77/Numancia-Oviedo-March-11-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-03-11,Valladolid,Levante,0,4,NA,NA,8563,David Medié,https://fbref.com/en/matches/d07bb653/Valladolid-Levante-March-11-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2016-2017
+2017-03-11,Córdoba,Zaragoza,2,1,NA,NA,10953,Aitor Gorostegui,https://fbref.com/en/matches/cd68a51e/Cordoba-Zaragoza-March-11-2017-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-03-12,Almería,Huesca,0,0,NA,NA,7145,Adrián Cordero,https://fbref.com/en/matches/0ec2d9c1/Almeria-Huesca-March-12-2017-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-03-12,Sevilla B,Gimnàstic,2,2,NA,NA,2002,Alberola Rojas,https://fbref.com/en/matches/2d2c6b26/Sevilla-Atletico-Gimnastic-March-12-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-03-12,Reus,Girona,1,2,NA,NA,4178,Jorge Figueroa,https://fbref.com/en/matches/9a06a3e8/Reus-Girona-March-12-2017-Segunda-Division,0,1,1,0,0,0,0,0,0,0,0,7,1,0,0,0,0,0,2016-2017
+2017-03-12,Cádiz,Rayo Vallecano,1,0,NA,NA,14822,Jorge Valdés Aller,https://fbref.com/en/matches/238fc5a1/Cadiz-Rayo-Vallecano-March-12-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-03-12,Getafe,Tenerife,2,2,NA,NA,5942,Víctor Areces,https://fbref.com/en/matches/8518473c/Getafe-Tenerife-March-12-2017-Segunda-Division,1,1,5,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2017-03-17,Gimnàstic,Elche,1,3,NA,NA,7783,Eduardo Prieto ,https://fbref.com/en/matches/7c852521/Gimnastic-Elche-March-17-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-03-18,Córdoba,Numancia,0,0,NA,NA,11246,Isidro Díaz de Mera,https://fbref.com/en/matches/1cfadba7/Cordoba-Numancia-March-18-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-03-18,Huesca,Mallorca,2,1,NA,NA,3248,Francisco Arias,https://fbref.com/en/matches/650c417c/Huesca-Mallorca-March-18-2017-Segunda-Division,0,0,4,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2017-03-18,Lugo,Mirandés,2,1,NA,NA,3617,Saúl Ais,https://fbref.com/en/matches/eff84d53/Lugo-Mirandes-March-18-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
+2017-03-18,UCAM Murcia,Getafe,2,0,NA,NA,4050,Jorge Figueroa,https://fbref.com/en/matches/297317c4/UCAM-Murcia-Getafe-March-18-2017-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-03-18,Zaragoza,Sevilla B,1,2,NA,NA,15452,Juan Pulido,https://fbref.com/en/matches/a57ff83b/Zaragoza-Sevilla-Atletico-March-18-2017-Segunda-Division,0,0,2,1,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2016-2017
+2017-03-19,Levante,Almería,1,0,NA,NA,10529,David Pérez,https://fbref.com/en/matches/8ecdcb56/Levante-Almeria-March-19-2017-Segunda-Division,1,1,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
+2017-03-19,Alcorcón,Valladolid,1,2,NA,NA,2589,Adrián Cordero,https://fbref.com/en/matches/b5ebf21c/Alcorcon-Valladolid-March-19-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2016-2017
+2017-03-19,Tenerife,Reus,0,1,NA,NA,12124,Pablo González,https://fbref.com/en/matches/95df7b07/Tenerife-Reus-March-19-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-03-19,Girona,Cádiz,1,2,NA,NA,8479,Dámaso Arcediano,https://fbref.com/en/matches/5b9c08c3/Girona-Cadiz-March-19-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-03-19,Rayo Vallecano,Oviedo,2,0,NA,NA,8274,Oliver De La Fuente,https://fbref.com/en/matches/f0b60879/Rayo-Vallecano-Oviedo-March-19-2017-Segunda-Division,1,1,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2017-03-25,Valladolid,Gimnàstic,1,2,NA,NA,7289,Rubén Eiriz,https://fbref.com/en/matches/8f8b0fe5/Valladolid-Gimnastic-March-25-2017-Segunda-Division,1,1,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2017-03-25,Numancia,Rayo Vallecano,0,0,NA,NA,3280,Víctor Areces,https://fbref.com/en/matches/24ddefb8/Numancia-Rayo-Vallecano-March-25-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-03-25,Almería,Alcorcón,3,1,NA,NA,6419,Isidro Díaz de Mera,https://fbref.com/en/matches/4b9932cc/Almeria-Alcorcon-March-25-2017-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-03-25,Mallorca,Levante,1,1,NA,NA,7153,Juan López,https://fbref.com/en/matches/e932e3e0/Mallorca-Levante-March-25-2017-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2016-2017
+2017-03-25,Oviedo,Girona,2,0,NA,NA,16048,Alberola Rojas,https://fbref.com/en/matches/a8f817db/Oviedo-Girona-March-25-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
+2017-03-26,Getafe,Lugo,2,0,NA,NA,5680,Pedro Pérez,https://fbref.com/en/matches/c92ef86f/Getafe-Lugo-March-26-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2016-2017
+2017-03-26,Cádiz,Tenerife,0,1,NA,NA,15056,Aitor Gorostegui,https://fbref.com/en/matches/42ee178f/Cadiz-Tenerife-March-26-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,2016-2017
+2017-03-26,Sevilla B,Córdoba,1,0,NA,NA,5512,Jorge Valdés Aller,https://fbref.com/en/matches/7a7a1da3/Sevilla-Atletico-Cordoba-March-26-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-03-26,Reus,UCAM Murcia,0,0,NA,NA,4129,Valentín Pizarro,https://fbref.com/en/matches/f97c8707/Reus-UCAM-Murcia-March-26-2017-Segunda-Division,0,1,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-03-26,Mirandés,Huesca,1,3,NA,NA,3092,David Medié,https://fbref.com/en/matches/6998699c/Mirandes-Huesca-March-26-2017-Segunda-Division,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-03-26,Elche,Zaragoza,0,3,NA,NA,8215,Gorka Sagues,https://fbref.com/en/matches/00153a5f/Elche-Zaragoza-March-26-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-03-31,Alcorcón,Mallorca,1,0,NA,NA,3549,Jorge Valdés Aller,https://fbref.com/en/matches/a072701e/Alcorcon-Mallorca-March-31-2017-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-04-01,Levante,Mirandés,2,1,NA,NA,12378,Guillermo Cuadra,https://fbref.com/en/matches/25019972/Levante-Mirandes-April-1-2017-Segunda-Division,1,2,1,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2016-2017
+2017-04-01,UCAM Murcia,Cádiz,1,1,NA,NA,5530,David Medié,https://fbref.com/en/matches/f7f40040/UCAM-Murcia-Cadiz-April-1-2017-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-04-01,Huesca,Getafe,0,0,NA,NA,4312,Isidro Díaz de Mera,https://fbref.com/en/matches/2edd9ae3/Huesca-Getafe-April-1-2017-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-04-01,Girona,Rayo Vallecano,1,3,NA,NA,6887,Eduardo Prieto ,https://fbref.com/en/matches/24045e07/Girona-Rayo-Vallecano-April-1-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2017-04-02,Gimnàstic,Almería,0,1,NA,NA,8327,Aitor Gorostegui,https://fbref.com/en/matches/9a7d4aaf/Gimnastic-Almeria-April-2-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2017-04-02,Lugo,Reus,1,0,NA,NA,3562,Francisco Arias,https://fbref.com/en/matches/3b3c009e/Lugo-Reus-April-2-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
+2017-04-02,Tenerife,Oviedo,1,0,NA,NA,17353,David Pérez,https://fbref.com/en/matches/c8ab53c4/Tenerife-Oviedo-April-2-2017-Segunda-Division,1,1,3,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,2016-2017
+2017-04-02,Córdoba,Elche,1,0,NA,NA,10176,Valentín Pizarro,https://fbref.com/en/matches/f4bcda61/Cordoba-Elche-April-2-2017-Segunda-Division,0,0,5,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-04-02,Zaragoza,Valladolid,1,1,NA,NA,15222,Juan López,https://fbref.com/en/matches/00650225/Zaragoza-Valladolid-April-2-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-04-03,Sevilla B,Numancia,1,1,NA,NA,2603,Gorka Sagues,https://fbref.com/en/matches/e3acad5b/Sevilla-Atletico-Numancia-April-3-2017-Segunda-Division,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2016-2017
+2017-04-07,Mirandés,Alcorcón,2,0,NA,NA,3213,Jorge Figueroa,https://fbref.com/en/matches/1ea52dbd/Mirandes-Alcorcon-April-7-2017-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
+2017-04-08,Mallorca,Gimnàstic,0,0,NA,NA,9842,Pedro Pérez,https://fbref.com/en/matches/13ecc560/Mallorca-Gimnastic-April-8-2017-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-04-08,Getafe,Levante,2,0,NA,NA,5617,Dámaso Arcediano,https://fbref.com/en/matches/aa751610/Getafe-Levante-April-8-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-04-08,Cádiz,Lugo,1,1,NA,NA,12848,Alberola Rojas,https://fbref.com/en/matches/74b8fc44/Cadiz-Lugo-April-8-2017-Segunda-Division,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-04-08,Rayo Vallecano,Tenerife,1,1,NA,NA,9374,Rubén Eiriz,https://fbref.com/en/matches/1eb6bfca/Rayo-Vallecano-Tenerife-April-8-2017-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-04-09,Valladolid,Córdoba,2,1,NA,NA,6690,Pablo González,https://fbref.com/en/matches/6b7dc00c/Valladolid-Cordoba-April-9-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-04-09,Elche,Sevilla B,3,2,NA,NA,5432,Adrián Cordero,https://fbref.com/en/matches/f3b4df94/Elche-Sevilla-Atletico-April-9-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2017-04-09,Numancia,Girona,0,2,NA,NA,2977,Juan Pulido,https://fbref.com/en/matches/7b465d94/Numancia-Girona-April-9-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-04-09,Oviedo,UCAM Murcia,2,0,NA,NA,14795,Saúl Ais,https://fbref.com/en/matches/93631631/Oviedo-UCAM-Murcia-April-9-2017-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-04-09,Reus,Huesca,0,1,NA,NA,4098,Oliver De La Fuente,https://fbref.com/en/matches/d0aed8d2/Reus-Huesca-April-9-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2017-04-09,Almería,Zaragoza,2,2,NA,NA,7520,Víctor Areces,https://fbref.com/en/matches/ff5288f6/Almeria-Zaragoza-April-9-2017-Segunda-Division,0,0,3,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-04-15,Elche,Numancia,1,3,NA,NA,5745,David Medié,https://fbref.com/en/matches/794bcc1b/Elche-Numancia-April-15-2017-Segunda-Division,0,0,1,1,0,0,0,0,0,1,1,4,0,0,0,0,0,0,2016-2017
+2017-04-15,Tenerife,Girona,3,3,NA,NA,19395,Isidro Díaz de Mera,https://fbref.com/en/matches/afef1ad6/Tenerife-Girona-April-15-2017-Segunda-Division,1,1,7,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2016-2017
+2017-04-15,Gimnàstic,Mirandés,4,1,NA,NA,5732,Juan Pulido,https://fbref.com/en/matches/4563a9a3/Gimnastic-Mirandes-April-15-2017-Segunda-Division,1,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-04-15,Huesca,Cádiz,1,1,NA,NA,4092,David Pérez,https://fbref.com/en/matches/fba1f1bd/Huesca-Cadiz-April-15-2017-Segunda-Division,1,1,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
+2017-04-16,Sevilla B,Valladolid,6,2,NA,NA,2725,Francisco Arias,https://fbref.com/en/matches/50f02a9f/Sevilla-Atletico-Valladolid-April-16-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2016-2017
+2017-04-16,Alcorcón,Getafe,0,3,NA,NA,3433,Eduardo Prieto ,https://fbref.com/en/matches/41f1ca04/Alcorcon-Getafe-April-16-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-04-16,UCAM Murcia,Rayo Vallecano,0,1,NA,NA,4693,Guillermo Cuadra,https://fbref.com/en/matches/de02be70/UCAM-Murcia-Rayo-Vallecano-April-16-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-04-16,Córdoba,Almería,1,0,NA,NA,11243,Gorka Sagues,https://fbref.com/en/matches/bc197cd7/Cordoba-Almeria-April-16-2017-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-04-16,Lugo,Oviedo,2,1,NA,NA,5977,Aitor Gorostegui,https://fbref.com/en/matches/5bdcd1b7/Lugo-Oviedo-April-16-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-04-16,Zaragoza,Mallorca,1,0,NA,NA,15180,Adrián Cordero,https://fbref.com/en/matches/b2694f27/Zaragoza-Mallorca-April-16-2017-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-04-17,Levante,Reus,0,0,NA,NA,14255,Jorge Valdés Aller,https://fbref.com/en/matches/221587fa/Levante-Reus-April-17-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-04-21,Oviedo,Huesca,1,1,NA,NA,16347,Juan López,https://fbref.com/en/matches/0e9d02ed/Oviedo-Huesca-April-21-2017-Segunda-Division,0,1,3,1,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
+2017-04-22,Valladolid,Elche,2,1,NA,NA,8386,Pedro Pérez,https://fbref.com/en/matches/80f75c22/Valladolid-Elche-April-22-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-04-22,Getafe,Gimnàstic,1,1,NA,NA,10175,Pablo González,https://fbref.com/en/matches/987db03e/Getafe-Gimnastic-April-22-2017-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-04-22,Cádiz,Levante,1,1,NA,NA,13716,Oliver De La Fuente,https://fbref.com/en/matches/53e1a80d/Cadiz-Levante-April-22-2017-Segunda-Division,0,0,0,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2016-2017
+2017-04-22,Rayo Vallecano,Lugo,2,0,NA,NA,8904,Jorge Figueroa,https://fbref.com/en/matches/d8f4a0cb/Rayo-Vallecano-Lugo-April-22-2017-Segunda-Division,1,1,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-04-22,Girona,UCAM Murcia,1,2,NA,NA,6858,Rubén Eiriz,https://fbref.com/en/matches/9b7553c4/Girona-UCAM-Murcia-April-22-2017-Segunda-Division,0,0,1,1,0,0,0,0,0,0,0,5,1,0,0,0,0,0,2016-2017
+2017-04-23,Numancia,Tenerife,1,1,NA,NA,2503,Saúl Ais,https://fbref.com/en/matches/a94ae99a/Numancia-Tenerife-April-23-2017-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-04-23,Mirandés,Zaragoza,0,1,NA,NA,4081,Dámaso Arcediano,https://fbref.com/en/matches/e60c3136/Mirandes-Zaragoza-April-23-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-04-23,Mallorca,Córdoba,1,1,NA,NA,10869,Víctor Areces,https://fbref.com/en/matches/8b47fa6e/Mallorca-Cordoba-April-23-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2017-04-23,Reus,Alcorcón,0,0,NA,NA,3852,Alberola Rojas,https://fbref.com/en/matches/8e8aa137/Reus-Alcorcon-April-23-2017-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2016-2017
+2017-04-23,Almería,Sevilla B,2,1,NA,NA,7296,Valentín Pizarro,https://fbref.com/en/matches/2e88b52c/Almeria-Sevilla-Atletico-April-23-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
+2017-04-28,Elche,Almería,2,3,NA,NA,7956,Isidro Díaz de Mera,https://fbref.com/en/matches/75f0c577/Elche-Almeria-April-28-2017-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
+2017-04-29,UCAM Murcia,Tenerife,1,0,NA,NA,3404,Pablo González,https://fbref.com/en/matches/8ae087da/UCAM-Murcia-Tenerife-April-29-2017-Segunda-Division,0,0,3,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-04-29,Levante,Oviedo,1,0,NA,NA,18715,Adrián Cordero,https://fbref.com/en/matches/2973dfb3/Levante-Oviedo-April-29-2017-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-04-29,Valladolid,Numancia,1,1,NA,NA,7775,Guillermo Cuadra,https://fbref.com/en/matches/7ad9cb30/Valladolid-Numancia-April-29-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-04-29,Zaragoza,Getafe,1,2,NA,NA,19200,Rubén Eiriz,https://fbref.com/en/matches/e6d5d29d/Zaragoza-Getafe-April-29-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
+2017-04-30,Alcorcón,Cádiz,0,2,NA,NA,3084,Gorka Sagues,https://fbref.com/en/matches/e705b84b/Alcorcon-Cadiz-April-30-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-04-30,Lugo,Girona,1,2,NA,NA,3339,Jorge Valdés Aller,https://fbref.com/en/matches/d008a66d/Lugo-Girona-April-30-2017-Segunda-Division,1,1,5,0,0,0,0,0,0,1,1,3,1,0,0,0,0,0,2016-2017
+2017-04-30,Córdoba,Mirandés,1,1,NA,NA,10348,Eduardo Prieto ,https://fbref.com/en/matches/e55d71d1/Cordoba-Mirandes-April-30-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2017-04-30,Sevilla B,Mallorca,2,3,NA,NA,2264,Oliver De La Fuente,https://fbref.com/en/matches/603d6662/Sevilla-Atletico-Mallorca-April-30-2017-Segunda-Division,1,1,2,0,0,0,0,0,0,1,1,5,0,0,0,0,0,0,2016-2017
+2017-05-01,Huesca,Rayo Vallecano,2,0,NA,NA,4721,David Medié,https://fbref.com/en/matches/10afac1d/Huesca-Rayo-Vallecano-May-1-2017-Segunda-Division,1,1,3,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,2016-2017
+2017-05-01,Gimnàstic,Reus,0,1,NA,NA,12541,Valentín Pizarro,https://fbref.com/en/matches/b2fb95f2/Gimnastic-Reus-May-1-2017-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-05-05,Oviedo,Alcorcón,0,1,NA,NA,14731,Juan Pulido,https://fbref.com/en/matches/3e5613ab/Oviedo-Alcorcon-May-5-2017-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-05-06,Mallorca,Elche,1,0,NA,NA,12479,Jorge Figueroa,https://fbref.com/en/matches/968edafd/Mallorca-Elche-May-6-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-05-06,Rayo Vallecano,Levante,2,1,NA,NA,8869,Aitor Gorostegui,https://fbref.com/en/matches/4b8e9871/Rayo-Vallecano-Levante-May-6-2017-Segunda-Division,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-05-06,Numancia,UCAM Murcia,1,0,NA,NA,4503,Francisco Arias,https://fbref.com/en/matches/d8a02aec/Numancia-UCAM-Murcia-May-6-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-05-06,Girona,Huesca,3,1,NA,NA,7220,Pedro Pérez,https://fbref.com/en/matches/d3de5d38/Girona-Huesca-May-6-2017-Segunda-Division,1,1,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
+2017-05-07,Tenerife,Lugo,2,1,NA,NA,12829,Dámaso Arcediano,https://fbref.com/en/matches/cfb667a8/Tenerife-Lugo-May-7-2017-Segunda-Division,0,0,5,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-05-07,Mirandés,Sevilla B,0,1,NA,NA,2785,Víctor Areces,https://fbref.com/en/matches/7674dc83/Mirandes-Sevilla-Atletico-May-7-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-05-07,Cádiz,Gimnàstic,0,0,NA,NA,13278,Saúl Ais,https://fbref.com/en/matches/07a8041a/Cadiz-Gimnastic-May-7-2017-Segunda-Division,0,1,1,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,2016-2017
+2017-05-07,Almería,Valladolid,0,3,NA,NA,8868,David Pérez,https://fbref.com/en/matches/e77a4177/Almeria-Valladolid-May-7-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2016-2017
+2017-05-07,Getafe,Córdoba,2,0,NA,NA,10655,Alberola Rojas,https://fbref.com/en/matches/e06f8d16/Getafe-Cordoba-May-7-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-05-07,Reus,Zaragoza,1,0,NA,NA,3992,Juan López,https://fbref.com/en/matches/78fd0cd3/Reus-Zaragoza-May-7-2017-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,7,1,0,0,0,0,0,2016-2017
+2017-05-12,Sevilla B,Getafe,2,1,NA,NA,3579,Guillermo Cuadra,https://fbref.com/en/matches/9817f6da/Sevilla-Atletico-Getafe-May-12-2017-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2016-2017
+2017-05-12,Zaragoza,Cádiz,1,1,NA,NA,17300,Eduardo Prieto ,https://fbref.com/en/matches/1a493786/Zaragoza-Cadiz-May-12-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-05-13,Valladolid,Mallorca,2,1,NA,NA,8804,Juan López,https://fbref.com/en/matches/f5bd0297/Valladolid-Mallorca-May-13-2017-Segunda-Division,1,1,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-05-13,Elche,Mirandés,0,1,NA,NA,14559,David Pérez,https://fbref.com/en/matches/370deba6/Elche-Mirandes-May-13-2017-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,5,2,0,0,0,0,0,2016-2017
+2017-05-13,Huesca,Tenerife,2,2,NA,NA,4474,Oliver De La Fuente,https://fbref.com/en/matches/90d8a144/Huesca-Tenerife-May-13-2017-Segunda-Division,1,1,4,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-05-13,Levante,Girona,2,1,NA,NA,12658,Gorka Sagues,https://fbref.com/en/matches/a13dde83/Levante-Girona-May-13-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-05-13,Almería,Numancia,2,0,NA,NA,7992,Pablo González,https://fbref.com/en/matches/f0e30fad/Almeria-Numancia-May-13-2017-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-05-13,Córdoba,Reus,1,0,NA,NA,13750,Saúl Ais,https://fbref.com/en/matches/6226c946/Cordoba-Reus-May-13-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2017-05-13,Alcorcón,Rayo Vallecano,2,0,NA,NA,3918,Isidro Díaz de Mera,https://fbref.com/en/matches/0a899169/Alcorcon-Rayo-Vallecano-May-13-2017-Segunda-Division,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-05-13,Gimnàstic,Oviedo,2,2,NA,NA,7196,Pedro Pérez,https://fbref.com/en/matches/4d3599e3/Gimnastic-Oviedo-May-13-2017-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-05-14,Lugo,UCAM Murcia,0,0,NA,NA,2739,David Medié,https://fbref.com/en/matches/f406bbc9/Lugo-UCAM-Murcia-May-14-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2016-2017
+2017-05-19,Rayo Vallecano,Gimnàstic,2,0,NA,NA,9800,Francisco Arias,https://fbref.com/en/matches/68673073/Rayo-Vallecano-Gimnastic-May-19-2017-Segunda-Division,0,0,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-05-19,Getafe,Elche,2,0,NA,NA,11130,Adrián Cordero,https://fbref.com/en/matches/77c6702e/Getafe-Elche-May-19-2017-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-05-20,Tenerife,Levante,0,0,NA,NA,15226,Alberola Rojas,https://fbref.com/en/matches/cb7570c6/Tenerife-Levante-May-20-2017-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-05-20,Mallorca,Almería,1,0,NA,NA,12940,Rubén Eiriz,https://fbref.com/en/matches/f4d353d4/Mallorca-Almeria-May-20-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-05-20,Girona,Alcorcón,0,0,NA,NA,8293,Víctor Areces,https://fbref.com/en/matches/501e9ec8/Girona-Alcorcon-May-20-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2017-05-20,Reus,Sevilla B,2,1,NA,NA,3988,Dámaso Arcediano,https://fbref.com/en/matches/c98f71da/Reus-Sevilla-Atletico-May-20-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-05-20,UCAM Murcia,Huesca,3,1,NA,NA,5877,Juan Pulido,https://fbref.com/en/matches/836c4cd4/UCAM-Murcia-Huesca-May-20-2017-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-05-20,Cádiz,Córdoba,1,1,NA,NA,14175,Jorge Valdés Aller,https://fbref.com/en/matches/4a2e30a1/Cadiz-Cordoba-May-20-2017-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-05-20,Oviedo,Zaragoza,0,0,NA,NA,16227,Jorge Figueroa,https://fbref.com/en/matches/31a4dda8/Oviedo-Zaragoza-May-20-2017-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2016-2017
+2017-05-21,Mirandés,Valladolid,2,2,NA,NA,3989,Aitor Gorostegui,https://fbref.com/en/matches/1e4aa181/Mirandes-Valladolid-May-21-2017-Segunda-Division,1,1,7,1,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2016-2017
+2017-05-21,Numancia,Lugo,0,1,NA,NA,3133,Valentín Pizarro,https://fbref.com/en/matches/1a5f7f40/Numancia-Lugo-May-21-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-05-26,Levante,UCAM Murcia,3,1,NA,NA,10149,Víctor Areces,https://fbref.com/en/matches/aa3cd984/Levante-UCAM-Murcia-May-26-2017-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
+2017-05-27,Huesca,Lugo,1,0,NA,NA,3638,Guillermo Cuadra,https://fbref.com/en/matches/321b3c45/Huesca-Lugo-May-27-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-05-27,Sevilla B,Cádiz,3,3,NA,NA,18169,Isidro Díaz de Mera,https://fbref.com/en/matches/2061ca02/Sevilla-Atletico-Cadiz-May-27-2017-Segunda-Division,1,1,5,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-05-27,Valladolid,Getafe,1,0,NA,NA,11067,Saúl Ais,https://fbref.com/en/matches/a5375c07/Valladolid-Getafe-May-27-2017-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-05-27,Almería,Mirandés,2,0,NA,NA,7550,Alberola Rojas,https://fbref.com/en/matches/35843026/Almeria-Mirandes-May-27-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-05-28,Alcorcón,Tenerife,1,3,NA,NA,3870,David Pérez,https://fbref.com/en/matches/9c314740/Alcorcon-Tenerife-May-28-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2016-2017
+2017-05-28,Zaragoza,Rayo Vallecano,1,1,NA,NA,16287,Pablo González,https://fbref.com/en/matches/ea433315/Zaragoza-Rayo-Vallecano-May-28-2017-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
+2017-05-28,Gimnàstic,Girona,3,1,NA,NA,11103,Eduardo Prieto ,https://fbref.com/en/matches/8b7d0500/Gimnastic-Girona-May-28-2017-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-05-28,Mallorca,Numancia,0,0,NA,NA,14923,Gorka Sagues,https://fbref.com/en/matches/9afe8d04/Mallorca-Numancia-May-28-2017-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2016-2017
+2017-05-28,Elche,Reus,1,1,NA,NA,9938,Francisco Arias,https://fbref.com/en/matches/1352012b/Elche-Reus-May-28-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-05-28,Córdoba,Oviedo,4,2,NA,NA,14751,Dámaso Arcediano,https://fbref.com/en/matches/612924e4/Cordoba-Oviedo-May-28-2017-Segunda-Division,0,0,4,0,0,0,0,0,0,1,2,5,0,0,0,0,0,0,2016-2017
+2017-06-02,Lugo,Levante,1,0,NA,NA,3258,Jorge Figueroa,https://fbref.com/en/matches/6bfe5a9d/Lugo-Levante-June-2-2017-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-06-04,Tenerife,Gimnàstic,0,1,NA,NA,19348,Aitor Gorostegui,https://fbref.com/en/matches/72af3ca2/Tenerife-Gimnastic-June-4-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,2016-2017
+2017-06-04,Cádiz,Elche,2,1,NA,NA,16324,Gorka Sagues,https://fbref.com/en/matches/6820af21/Cadiz-Elche-June-4-2017-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-06-04,Rayo Vallecano,Córdoba,1,2,NA,NA,8063,Adrián Cordero,https://fbref.com/en/matches/cda27c4e/Rayo-Vallecano-Cordoba-June-4-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-06-04,Mirandés,Mallorca,2,2,NA,NA,1534,Juan Pulido,https://fbref.com/en/matches/64c0c1bf/Mirandes-Mallorca-June-4-2017-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-06-04,Huesca,Numancia,0,0,NA,NA,4413,Alberola Rojas,https://fbref.com/en/matches/2b0dd5e6/Huesca-Numancia-June-4-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-06-04,UCAM Murcia,Alcorcón,0,1,NA,NA,5742,Isidro Díaz de Mera,https://fbref.com/en/matches/b0cf33d9/UCAM-Murcia-Alcorcon-June-4-2017-Segunda-Division,0,0,3,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-06-04,Getafe,Almería,4,0,NA,NA,10426,Eduardo Prieto ,https://fbref.com/en/matches/f0c0e017/Getafe-Almeria-June-4-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
+2017-06-04,Oviedo,Sevilla B,1,0,NA,NA,8098,Rubén Eiriz,https://fbref.com/en/matches/16f76264/Oviedo-Sevilla-Atletico-June-4-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-06-04,Reus,Valladolid,2,0,NA,NA,3869,Guillermo Cuadra,https://fbref.com/en/matches/e7c2eac4/Reus-Valladolid-June-4-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-06-04,Girona,Zaragoza,0,0,NA,NA,8824,Dámaso Arcediano,https://fbref.com/en/matches/e93eabef/Girona-Zaragoza-June-4-2017-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
+2017-06-09,Sevilla B,Rayo Vallecano,1,2,NA,NA,4359,David Medié,https://fbref.com/en/matches/4bd2bd18/Sevilla-Atletico-Rayo-Vallecano-June-9-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-06-10,Valladolid,Cádiz,1,0,NA,NA,12812,Francisco Arias,https://fbref.com/en/matches/a4d57086/Valladolid-Cadiz-June-10-2017-Segunda-Division,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
+2017-06-10,Elche,Oviedo,0,2,NA,NA,2520,Pedro Pérez,https://fbref.com/en/matches/16230c12/Elche-Oviedo-June-10-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-06-10,Mallorca,Getafe,3,3,NA,NA,3635,Pablo González,https://fbref.com/en/matches/a3834d42/Mallorca-Getafe-June-10-2017-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-06-10,Alcorcón,Lugo,3,0,NA,NA,4262,Alberola Rojas,https://fbref.com/en/matches/fd9e895f/Alcorcon-Lugo-June-10-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-06-10,Gimnàstic,UCAM Murcia,1,0,NA,NA,11103,Guillermo Cuadra,https://fbref.com/en/matches/fff891f7/Gimnastic-UCAM-Murcia-June-10-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,2016-2017
+2017-06-10,Zaragoza,Tenerife,1,2,NA,NA,11762,Saúl Ais,https://fbref.com/en/matches/2981d7d8/Zaragoza-Tenerife-June-10-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
+2017-06-10,Levante,Huesca,1,2,NA,NA,11761,Eduardo Prieto ,https://fbref.com/en/matches/39caadd2/Levante-Huesca-June-10-2017-Segunda-Division,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-06-10,Almería,Reus,1,0,NA,NA,11258,Aitor Gorostegui,https://fbref.com/en/matches/ae20fd1e/Almeria-Reus-June-10-2017-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-06-10,Córdoba,Girona,2,1,NA,NA,8977,Oliver De La Fuente,https://fbref.com/en/matches/f9aa220a/Cordoba-Girona-June-10-2017-Segunda-Division,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
+2017-06-11,Numancia,Mirandés,0,2,NA,NA,2110,Juan López,https://fbref.com/en/matches/a7e75dfd/Numancia-Mirandes-June-11-2017-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-06-14,Huesca,Getafe,2,2,NA,NA,4867,Aitor Gorostegui,https://fbref.com/en/matches/b9c48732/Huesca-Getafe-June-14-2017-Segunda-Division,0,0,5,0,0,0,0,0,0,1,1,4,0,0,0,0,0,0,2016-2017
+2017-06-15,Cádiz,Tenerife,1,0,NA,NA,16493,Dámaso Arcediano,https://fbref.com/en/matches/ca1204f3/Cadiz-Tenerife-June-15-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
+2017-06-17,Getafe,Huesca,3,0,NA,NA,13013,Pedro Pérez,https://fbref.com/en/matches/6d772763/Getafe-Huesca-June-17-2017-Segunda-Division,0,0,5,1,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
+2017-06-18,Tenerife,Cádiz,1,0,NA,NA,20761,Víctor Areces,https://fbref.com/en/matches/4f3d6af6/Tenerife-Cadiz-June-18-2017-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-06-21,Tenerife,Getafe,1,0,NA,NA,21450,Francisco Arias,https://fbref.com/en/matches/22fcf91c/Tenerife-Getafe-June-21-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2017-06-24,Getafe,Tenerife,3,1,NA,NA,15380,Eduardo Prieto ,https://fbref.com/en/matches/5a6da580/Getafe-Tenerife-June-24-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017

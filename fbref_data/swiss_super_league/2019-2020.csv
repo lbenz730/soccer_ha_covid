@@ -1,0 +1,181 @@
+date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_report_url,home_pk_goals,home_pk_attempts,home_yellow_cards,home_red_cards,home_shots,home_shots_on_target,home_tackles,home_interceptions,home_fouls_committed,away_pk_goals,away_pk_attempts,away_yellow_cards,away_red_cards,away_shots,away_shots_on_target,away_tackles,away_interceptions,away_fouls_committed,season
+2019-07-19,Sion,Basel,1,4,NA,NA,11000,Sandro Schärer,https://fbref.com/en/matches/8aae7828/Sion-Basel-July-19-2019-Super-League,0,0,1,0,15,4,11,7,11,0,0,3,0,8,4,9,9,12,2019-2020
+2019-07-20,Thun,Xamax,2,2,NA,NA,5111,Alessandro Dudic,https://fbref.com/en/matches/74762854/Thun-Xamax-July-20-2019-Super-League,1,1,2,0,24,5,5,11,12,1,1,7,2,8,3,8,6,12,2019-2020
+2019-07-20,St. Gallen,Luzern,0,2,NA,NA,11672,Lionel Tschudi,https://fbref.com/en/matches/5fed9b57/St-Gallen-Luzern-July-20-2019-Super-League,0,0,3,0,13,5,7,9,13,1,1,5,0,10,4,10,18,18,2019-2020
+2019-07-21,Zürich,Lugano,0,4,NA,NA,9430,Alain Bieri,https://fbref.com/en/matches/501284a3/Zurich-Lugano-July-21-2019-Super-League,0,0,1,0,16,3,10,11,8,1,1,2,0,12,7,7,7,10,2019-2020
+2019-07-21,Young Boys,Servette FC,1,1,NA,NA,25110,Adrien Jaccottet,https://fbref.com/en/matches/08914821/Young-Boys-Servette-FC-July-21-2019-Super-League,0,0,1,0,16,5,6,3,16,0,0,2,0,14,5,6,9,12,2019-2020
+2019-07-27,Servette FC,Sion,0,0,NA,NA,11142,Lionel Tschudi,https://fbref.com/en/matches/46c2e5a2/Servette-FC-Sion-July-27-2019-Super-League,0,0,1,0,14,3,13,1,9,0,0,3,0,12,3,15,9,9,2019-2020
+2019-07-27,Basel,St. Gallen,1,2,NA,NA,21932,Alain Bieri,https://fbref.com/en/matches/b196d0bc/Basel-St-Gallen-July-27-2019-Super-League,0,0,2,0,16,3,21,15,14,1,1,5,0,15,7,17,12,17,2019-2020
+2019-07-28,Xamax,Young Boys,0,1,NA,NA,8406,Nikolaj Hänni,https://fbref.com/en/matches/52efa227/Xamax-Young-Boys-July-28-2019-Super-League,0,0,3,0,8,3,13,12,9,0,0,1,0,24,2,3,5,10,2019-2020
+2019-07-28,Lugano,Thun,0,0,NA,NA,4334,Sandro Schärer,https://fbref.com/en/matches/bd600e04/Lugano-Thun-July-28-2019-Super-League,0,0,2,0,10,4,4,5,9,0,0,3,0,8,2,13,11,12,2019-2020
+2019-07-28,Luzern,Zürich,0,0,NA,NA,9917,Stephan Klossner,https://fbref.com/en/matches/98dca2c4/Luzern-Zurich-July-28-2019-Super-League,0,0,1,0,17,1,11,8,14,0,0,3,0,11,2,8,8,18,2019-2020
+2019-08-03,Thun,Basel,2,3,NA,NA,6266,Stephan Klossner,https://fbref.com/en/matches/192f95cb/Thun-Basel-August-3-2019-Super-League,0,0,4,0,14,5,19,4,9,0,0,1,0,18,7,8,4,11,2019-2020
+2019-08-03,Sion,Zürich,3,1,NA,NA,9800,Nikolaj Hänni,https://fbref.com/en/matches/7e96652b/Sion-Zurich-August-3-2019-Super-League,0,0,3,1,7,4,10,13,10,0,1,1,0,12,3,12,11,13,2019-2020
+2019-08-04,Xamax,St. Gallen,1,1,NA,NA,5484,Lukas Fähndrich,https://fbref.com/en/matches/ad3023dc/Xamax-St-Gallen-August-4-2019-Super-League,0,0,3,0,13,2,17,22,18,0,0,0,0,12,5,11,17,9,2019-2020
+2019-08-04,Servette FC,Luzern,1,0,NA,NA,6059,Sandro Schärer,https://fbref.com/en/matches/67cc155d/Servette-FC-Luzern-August-4-2019-Super-League,0,0,3,0,22,6,9,11,9,0,0,3,0,13,4,8,12,10,2019-2020
+2019-08-04,Young Boys,Lugano,2,0,NA,NA,24091,Fedayi San,https://fbref.com/en/matches/60bc8618/Young-Boys-Lugano-August-4-2019-Super-League,0,0,2,0,13,4,9,13,17,0,0,3,0,11,1,11,8,11,2019-2020
+2019-08-10,St. Gallen,Young Boys,2,3,NA,NA,12594,Urs Schnyder,https://fbref.com/en/matches/983a8b93/St-Gallen-Young-Boys-August-10-2019-Super-League,1,1,2,0,15,3,23,15,12,0,0,4,0,9,3,10,6,17,2019-2020
+2019-08-10,Basel,Servette FC,3,1,NA,NA,21532,Alessandro Dudic,https://fbref.com/en/matches/a52bf3cd/Basel-Servette-FC-August-10-2019-Super-League,0,0,1,0,21,9,12,10,13,0,0,2,0,11,3,7,23,9,2019-2020
+2019-08-11,Zürich,Xamax,2,2,NA,NA,9619,Adrien Jaccottet,https://fbref.com/en/matches/689346d5/Zurich-Xamax-August-11-2019-Super-League,0,1,4,0,14,5,6,7,13,0,0,3,1,14,3,10,9,16,2019-2020
+2019-08-11,Luzern,Thun,0,2,NA,NA,9639,Alain Bieri,https://fbref.com/en/matches/1ad3d3b5/Luzern-Thun-August-11-2019-Super-League,0,0,1,0,14,6,6,13,14,0,0,2,0,10,5,9,11,9,2019-2020
+2019-08-11,Lugano,Sion,0,1,NA,NA,4025,Stephan Klossner,https://fbref.com/en/matches/a42f1bd3/Lugano-Sion-August-11-2019-Super-League,0,0,1,0,13,3,17,7,10,0,0,2,0,9,3,8,21,16,2019-2020
+2019-08-14,Zürich,St. Gallen,2,1,NA,NA,9112,Fedayi San,https://fbref.com/en/matches/3f2c0a34/Zurich-St-Gallen-August-14-2019-Super-League,0,0,3,1,10,5,18,12,13,0,0,5,1,17,7,15,18,14,2019-2020
+2019-08-24,Xamax,Basel,0,3,NA,NA,6364,Fedayi San,https://fbref.com/en/matches/0fe55919/Xamax-Basel-August-24-2019-Super-League,0,0,0,0,14,3,10,9,12,0,0,3,0,20,8,8,10,17,2019-2020
+2019-08-24,Young Boys,Zürich,4,0,NA,NA,24442,Stephan Klossner,https://fbref.com/en/matches/b9246a4f/Young-Boys-Zurich-August-24-2019-Super-League,1,1,1,0,22,8,10,9,10,0,0,4,0,6,2,14,18,19,2019-2020
+2019-08-25,St. Gallen,Lugano,3,2,NA,NA,10578,Sandro Schärer,https://fbref.com/en/matches/d145b8d0/St-Gallen-Lugano-August-25-2019-Super-League,0,1,4,0,19,6,12,6,12,0,0,3,1,12,5,14,12,15,2019-2020
+2019-08-25,Sion,Luzern,2,1,NA,NA,9300,Adrien Jaccottet,https://fbref.com/en/matches/e27b45db/Sion-Luzern-August-25-2019-Super-League,1,1,3,0,13,4,11,23,14,0,0,4,0,13,4,4,12,15,2019-2020
+2019-08-25,Thun,Servette FC,0,4,NA,NA,6685,Lukas Fähndrich,https://fbref.com/en/matches/ed3a1e75/Thun-Servette-FC-August-25-2019-Super-League,0,0,3,0,17,3,13,2,16,0,1,2,0,10,5,15,15,12,2019-2020
+2019-08-31,Servette FC,Xamax,2,2,NA,NA,10012,Nikolaj Hänni,https://fbref.com/en/matches/3e7cf69f/Servette-FC-Xamax-August-31-2019-Super-League,0,0,1,0,8,1,7,5,11,0,0,1,0,15,5,12,12,14,2019-2020
+2019-09-01,Basel,Lugano,2,1,NA,NA,21912,Lukas Fähndrich,https://fbref.com/en/matches/83cb3a9f/Basel-Lugano-September-1-2019-Super-League,0,0,2,0,19,11,11,8,8,0,0,4,0,21,5,12,6,16,2019-2020
+2019-09-01,Luzern,Young Boys,2,2,NA,NA,10911,Lionel Tschudi,https://fbref.com/en/matches/c37b07da/Luzern-Young-Boys-September-1-2019-Super-League,0,0,5,1,13,4,13,7,22,1,1,2,0,13,2,8,11,15,2019-2020
+2019-09-01,Thun,Sion,0,1,NA,NA,5003,Urs Schnyder,https://fbref.com/en/matches/5e1518ca/Thun-Sion-September-1-2019-Super-League,0,0,4,0,18,1,7,8,15,0,0,4,0,15,7,12,15,12,2019-2020
+2019-09-21,St. Gallen,Servette FC,3,1,NA,NA,10931,Lukas Fähndrich,https://fbref.com/en/matches/0f3b70b2/St-Gallen-Servette-FC-September-21-2019-Super-League,0,0,3,0,18,8,15,19,17,0,0,4,0,12,1,19,13,13,2019-2020
+2019-09-21,Xamax,Sion,1,3,NA,NA,6754,Alain Bieri,https://fbref.com/en/matches/f6220b33/Xamax-Sion-September-21-2019-Super-League,0,0,2,0,11,2,4,6,13,0,0,0,0,9,5,13,12,12,2019-2020
+2019-09-22,Zürich,Thun,2,0,NA,NA,8550,Stephan Klossner,https://fbref.com/en/matches/8cb54b3d/Zurich-Thun-September-22-2019-Super-League,0,0,2,0,17,6,8,9,11,0,0,0,1,17,5,17,8,9,2019-2020
+2019-09-22,Lugano,Luzern,1,1,NA,NA,3112,Fedayi San,https://fbref.com/en/matches/aa2a8a10/Lugano-Luzern-September-22-2019-Super-League,0,0,2,0,13,1,17,6,10,0,0,2,0,14,2,13,4,9,2019-2020
+2019-09-22,Young Boys,Basel,1,1,NA,NA,31120,Sandro Schärer,https://fbref.com/en/matches/77e58c9e/Young-Boys-Basel-September-22-2019-Super-League,0,0,3,0,14,2,15,12,17,0,0,1,0,10,2,11,11,15,2019-2020
+2019-09-25,Thun,Young Boys,1,1,NA,NA,7410,Lionel Tschudi,https://fbref.com/en/matches/40cc3ee1/Thun-Young-Boys-September-25-2019-Super-League,0,0,2,0,10,3,10,12,13,0,0,0,0,14,4,12,2,16,2019-2020
+2019-09-25,Sion,St. Gallen,1,2,NA,NA,8200,Alessandro Dudic,https://fbref.com/en/matches/956a7383/Sion-St-Gallen-September-25-2019-Super-League,0,0,4,0,12,3,7,8,18,0,0,3,0,14,6,16,9,16,2019-2020
+2019-09-25,Basel,Zürich,4,0,NA,NA,22760,Alain Bieri,https://fbref.com/en/matches/d02574ae/Basel-Zurich-September-25-2019-Super-League,0,0,1,0,18,8,8,12,4,0,0,2,0,9,1,5,13,11,2019-2020
+2019-09-26,Luzern,Xamax,1,0,NA,NA,7294,Adrien Jaccottet,https://fbref.com/en/matches/5b5ee9a5/Luzern-Xamax-September-26-2019-Super-League,0,0,3,0,23,4,7,2,8,0,0,3,0,7,2,8,15,14,2019-2020
+2019-09-26,Servette FC,Lugano,0,0,NA,NA,4212,Nikolaj Hänni,https://fbref.com/en/matches/ecbe7e9e/Servette-FC-Lugano-September-26-2019-Super-League,0,0,1,0,16,1,8,8,8,0,0,1,0,19,9,6,10,9,2019-2020
+2019-09-28,Young Boys,Sion,3,2,NA,NA,24384,Fedayi San,https://fbref.com/en/matches/9a43bc66/Young-Boys-Sion-September-28-2019-Super-League,0,0,2,0,15,7,10,7,11,0,0,3,0,12,3,9,6,14,2019-2020
+2019-09-28,St. Gallen,Thun,4,0,NA,NA,10901,Urs Schnyder,https://fbref.com/en/matches/0d41d7df/St-Gallen-Thun-September-28-2019-Super-League,0,0,1,0,15,6,21,11,7,0,0,1,0,7,1,12,11,19,2019-2020
+2019-09-29,Lugano,Xamax,0,1,NA,NA,2808,Lukas Fähndrich,https://fbref.com/en/matches/92e6baf3/Lugano-Xamax-September-29-2019-Super-League,0,0,0,0,13,6,8,5,12,0,0,3,0,11,4,16,15,14,2019-2020
+2019-09-29,Servette FC,Zürich,0,1,NA,NA,7036,Alessandro Dudic,https://fbref.com/en/matches/e3f5c310/Servette-FC-Zurich-September-29-2019-Super-League,0,0,3,1,4,1,5,11,10,0,0,3,0,15,7,6,13,16,2019-2020
+2019-09-29,Basel,Luzern,3,0,NA,NA,23768,Lionel Tschudi,https://fbref.com/en/matches/765ae9f3/Basel-Luzern-September-29-2019-Super-League,0,0,2,0,15,8,13,12,9,0,0,0,0,12,4,12,6,9,2019-2020
+2019-10-05,Xamax,Servette FC,2,2,NA,NA,5819,Stefan Horisberger,https://fbref.com/en/matches/197606f9/Xamax-Servette-FC-October-5-2019-Super-League,1,1,3,0,16,4,8,15,13,0,0,4,0,15,7,9,16,15,2019-2020
+2019-10-05,Thun,Luzern,0,2,NA,NA,4619,Luca Piccolo,https://fbref.com/en/matches/58409a0d/Thun-Luzern-October-5-2019-Super-League,0,0,1,0,18,4,11,11,9,0,0,2,0,9,3,4,9,15,2019-2020
+2019-10-06,St. Gallen,Basel,0,0,NA,NA,16912,Stephan Klossner,https://fbref.com/en/matches/8e200a08/St-Gallen-Basel-October-6-2019-Super-League,0,0,3,0,19,6,23,7,13,0,0,5,0,13,3,11,9,16,2019-2020
+2019-10-06,Sion,Lugano,1,2,NA,NA,7800,Urs Schnyder,https://fbref.com/en/matches/a4b22a4f/Sion-Lugano-October-6-2019-Super-League,0,0,3,0,11,2,11,8,15,0,0,0,0,16,5,11,6,12,2019-2020
+2019-10-06,Zürich,Young Boys,0,4,NA,NA,9618,Aristotelis Diamantopoulos,https://fbref.com/en/matches/6cba57d2/Zurich-Young-Boys-October-6-2019-Super-League,0,0,2,0,14,4,9,14,16,0,0,3,0,13,11,14,14,23,2019-2020
+2019-10-19,Basel,Thun,3,1,NA,NA,21503,Nikolaj Hänni,https://fbref.com/en/matches/e4c5bf8f/Basel-Thun-October-19-2019-Super-League,0,0,0,0,15,8,13,10,16,0,0,2,0,10,5,16,15,17,2019-2020
+2019-10-19,Young Boys,Xamax,4,1,NA,NA,24067,Lukas Fähndrich,https://fbref.com/en/matches/f4872510/Young-Boys-Xamax-October-19-2019-Super-League,0,0,1,0,18,10,11,11,11,0,0,3,0,16,6,7,9,10,2019-2020
+2019-10-20,Luzern,Sion,3,1,NA,NA,8593,Adrien Jaccottet,https://fbref.com/en/matches/3b244fcf/Luzern-Sion-October-20-2019-Super-League,0,0,1,0,21,9,9,13,11,0,0,2,0,5,1,13,15,15,2019-2020
+2019-10-20,Lugano,Zürich,0,0,NA,NA,3007,Alessandro Dudic,https://fbref.com/en/matches/94b2e865/Lugano-Zurich-October-20-2019-Super-League,0,0,3,0,14,2,11,10,14,0,0,2,0,16,4,7,7,18,2019-2020
+2019-10-20,Servette FC,St. Gallen,1,2,NA,NA,4784,Fedayi San,https://fbref.com/en/matches/545d21e1/Servette-FC-St-Gallen-October-20-2019-Super-League,0,0,3,0,14,5,9,12,13,0,0,3,0,12,4,9,18,24,2019-2020
+2019-10-26,Xamax,Luzern,2,0,NA,NA,5685,Alain Bieri,https://fbref.com/en/matches/c81bdb5b/Xamax-Luzern-October-26-2019-Super-League,0,0,0,0,20,4,8,16,9,0,0,3,0,16,1,7,12,14,2019-2020
+2019-10-26,Sion,Servette FC,1,1,NA,NA,11800,Lionel Tschudi,https://fbref.com/en/matches/9b8aaf2c/Sion-Servette-FC-October-26-2019-Super-League,1,1,4,0,3,2,5,21,16,0,0,2,0,18,3,11,16,18,2019-2020
+2019-10-27,Zürich,Basel,3,2,NA,NA,11101,Urs Schnyder,https://fbref.com/en/matches/2d9bb6eb/Zurich-Basel-October-27-2019-Super-League,0,0,4,0,18,5,14,10,12,1,1,5,0,12,3,16,12,16,2019-2020
+2019-10-27,Lugano,St. Gallen,1,3,NA,NA,3285,Sandro Schärer,https://fbref.com/en/matches/cfdd19f2/Lugano-St-Gallen-October-27-2019-Super-League,0,0,4,1,15,4,16,8,10,0,0,2,0,17,12,12,15,16,2019-2020
+2019-10-27,Young Boys,Thun,4,2,NA,NA,31120,Stephan Klossner,https://fbref.com/en/matches/bd330a65/Young-Boys-Thun-October-27-2019-Super-League,0,0,2,0,16,6,11,13,17,1,1,5,0,15,5,9,9,12,2019-2020
+2019-11-02,Thun,Zürich,0,1,NA,NA,6201,Sandro Schärer,https://fbref.com/en/matches/e3444a22/Thun-Zurich-November-2-2019-Super-League,0,0,4,1,27,8,7,13,7,0,0,4,1,5,3,4,7,18,2019-2020
+2019-11-02,St. Gallen,Sion,3,0,NA,NA,13750,Alain Bieri,https://fbref.com/en/matches/2fd23045/St-Gallen-Sion-November-2-2019-Super-League,0,0,0,0,23,10,14,11,8,0,0,1,0,12,3,14,19,9,2019-2020
+2019-11-03,Servette FC,Young Boys,3,0,NA,NA,8065,Lukas Fähndrich,https://fbref.com/en/matches/fefd2f6f/Servette-FC-Young-Boys-November-3-2019-Super-League,0,0,3,0,16,5,11,14,14,0,0,3,0,11,3,13,13,19,2019-2020
+2019-11-03,Basel,Xamax,1,1,NA,NA,18003,Alessandro Dudic,https://fbref.com/en/matches/d46418a6/Basel-Xamax-November-3-2019-Super-League,0,0,1,0,18,5,9,13,9,0,0,7,0,8,3,8,19,16,2019-2020
+2019-11-03,Luzern,Lugano,1,2,NA,NA,8141,Fedayi San,https://fbref.com/en/matches/c0c542ba/Luzern-Lugano-November-3-2019-Super-League,0,0,1,0,21,5,6,12,12,0,0,2,0,13,6,7,11,8,2019-2020
+2019-11-09,Luzern,Servette FC,1,2,NA,NA,7920,Alain Bieri,https://fbref.com/en/matches/a63f660c/Luzern-Servette-FC-November-9-2019-Super-League,0,0,3,0,16,5,13,20,8,0,0,0,0,12,5,10,10,11,2019-2020
+2019-11-09,Xamax,Thun,2,3,NA,NA,5697,Fedayi San,https://fbref.com/en/matches/794baacf/Xamax-Thun-November-9-2019-Super-League,0,0,4,0,19,7,5,4,14,0,0,3,0,10,4,11,14,9,2019-2020
+2019-11-10,Lugano,Basel,0,3,NA,NA,3620,Lionel Tschudi,https://fbref.com/en/matches/1aab3937/Lugano-Basel-November-10-2019-Super-League,0,0,2,0,12,2,16,11,11,0,0,2,0,18,8,7,8,7,2019-2020
+2019-11-10,Young Boys,St. Gallen,4,3,NA,NA,28645,Urs Schnyder,https://fbref.com/en/matches/8a4a45ce/Young-Boys-St-Gallen-November-10-2019-Super-League,0,0,2,0,13,7,12,14,16,0,0,5,0,18,7,16,10,17,2019-2020
+2019-11-10,Zürich,Sion,4,2,NA,NA,8564,Stephan Klossner,https://fbref.com/en/matches/052abfcc/Zurich-Sion-November-10-2019-Super-League,1,1,1,0,19,7,7,11,9,0,0,2,0,11,5,6,18,17,2019-2020
+2019-11-23,Servette FC,Basel,2,0,NA,NA,10420,Karim Abed,https://fbref.com/en/matches/54196ec2/Servette-FC-Basel-November-23-2019-Super-League,0,0,3,0,16,9,12,8,9,0,0,3,2,16,2,10,9,15,2019-2020
+2019-11-23,Zürich,Luzern,3,0,NA,NA,8398,Stefan Horisberger,https://fbref.com/en/matches/49b5eeec/Zurich-Luzern-November-23-2019-Super-League,0,0,0,0,18,7,17,11,9,0,0,2,1,7,0,12,16,7,2019-2020
+2019-11-24,Sion,Young Boys,3,4,NA,NA,9500,Sandro Schärer,https://fbref.com/en/matches/260ea283/Sion-Young-Boys-November-24-2019-Super-League,0,0,0,0,20,8,6,20,15,0,0,3,0,17,9,4,7,10,2019-2020
+2019-11-24,St. Gallen,Xamax,4,1,NA,NA,14492,Luca Piccolo,https://fbref.com/en/matches/fe1a2f03/St-Gallen-Xamax-November-24-2019-Super-League,0,0,2,0,18,10,19,11,11,0,0,3,0,13,5,9,20,12,2019-2020
+2019-11-24,Thun,Lugano,0,3,NA,NA,4827,Lukas Fähndrich,https://fbref.com/en/matches/0639e30d/Thun-Lugano-November-24-2019-Super-League,0,0,3,0,19,5,11,10,8,0,0,4,0,15,7,4,12,9,2019-2020
+2019-11-30,Xamax,Zürich,0,1,NA,NA,5415,Sandro Schärer,https://fbref.com/en/matches/226611a1/Xamax-Zurich-November-30-2019-Super-League,0,0,1,0,17,3,6,12,14,0,0,3,0,16,8,4,6,19,2019-2020
+2019-11-30,Sion,Thun,2,1,NA,NA,7000,Adrien Jaccottet,https://fbref.com/en/matches/46fad116/Sion-Thun-November-30-2019-Super-League,0,0,3,0,19,6,8,12,14,0,0,1,0,7,3,10,11,8,2019-2020
+2019-12-01,Luzern,St. Gallen,1,4,NA,NA,8922,Alessandro Dudic,https://fbref.com/en/matches/4f1e5464/Luzern-St-Gallen-December-1-2019-Super-League,1,1,6,0,12,4,8,16,17,2,2,3,0,14,5,5,11,17,2019-2020
+2019-12-01,Basel,Young Boys,3,0,NA,NA,30965,Stephan Klossner,https://fbref.com/en/matches/df548658/Basel-Young-Boys-December-1-2019-Super-League,0,0,2,0,14,6,11,23,12,0,0,2,0,14,3,17,6,17,2019-2020
+2019-12-01,Lugano,Servette FC,1,0,NA,NA,2360,Alain Bieri,https://fbref.com/en/matches/6882da66/Lugano-Servette-FC-December-1-2019-Super-League,0,0,3,0,14,2,13,13,17,0,0,5,0,14,3,9,12,17,2019-2020
+2019-12-07,Xamax,Lugano,1,1,NA,NA,4782,Adrien Jaccottet,https://fbref.com/en/matches/0f9e2d7b/Xamax-Lugano-December-7-2019-Super-League,0,0,4,0,8,3,11,8,15,0,0,6,0,19,8,8,7,11,2019-2020
+2019-12-07,Young Boys,Luzern,1,0,NA,NA,25560,Alain Bieri,https://fbref.com/en/matches/2a65b683/Young-Boys-Luzern-December-7-2019-Super-League,0,0,3,0,21,3,9,11,13,0,0,5,0,9,3,13,12,15,2019-2020
+2019-12-08,Basel,Sion,4,0,NA,NA,22274,Fedayi San,https://fbref.com/en/matches/21632a3e/Basel-Sion-December-8-2019-Super-League,0,0,2,0,20,6,12,9,10,0,0,2,0,6,0,11,16,8,2019-2020
+2019-12-08,Zürich,Servette FC,0,5,NA,NA,9191,Lukas Fähndrich,https://fbref.com/en/matches/24aabcac/Zurich-Servette-FC-December-8-2019-Super-League,0,0,3,0,12,4,11,15,13,0,0,2,0,21,7,10,23,12,2019-2020
+2019-12-08,Thun,St. Gallen,1,4,NA,NA,5915,Stephan Klossner,https://fbref.com/en/matches/e3e29bcf/Thun-St-Gallen-December-8-2019-Super-League,0,0,2,0,12,3,14,11,12,0,0,1,0,13,6,14,8,3,2019-2020
+2019-12-14,Servette FC,Thun,2,1,NA,NA,5084,Alain Bieri,https://fbref.com/en/matches/47639cac/Servette-FC-Thun-December-14-2019-Super-League,1,1,3,0,23,6,4,6,10,0,0,1,0,10,3,7,13,12,2019-2020
+2019-12-14,St. Gallen,Zürich,1,3,NA,NA,19024,Fedayi San,https://fbref.com/en/matches/bc2beec3/St-Gallen-Zurich-December-14-2019-Super-League,1,1,3,0,26,5,13,5,12,1,1,3,0,7,4,13,14,15,2019-2020
+2019-12-15,Lugano,Young Boys,0,0,NA,NA,3062,Lionel Tschudi,https://fbref.com/en/matches/030736e3/Lugano-Young-Boys-December-15-2019-Super-League,0,0,1,0,12,1,9,4,15,0,0,2,0,7,1,8,12,16,2019-2020
+2019-12-15,Luzern,Basel,2,1,NA,NA,10073,Adrien Jaccottet,https://fbref.com/en/matches/7b8f1da2/Luzern-Basel-December-15-2019-Super-League,1,1,3,0,11,7,7,13,21,1,1,4,1,14,2,7,3,8,2019-2020
+2019-12-15,Sion,Xamax,1,1,NA,NA,8300,Lukas Fähndrich,https://fbref.com/en/matches/23e67d11/Sion-Xamax-December-15-2019-Super-League,0,0,1,0,15,7,13,21,10,0,0,3,0,9,4,14,4,18,2019-2020
+2020-01-25,Zürich,Luzern,2,3,NA,NA,8623,Urs Schnyder,https://fbref.com/en/matches/0a8d5f9e/Zurich-Luzern-January-25-2020-Super-League,0,0,5,0,11,7,9,6,11,0,0,3,0,15,9,19,15,14,2019-2020
+2020-01-25,Xamax,Servette FC,1,2,NA,NA,5744,Adrien Jaccottet,https://fbref.com/en/matches/0c4fd80f/Xamax-Servette-FC-January-25-2020-Super-League,0,0,3,1,13,7,10,17,11,0,0,2,0,10,5,10,12,12,2019-2020
+2020-01-26,Young Boys,Basel,2,0,NA,NA,31120,Sandro Schärer,https://fbref.com/en/matches/6da07f72/Young-Boys-Basel-January-26-2020-Super-League,0,0,1,0,17,5,14,14,11,0,0,5,1,6,2,11,8,16,2019-2020
+2020-01-26,Thun,Sion,2,1,NA,NA,4401,Lionel Tschudi,https://fbref.com/en/matches/16262489/Thun-Sion-January-26-2020-Super-League,0,0,2,0,8,2,18,9,14,0,0,1,0,21,4,4,14,16,2019-2020
+2020-01-26,St. Gallen,Lugano,3,1,NA,NA,11133,Alain Bieri,https://fbref.com/en/matches/8d27b38c/St-Gallen-Lugano-January-26-2020-Super-League,0,0,2,0,14,5,13,13,15,0,0,1,0,7,3,17,5,12,2019-2020
+2020-02-01,Luzern,Young Boys,2,0,NA,NA,9331,Lionel Tschudi,https://fbref.com/en/matches/4175dee9/Luzern-Young-Boys-February-1-2020-Super-League,0,0,1,0,8,2,15,7,16,0,0,2,1,21,2,10,7,20,2019-2020
+2020-02-01,Lugano,Xamax,1,1,NA,NA,2197,Alessandro Dudic,https://fbref.com/en/matches/38d3b397/Lugano-Xamax-February-1-2020-Super-League,0,0,2,0,12,3,7,2,12,1,1,3,0,17,6,7,20,17,2019-2020
+2020-02-02,Sion,Zürich,1,1,NA,NA,6800,Lukas Fähndrich,https://fbref.com/en/matches/7436a35d/Sion-Zurich-February-2-2020-Super-League,0,0,4,1,22,7,4,12,10,0,0,5,0,12,7,9,9,13,2019-2020
+2020-02-02,Basel,St. Gallen,1,2,NA,NA,20527,Fedayi San,https://fbref.com/en/matches/f9e661dc/Basel-St-Gallen-February-2-2020-Super-League,0,0,4,0,4,1,16,16,16,0,0,4,0,21,8,15,13,18,2019-2020
+2020-02-02,Servette FC,Thun,2,0,NA,NA,6800,Sandro Schärer,https://fbref.com/en/matches/8c018737/Servette-FC-Thun-February-2-2020-Super-League,0,0,1,0,22,11,10,11,6,0,0,1,0,10,3,5,8,7,2019-2020
+2020-02-08,Young Boys,Sion,1,0,NA,NA,24125,Adrien Jaccottet,https://fbref.com/en/matches/8be2426b/Young-Boys-Sion-February-8-2020-Super-League,0,0,3,0,19,6,9,15,10,0,0,3,0,12,3,7,20,12,2019-2020
+2020-02-08,Zürich,Basel,0,4,NA,NA,10870,Athanasios Tzilos,https://fbref.com/en/matches/74689407/Zurich-Basel-February-8-2020-Super-League,0,0,4,0,13,1,8,7,8,0,0,2,0,18,8,10,10,11,2019-2020
+2020-02-09,Xamax,Luzern,0,1,NA,NA,5270,Fedayi San,https://fbref.com/en/matches/c171de16/Xamax-Luzern-February-9-2020-Super-League,0,0,4,0,24,13,6,12,11,0,0,5,0,13,2,10,14,18,2019-2020
+2020-02-09,Thun,Lugano,3,2,NA,NA,4188,Lukas Fähndrich,https://fbref.com/en/matches/68f17b01/Thun-Lugano-February-9-2020-Super-League,0,0,3,0,18,9,16,7,14,1,1,2,0,16,4,6,7,13,2019-2020
+2020-02-09,St. Gallen,Servette FC,1,0,NA,NA,16256,Luca Piccolo,https://fbref.com/en/matches/328e2358/St-Gallen-Servette-FC-February-9-2020-Super-League,0,0,3,1,16,4,9,8,19,0,0,5,0,10,4,17,10,16,2019-2020
+2020-02-15,Sion,Xamax,1,2,NA,NA,7000,Luca Piccolo,https://fbref.com/en/matches/f43c6fa1/Sion-Xamax-February-15-2020-Super-League,0,0,5,1,20,4,8,10,14,0,0,1,0,8,3,7,18,18,2019-2020
+2020-02-15,Basel,Thun,0,1,NA,NA,20675,Alain Bieri,https://fbref.com/en/matches/39322837/Basel-Thun-February-15-2020-Super-League,0,0,1,0,28,7,14,6,8,0,0,2,0,12,3,12,25,13,2019-2020
+2020-02-16,Luzern,St. Gallen,1,0,NA,NA,11406,Sandro Schärer,https://fbref.com/en/matches/0862fdf6/Luzern-St-Gallen-February-16-2020-Super-League,1,1,3,0,8,5,19,16,12,0,0,3,0,16,5,12,14,14,2019-2020
+2020-02-16,Lugano,Young Boys,2,1,NA,NA,3122,Stefan Horisberger,https://fbref.com/en/matches/96b283dc/Lugano-Young-Boys-February-16-2020-Super-League,0,0,5,1,10,2,8,6,19,0,0,1,0,12,2,12,10,9,2019-2020
+2020-02-16,Servette FC,Zürich,4,1,NA,NA,7052,Alessandro Dudic,https://fbref.com/en/matches/26462920/Servette-FC-Zurich-February-16-2020-Super-League,0,0,1,0,20,12,9,13,8,0,0,4,0,11,4,11,6,12,2019-2020
+2020-02-22,Zürich,Xamax,1,1,NA,NA,7722,Lionel Tschudi,https://fbref.com/en/matches/718e51cb/Zurich-Xamax-February-22-2020-Super-League,0,0,1,0,8,2,9,8,10,0,0,2,0,12,4,10,13,14,2019-2020
+2020-02-22,Thun,Luzern,1,1,NA,NA,4400,Fedayi San,https://fbref.com/en/matches/7ca11f0a/Thun-Luzern-February-22-2020-Super-League,0,0,2,0,14,5,9,9,16,0,0,2,0,9,6,17,13,11,2019-2020
+2020-02-23,Lugano,Sion,0,0,NA,NA,2872,Urs Schnyder,https://fbref.com/en/matches/bf128526/Lugano-Sion-February-23-2020-Super-League,0,0,2,0,6,3,6,8,10,0,0,3,0,9,3,14,15,13,2019-2020
+2020-02-23,Basel,Servette FC,2,2,NA,NA,20265,Adrien Jaccottet,https://fbref.com/en/matches/97896f1c/Basel-Servette-FC-February-23-2020-Super-League,0,0,4,0,12,2,6,6,12,1,1,5,0,19,6,6,8,14,2019-2020
+2020-02-23,St. Gallen,Young Boys,3,3,NA,NA,19024,Alain Bieri,https://fbref.com/en/matches/3baac978/St-Gallen-Young-Boys-February-23-2020-Super-League,0,0,5,0,17,9,14,9,10,1,1,3,0,13,3,11,14,19,2019-2020
+2020-06-19,Young Boys,Zürich,3,2,NA,NA,300,Sandro Schärer,https://fbref.com/en/matches/d40fcb50/Young-Boys-Zurich-June-19-2020-Super-League,0,0,3,0,20,8,7,16,12,0,0,3,0,12,6,16,14,14,2019-2020
+2020-06-20,Xamax,Thun,2,1,NA,NA,300,Adrien Jaccottet,https://fbref.com/en/matches/2874a5ac/Xamax-Thun-June-20-2020-Super-League,1,1,2,0,21,5,12,11,17,0,0,3,1,10,4,7,9,12,2019-2020
+2020-06-20,Sion,St. Gallen,1,2,NA,NA,300,Luca Piccolo,https://fbref.com/en/matches/0aa1f4c0/Sion-St-Gallen-June-20-2020-Super-League,1,1,4,0,7,3,16,11,22,0,0,3,0,14,8,16,12,18,2019-2020
+2020-06-21,Luzern,Basel,2,1,NA,NA,300,Fedayi San,https://fbref.com/en/matches/ba288cd2/Luzern-Basel-June-21-2020-Super-League,0,0,2,0,16,5,16,5,12,0,0,1,0,15,5,11,6,17,2019-2020
+2020-06-21,Servette FC,Lugano,1,1,NA,NA,300,Urs Schnyder,https://fbref.com/en/matches/13f24fce/Servette-FC-Lugano-June-21-2020-Super-League,0,0,1,0,20,6,5,6,16,0,0,2,1,11,2,12,7,15,2019-2020
+2020-06-23,Thun,Young Boys,1,0,NA,NA,300,Alain Bieri,https://fbref.com/en/matches/80e5d9a5/Thun-Young-Boys-June-23-2020-Super-League,0,0,4,0,13,5,14,10,23,0,0,1,0,15,3,10,17,18,2019-2020
+2020-06-24,Xamax,Basel,1,2,NA,NA,1000,Stefan Horisberger,https://fbref.com/en/matches/cc320ee5/Xamax-Basel-June-24-2020-Super-League,0,0,3,0,9,2,8,20,11,0,0,1,0,9,3,6,13,6,2019-2020
+2020-06-24,Lugano,Luzern,2,0,NA,NA,1000,Sandro Schärer,https://fbref.com/en/matches/90f58876/Lugano-Luzern-June-24-2020-Super-League,0,0,2,0,9,3,7,19,10,0,0,4,0,10,1,11,11,18,2019-2020
+2020-06-24,Sion,Servette FC,1,1,NA,NA,1000,Lionel Tschudi,https://fbref.com/en/matches/bfd4824b/Sion-Servette-FC-June-24-2020-Super-League,0,1,3,0,16,4,9,6,13,0,0,2,0,14,3,13,6,13,2019-2020
+2020-06-25,St. Gallen,Zürich,0,4,NA,NA,1000,Lukas Fähndrich,https://fbref.com/en/matches/70003a63/St-Gallen-Zurich-June-25-2020-Super-League,0,0,1,0,24,2,16,20,8,0,0,3,0,13,4,19,15,18,2019-2020
+2020-06-27,Luzern,Servette FC,2,2,NA,NA,1000,Luca Piccolo,https://fbref.com/en/matches/d91e55e3/Luzern-Servette-FC-June-27-2020-Super-League,0,0,3,0,14,9,15,8,17,0,0,2,0,12,4,12,14,13,2019-2020
+2020-06-27,Young Boys,Xamax,6,0,NA,NA,1000,Urs Schnyder,https://fbref.com/en/matches/1c7b9703/Young-Boys-Xamax-June-27-2020-Super-League,0,0,0,0,26,9,8,11,14,0,0,3,1,4,0,9,9,14,2019-2020
+2020-06-28,Zürich,Lugano,1,0,NA,NA,1000,Adrien Jaccottet,https://fbref.com/en/matches/782ab36e/Zurich-Lugano-June-28-2020-Super-League,0,0,2,0,20,8,6,11,14,0,0,2,0,18,5,6,6,10,2019-2020
+2020-06-28,St. Gallen,Thun,3,2,NA,NA,1000,Fedayi San,https://fbref.com/en/matches/319e7213/St-Gallen-Thun-June-28-2020-Super-League,0,0,0,0,24,7,12,11,5,0,0,3,0,13,4,15,8,18,2019-2020
+2020-06-28,Basel,Sion,2,0,NA,NA,1000,Sandro Schärer,https://fbref.com/en/matches/5f85cb1c/Basel-Sion-June-28-2020-Super-League,0,0,0,0,27,10,7,13,9,0,0,3,0,5,3,12,16,10,2019-2020
+2020-06-30,Servette FC,Young Boys,1,1,NA,NA,1000,Stefan Horisberger,https://fbref.com/en/matches/7c0314dc/Servette-FC-Young-Boys-June-30-2020-Super-League,1,1,1,1,8,5,15,16,12,0,0,2,1,12,2,17,13,14,2019-2020
+2020-07-01,Lugano,Basel,2,1,NA,NA,0,Lukas Fähndrich,https://fbref.com/en/matches/617acaa8/Lugano-Basel-July-1-2020-Super-League,0,0,4,0,9,3,9,15,14,0,0,5,1,9,3,14,12,17,2019-2020
+2020-07-01,Thun,Zürich,3,2,NA,NA,0,Lionel Tschudi,https://fbref.com/en/matches/7b6e51b7/Thun-Zurich-July-1-2020-Super-League,0,0,6,1,14,7,8,17,14,1,1,1,0,17,6,11,5,19,2019-2020
+2020-07-01,Xamax,St. Gallen,1,2,NA,NA,0,Sandro Schärer,https://fbref.com/en/matches/0fa7fd2b/Xamax-St-Gallen-July-1-2020-Super-League,0,0,3,0,20,5,11,29,8,0,0,4,0,19,6,9,10,17,2019-2020
+2020-07-02,Sion,Luzern,0,2,NA,NA,0,Alain Bieri,https://fbref.com/en/matches/c8a44350/Sion-Luzern-July-2-2020-Super-League,0,0,2,0,12,5,11,9,14,0,0,1,0,14,6,12,10,11,2019-2020
+2020-07-04,Basel,Xamax,2,0,NA,NA,0,Luca Piccolo,https://fbref.com/en/matches/4f72f6b5/Basel-Xamax-July-4-2020-Super-League,0,0,1,0,15,7,10,13,8,0,0,5,0,10,3,12,15,15,2019-2020
+2020-07-04,Zürich,Servette FC,2,0,NA,NA,0,Sandro Schärer,https://fbref.com/en/matches/8ab5de14/Zurich-Servette-FC-July-4-2020-Super-League,0,0,5,0,9,4,10,7,14,0,0,1,0,23,6,9,9,3,2019-2020
+2020-07-05,Luzern,Thun,3,0,NA,NA,0,Urs Schnyder,https://fbref.com/en/matches/ec316470/Luzern-Thun-July-5-2020-Super-League,0,0,0,0,16,8,9,9,7,0,0,3,0,12,0,11,4,14,2019-2020
+2020-07-05,St. Gallen,Sion,2,1,NA,NA,0,Adrien Jaccottet,https://fbref.com/en/matches/fad037e4/St-Gallen-Sion-July-5-2020-Super-League,0,0,2,0,20,4,17,12,19,0,0,3,0,8,4,17,14,15,2019-2020
+2020-07-05,Young Boys,Lugano,3,0,NA,NA,0,Fedayi San,https://fbref.com/en/matches/d52ac001/Young-Boys-Lugano-July-5-2020-Super-League,0,0,0,0,11,3,10,8,15,0,0,1,0,11,0,19,9,13,2019-2020
+2020-07-07,Xamax,Zürich,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-08,Young Boys,Thun,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-08,Servette FC,Luzern,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-08,Sion,Basel,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-09,Lugano,St. Gallen,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-11,Zürich,Sion,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-11,Basel,Young Boys,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-12,Thun,Xamax,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-12,Servette FC,St. Gallen,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-12,Luzern,Lugano,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-14,Basel,Zürich,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-15,Xamax,Sion,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-15,Lugano,Thun,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-15,Young Boys,Servette FC,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-16,St. Gallen,Luzern,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-18,Sion,Lugano,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-18,Zürich,Young Boys,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-19,Servette FC,Basel,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-19,Thun,St. Gallen,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-19,Luzern,Xamax,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-21,Lugano,Zürich,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-22,Thun,Servette FC,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-22,St. Gallen,Basel,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-22,Luzern,Sion,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-23,Xamax,Young Boys,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-25,Basel,Lugano,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-25,Young Boys,Luzern,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-25,Zürich,St. Gallen,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-26,Servette FC,Xamax,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-26,Sion,Thun,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-29,Lugano,Servette FC,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-29,Thun,Basel,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-29,Sion,Young Boys,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-29,St. Gallen,Xamax,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-29,Luzern,Zürich,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-08-02,Servette FC,Sion,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-08-02,Basel,Luzern,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-08-02,Xamax,Lugano,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-08-02,Zürich,Thun,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-08-02,Young Boys,St. Gallen,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020

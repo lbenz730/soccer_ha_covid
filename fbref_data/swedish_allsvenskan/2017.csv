@@ -1,0 +1,241 @@
+date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_report_url,home_pk_goals,home_pk_attempts,home_yellow_cards,home_red_cards,home_shots,home_shots_on_target,home_tackles,home_interceptions,home_fouls_committed,away_pk_goals,away_pk_attempts,away_yellow_cards,away_red_cards,away_shots,away_shots_on_target,away_tackles,away_interceptions,away_fouls_committed,season
+2017-04-01,Göteborg,Malmö,1,1,NA,NA,32129,Stefan Johannesson,https://fbref.com/en/matches/46930952/Goteborg-Malmo-April-1-2017-Allsvenskan,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-04-01,Halmstad,Östersund,1,0,NA,NA,5223,Jonas Eriksson,https://fbref.com/en/matches/7e513682/Halmstad-Ostersund-April-1-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-04-02,Sundsvall,AFC Eskilstuna,3,1,NA,NA,3459,Glenn Nyberg,https://fbref.com/en/matches/476180ed/Sundsvall-AFC-Eskilstuna-April-2-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-04-02,AIK Stockholm,Häcken,0,0,NA,NA,26812,Andreas Ekberg,https://fbref.com/en/matches/2d7ee49b/AIK-Stockholm-Hacken-April-2-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2017
+2017-04-02,Norrköping,Hammarby,2,1,NA,NA,14533,Kristoffer Karlsson,https://fbref.com/en/matches/8ec2e849/Norrkoping-Hammarby-April-2-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2017
+2017-04-03,Kalmar,Elfsborg,1,5,NA,NA,7223,Markus Strömbergsson,https://fbref.com/en/matches/f04ddc45/Kalmar-Elfsborg-April-3-2017-Allsvenskan,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-04-03,Örebro,Jönköping,2,1,NA,NA,7073,Bojan Pandzic,https://fbref.com/en/matches/f8d7f342/Orebro-Jonkopings-Sodra-April-3-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2017
+2017-04-03,Djurgården,Sirius,0,2,NA,NA,26648,Mohammed Al Hakim,https://fbref.com/en/matches/6aafb360/Djurgarden-Sirius-April-3-2017-Allsvenskan,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-04-08,AFC Eskilstuna,Örebro,2,2,NA,NA,4611,Mohammed Al Hakim,https://fbref.com/en/matches/607aa4fe/AFC-Eskilstuna-Orebro-April-8-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-04-09,Östersund,Norrköping,1,0,NA,NA,4644,Stefan Johannesson,https://fbref.com/en/matches/9c91d75e/Ostersund-Norrkoping-April-9-2017-Allsvenskan,0,1,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-04-09,Hammarby,Kalmar,1,1,NA,NA,30671,Kaspar Sjöberg,https://fbref.com/en/matches/542c5f9a/Hammarby-Kalmar-April-9-2017-Allsvenskan,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-04-09,Sirius,Göteborg,0,2,NA,NA,7248,Andreas Ekberg,https://fbref.com/en/matches/7592010e/Sirius-Goteborg-April-9-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-04-09,Jönköping,Halmstad,2,2,NA,NA,4214,Magnus Lindgren,https://fbref.com/en/matches/bccaf4ef/Jonkopings-Sodra-Halmstad-April-9-2017-Allsvenskan,0,1,3,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2017
+2017-04-09,Häcken,Djurgården,0,0,NA,NA,5541,Markus Strömbergsson,https://fbref.com/en/matches/f6719e99/Hacken-Djurgarden-April-9-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2017
+2017-04-10,Elfsborg,AIK Stockholm,1,2,NA,NA,9335,Johan Hamlin,https://fbref.com/en/matches/abcd241a/Elfsborg-AIK-Stockholm-April-10-2017-Allsvenskan,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-04-11,Malmö,Sundsvall,2,0,NA,NA,18378,Patrik Eriksson,https://fbref.com/en/matches/213c55fc/Malmo-Sundsvall-April-11-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-04-16,Halmstad,Malmö,0,3,NA,NA,8297,Glenn Nyberg,https://fbref.com/en/matches/d4205768/Halmstad-Malmo-April-16-2017-Allsvenskan,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
+2017-04-16,Örebro,Östersund,2,1,NA,NA,5947,Bojan Pandzic,https://fbref.com/en/matches/1388801e/Orebro-Ostersund-April-16-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-04-16,Sundsvall,Häcken,1,2,NA,NA,3055,Kristoffer Karlsson,https://fbref.com/en/matches/ec3095ac/Sundsvall-Hacken-April-16-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,2017
+2017-04-16,Djurgården,Elfsborg,3,0,NA,NA,11435,Andreas Ekberg,https://fbref.com/en/matches/a9d4ffeb/Djurgarden-Elfsborg-April-16-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-04-17,AIK Stockholm,Hammarby,1,2,NA,NA,32318,Jonas Eriksson,https://fbref.com/en/matches/98480f5b/AIK-Stockholm-Hammarby-April-17-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-04-17,Kalmar,Jönköping,1,3,NA,NA,4698,Stefan Johannesson,https://fbref.com/en/matches/c4fb915e/Kalmar-Jonkopings-Sodra-April-17-2017-Allsvenskan,0,0,7,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-04-17,Norrköping,Sirius,0,2,NA,NA,7083,Kaspar Sjöberg,https://fbref.com/en/matches/a928cdd1/Norrkoping-Sirius-April-17-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-04-17,Göteborg,AFC Eskilstuna,1,1,NA,NA,10116,Patrik Eriksson,https://fbref.com/en/matches/93c3b160/Goteborg-AFC-Eskilstuna-April-17-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-04-20,Elfsborg,Örebro,3,0,NA,NA,4773,Kristoffer Karlsson,https://fbref.com/en/matches/b21af018/Elfsborg-Orebro-April-20-2017-Allsvenskan,1,1,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-04-22,Jönköping,AIK Stockholm,2,1,NA,NA,5191,Andreas Ekberg,https://fbref.com/en/matches/899e4574/Jonkopings-Sodra-AIK-Stockholm-April-22-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017
+2017-04-23,Häcken,Norrköping,1,2,NA,NA,2593,Mohammed Al Hakim,https://fbref.com/en/matches/3b06d5cc/Hacken-Norrkoping-April-23-2017-Allsvenskan,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017
+2017-04-23,Hammarby,Sundsvall,0,0,NA,NA,20557,Magnus Lindgren,https://fbref.com/en/matches/77bac003/Hammarby-Sundsvall-April-23-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-04-23,AFC Eskilstuna,Halmstad,0,0,NA,NA,2086,Bojan Pandzic,https://fbref.com/en/matches/d428a202/AFC-Eskilstuna-Halmstad-April-23-2017-Allsvenskan,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-04-23,Östersund,Göteborg,1,1,NA,NA,4317,Glenn Nyberg,https://fbref.com/en/matches/a72fe70c/Ostersund-Goteborg-April-23-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2017
+2017-04-24,Malmö,Djurgården,3,2,NA,NA,19074,Jonas Eriksson,https://fbref.com/en/matches/91721372/Malmo-Djurgarden-April-24-2017-Allsvenskan,0,0,4,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2017
+2017-04-24,Sirius,Kalmar,3,0,NA,NA,1071,Markus Strömbergsson,https://fbref.com/en/matches/70ca4d19/Sirius-Kalmar-April-24-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-04-26,Örebro,Häcken,0,0,NA,NA,4823,Patrik Eriksson,https://fbref.com/en/matches/f6415d53/Orebro-Hacken-April-26-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-04-26,Göteborg,Hammarby,1,1,NA,NA,12149,Stefan Johannesson,https://fbref.com/en/matches/29c6be68/Goteborg-Hammarby-April-26-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-04-26,AFC Eskilstuna,Östersund,1,3,NA,NA,1840,Magnus Lindgren,https://fbref.com/en/matches/6e760946/AFC-Eskilstuna-Ostersund-April-26-2017-Allsvenskan,0,0,2,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-04-26,Sundsvall,Elfsborg,1,1,NA,NA,3031,Kaspar Sjöberg,https://fbref.com/en/matches/cbfdc6ac/Sundsvall-Elfsborg-April-26-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-04-27,AIK Stockholm,Sirius,1,0,NA,NA,13517,Mohammed Al Hakim,https://fbref.com/en/matches/4f0f2f89/AIK-Stockholm-Sirius-April-27-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-04-27,Halmstad,Djurgården,0,1,NA,NA,4690,Johan Hamlin,https://fbref.com/en/matches/b44956f1/Halmstad-Djurgarden-April-27-2017-Allsvenskan,0,0,4,0,0,0,0,0,0,1,1,4,0,0,0,0,0,0,2017
+2017-04-27,Kalmar,Malmö,0,0,NA,NA,5887,Bojan Pandzic,https://fbref.com/en/matches/f9e75fc4/Kalmar-Malmo-April-27-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-04-27,Norrköping,Jönköping,3,0,NA,NA,6214,Jonas Eriksson,https://fbref.com/en/matches/326a0d8e/Norrkoping-Jonkopings-Sodra-April-27-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-04-29,Hammarby,AFC Eskilstuna,4,0,NA,NA,20741,Kaspar Sjöberg,https://fbref.com/en/matches/91d4b955/Hammarby-AFC-Eskilstuna-April-29-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2017
+2017-04-30,AIK Stockholm,Sundsvall,0,0,NA,NA,11927,Johan Hamlin,https://fbref.com/en/matches/05eae07f/AIK-Stockholm-Sundsvall-April-30-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017
+2017-05-01,Malmö,Örebro,2,1,NA,NA,17846,Glenn Nyberg,https://fbref.com/en/matches/4084d1ee/Malmo-Orebro-May-1-2017-Allsvenskan,1,1,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-05-01,Kalmar,Halmstad,2,0,NA,NA,4840,Andreas Ekberg,https://fbref.com/en/matches/beebf324/Kalmar-Halmstad-May-1-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
+2017-05-01,Djurgården,Norrköping,3,3,NA,NA,17104,Stefan Johannesson,https://fbref.com/en/matches/1be50135/Djurgarden-Norrkoping-May-1-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-05-01,Sirius,Jönköping,1,1,NA,NA,4928,Kristoffer Karlsson,https://fbref.com/en/matches/dda88a3b/Sirius-Jonkopings-Sodra-May-1-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-05-02,Häcken,Göteborg,4,0,NA,NA,5676,Markus Strömbergsson,https://fbref.com/en/matches/771e34cf/Hacken-Goteborg-May-2-2017-Allsvenskan,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-05-02,Elfsborg,Östersund,4,4,NA,NA,5629,Patrik Eriksson,https://fbref.com/en/matches/50b569eb/Elfsborg-Ostersund-May-2-2017-Allsvenskan,1,1,3,1,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2017
+2017-05-05,Häcken,Sirius,2,2,NA,NA,2336,Jonas Eriksson,https://fbref.com/en/matches/b8972051/Hacken-Sirius-May-5-2017-Allsvenskan,1,1,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-05-06,Halmstad,AIK Stockholm,0,1,NA,NA,5438,Kristoffer Karlsson,https://fbref.com/en/matches/bcf86df2/Halmstad-AIK-Stockholm-May-6-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,2017
+2017-05-07,Östersund,Hammarby,2,1,NA,NA,6027,Bojan Pandzic,https://fbref.com/en/matches/c1ef1a71/Ostersund-Hammarby-May-7-2017-Allsvenskan,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-05-07,Göteborg,Kalmar,3,0,NA,NA,9282,Johan Hamlin,https://fbref.com/en/matches/4655255b/Goteborg-Kalmar-May-7-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-05-07,Jönköping,AFC Eskilstuna,1,0,NA,NA,3066,Robert Daradic,https://fbref.com/en/matches/5a23d619/Jonkopings-Sodra-AFC-Eskilstuna-May-7-2017-Allsvenskan,0,1,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2017
+2017-05-07,Örebro,Djurgården,0,4,NA,NA,9271,Magnus Lindgren,https://fbref.com/en/matches/eba90496/Orebro-Djurgarden-May-7-2017-Allsvenskan,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-05-08,Elfsborg,Malmö,1,2,NA,NA,8452,Stefan Johannesson,https://fbref.com/en/matches/dbf93217/Elfsborg-Malmo-May-8-2017-Allsvenskan,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-05-08,Norrköping,Sundsvall,0,0,NA,NA,6110,Markus Strömbergsson,https://fbref.com/en/matches/600cea8b/Norrkoping-Sundsvall-May-8-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-05-12,AFC Eskilstuna,Norrköping,1,2,NA,NA,3565,Glenn Nyberg,https://fbref.com/en/matches/94ccd452/AFC-Eskilstuna-Norrkoping-May-12-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
+2017-05-13,AIK Stockholm,Örebro,1,0,NA,NA,13236,Kaspar Sjöberg,https://fbref.com/en/matches/600122b4/AIK-Stockholm-Orebro-May-13-2017-Allsvenskan,0,0,5,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-05-13,Kalmar,Häcken,0,1,NA,NA,4738,Kristoffer Karlsson,https://fbref.com/en/matches/7f937ee5/Kalmar-Hacken-May-13-2017-Allsvenskan,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-05-14,Sundsvall,Jönköping,0,0,NA,NA,4613,Martin Strömbergsson,https://fbref.com/en/matches/9a0fea72/Sundsvall-Jonkopings-Sodra-May-14-2017-Allsvenskan,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-05-14,Halmstad,Hammarby,1,2,NA,NA,5201,Patrik Eriksson,https://fbref.com/en/matches/7bbb0590/Halmstad-Hammarby-May-14-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-05-14,Malmö,Östersund,2,1,NA,NA,19887,Magnus Lindgren,https://fbref.com/en/matches/371779cd/Malmo-Ostersund-May-14-2017-Allsvenskan,0,0,3,2,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2017
+2017-05-14,Sirius,Elfsborg,4,1,NA,NA,4482,Bojan Pandzic,https://fbref.com/en/matches/37411d39/Sirius-Elfsborg-May-14-2017-Allsvenskan,0,0,3,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2017
+2017-05-15,Djurgården,Göteborg,1,0,NA,NA,16299,Andreas Ekberg,https://fbref.com/en/matches/81fded1a/Djurgarden-Goteborg-May-15-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-05-16,Norrköping,Kalmar,2,0,NA,NA,7452,Robert Daradic,https://fbref.com/en/matches/57263cdd/Norrkoping-Kalmar-May-16-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-05-17,Hammarby,Malmö,1,1,NA,NA,22456,Johan Hamlin,https://fbref.com/en/matches/a6c9caf4/Hammarby-Malmo-May-17-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-05-17,Örebro,Sundsvall,0,2,NA,NA,5144,Bojan Pandzic,https://fbref.com/en/matches/c8b0c73b/Orebro-Sundsvall-May-17-2017-Allsvenskan,0,0,1,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-05-17,Östersund,Sirius,0,0,NA,NA,4758,Glenn Nyberg,https://fbref.com/en/matches/7fbbc274/Ostersund-Sirius-May-17-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-05-17,Häcken,Halmstad,2,1,NA,NA,2238,Johan Krantz,https://fbref.com/en/matches/b3129d5f/Hacken-Halmstad-May-17-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-05-18,Jönköping,Djurgården,1,1,NA,NA,5175,Patrik Eriksson,https://fbref.com/en/matches/30d63013/Jonkopings-Sodra-Djurgarden-May-18-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-05-18,Elfsborg,AFC Eskilstuna,2,1,NA,NA,4886,Magnus Lindgren,https://fbref.com/en/matches/d2ad24cc/Elfsborg-AFC-Eskilstuna-May-18-2017-Allsvenskan,0,0,4,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2017
+2017-05-20,Östersund,Kalmar,2,1,NA,NA,4465,Andreas Ekberg,https://fbref.com/en/matches/822bd291/Ostersund-Kalmar-May-20-2017-Allsvenskan,1,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-05-20,Halmstad,Örebro,0,0,NA,NA,3162,Martin Strömbergsson,https://fbref.com/en/matches/32083208/Halmstad-Orebro-May-20-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-05-21,Sirius,Hammarby,1,1,NA,NA,7124,Magnus Lindgren,https://fbref.com/en/matches/1b47fd9b/Sirius-Hammarby-May-21-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-05-21,AFC Eskilstuna,Häcken,0,0,NA,NA,1895,Markus Strömbergsson,https://fbref.com/en/matches/7e90a044/AFC-Eskilstuna-Hacken-May-21-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-05-21,Malmö,Norrköping,1,2,NA,NA,20145,Bojan Pandzic,https://fbref.com/en/matches/cb9a50f1/Malmo-Norrkoping-May-21-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-05-22,Elfsborg,Jönköping,3,0,NA,NA,5965,Johan Hamlin,https://fbref.com/en/matches/01b71ea9/Elfsborg-Jonkopings-Sodra-May-22-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
+2017-05-22,Sundsvall,Göteborg,0,4,NA,NA,5046,Kristoffer Karlsson,https://fbref.com/en/matches/66b73482/Sundsvall-Goteborg-May-22-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2017
+2017-05-22,Djurgården,AIK Stockholm,0,1,NA,NA,25754,Mohammed Al Hakim,https://fbref.com/en/matches/acddee5a/Djurgarden-AIK-Stockholm-May-22-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-05-27,Djurgården,AFC Eskilstuna,4,1,NA,NA,10255,Bojan Pandzic,https://fbref.com/en/matches/4a775572/Djurgarden-AFC-Eskilstuna-May-27-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-05-27,Kalmar,Sundsvall,3,0,NA,NA,4085,Patrik Eriksson,https://fbref.com/en/matches/6367f9aa/Kalmar-Sundsvall-May-27-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-05-27,Norrköping,Halmstad,3,2,NA,NA,9105,Markus Strömbergsson,https://fbref.com/en/matches/fd906e8b/Norrkoping-Halmstad-May-27-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
+2017-05-28,Hammarby,Jönköping,2,2,NA,NA,20386,Kristoffer Karlsson,https://fbref.com/en/matches/98e635e4/Hammarby-Jonkopings-Sodra-May-28-2017-Allsvenskan,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-05-28,Göteborg,Elfsborg,1,1,NA,NA,12837,Martin Strömbergsson,https://fbref.com/en/matches/a390cee9/Goteborg-Elfsborg-May-28-2017-Allsvenskan,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
+2017-05-29,AIK Stockholm,Malmö,0,1,NA,NA,19570,Glenn Nyberg,https://fbref.com/en/matches/1bcb9e18/AIK-Stockholm-Malmo-May-29-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-05-29,Häcken,Östersund,0,1,NA,NA,2749,Kaspar Sjöberg,https://fbref.com/en/matches/38d88029/Hacken-Ostersund-May-29-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2017
+2017-05-29,Örebro,Sirius,2,1,NA,NA,5622,Stefan Johannesson,https://fbref.com/en/matches/172e3913/Orebro-Sirius-May-29-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,2017
+2017-06-01,Norrköping,AIK Stockholm,0,0,NA,NA,12303,Stefan Johannesson,https://fbref.com/en/matches/111f58d6/Norrkoping-AIK-Stockholm-June-1-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-06-02,Elfsborg,Häcken,2,0,NA,NA,6446,Glenn Nyberg,https://fbref.com/en/matches/d07a7851/Elfsborg-Hacken-June-2-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-06-03,Östersund,Sundsvall,3,1,NA,NA,7821,Magnus Lindgren,https://fbref.com/en/matches/328e3787/Ostersund-Sundsvall-June-3-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-06-03,Kalmar,Örebro,0,1,NA,NA,4699,Kaspar Sjöberg,https://fbref.com/en/matches/c2a5e36c/Kalmar-Orebro-June-3-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
+2017-06-03,Jönköping,Malmö,1,2,NA,NA,5565,Patrik Eriksson,https://fbref.com/en/matches/3070b7ef/Jonkopings-Sodra-Malmo-June-3-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-06-04,AFC Eskilstuna,AIK Stockholm,1,3,NA,NA,7147,Johan Hamlin,https://fbref.com/en/matches/1b7e0d58/AFC-Eskilstuna-AIK-Stockholm-June-4-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
+2017-06-04,Hammarby,Djurgården,3,1,NA,NA,29374,Andreas Ekberg,https://fbref.com/en/matches/b2072a56/Hammarby-Djurgarden-June-4-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
+2017-06-04,Norrköping,Göteborg,2,0,NA,NA,10233,Mohammed Al Hakim,https://fbref.com/en/matches/54d97b3b/Norrkoping-Goteborg-June-4-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-06-04,Sirius,Halmstad,2,1,NA,NA,4561,Robert Daradic,https://fbref.com/en/matches/34a3b631/Sirius-Halmstad-June-4-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-07-01,Sundsvall,Sirius,1,2,NA,NA,3862,Glenn Nyberg,https://fbref.com/en/matches/c32bc5d9/Sundsvall-Sirius-July-1-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-07-01,Malmö,AFC Eskilstuna,3,2,NA,NA,14482,Bojan Pandzic,https://fbref.com/en/matches/e415d96e/Malmo-AFC-Eskilstuna-July-1-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-07-01,Halmstad,Elfsborg,1,1,NA,NA,4852,Johan Hamlin,https://fbref.com/en/matches/f092c3f3/Halmstad-Elfsborg-July-1-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-07-02,Jönköping,Göteborg,0,2,NA,NA,5627,Mohammed Al Hakim,https://fbref.com/en/matches/a9d01fc3/Jonkopings-Sodra-Goteborg-July-2-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
+2017-07-02,Örebro,Norrköping,4,2,NA,NA,8954,Andreas Ekberg,https://fbref.com/en/matches/0b20a920/Orebro-Norrkoping-July-2-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-07-02,AIK Stockholm,Östersund,2,2,NA,NA,15121,Stefan Johannesson,https://fbref.com/en/matches/f9f2f81e/AIK-Stockholm-Ostersund-July-2-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017
+2017-07-03,Häcken,Hammarby,2,0,NA,NA,4009,Jonas Eriksson,https://fbref.com/en/matches/b51225fc/Hacken-Hammarby-July-3-2017-Allsvenskan,1,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-07-03,Djurgården,Kalmar,4,1,NA,NA,11730,Kristoffer Karlsson,https://fbref.com/en/matches/2df10338/Djurgarden-Kalmar-July-3-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2017
+2017-07-08,Sirius,AFC Eskilstuna,1,0,NA,NA,4137,Kristoffer Karlsson,https://fbref.com/en/matches/6643bece/Sirius-AFC-Eskilstuna-July-8-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017
+2017-07-08,Hammarby,Örebro,3,1,NA,NA,20337,Stefan Johannesson,https://fbref.com/en/matches/1ba7d1c0/Hammarby-Orebro-July-8-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-07-08,Häcken,Malmö,0,1,NA,NA,4504,Johan Hamlin,https://fbref.com/en/matches/38c2fb36/Hacken-Malmo-July-8-2017-Allsvenskan,0,0,3,2,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017
+2017-07-09,Norrköping,Elfsborg,1,3,NA,NA,9325,Mohammed Al Hakim,https://fbref.com/en/matches/bdbe26ea/Norrkoping-Elfsborg-July-9-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-07-09,Östersund,Jönköping,1,1,NA,NA,4893,Kaspar Sjöberg,https://fbref.com/en/matches/e407c359/Ostersund-Jonkopings-Sodra-July-9-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-07-09,Kalmar,AIK Stockholm,0,1,NA,NA,10318,Magnus Lindgren,https://fbref.com/en/matches/5732c3ed/Kalmar-AIK-Stockholm-July-9-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-07-10,Djurgården,Sundsvall,2,1,NA,NA,12439,Jonas Eriksson,https://fbref.com/en/matches/fd4b5a2d/Djurgarden-Sundsvall-July-10-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2017
+2017-07-10,Göteborg,Halmstad,1,1,NA,NA,11328,Patrik Eriksson,https://fbref.com/en/matches/807a2ffd/Goteborg-Halmstad-July-10-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-07-15,AFC Eskilstuna,Kalmar,2,1,NA,NA,2376,Kaspar Sjöberg,https://fbref.com/en/matches/6722b253/AFC-Eskilstuna-Kalmar-July-15-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-07-15,Malmö,Sirius,3,3,NA,NA,15501,Stefan Johannesson,https://fbref.com/en/matches/67d52b87/Malmo-Sirius-July-15-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-07-15,Sundsvall,Halmstad,1,0,NA,NA,3647,Magnus Lindgren,https://fbref.com/en/matches/04cc8cc2/Sundsvall-Halmstad-July-15-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-07-16,Örebro,Göteborg,4,2,NA,NA,6049,Bojan Pandzic,https://fbref.com/en/matches/310c7f70/Orebro-Goteborg-July-16-2017-Allsvenskan,0,0,3,0,0,0,0,0,0,1,1,6,0,0,0,0,0,0,2017
+2017-07-16,Östersund,Djurgården,2,1,NA,NA,5647,Andreas Ekberg,https://fbref.com/en/matches/736e2d87/Ostersund-Djurgarden-July-16-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-07-16,AIK Stockholm,Norrköping,1,0,NA,NA,16273,Jonas Eriksson,https://fbref.com/en/matches/c3be0b07/AIK-Stockholm-Norrkoping-July-16-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-07-17,Jönköping,Häcken,0,1,NA,NA,3491,Glenn Nyberg,https://fbref.com/en/matches/0cf91d8d/Jonkopings-Sodra-Hacken-July-17-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-07-17,Elfsborg,Hammarby,3,0,NA,NA,11092,Mohammed Al Hakim,https://fbref.com/en/matches/40e6b367/Elfsborg-Hammarby-July-17-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
+2017-07-22,Malmö,Jönköping,2,0,NA,NA,15049,Mohammed Al Hakim,https://fbref.com/en/matches/a782cd30/Malmo-Jonkopings-Sodra-July-22-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017
+2017-07-22,Halmstad,Sundsvall,2,2,NA,NA,4206,Jonas Eriksson,https://fbref.com/en/matches/e3f10cae/Halmstad-Sundsvall-July-22-2017-Allsvenskan,0,0,2,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-07-22,Sirius,Häcken,2,2,NA,NA,5324,Johan Hamlin,https://fbref.com/en/matches/e15250b3/Sirius-Hacken-July-22-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2017
+2017-07-23,Djurgården,Östersund,3,0,NA,NA,11762,Magnus Lindgren,https://fbref.com/en/matches/178eb1d5/Djurgarden-Ostersund-July-23-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-07-23,Kalmar,AFC Eskilstuna,2,0,NA,NA,6327,Patrik Eriksson,https://fbref.com/en/matches/8e8d333a/Kalmar-AFC-Eskilstuna-July-23-2017-Allsvenskan,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-07-23,Göteborg,Örebro,2,2,NA,NA,10330,Kaspar Sjöberg,https://fbref.com/en/matches/47b9e817/Goteborg-Orebro-July-23-2017-Allsvenskan,0,0,2,1,0,0,0,0,0,2,2,2,0,0,0,0,0,0,2017
+2017-07-24,Hammarby,Elfsborg,2,1,NA,NA,20420,Bojan Pandzic,https://fbref.com/en/matches/2bb5dd46/Hammarby-Elfsborg-July-24-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-07-29,Elfsborg,Sirius,0,2,NA,NA,5947,Kaspar Sjöberg,https://fbref.com/en/matches/00e3d616/Elfsborg-Sirius-July-29-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-07-29,Jönköping,Hammarby,1,0,NA,NA,5914,Stefan Johannesson,https://fbref.com/en/matches/d98ff1c7/Jonkopings-Sodra-Hammarby-July-29-2017-Allsvenskan,1,1,1,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2017
+2017-07-29,Sundsvall,Malmö,0,1,NA,NA,4193,Glenn Nyberg,https://fbref.com/en/matches/96fffce4/Sundsvall-Malmo-July-29-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-07-30,Östersund,Halmstad,0,0,NA,NA,5589,Kristoffer Karlsson,https://fbref.com/en/matches/1741b324/Ostersund-Halmstad-July-30-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-07-30,Göteborg,Norrköping,4,1,NA,NA,11347,Andreas Ekberg,https://fbref.com/en/matches/0aa1cecb/Goteborg-Norrkoping-July-30-2017-Allsvenskan,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
+2017-07-30,AIK Stockholm,Kalmar,0,1,NA,NA,14337,Mohammed Al Hakim,https://fbref.com/en/matches/9ea51b4c/AIK-Stockholm-Kalmar-July-30-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-07-31,AFC Eskilstuna,Djurgården,1,2,NA,NA,7500,Johan Krantz,https://fbref.com/en/matches/e0ab7501/AFC-Eskilstuna-Djurgarden-July-31-2017-Allsvenskan,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-07-31,Häcken,Örebro,1,1,NA,NA,1989,Patrik Eriksson,https://fbref.com/en/matches/343b044a/Hacken-Orebro-July-31-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-08-05,Halmstad,Jönköping,6,1,NA,NA,4464,Patrik Eriksson,https://fbref.com/en/matches/442664b9/Halmstad-Jonkopings-Sodra-August-5-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-08-05,Örebro,Elfsborg,2,2,NA,NA,6223,Andreas Ekberg,https://fbref.com/en/matches/817d406d/Orebro-Elfsborg-August-5-2017-Allsvenskan,1,1,0,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2017
+2017-08-06,Hammarby,Häcken,1,2,NA,NA,18474,Glenn Nyberg,https://fbref.com/en/matches/0dc4d359/Hammarby-Hacken-August-6-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017
+2017-08-06,Kalmar,Göteborg,1,0,NA,NA,9330,Patrik Eriksson,https://fbref.com/en/matches/797a1fd6/Kalmar-Goteborg-August-6-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-08-06,Sundsvall,Östersund,1,1,NA,NA,6528,Bojan Pandzic,https://fbref.com/en/matches/5e38cd07/Sundsvall-Ostersund-August-6-2017-Allsvenskan,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
+2017-08-06,Sirius,AIK Stockholm,1,4,NA,NA,6748,Stefan Johannesson,https://fbref.com/en/matches/b270279f/Sirius-AIK-Stockholm-August-6-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2017
+2017-08-07,Djurgården,Malmö,0,1,NA,NA,22208,Mohammed Al Hakim,https://fbref.com/en/matches/0da27f3b/Djurgarden-Malmo-August-7-2017-Allsvenskan,0,1,2,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2017
+2017-08-07,Norrköping,AFC Eskilstuna,1,0,NA,NA,6662,Kristoffer Karlsson,https://fbref.com/en/matches/9be70123/Norrkoping-AFC-Eskilstuna-August-7-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-08-10,Göteborg,AIK Stockholm,2,1,NA,NA,16187,Mohammed Al Hakim,https://fbref.com/en/matches/30f2dc5b/Goteborg-AIK-Stockholm-August-10-2017-Allsvenskan,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-08-11,Malmö,Kalmar,6,0,NA,NA,20202,Andreas Ekberg,https://fbref.com/en/matches/c42be0c2/Malmo-Kalmar-August-11-2017-Allsvenskan,2,2,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2017
+2017-08-12,Halmstad,Sirius,0,3,NA,NA,4127,Magnus Lindgren,https://fbref.com/en/matches/bd8533b3/Halmstad-Sirius-August-12-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
+2017-08-13,Hammarby,Östersund,2,2,NA,NA,19870,Kaspar Sjöberg,https://fbref.com/en/matches/4f074f57/Hammarby-Ostersund-August-13-2017-Allsvenskan,1,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2017
+2017-08-13,AIK Stockholm,AFC Eskilstuna,1,1,NA,NA,12087,Jonas Eriksson,https://fbref.com/en/matches/209c9b3a/AIK-Stockholm-AFC-Eskilstuna-August-13-2017-Allsvenskan,0,0,4,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2017
+2017-08-13,Norrköping,Djurgården,0,1,NA,NA,11620,Bojan Pandzic,https://fbref.com/en/matches/83a01ff5/Norrkoping-Djurgarden-August-13-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-08-13,Jönköping,Örebro,1,2,NA,NA,3152,Glenn Nyberg,https://fbref.com/en/matches/a92ea4d6/Jonkopings-Sodra-Orebro-August-13-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-08-14,Elfsborg,Göteborg,1,2,NA,NA,11979,Stefan Johannesson,https://fbref.com/en/matches/83bedba0/Elfsborg-Goteborg-August-14-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-08-14,Häcken,Sundsvall,2,0,NA,NA,2013,Kristoffer Karlsson,https://fbref.com/en/matches/7c2960e7/Hacken-Sundsvall-August-14-2017-Allsvenskan,1,1,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-08-18,Jönköping,Elfsborg,2,2,NA,NA,3773,Glenn Nyberg,https://fbref.com/en/matches/91634898/Jonkopings-Sodra-Elfsborg-August-18-2017-Allsvenskan,1,1,1,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2017
+2017-08-19,AFC Eskilstuna,Malmö,3,1,NA,NA,3115,Stefan Johannesson,https://fbref.com/en/matches/5ad123df/AFC-Eskilstuna-Malmo-August-19-2017-Allsvenskan,0,0,4,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2017
+2017-08-20,Östersund,AIK Stockholm,0,3,NA,NA,5779,Bojan Pandzic,https://fbref.com/en/matches/fcba503a/Ostersund-AIK-Stockholm-August-20-2017-Allsvenskan,0,0,3,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-08-20,Djurgården,Halmstad,2,1,NA,NA,13093,Johan Hamlin,https://fbref.com/en/matches/9e6ed49b/Djurgarden-Halmstad-August-20-2017-Allsvenskan,1,1,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-08-20,Sirius,Norrköping,0,1,NA,NA,6769,Jonas Eriksson,https://fbref.com/en/matches/9ff2021a/Sirius-Norrkoping-August-20-2017-Allsvenskan,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-08-20,Göteborg,Häcken,1,1,NA,NA,13443,Andreas Ekberg,https://fbref.com/en/matches/e35c5f4f/Goteborg-Hacken-August-20-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-08-21,Sundsvall,Kalmar,1,3,NA,NA,3818,Glenn Nyberg,https://fbref.com/en/matches/852468e2/Sundsvall-Kalmar-August-21-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
+2017-08-21,Örebro,Hammarby,0,3,NA,NA,8407,Patrik Eriksson,https://fbref.com/en/matches/11c967b7/Orebro-Hammarby-August-21-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
+2017-08-26,AFC Eskilstuna,Hammarby,0,0,NA,NA,7500,Kristoffer Karlsson,https://fbref.com/en/matches/878f6521/AFC-Eskilstuna-Hammarby-August-26-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-08-27,Norrköping,Östersund,0,2,NA,NA,7825,Glenn Nyberg,https://fbref.com/en/matches/52e16d05/Norrkoping-Ostersund-August-27-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-08-27,Kalmar,Sirius,4,2,NA,NA,6272,Mohammed Al Hakim,https://fbref.com/en/matches/6b4cabb9/Kalmar-Sirius-August-27-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-08-27,Häcken,Jönköping,3,1,NA,NA,2180,Kaspar Sjöberg,https://fbref.com/en/matches/f44bf3eb/Hacken-Jonkopings-Sodra-August-27-2017-Allsvenskan,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
+2017-08-27,AIK Stockholm,Djurgården,1,1,NA,NA,33157,Stefan Johannesson,https://fbref.com/en/matches/3875a153/AIK-Stockholm-Djurgarden-August-27-2017-Allsvenskan,1,1,5,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-08-27,Elfsborg,Halmstad,1,0,NA,NA,5206,Jonas Eriksson,https://fbref.com/en/matches/b6e90558/Elfsborg-Halmstad-August-27-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
+2017-08-27,Malmö,Göteborg,2,2,NA,NA,21354,Andreas Ekberg,https://fbref.com/en/matches/53dad8fe/Malmo-Goteborg-August-27-2017-Allsvenskan,0,1,5,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2017
+2017-08-27,Sundsvall,Örebro,2,1,NA,NA,3068,Magnus Lindgren,https://fbref.com/en/matches/c4022d64/Sundsvall-Orebro-August-27-2017-Allsvenskan,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-09-09,Östersund,AFC Eskilstuna,3,0,NA,NA,4030,Johan Hamlin,https://fbref.com/en/matches/613d68e6/Ostersund-AFC-Eskilstuna-September-9-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-09-10,Halmstad,Häcken,0,3,NA,NA,3266,Patrik Eriksson,https://fbref.com/en/matches/d73480e4/Halmstad-Hacken-September-10-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-09-10,Hammarby,AIK Stockholm,1,1,NA,NA,29306,Jonas Eriksson,https://fbref.com/en/matches/119d7bb8/Hammarby-AIK-Stockholm-September-10-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-09-10,Örebro,Malmö,2,1,NA,NA,7224,Mohammed Al Hakim,https://fbref.com/en/matches/831439d4/Orebro-Malmo-September-10-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-09-10,Elfsborg,Kalmar,2,2,NA,NA,5466,Magnus Lindgren,https://fbref.com/en/matches/568ca897/Elfsborg-Kalmar-September-10-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2017
+2017-09-10,Sirius,Sundsvall,0,1,NA,NA,5024,Glenn Nyberg,https://fbref.com/en/matches/cc500d32/Sirius-Sundsvall-September-10-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-09-10,Jönköping,Norrköping,1,2,NA,NA,3362,Stefan Johannesson,https://fbref.com/en/matches/6776179f/Jonkopings-Sodra-Norrkoping-September-10-2017-Allsvenskan,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-09-11,Göteborg,Djurgården,1,3,NA,NA,12350,Bojan Pandzic,https://fbref.com/en/matches/5c76906b/Goteborg-Djurgarden-September-11-2017-Allsvenskan,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-09-15,Kalmar,Norrköping,1,1,NA,NA,5769,Bojan Pandzic,https://fbref.com/en/matches/18afe581/Kalmar-Norrkoping-September-15-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
+2017-09-16,Göteborg,Jönköping,1,1,NA,NA,9142,Kristoffer Karlsson,https://fbref.com/en/matches/61ed700f/Goteborg-Jonkopings-Sodra-September-16-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-09-16,Djurgården,Örebro,4,1,NA,NA,14039,Jonas Eriksson,https://fbref.com/en/matches/68604281/Djurgarden-Orebro-September-16-2017-Allsvenskan,1,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-09-16,Häcken,Elfsborg,3,0,NA,NA,1893,Kaspar Sjöberg,https://fbref.com/en/matches/a7313881/Hacken-Elfsborg-September-16-2017-Allsvenskan,0,0,3,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2017
+2017-09-17,Sirius,Östersund,0,5,NA,NA,5112,Patrik Eriksson,https://fbref.com/en/matches/8d0aaa17/Sirius-Ostersund-September-17-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2017
+2017-09-17,AIK Stockholm,Halmstad,4,1,NA,NA,10342,Magnus Lindgren,https://fbref.com/en/matches/898e0ddf/AIK-Stockholm-Halmstad-September-17-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-09-17,Malmö,Hammarby,4,0,NA,NA,18830,Johan Hamlin,https://fbref.com/en/matches/d0a5050a/Malmo-Hammarby-September-17-2017-Allsvenskan,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-09-18,AFC Eskilstuna,Sundsvall,1,2,NA,NA,4305,Mohammed Al Hakim,https://fbref.com/en/matches/396ef6b9/AFC-Eskilstuna-Sundsvall-September-18-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-09-19,Norrköping,Häcken,4,1,NA,NA,6377,Kristoffer Karlsson,https://fbref.com/en/matches/0bbd1f09/Norrkoping-Hacken-September-19-2017-Allsvenskan,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
+2017-09-19,Elfsborg,Djurgården,2,2,NA,NA,7423,Glenn Nyberg,https://fbref.com/en/matches/eb56308e/Elfsborg-Djurgarden-September-19-2017-Allsvenskan,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-09-20,Hammarby,Göteborg,2,1,NA,NA,20650,Mohammed Al Hakim,https://fbref.com/en/matches/817732ab/Hammarby-Goteborg-September-20-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-09-20,Halmstad,Kalmar,1,1,NA,NA,3084,Magnus Lindgren,https://fbref.com/en/matches/56db4694/Halmstad-Kalmar-September-20-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2017
+2017-09-20,Östersund,Malmö,2,2,NA,NA,6157,Stefan Johannesson,https://fbref.com/en/matches/d9503d3c/Ostersund-Malmo-September-20-2017-Allsvenskan,1,2,2,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017
+2017-09-20,Jönköping,Sirius,3,1,NA,NA,2672,Kaspar Sjöberg,https://fbref.com/en/matches/4782065b/Jonkopings-Sodra-Sirius-September-20-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2017
+2017-09-21,Örebro,AFC Eskilstuna,2,3,NA,NA,4035,Johan Krantz,https://fbref.com/en/matches/123ff09d/Orebro-AFC-Eskilstuna-September-21-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2017
+2017-09-21,Sundsvall,AIK Stockholm,0,0,NA,NA,4052,Patrik Eriksson,https://fbref.com/en/matches/79240eee/Sundsvall-AIK-Stockholm-September-21-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-09-23,Halmstad,Norrköping,2,1,NA,NA,5398,Jonas Eriksson,https://fbref.com/en/matches/26754f3a/Halmstad-Norrkoping-September-23-2017-Allsvenskan,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-09-24,Djurgården,Hammarby,1,1,NA,NA,24174,Bojan Pandzic,https://fbref.com/en/matches/5b29b159/Djurgarden-Hammarby-September-24-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017
+2017-09-24,Kalmar,Östersund,2,1,NA,NA,4602,Kaspar Sjöberg,https://fbref.com/en/matches/4c07a7eb/Kalmar-Ostersund-September-24-2017-Allsvenskan,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-09-24,Häcken,AIK Stockholm,1,6,NA,NA,3578,Stefan Johannesson,https://fbref.com/en/matches/c09d5c88/Hacken-AIK-Stockholm-September-24-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-09-24,Jönköping,Sundsvall,2,2,NA,NA,3869,Mohammed Al Hakim,https://fbref.com/en/matches/53af168c/Jonkopings-Sodra-Sundsvall-September-24-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2017
+2017-09-25,Sirius,Örebro,3,4,NA,NA,4186,Magnus Lindgren,https://fbref.com/en/matches/d24128d3/Sirius-Orebro-September-25-2017-Allsvenskan,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
+2017-09-25,Malmö,Elfsborg,6,0,NA,NA,16212,Andreas Ekberg,https://fbref.com/en/matches/f6fb0bea/Malmo-Elfsborg-September-25-2017-Allsvenskan,1,1,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2017
+2017-09-25,AFC Eskilstuna,Göteborg,1,0,NA,NA,4157,Kristoffer Karlsson,https://fbref.com/en/matches/dff187fa/AFC-Eskilstuna-Goteborg-September-25-2017-Allsvenskan,0,0,5,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-09-29,Göteborg,Sirius,4,0,NA,NA,7814,Glenn Nyberg,https://fbref.com/en/matches/119e5d7f/Goteborg-Sirius-September-29-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-09-30,AFC Eskilstuna,Jönköping,1,1,NA,NA,3165,Jonas Eriksson,https://fbref.com/en/matches/ae69e065/AFC-Eskilstuna-Jonkopings-Sodra-September-30-2017-Allsvenskan,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
+2017-10-01,Östersund,Häcken,0,0,NA,NA,4769,Johan Hamlin,https://fbref.com/en/matches/dfc20a7f/Ostersund-Hacken-October-1-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-10-01,Sundsvall,Djurgården,0,5,NA,NA,5280,Magnus Lindgren,https://fbref.com/en/matches/756a77d6/Sundsvall-Djurgarden-October-1-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2017
+2017-10-01,Malmö,Halmstad,2,0,NA,NA,18189,Mohammed Al Hakim,https://fbref.com/en/matches/0db363fc/Malmo-Halmstad-October-1-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
+2017-10-01,Örebro,Kalmar,1,0,NA,NA,5176,Patrik Eriksson,https://fbref.com/en/matches/2348e8ae/Orebro-Kalmar-October-1-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
+2017-10-01,AIK Stockholm,Elfsborg,5,2,NA,NA,12282,Kaspar Sjöberg,https://fbref.com/en/matches/965967b5/AIK-Stockholm-Elfsborg-October-1-2017-Allsvenskan,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-10-01,Hammarby,Norrköping,0,2,NA,NA,21337,Stefan Johannesson,https://fbref.com/en/matches/c5a5ddff/Hammarby-Norrkoping-October-1-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-10-14,Halmstad,Göteborg,1,2,NA,NA,4307,Johan Hamlin,https://fbref.com/en/matches/77fc8d43/Halmstad-Goteborg-October-14-2017-Allsvenskan,1,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017
+2017-10-14,Häcken,AFC Eskilstuna,3,0,NA,NA,1502,Patrik Eriksson,https://fbref.com/en/matches/a1eb3770/Hacken-AFC-Eskilstuna-October-14-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2017
+2017-10-14,Östersund,Örebro,3,0,NA,NA,5002,Kristoffer Karlsson,https://fbref.com/en/matches/5a8810f8/Ostersund-Orebro-October-14-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-10-15,AIK Stockholm,Jönköping,2,0,NA,NA,16257,Andreas Ekberg,https://fbref.com/en/matches/e4d75082/AIK-Stockholm-Jonkopings-Sodra-October-15-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-10-15,Elfsborg,Sundsvall,2,1,NA,NA,5925,Bojan Pandzic,https://fbref.com/en/matches/9b59c513/Elfsborg-Sundsvall-October-15-2017-Allsvenskan,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-10-15,Sirius,Djurgården,2,0,NA,NA,6492,Stefan Johannesson,https://fbref.com/en/matches/d6ad1f64/Sirius-Djurgarden-October-15-2017-Allsvenskan,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
+2017-10-16,Kalmar,Hammarby,2,0,NA,NA,6514,Mohammed Al Hakim,https://fbref.com/en/matches/92943960/Kalmar-Hammarby-October-16-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
+2017-10-16,Norrköping,Malmö,1,3,NA,NA,13769,Glenn Nyberg,https://fbref.com/en/matches/7f36d25b/Norrkoping-Malmo-October-16-2017-Allsvenskan,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-10-20,Örebro,Halmstad,0,1,NA,NA,3719,Kaspar Sjöberg,https://fbref.com/en/matches/4fe89434/Orebro-Halmstad-October-20-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-10-21,AFC Eskilstuna,Elfsborg,2,3,NA,NA,2177,Mohammed Al Hakim,https://fbref.com/en/matches/dca58162/AFC-Eskilstuna-Elfsborg-October-21-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-10-22,Göteborg,Östersund,0,1,NA,NA,9263,Bojan Pandzic,https://fbref.com/en/matches/e7beaf32/Goteborg-Ostersund-October-22-2017-Allsvenskan,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-10-22,Sundsvall,Norrköping,2,2,NA,NA,3528,Johan Hamlin,https://fbref.com/en/matches/ee9e3b80/Sundsvall-Norrkoping-October-22-2017-Allsvenskan,1,1,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-10-22,Djurgården,Häcken,1,1,NA,NA,14181,Jonas Eriksson,https://fbref.com/en/matches/2fd143c8/Djurgarden-Hacken-October-22-2017-Allsvenskan,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-10-23,Malmö,AIK Stockholm,0,0,NA,NA,19535,Stefan Johannesson,https://fbref.com/en/matches/e25e62d1/Malmo-AIK-Stockholm-October-23-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-10-23,Hammarby,Sirius,3,3,NA,NA,17403,Patrik Eriksson,https://fbref.com/en/matches/2d88a5b2/Hammarby-Sirius-October-23-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-10-23,Jönköping,Kalmar,2,0,NA,NA,4563,Magnus Lindgren,https://fbref.com/en/matches/6aea4b9f/Jonkopings-Sodra-Kalmar-October-23-2017-Allsvenskan,2,2,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-10-28,Östersund,Elfsborg,4,1,NA,NA,5081,Jonas Eriksson,https://fbref.com/en/matches/0eb85585/Ostersund-Elfsborg-October-28-2017-Allsvenskan,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-10-28,Halmstad,AFC Eskilstuna,1,1,NA,NA,1478,Andreas Ekberg,https://fbref.com/en/matches/4833e3a5/Halmstad-AFC-Eskilstuna-October-28-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-10-29,Sirius,Malmö,0,4,NA,NA,4411,Victor Wolf,https://fbref.com/en/matches/73582a5f/Sirius-Malmo-October-29-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-10-29,Sundsvall,Hammarby,1,4,NA,NA,5157,Magnus Lindgren,https://fbref.com/en/matches/8586c04b/Sundsvall-Hammarby-October-29-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-10-29,Djurgården,Jönköping,0,0,NA,NA,12493,Mohammed Al Hakim,https://fbref.com/en/matches/e1158293/Djurgarden-Jonkopings-Sodra-October-29-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-10-29,Häcken,Kalmar,2,0,NA,NA,2145,Kaspar Sjöberg,https://fbref.com/en/matches/ac5e2e87/Hacken-Kalmar-October-29-2017-Allsvenskan,1,1,0,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-10-30,Norrköping,Örebro,2,0,NA,NA,6447,Patrik Eriksson,https://fbref.com/en/matches/14d47ca1/Norrkoping-Orebro-October-30-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
+2017-10-30,AIK Stockholm,Göteborg,2,1,NA,NA,19870,Kristoffer Karlsson,https://fbref.com/en/matches/aa3cb1d6/AIK-Stockholm-Goteborg-October-30-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017
+2017-11-05,Malmö,Häcken,1,2,NA,NA,19123,Mohammed Al Hakim,https://fbref.com/en/matches/df6766e5/Malmo-Hacken-November-5-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
+2017-11-05,Örebro,AIK Stockholm,1,2,NA,NA,6572,Jonas Eriksson,https://fbref.com/en/matches/157cafb7/Orebro-AIK-Stockholm-November-5-2017-Allsvenskan,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-11-05,Hammarby,Halmstad,1,3,NA,NA,20070,Johan Hamlin,https://fbref.com/en/matches/086eb00b/Hammarby-Halmstad-November-5-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-11-05,Kalmar,Djurgården,0,2,NA,NA,8241,Andreas Ekberg,https://fbref.com/en/matches/0c5e3570/Kalmar-Djurgarden-November-5-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-11-05,Göteborg,Sundsvall,0,3,NA,NA,6769,Stefan Johannesson,https://fbref.com/en/matches/94339899/Goteborg-Sundsvall-November-5-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-11-05,Jönköping,Östersund,0,0,NA,NA,4885,Glenn Nyberg,https://fbref.com/en/matches/2f42bc7d/Jonkopings-Sodra-Ostersund-November-5-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-11-05,AFC Eskilstuna,Sirius,1,3,NA,NA,887,Bojan Pandzic,https://fbref.com/en/matches/4b5044f1/AFC-Eskilstuna-Sirius-November-5-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,2017
+2017-11-05,Elfsborg,Norrköping,3,3,NA,NA,6516,Kristoffer Karlsson,https://fbref.com/en/matches/3087d6f6/Elfsborg-Norrkoping-November-5-2017-Allsvenskan,1,1,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017

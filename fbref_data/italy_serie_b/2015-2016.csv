@@ -1,0 +1,473 @@
+date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_report_url,home_pk_goals,home_pk_attempts,home_yellow_cards,home_red_cards,home_shots,home_shots_on_target,home_tackles,home_interceptions,home_fouls_committed,away_pk_goals,away_pk_attempts,away_yellow_cards,away_red_cards,away_shots,away_shots_on_target,away_tackles,away_interceptions,away_fouls_committed,season
+2015-09-05,Cesena,Brescia,2,0,NA,NA,12137,Ivan Pezzuto,https://fbref.com/en/matches/f7285ed1/Cesena-Brescia-September-5-2015-Serie-B,0,0,5,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-06,Salernitana,Avellino,3,1,NA,NA,22000,Daniele Chiffi,https://fbref.com/en/matches/00b3776f/Salernitana-Avellino-September-6-2015-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-06,Pro Vercelli,Virtus Lanciano,2,1,NA,NA,2765,Antonio Rapuano,https://fbref.com/en/matches/524cf93f/Pro-Vercelli-Virtus-Lanciano-September-6-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2015-2016
+2015-09-06,Livorno,Pescara,4,0,NA,NA,5858,Francesco Paolo Saia,https://fbref.com/en/matches/439d8069/Livorno-Pescara-September-6-2015-Serie-B,1,1,2,0,NA,NA,NA,NA,NA,0,0,1,1,NA,NA,NA,NA,NA,2015-2016
+2015-09-06,Novara,Latina,1,1,NA,NA,4335,Lorenzo Illuzzi,https://fbref.com/en/matches/34c4cb15/Novara-Latina-September-6-2015-Serie-B,0,0,3,1,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2015-2016
+2015-09-06,Modena,Vicenza,0,1,NA,NA,5312,Fabrizio Pasqua,https://fbref.com/en/matches/e798b734/Modena-Vicenza-September-6-2015-Serie-B,0,0,3,1,NA,NA,NA,NA,NA,1,1,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-06,Trapani,Ternana,3,0,NA,NA,4755,Aleandro Di Paolo,https://fbref.com/en/matches/92e70d52/Trapani-Ternana-September-6-2015-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-06,Perugia,Como,2,0,NA,NA,9954,Fabio Maresca,https://fbref.com/en/matches/0483a1da/Perugia-Como-September-6-2015-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-06,Bari,Spezia,4,3,NA,NA,21790,Federico La Penna,https://fbref.com/en/matches/c3b454f8/Bari-Spezia-September-6-2015-Serie-B,0,0,2,1,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-07,Cagliari,Crotone,4,0,NA,NA,13908,Juan Sacchi,https://fbref.com/en/matches/d5bb9e88/Cagliari-Crotone-September-7-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2015-2016
+2015-09-11,Pescara,Perugia,2,1,NA,NA,8189,Riccardo Pinzani,https://fbref.com/en/matches/89ff146b/Pescara-Perugia-September-11-2015-Serie-B,1,1,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-12,Virtus Entella,Cesena,2,1,NA,NA,1853,Luca Pairetto,https://fbref.com/en/matches/a13b2909/Virtus-Entella-Cesena-September-12-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,2,NA,NA,NA,NA,NA,2015-2016
+2015-09-12,Como,Livorno,1,2,NA,NA,2016,Daniele Martinelli,https://fbref.com/en/matches/c78e6355/Como-Livorno-September-12-2015-Serie-B,0,0,3,1,NA,NA,NA,NA,NA,1,1,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-12,Virtus Lanciano,Ascoli,2,0,NA,NA,3610,Luigi Nasca,https://fbref.com/en/matches/e2f0b398/Virtus-Lanciano-Ascoli-September-12-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
+2015-09-12,Vicenza,Bari,0,0,NA,NA,7747,Rosario Abisso,https://fbref.com/en/matches/d092fd99/Vicenza-Bari-September-12-2015-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,6,1,NA,NA,NA,NA,NA,2015-2016
+2015-09-12,Avellino,Modena,2,0,NA,NA,6500,Marco Serra,https://fbref.com/en/matches/868286dc/Avellino-Modena-September-12-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-12,Ternana,Cagliari,1,1,NA,NA,4988,Gianluca Manganiello,https://fbref.com/en/matches/9cd786c4/Ternana-Cagliari-September-12-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-12,Brescia,Salernitana,2,2,NA,NA,7000,Davide Ghersini,https://fbref.com/en/matches/811a3e26/Brescia-Salernitana-September-12-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2015-2016
+2015-09-12,Crotone,Novara,2,1,NA,NA,4052,Riccardo Ros,https://fbref.com/en/matches/ed7a77af/Crotone-Novara-September-12-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-13,Spezia,Pro Vercelli,1,1,NA,NA,7048,Renzo Candussio,https://fbref.com/en/matches/ef0044e4/Spezia-Pro-Vercelli-September-13-2015-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-14,Latina,Trapani,1,1,NA,NA,3544,Daniele Minelli,https://fbref.com/en/matches/b754fb35/Latina-Trapani-September-14-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,5,1,NA,NA,NA,NA,NA,2015-2016
+2015-09-15,Ascoli,Virtus Entella,1,0,NA,NA,6350,Eugenio Abbattista,https://fbref.com/en/matches/9c9501dc/Ascoli-Virtus-Entella-September-15-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-18,Modena,Ternana,1,0,NA,NA,4162,Eugenio Abbattista,https://fbref.com/en/matches/33459481/Modena-Ternana-September-18-2015-Serie-B,0,0,4,1,NA,NA,NA,NA,NA,0,0,5,1,NA,NA,NA,NA,NA,2015-2016
+2015-09-18,Livorno,Brescia,3,1,NA,NA,6755,Antonio Rapuano,https://fbref.com/en/matches/1dd25783/Livorno-Brescia-September-18-2015-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-19,Novara,Virtus Entella,1,0,NA,NA,3998,Valerio Marini,https://fbref.com/en/matches/e8131a1f/Novara-Virtus-Entella-September-19-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-19,Trapani,Virtus Lanciano,1,1,NA,NA,4225,Federico La Penna,https://fbref.com/en/matches/03fada16/Trapani-Virtus-Lanciano-September-19-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-19,Perugia,Crotone,0,0,NA,NA,9039,Ivan Pezzuto,https://fbref.com/en/matches/e790f902/Perugia-Crotone-September-19-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,7,1,NA,NA,NA,NA,NA,2015-2016
+2015-09-19,Pro Vercelli,Latina,1,1,NA,NA,2573,Juan Sacchi,https://fbref.com/en/matches/a14898e9/Pro-Vercelli-Latina-September-19-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-19,Salernitana,Spezia,0,2,NA,NA,12070,Francesco Paolo Saia,https://fbref.com/en/matches/b1391a12/Salernitana-Spezia-September-19-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-19,Cagliari,Avellino,2,1,NA,NA,11000,Leonardo Baracani,https://fbref.com/en/matches/c9dd834e/Cagliari-Avellino-September-19-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-19,Bari,Pescara,0,0,NA,NA,20177,Fabrizio Pasqua,https://fbref.com/en/matches/08a66851/Bari-Pescara-September-19-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-19,Ascoli,Cesena,1,3,NA,NA,7072,Aleandro Di Paolo,https://fbref.com/en/matches/cfc449ca/Ascoli-Cesena-September-19-2015-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-19,Vicenza,Como,3,3,NA,NA,7042,Vincenzo Ripa,https://fbref.com/en/matches/bcbebfea/Vicenza-Como-September-19-2015-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,6,1,NA,NA,NA,NA,NA,2015-2016
+2015-09-21,Ternana,Livorno,2,3,NA,NA,4412,Davide Ghersini,https://fbref.com/en/matches/fe656f0e/Ternana-Livorno-September-21-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-22,Latina,Ascoli,1,0,NA,NA,3117,Daniele Chiffi,https://fbref.com/en/matches/b6c9a93e/Latina-Ascoli-September-22-2015-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-22,Virtus Lanciano,Vicenza,0,0,NA,NA,2665,Riccardo Ros,https://fbref.com/en/matches/ee7c59b7/Virtus-Lanciano-Vicenza-September-22-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-22,Crotone,Bari,4,1,NA,NA,5261,Fabio Maresca,https://fbref.com/en/matches/cd1233d1/Crotone-Bari-September-22-2015-Serie-B,1,1,3,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2015-2016
+2015-09-22,Virtus Entella,Cagliari,1,3,NA,NA,2533,Renzo Candussio,https://fbref.com/en/matches/6dc20462/Virtus-Entella-Cagliari-September-22-2015-Serie-B,0,0,5,1,NA,NA,NA,NA,NA,2,2,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-22,Brescia,Pro Vercelli,2,0,NA,NA,5055,Lorenzo Illuzzi,https://fbref.com/en/matches/da63e083/Brescia-Pro-Vercelli-September-22-2015-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-22,Cesena,Modena,2,0,NA,NA,12217,Riccardo Pinzani,https://fbref.com/en/matches/1d493729/Cesena-Modena-September-22-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-22,Como,Trapani,0,0,NA,NA,1816,Marco Serra,https://fbref.com/en/matches/dbb6981f/Como-Trapani-September-22-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-22,Avellino,Novara,0,0,NA,NA,7000,Daniele Martinelli,https://fbref.com/en/matches/20cb3002/Avellino-Novara-September-22-2015-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-22,Spezia,Perugia,1,0,NA,NA,7362,Gianluca Manganiello,https://fbref.com/en/matches/720b128e/Spezia-Perugia-September-22-2015-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-22,Pescara,Salernitana,1,1,NA,NA,8355,Luigi Nasca,https://fbref.com/en/matches/55ec1886/Pescara-Salernitana-September-22-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,5,1,NA,NA,NA,NA,NA,2015-2016
+2015-09-26,Vicenza,Pescara,2,2,NA,NA,7575,Ivan Pezzuto,https://fbref.com/en/matches/cc9d842a/Vicenza-Pescara-September-26-2015-Serie-B,1,1,5,1,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
+2015-09-26,Trapani,Virtus Entella,4,2,NA,NA,4030,Fabrizio Pasqua,https://fbref.com/en/matches/e23570fe/Trapani-Virtus-Entella-September-26-2015-Serie-B,1,1,3,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-26,Pro Vercelli,Crotone,0,2,NA,NA,2573,Valerio Marini,https://fbref.com/en/matches/6711142a/Pro-Vercelli-Crotone-September-26-2015-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-26,Modena,Virtus Lanciano,1,0,NA,NA,4098,Daniele Minelli,https://fbref.com/en/matches/7f23e62a/Modena-Virtus-Lanciano-September-26-2015-Serie-B,0,0,5,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-26,Ascoli,Brescia,0,0,NA,NA,5462,Vincenzo Ripa,https://fbref.com/en/matches/f19f4a4d/Ascoli-Brescia-September-26-2015-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-26,Livorno,Spezia,1,2,NA,NA,8443,Aleandro Di Paolo,https://fbref.com/en/matches/bba1a510/Livorno-Spezia-September-26-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-26,Salernitana,Ternana,2,1,NA,NA,9874,Federico La Penna,https://fbref.com/en/matches/ff1e6f2a/Salernitana-Ternana-September-26-2015-Serie-B,0,0,4,1,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-26,Perugia,Cesena,0,0,NA,NA,9477,Rosario Abisso,https://fbref.com/en/matches/3a0a7f25/Perugia-Cesena-September-26-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,7,2,NA,NA,NA,NA,NA,2015-2016
+2015-09-26,Cagliari,Latina,3,2,NA,NA,14600,Eugenio Abbattista,https://fbref.com/en/matches/2c855954/Cagliari-Latina-September-26-2015-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-27,Bari,Avellino,2,1,NA,NA,22460,Juan Sacchi,https://fbref.com/en/matches/a9e5d0f5/Bari-Avellino-September-27-2015-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-28,Novara,Como,0,2,NA,NA,4739,Leonardo Baracani,https://fbref.com/en/matches/2163a717/Novara-Como-September-28-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-02,Crotone,Salernitana,4,0,NA,NA,5158,Luca Pairetto,https://fbref.com/en/matches/5f3db859/Crotone-Salernitana-October-2-2015-Serie-B,1,1,3,0,NA,NA,NA,NA,NA,0,0,6,1,NA,NA,NA,NA,NA,2015-2016
+2015-10-03,Latina,Bari,1,2,NA,NA,3462,Gianluca Manganiello,https://fbref.com/en/matches/08f23612/Latina-Bari-October-3-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-03,Pescara,Cagliari,1,0,NA,NA,8024,Fabio Maresca,https://fbref.com/en/matches/3082a191/Pescara-Cagliari-October-3-2015-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,6,1,NA,NA,NA,NA,NA,2015-2016
+2015-10-03,Virtus Entella,Pro Vercelli,1,0,NA,NA,1499,Riccardo Pinzani,https://fbref.com/en/matches/0bb40b5e/Virtus-Entella-Pro-Vercelli-October-3-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,5,2,NA,NA,NA,NA,NA,2015-2016
+2015-10-03,Cesena,Livorno,1,0,NA,NA,11750,Daniele Chiffi,https://fbref.com/en/matches/040cd7dc/Cesena-Livorno-October-3-2015-Serie-B,1,1,4,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-03,Virtus Lanciano,Spezia,0,0,NA,NA,2251,Leonardo Baracani,https://fbref.com/en/matches/5a9582b2/Virtus-Lanciano-Spezia-October-3-2015-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-03,Como,Ascoli,0,4,NA,NA,1544,Antonio Rapuano,https://fbref.com/en/matches/892149c5/Como-Ascoli-October-3-2015-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-03,Brescia,Modena,2,2,NA,NA,6530,Riccardo Ros,https://fbref.com/en/matches/e10c05d3/Brescia-Modena-October-3-2015-Serie-B,1,1,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-03,Avellino,Vicenza,1,4,NA,NA,7000,Francesco Paolo Saia,https://fbref.com/en/matches/526e7e54/Avellino-Vicenza-October-3-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,1,1,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-03,Ternana,Novara,2,0,NA,NA,4331,Luigi Nasca,https://fbref.com/en/matches/6a72dfb9/Ternana-Novara-October-3-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-05,Trapani,Perugia,0,0,NA,NA,5980,Davide Ghersini,https://fbref.com/en/matches/96cf5fb9/Trapani-Perugia-October-5-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,6,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-10,Vicenza,Crotone,0,0,NA,NA,8006,Aleandro Di Paolo,https://fbref.com/en/matches/fb0cb704/Vicenza-Crotone-October-10-2015-Serie-B,0,1,4,0,NA,NA,NA,NA,NA,0,0,5,1,NA,NA,NA,NA,NA,2015-2016
+2015-10-10,Pro Vercelli,Novara,0,1,NA,NA,5000,Rosario Abisso,https://fbref.com/en/matches/660b1c68/Pro-Vercelli-Novara-October-10-2015-Serie-B,0,0,6,0,NA,NA,NA,NA,NA,0,0,6,2,NA,NA,NA,NA,NA,2015-2016
+2015-10-11,Cagliari,Cesena,3,1,NA,NA,13000,Fabrizio Pasqua,https://fbref.com/en/matches/256231ac/Cagliari-Cesena-October-11-2015-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-11,Modena,Latina,0,2,NA,NA,4766,Daniele Martinelli,https://fbref.com/en/matches/523785eb/Modena-Latina-October-11-2015-Serie-B,0,0,5,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-11,Salernitana,Trapani,0,1,NA,NA,9587,Ivan Pezzuto,https://fbref.com/en/matches/27323965/Salernitana-Trapani-October-11-2015-Serie-B,0,1,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-11,Perugia,Virtus Entella,0,0,NA,NA,8642,Juan Sacchi,https://fbref.com/en/matches/fd075acd/Perugia-Virtus-Entella-October-11-2015-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-11,Spezia,Ternana,1,0,NA,NA,7413,Marco Serra,https://fbref.com/en/matches/7aed2890/Spezia-Ternana-October-11-2015-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-11,Como,Brescia,1,3,NA,NA,4079,Gianluca Aureliano,https://fbref.com/en/matches/b95caf54/Como-Brescia-October-11-2015-Serie-B,0,0,5,1,NA,NA,NA,NA,NA,1,1,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-11,Livorno,Avellino,1,1,NA,NA,6488,Daniele Minelli,https://fbref.com/en/matches/4586bc8f/Livorno-Avellino-October-11-2015-Serie-B,1,1,1,1,NA,NA,NA,NA,NA,0,0,6,1,NA,NA,NA,NA,NA,2015-2016
+2015-10-11,Bari,Virtus Lanciano,1,0,NA,NA,20263,Valerio Marini,https://fbref.com/en/matches/7b450194/Bari-Virtus-Lanciano-October-11-2015-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-11,Ascoli,Pescara,3,1,NA,NA,9216,Federico La Penna,https://fbref.com/en/matches/643bad83/Ascoli-Pescara-October-11-2015-Serie-B,1,1,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-16,Avellino,Brescia,3,3,NA,NA,7000,Eugenio Abbattista,https://fbref.com/en/matches/38423d8f/Avellino-Brescia-October-16-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-17,Virtus Lanciano,Como,1,0,NA,NA,2457,Lorenzo Illuzzi,https://fbref.com/en/matches/8aefaf8c/Virtus-Lanciano-Como-October-17-2015-Serie-B,1,1,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-17,Virtus Entella,Salernitana,1,0,NA,NA,1917,Leonardo Baracani,https://fbref.com/en/matches/36e97601/Virtus-Entella-Salernitana-October-17-2015-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,5,2,NA,NA,NA,NA,NA,2015-2016
+2015-10-17,Modena,Ascoli,2,1,NA,NA,4628,Renzo Candussio,https://fbref.com/en/matches/b9559ca1/Modena-Ascoli-October-17-2015-Serie-B,2,2,2,0,NA,NA,NA,NA,NA,0,0,7,1,NA,NA,NA,NA,NA,2015-2016
+2015-10-17,Crotone,Livorno,3,0,NA,NA,5455,Gianluca Manganiello,https://fbref.com/en/matches/6ae8903d/Crotone-Livorno-October-17-2015-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-17,Pro Vercelli,Vicenza,2,1,NA,NA,2873,Davide Ghersini,https://fbref.com/en/matches/ad7ebe66/Pro-Vercelli-Vicenza-October-17-2015-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-17,Novara,Cagliari,1,0,NA,NA,5922,Riccardo Pinzani,https://fbref.com/en/matches/8e4c4265/Novara-Cagliari-October-17-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-17,Trapani,Pescara,0,3,NA,NA,4704,Vincenzo Ripa,https://fbref.com/en/matches/82d22776/Trapani-Pescara-October-17-2015-Serie-B,0,0,6,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-17,Ternana,Bari,3,0,NA,NA,3872,Daniele Chiffi,https://fbref.com/en/matches/b2db2d26/Ternana-Bari-October-17-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-18,Latina,Perugia,2,1,NA,NA,3252,Luca Pairetto,https://fbref.com/en/matches/8f3d8448/Latina-Perugia-October-18-2015-Serie-B,0,0,6,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-19,Cesena,Spezia,5,1,NA,NA,12394,Luigi Nasca,https://fbref.com/en/matches/c1731415/Cesena-Spezia-October-19-2015-Serie-B,2,2,2,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
+2015-10-23,Pescara,Pro Vercelli,1,0,NA,NA,6488,Riccardo Ros,https://fbref.com/en/matches/dfad7f80/Pescara-Pro-Vercelli-October-23-2015-Serie-B,0,0,5,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-23,Vicenza,Novara,0,2,NA,NA,7822,Gianluca Aureliano,https://fbref.com/en/matches/3dc0a0a8/Vicenza-Novara-October-23-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-24,Livorno,Modena,2,0,NA,NA,5568,Federico La Penna,https://fbref.com/en/matches/f7b5301d/Livorno-Modena-October-24-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-24,Spezia,Avellino,1,1,NA,NA,7174,Ivan Pezzuto,https://fbref.com/en/matches/36b6a8ee/Spezia-Avellino-October-24-2015-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-24,Brescia,Virtus Lanciano,2,1,NA,NA,6131,Daniele Martinelli,https://fbref.com/en/matches/cc2249eb/Brescia-Virtus-Lanciano-October-24-2015-Serie-B,2,2,1,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
+2015-10-24,Ascoli,Crotone,0,1,NA,NA,6020,Rosario Abisso,https://fbref.com/en/matches/50441cac/Ascoli-Crotone-October-24-2015-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-24,Cagliari,Trapani,4,1,NA,NA,9800,Antonio Rapuano,https://fbref.com/en/matches/e67ff5b6/Cagliari-Trapani-October-24-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-24,Salernitana,Cesena,1,1,NA,NA,9520,Riccardo Pinzani,https://fbref.com/en/matches/b0536193/Salernitana-Cesena-October-24-2015-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-24,Bari,Virtus Entella,0,0,NA,NA,16704,Francesco Paolo Saia,https://fbref.com/en/matches/f8db5961/Bari-Virtus-Entella-October-24-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
+2015-10-24,Como,Latina,1,1,NA,NA,2535,Vincenzo Ripa,https://fbref.com/en/matches/070f071d/Como-Latina-October-24-2015-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-24,Ternana,Perugia,0,1,NA,NA,10453,Fabio Maresca,https://fbref.com/en/matches/5b770b1d/Ternana-Perugia-October-24-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,1,1,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-27,Virtus Lanciano,Salernitana,2,2,NA,NA,2588,Gianluca Manganiello,https://fbref.com/en/matches/15377a21/Virtus-Lanciano-Salernitana-October-27-2015-Serie-B,1,1,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-27,Modena,Spezia,1,1,NA,NA,4371,Juan Sacchi,https://fbref.com/en/matches/bc1d016a/Modena-Spezia-October-27-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,1,1,1,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-27,Cesena,Como,3,1,NA,NA,10895,Renzo Candussio,https://fbref.com/en/matches/3a712d00/Cesena-Como-October-27-2015-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-27,Avellino,Ascoli,3,0,NA,NA,7500,Valerio Marini,https://fbref.com/en/matches/7c4b741a/Avellino-Ascoli-October-27-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-27,Trapani,Vicenza,1,2,NA,NA,4629,Luca Pairetto,https://fbref.com/en/matches/2447126a/Trapani-Vicenza-October-27-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-27,Crotone,Brescia,1,1,NA,NA,6811,Marco Serra,https://fbref.com/en/matches/ac2906d8/Crotone-Brescia-October-27-2015-Serie-B,0,0,5,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-27,Perugia,Cagliari,0,0,NA,NA,10675,Davide Ghersini,https://fbref.com/en/matches/34fc793d/Perugia-Cagliari-October-27-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-27,Pro Vercelli,Bari,0,1,NA,NA,3064,Leonardo Baracani,https://fbref.com/en/matches/63293234/Pro-Vercelli-Bari-October-27-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-27,Virtus Entella,Livorno,0,0,NA,NA,1889,Luigi Nasca,https://fbref.com/en/matches/b029ef28/Virtus-Entella-Livorno-October-27-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-27,Latina,Ternana,1,2,NA,NA,2808,Lorenzo Illuzzi,https://fbref.com/en/matches/2671de00/Latina-Ternana-October-27-2015-Serie-B,0,0,5,1,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-31,Livorno,Trapani,2,0,NA,NA,5562,Riccardo Ros,https://fbref.com/en/matches/b9918a3e/Livorno-Trapani-October-31-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-31,Bari,Novara,1,1,NA,NA,16522,Vincenzo Ripa,https://fbref.com/en/matches/5bcfd05f/Bari-Novara-October-31-2015-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-31,Ternana,Avellino,0,3,NA,NA,4511,Aleandro Di Paolo,https://fbref.com/en/matches/b6ee0561/Ternana-Avellino-October-31-2015-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-31,Salernitana,Perugia,1,1,NA,NA,9234,Fabrizio Pasqua,https://fbref.com/en/matches/391438c1/Salernitana-Perugia-October-31-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-31,Brescia,Latina,1,0,NA,NA,7093,Daniele Minelli,https://fbref.com/en/matches/07f10f97/Brescia-Latina-October-31-2015-Serie-B,1,1,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-31,Pescara,Crotone,4,1,NA,NA,7399,Riccardo Pinzani,https://fbref.com/en/matches/f00e4dfb/Pescara-Crotone-October-31-2015-Serie-B,1,1,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-31,Como,Modena,1,1,NA,NA,3128,Ivan Pezzuto,https://fbref.com/en/matches/ae8fd8f6/Como-Modena-October-31-2015-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-31,Cesena,Virtus Lanciano,2,0,NA,NA,11357,Francesco Paolo Saia,https://fbref.com/en/matches/1258dfe1/Cesena-Virtus-Lanciano-October-31-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-31,Ascoli,Pro Vercelli,0,1,NA,NA,5082,Gianluca Aureliano,https://fbref.com/en/matches/07f8e717/Ascoli-Pro-Vercelli-October-31-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-01,Spezia,Virtus Entella,0,0,NA,NA,7354,Fabio Maresca,https://fbref.com/en/matches/ade6c582/Spezia-Virtus-Entella-November-1-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-02,Cagliari,Vicenza,2,0,NA,NA,13000,Luigi Nasca,https://fbref.com/en/matches/d0269413/Cagliari-Vicenza-November-2-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-03,Novara,Pescara,1,0,NA,NA,3851,Eugenio Abbattista,https://fbref.com/en/matches/76f93edb/Novara-Pescara-November-3-2015-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2015-2016
+2015-11-06,Bari,Salernitana,2,1,NA,NA,27278,Renzo Candussio,https://fbref.com/en/matches/997c3f75/Bari-Salernitana-November-6-2015-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-07,Cagliari,Modena,2,1,NA,NA,11010,Luca Pairetto,https://fbref.com/en/matches/aef8d5a1/Cagliari-Modena-November-7-2015-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
+2015-11-07,Trapani,Spezia,5,1,NA,NA,4335,Daniele Chiffi,https://fbref.com/en/matches/45aa7dc1/Trapani-Spezia-November-7-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-07,Pro Vercelli,Livorno,1,0,NA,NA,2880,Eugenio Abbattista,https://fbref.com/en/matches/795484ee/Pro-Vercelli-Livorno-November-7-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-07,Pescara,Ternana,1,2,NA,NA,6991,Valerio Marini,https://fbref.com/en/matches/7d95223f/Pescara-Ternana-November-7-2015-Serie-B,0,0,3,1,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
+2015-11-07,Virtus Entella,Como,2,2,NA,NA,1815,Gianluca Manganiello,https://fbref.com/en/matches/608d3579/Virtus-Entella-Como-November-7-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-07,Novara,Brescia,4,0,NA,NA,5000,Juan Sacchi,https://fbref.com/en/matches/8bf592c3/Novara-Brescia-November-7-2015-Serie-B,1,1,1,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2015-2016
+2015-11-07,Latina,Cesena,1,0,NA,NA,2873,Ivan Pezzuto,https://fbref.com/en/matches/6a54dbd0/Latina-Cesena-November-7-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-07,Vicenza,Ascoli,3,0,NA,NA,7276,Daniele Martinelli,https://fbref.com/en/matches/29ab4d88/Vicenza-Ascoli-November-7-2015-Serie-B,1,1,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-08,Perugia,Virtus Lanciano,2,0,NA,NA,9208,Antonio Rapuano,https://fbref.com/en/matches/34571281/Perugia-Virtus-Lanciano-November-8-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-09,Crotone,Avellino,3,1,NA,NA,6736,Luigi Nasca,https://fbref.com/en/matches/2d3f61d8/Crotone-Avellino-November-9-2015-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-14,Livorno,Vicenza,2,2,NA,NA,5760,Fabio Maresca,https://fbref.com/en/matches/c3779f3a/Livorno-Vicenza-November-14-2015-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2015-2016
+2015-11-14,Modena,Pro Vercelli,1,0,NA,NA,4089,Lorenzo Illuzzi,https://fbref.com/en/matches/6233873f/Modena-Pro-Vercelli-November-14-2015-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-15,Spezia,Cagliari,0,3,NA,NA,8198,Fabrizio Pasqua,https://fbref.com/en/matches/4753f65f/Spezia-Cagliari-November-15-2015-Serie-B,0,0,4,1,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-15,Ascoli,Perugia,1,0,NA,NA,7184,Leonardo Baracani,https://fbref.com/en/matches/75a6ef78/Ascoli-Perugia-November-15-2015-Serie-B,0,0,6,1,NA,NA,NA,NA,NA,0,0,5,1,NA,NA,NA,NA,NA,2015-2016
+2015-11-15,Salernitana,Novara,1,0,NA,NA,8382,Aleandro Di Paolo,https://fbref.com/en/matches/be8de011/Salernitana-Novara-November-15-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-15,Avellino,Latina,3,1,NA,NA,8000,Gianluca Aureliano,https://fbref.com/en/matches/ced6794c/Avellino-Latina-November-15-2015-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-15,Como,Pescara,0,2,NA,NA,3876,Francesco Paolo Saia,https://fbref.com/en/matches/0d461f95/Como-Pescara-November-15-2015-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-15,Ternana,Virtus Entella,1,2,NA,NA,3694,Marco Serra,https://fbref.com/en/matches/25d59018/Ternana-Virtus-Entella-November-15-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-15,Brescia,Trapani,3,0,NA,NA,8182,Gianluca Manganiello,https://fbref.com/en/matches/486cf69d/Brescia-Trapani-November-15-2015-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,2,NA,NA,NA,NA,NA,2015-2016
+2015-11-15,Virtus Lanciano,Crotone,1,1,NA,NA,2563,Federico La Penna,https://fbref.com/en/matches/35a57324/Virtus-Lanciano-Crotone-November-15-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-15,Cesena,Bari,0,2,NA,NA,14353,Davide Ghersini,https://fbref.com/en/matches/939d353f/Cesena-Bari-November-15-2015-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-20,Pescara,Avellino,3,2,NA,NA,7877,Riccardo Ros,https://fbref.com/en/matches/f056504b/Pescara-Avellino-November-20-2015-Serie-B,1,1,5,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-21,Latina,Salernitana,2,2,NA,NA,2786,Daniele Chiffi,https://fbref.com/en/matches/4b790797/Latina-Salernitana-November-21-2015-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-21,Pro Vercelli,Como,2,0,NA,NA,2965,Riccardo Pinzani,https://fbref.com/en/matches/73a91f9a/Pro-Vercelli-Como-November-21-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-21,Vicenza,Cesena,1,1,NA,NA,6000,Juan Sacchi,https://fbref.com/en/matches/11e868b2/Vicenza-Cesena-November-21-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-21,Crotone,Ternana,3,0,NA,NA,4984,Antonio Rapuano,https://fbref.com/en/matches/44d628f5/Crotone-Ternana-November-21-2015-Serie-B,0,1,1,0,NA,NA,NA,NA,NA,0,0,3,2,NA,NA,NA,NA,NA,2015-2016
+2015-11-21,Trapani,Modena,2,1,NA,NA,4193,Luigi Nasca,https://fbref.com/en/matches/455172ed/Trapani-Modena-November-21-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-21,Virtus Entella,Virtus Lanciano,1,1,NA,NA,1586,Eugenio Abbattista,https://fbref.com/en/matches/3e23d2e9/Virtus-Entella-Virtus-Lanciano-November-21-2015-Serie-B,1,1,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-21,Novara,Spezia,1,0,NA,NA,4153,Ivan Pezzuto,https://fbref.com/en/matches/d9b1f3d2/Novara-Spezia-November-21-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-21,Perugia,Brescia,4,0,NA,NA,7889,Vincenzo Ripa,https://fbref.com/en/matches/68f8f928/Perugia-Brescia-November-21-2015-Serie-B,1,1,2,0,NA,NA,NA,NA,NA,0,0,4,2,NA,NA,NA,NA,NA,2015-2016
+2015-11-22,Bari,Livorno,1,0,NA,NA,24289,Luca Pairetto,https://fbref.com/en/matches/f420cce6/Bari-Livorno-November-22-2015-Serie-B,0,0,3,1,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
+2015-11-23,Cagliari,Ascoli,3,0,NA,NA,12810,Daniele Minelli,https://fbref.com/en/matches/f604015d/Cagliari-Ascoli-November-23-2015-Serie-B,1,1,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-27,Spezia,Crotone,0,1,NA,NA,6841,Leonardo Baracani,https://fbref.com/en/matches/3373b95f/Spezia-Crotone-November-27-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,1,1,1,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-27,Salernitana,Pro Vercelli,1,2,NA,NA,9832,Daniele Martinelli,https://fbref.com/en/matches/db6d7e99/Salernitana-Pro-Vercelli-November-27-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-27,Cesena,Pescara,1,0,NA,NA,12623,Fabio Maresca,https://fbref.com/en/matches/868c3ce3/Cesena-Pescara-November-27-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,5,1,NA,NA,NA,NA,NA,2015-2016
+2015-11-28,Ternana,Vicenza,2,0,NA,NA,2843,Gianluca Aureliano,https://fbref.com/en/matches/8e6e5add/Ternana-Vicenza-November-28-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-28,Como,Bari,1,1,NA,NA,3214,Rosario Abisso,https://fbref.com/en/matches/13f59b3d/Como-Bari-November-28-2015-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-28,Livorno,Novara,0,1,NA,NA,5404,Riccardo Pinzani,https://fbref.com/en/matches/eb1e7e77/Livorno-Novara-November-28-2015-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-28,Avellino,Perugia,1,2,NA,NA,6500,Gianluca Manganiello,https://fbref.com/en/matches/3c92457c/Avellino-Perugia-November-28-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-28,Virtus Lanciano,Latina,2,1,NA,NA,2308,Aleandro Di Paolo,https://fbref.com/en/matches/4d212eb8/Virtus-Lanciano-Latina-November-28-2015-Serie-B,1,1,3,1,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
+2015-11-28,Modena,Virtus Entella,0,1,NA,NA,3832,Valerio Marini,https://fbref.com/en/matches/e1f40287/Modena-Virtus-Entella-November-28-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-28,Brescia,Cagliari,4,0,NA,NA,7991,Federico La Penna,https://fbref.com/en/matches/0afb627b/Brescia-Cagliari-November-28-2015-Serie-B,0,0,5,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-29,Ascoli,Trapani,0,0,NA,NA,5697,Fabrizio Pasqua,https://fbref.com/en/matches/fb79599a/Ascoli-Trapani-November-29-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-04,Virtus Entella,Brescia,0,0,NA,NA,1963,Gianluca Aureliano,https://fbref.com/en/matches/c3ba1aa2/Virtus-Entella-Brescia-December-4-2015-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-04,Perugia,Modena,1,0,NA,NA,8983,Daniele Minelli,https://fbref.com/en/matches/1693e971/Perugia-Modena-December-4-2015-Serie-B,0,0,3,1,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-05,Novara,Virtus Lanciano,4,1,NA,NA,4161,Lorenzo Illuzzi,https://fbref.com/en/matches/6d6a0ce0/Novara-Virtus-Lanciano-December-5-2015-Serie-B,0,0,2,1,NA,NA,NA,NA,NA,0,0,6,1,NA,NA,NA,NA,NA,2015-2016
+2015-12-05,Pro Vercelli,Ternana,1,2,NA,NA,2637,Renzo Candussio,https://fbref.com/en/matches/0e0dce46/Pro-Vercelli-Ternana-December-5-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-05,Crotone,Cesena,2,0,NA,NA,6512,Daniele Chiffi,https://fbref.com/en/matches/93348ab3/Crotone-Cesena-December-5-2015-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-05,Trapani,Avellino,2,1,NA,NA,4556,Riccardo Pinzani,https://fbref.com/en/matches/07b8891b/Trapani-Avellino-December-5-2015-Serie-B,0,1,1,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
+2015-12-05,Bari,Ascoli,3,0,NA,NA,17522,Marco Serra,https://fbref.com/en/matches/b5095d58/Bari-Ascoli-December-5-2015-Serie-B,1,1,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-05,Pescara,Spezia,2,2,NA,NA,6079,Luca Pairetto,https://fbref.com/en/matches/67699b42/Pescara-Spezia-December-5-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,1,1,1,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-05,Latina,Livorno,3,1,NA,NA,2838,Juan Sacchi,https://fbref.com/en/matches/bbba33a3/Latina-Livorno-December-5-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-06,Vicenza,Salernitana,0,0,NA,NA,7443,Francesco Paolo Saia,https://fbref.com/en/matches/62de8485/Vicenza-Salernitana-December-6-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-06,Cagliari,Como,1,1,NA,NA,13000,Riccardo Ros,https://fbref.com/en/matches/639c2fb2/Cagliari-Como-December-6-2015-Serie-B,0,0,5,1,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-08,Cesena,Trapani,0,0,NA,NA,11276,Valerio Marini,https://fbref.com/en/matches/61eafb6a/Cesena-Trapani-December-8-2015-Serie-B,0,0,3,1,NA,NA,NA,NA,NA,0,0,1,1,NA,NA,NA,NA,NA,2015-2016
+2015-12-08,Avellino,Pro Vercelli,1,0,NA,NA,6000,Antonio Rapuano,https://fbref.com/en/matches/9c92a509/Avellino-Pro-Vercelli-December-8-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-08,Perugia,Novara,1,4,NA,NA,9335,Fabrizio Pasqua,https://fbref.com/en/matches/469700ff/Perugia-Novara-December-8-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-08,Ascoli,Ternana,1,0,NA,NA,5960,Vincenzo Ripa,https://fbref.com/en/matches/37a8ffee/Ascoli-Ternana-December-8-2015-Serie-B,0,0,6,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-08,Virtus Entella,Latina,1,0,NA,NA,1747,Leonardo Baracani,https://fbref.com/en/matches/a7b01fd7/Virtus-Entella-Latina-December-8-2015-Serie-B,1,1,2,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-08,Modena,Bari,2,1,NA,NA,5416,Fabio Maresca,https://fbref.com/en/matches/2ed5324f/Modena-Bari-December-8-2015-Serie-B,0,0,6,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-08,Brescia,Pescara,2,0,NA,NA,7901,Aleandro Di Paolo,https://fbref.com/en/matches/91c90138/Brescia-Pescara-December-8-2015-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-09,Spezia,Vicenza,1,0,NA,NA,6487,Luigi Nasca,https://fbref.com/en/matches/39a39e3e/Spezia-Vicenza-December-9-2015-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-09,Virtus Lanciano,Cagliari,1,3,NA,NA,2592,Rosario Abisso,https://fbref.com/en/matches/b28fdad2/Virtus-Lanciano-Cagliari-December-9-2015-Serie-B,0,0,3,1,NA,NA,NA,NA,NA,0,0,6,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-09,Livorno,Salernitana,0,0,NA,NA,5207,Gianluca Aureliano,https://fbref.com/en/matches/a97486fd/Livorno-Salernitana-December-9-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-09,Como,Crotone,0,1,NA,NA,2633,Eugenio Abbattista,https://fbref.com/en/matches/dae178c6/Como-Crotone-December-9-2015-Serie-B,0,0,5,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-12,Pro Vercelli,Cesena,2,0,NA,NA,4275,Daniele Minelli,https://fbref.com/en/matches/c315c599/Pro-Vercelli-Cesena-December-12-2015-Serie-B,1,1,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-12,Pescara,Virtus Entella,2,0,NA,NA,5648,Daniele Martinelli,https://fbref.com/en/matches/689d5390/Pescara-Virtus-Entella-December-12-2015-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-12,Salernitana,Ascoli,2,0,NA,NA,9266,Luigi Nasca,https://fbref.com/en/matches/7c66028e/Salernitana-Ascoli-December-12-2015-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-12,Livorno,Cagliari,1,1,NA,NA,5805,Daniele Chiffi,https://fbref.com/en/matches/22856c41/Livorno-Cagliari-December-12-2015-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-12,Ternana,Como,4,0,NA,NA,2988,Luca Pairetto,https://fbref.com/en/matches/8c163bc5/Ternana-Como-December-12-2015-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-12,Avellino,Virtus Lanciano,3,2,NA,NA,7000,Ivan Pezzuto,https://fbref.com/en/matches/6f685338/Avellino-Virtus-Lanciano-December-12-2015-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,1,1,5,1,NA,NA,NA,NA,NA,2015-2016
+2015-12-12,Vicenza,Brescia,1,2,NA,NA,6740,Marco Serra,https://fbref.com/en/matches/0dddd4bc/Vicenza-Brescia-December-12-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-12,Spezia,Latina,2,1,NA,NA,6547,Riccardo Pinzani,https://fbref.com/en/matches/c92521bf/Spezia-Latina-December-12-2015-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-13,Bari,Perugia,1,0,NA,NA,18221,Davide Ghersini,https://fbref.com/en/matches/f1e9ee09/Bari-Perugia-December-13-2015-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-13,Crotone,Modena,1,0,NA,NA,672,Gianluca Manganiello,https://fbref.com/en/matches/037d981a/Crotone-Modena-December-13-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
+2015-12-14,Novara,Trapani,4,1,NA,NA,4632,Leonardo Baracani,https://fbref.com/en/matches/0acd8df5/Novara-Trapani-December-14-2015-Serie-B,1,1,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-18,Modena,Salernitana,2,0,NA,NA,4280,Lorenzo Illuzzi,https://fbref.com/en/matches/104990de/Modena-Salernitana-December-18-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-18,Perugia,Livorno,4,1,NA,NA,8418,Renzo Candussio,https://fbref.com/en/matches/81735a57/Perugia-Livorno-December-18-2015-Serie-B,0,0,7,1,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
+2015-12-19,Cesena,Ternana,4,0,NA,NA,11048,Francesco Paolo Saia,https://fbref.com/en/matches/3e6e1e5a/Cesena-Ternana-December-19-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-19,Latina,Crotone,2,2,NA,NA,2785,Rosario Abisso,https://fbref.com/en/matches/74bc563a/Latina-Crotone-December-19-2015-Serie-B,0,0,4,1,NA,NA,NA,NA,NA,1,1,6,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-19,Virtus Lanciano,Pescara,1,2,NA,NA,4181,Gianluca Aureliano,https://fbref.com/en/matches/2a4f1962/Virtus-Lanciano-Pescara-December-19-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,1,1,1,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-19,Trapani,Pro Vercelli,1,1,NA,NA,4275,Marco Serra,https://fbref.com/en/matches/bc3652ae/Trapani-Pro-Vercelli-December-19-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-19,Virtus Entella,Vicenza,4,1,NA,NA,1596,Aleandro Di Paolo,https://fbref.com/en/matches/99397d5c/Virtus-Entella-Vicenza-December-19-2015-Serie-B,1,1,1,0,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-19,Ascoli,Novara,1,3,NA,NA,5220,Fabio Maresca,https://fbref.com/en/matches/b2707c35/Ascoli-Novara-December-19-2015-Serie-B,1,1,7,1,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-19,Brescia,Spezia,1,1,NA,NA,7853,Eugenio Abbattista,https://fbref.com/en/matches/957d5581/Brescia-Spezia-December-19-2015-Serie-B,0,0,3,1,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-19,Como,Avellino,0,1,NA,NA,3263,Federico La Penna,https://fbref.com/en/matches/58a9527c/Como-Avellino-December-19-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-19,Cagliari,Bari,2,1,NA,NA,17600,Fabrizio Pasqua,https://fbref.com/en/matches/57376abb/Cagliari-Bari-December-19-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-22,Avellino,Virtus Entella,2,0,NA,NA,7000,Juan Sacchi,https://fbref.com/en/matches/e72392cb/Avellino-Virtus-Entella-December-22-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-23,Vicenza,Latina,1,1,NA,NA,6972,Ivan Pezzuto,https://fbref.com/en/matches/4de36a68/Vicenza-Latina-December-23-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-23,Bari,Brescia,1,2,NA,NA,32343,Gianluca Manganiello,https://fbref.com/en/matches/686cfe39/Bari-Brescia-December-23-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,1,1,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-23,Pescara,Modena,1,0,NA,NA,6802,Vincenzo Ripa,https://fbref.com/en/matches/c0559915/Pescara-Modena-December-23-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-23,Pro Vercelli,Perugia,0,1,NA,NA,2806,Aleandro Di Paolo,https://fbref.com/en/matches/42014ab7/Pro-Vercelli-Perugia-December-23-2015-Serie-B,0,0,2,1,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-23,Ternana,Virtus Lanciano,1,1,NA,NA,3008,Riccardo Ros,https://fbref.com/en/matches/3708a31a/Ternana-Virtus-Lanciano-December-23-2015-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-23,Spezia,Como,1,1,NA,NA,7077,Antonio Rapuano,https://fbref.com/en/matches/1df11c43/Spezia-Como-December-23-2015-Serie-B,1,1,2,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-23,Novara,Cesena,0,0,NA,NA,6135,Luigi Nasca,https://fbref.com/en/matches/4920f40d/Novara-Cesena-December-23-2015-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-23,Livorno,Ascoli,1,3,NA,NA,5281,Valerio Marini,https://fbref.com/en/matches/9b0e1ef6/Livorno-Ascoli-December-23-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-23,Crotone,Trapani,0,0,NA,NA,8551,Davide Ghersini,https://fbref.com/en/matches/20d001a8/Crotone-Trapani-December-23-2015-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-24,Salernitana,Cagliari,0,2,NA,NA,11855,Luca Pairetto,https://fbref.com/en/matches/113e608e/Salernitana-Cagliari-December-24-2015-Serie-B,0,0,7,2,NA,NA,NA,NA,NA,0,0,3,2,NA,NA,NA,NA,NA,2015-2016
+2015-12-27,Latina,Pescara,0,1,NA,NA,3124,Eugenio Abbattista,https://fbref.com/en/matches/3afb16b2/Latina-Pescara-December-27-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2015-2016
+2015-12-27,Virtus Lanciano,Livorno,2,1,NA,NA,2663,Leonardo Baracani,https://fbref.com/en/matches/abedfde1/Virtus-Lanciano-Livorno-December-27-2015-Serie-B,1,1,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-27,Trapani,Bari,1,0,NA,NA,5718,Federico La Penna,https://fbref.com/en/matches/b7975f73/Trapani-Bari-December-27-2015-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-27,Como,Salernitana,2,1,NA,NA,3891,Fabrizio Pasqua,https://fbref.com/en/matches/4f1727c7/Como-Salernitana-December-27-2015-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
+2015-12-27,Brescia,Ternana,0,0,NA,NA,10397,Fabio Maresca,https://fbref.com/en/matches/ad7677ef/Brescia-Ternana-December-27-2015-Serie-B,0,0,0,1,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-27,Ascoli,Spezia,3,0,NA,NA,6865,Francesco Paolo Saia,https://fbref.com/en/matches/e60dc0a5/Ascoli-Spezia-December-27-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-27,Virtus Entella,Crotone,1,2,NA,NA,3418,Gianluca Aureliano,https://fbref.com/en/matches/72be129a/Virtus-Entella-Crotone-December-27-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-27,Modena,Novara,3,0,NA,NA,4981,Riccardo Pinzani,https://fbref.com/en/matches/95608f9f/Modena-Novara-December-27-2015-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-27,Cesena,Avellino,1,2,NA,NA,13088,Rosario Abisso,https://fbref.com/en/matches/c79678b2/Cesena-Avellino-December-27-2015-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2015-2016
+2015-12-27,Cagliari,Pro Vercelli,3,0,NA,NA,15354,Renzo Candussio,https://fbref.com/en/matches/e3a49949/Cagliari-Pro-Vercelli-December-27-2015-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-01-15,Spezia,Bari,0,0,NA,NA,7258,Aleandro Di Paolo,https://fbref.com/en/matches/52239470/Spezia-Bari-January-15-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-01-16,Virtus Lanciano,Pro Vercelli,1,0,NA,NA,2147,Valerio Marini,https://fbref.com/en/matches/e120eda7/Virtus-Lanciano-Pro-Vercelli-January-16-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2015-2016
+2016-01-16,Avellino,Salernitana,1,0,NA,NA,10000,Luigi Nasca,https://fbref.com/en/matches/5c8201e9/Avellino-Salernitana-January-16-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-01-16,Pescara,Livorno,2,1,NA,NA,6068,Marco Serra,https://fbref.com/en/matches/720ea77a/Pescara-Livorno-January-16-2016-Serie-B,2,2,2,0,NA,NA,NA,NA,NA,0,0,2,2,NA,NA,NA,NA,NA,2015-2016
+2016-01-16,Como,Perugia,1,0,NA,NA,6035,Lorenzo Illuzzi,https://fbref.com/en/matches/b0d66b35/Como-Perugia-January-16-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2015-2016
+2016-01-16,Ternana,Trapani,1,0,NA,NA,2914,Gianluca Manganiello,https://fbref.com/en/matches/c9b47be2/Ternana-Trapani-January-16-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-01-16,Vicenza,Modena,2,1,NA,NA,7419,Leonardo Baracani,https://fbref.com/en/matches/81996feb/Vicenza-Modena-January-16-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,5,2,NA,NA,NA,NA,NA,2015-2016
+2016-01-16,Latina,Novara,1,0,NA,NA,2418,Davide Ghersini,https://fbref.com/en/matches/c3f7cb8f/Latina-Novara-January-16-2016-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-01-17,Brescia,Cesena,2,1,NA,NA,10000,Ivan Pezzuto,https://fbref.com/en/matches/997fee96/Brescia-Cesena-January-17-2016-Serie-B,1,1,2,0,NA,NA,NA,NA,NA,0,0,6,2,NA,NA,NA,NA,NA,2015-2016
+2016-01-18,Virtus Entella,Ascoli,4,0,NA,NA,1632,Daniele Chiffi,https://fbref.com/en/matches/948c5cad/Virtus-Entella-Ascoli-January-18-2016-Serie-B,1,1,1,0,NA,NA,NA,NA,NA,0,1,4,0,NA,NA,NA,NA,NA,2015-2016
+2016-01-18,Crotone,Cagliari,3,1,NA,NA,9244,Fabio Maresca,https://fbref.com/en/matches/248a1432/Crotone-Cagliari-January-18-2016-Serie-B,0,1,2,0,NA,NA,NA,NA,NA,0,0,6,2,NA,NA,NA,NA,NA,2015-2016
+2016-01-19,Perugia,Vicenza,0,1,NA,NA,9933,Daniele Martinelli,https://fbref.com/en/matches/836b246a/Perugia-Vicenza-January-19-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-01-22,Salernitana,Brescia,3,0,NA,NA,9715,Riccardo Pinzani,https://fbref.com/en/matches/b257ccc5/Salernitana-Brescia-January-22-2016-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-01-23,Pro Vercelli,Spezia,0,1,NA,NA,2316,Vincenzo Ripa,https://fbref.com/en/matches/0f0ca6ca/Pro-Vercelli-Spezia-January-23-2016-Serie-B,0,0,2,1,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2016-01-23,Cesena,Virtus Entella,2,0,NA,NA,10631,Federico La Penna,https://fbref.com/en/matches/49181b3b/Cesena-Virtus-Entella-January-23-2016-Serie-B,1,1,3,0,NA,NA,NA,NA,NA,0,1,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-01-23,Trapani,Latina,1,2,NA,NA,4196,Antonio Rapuano,https://fbref.com/en/matches/cbfc773b/Trapani-Latina-January-23-2016-Serie-B,1,1,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-01-23,Ascoli,Virtus Lanciano,1,0,NA,NA,9262,Fabrizio Pasqua,https://fbref.com/en/matches/9d3f5a2e/Ascoli-Virtus-Lanciano-January-23-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2016-01-23,Cagliari,Ternana,1,0,NA,NA,10245,Gianluca Aureliano,https://fbref.com/en/matches/120084ab/Cagliari-Ternana-January-23-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-01-23,Modena,Avellino,1,1,NA,NA,5509,Luca Pairetto,https://fbref.com/en/matches/b28febeb/Modena-Avellino-January-23-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-01-23,Bari,Vicenza,2,1,NA,NA,16496,Daniele Minelli,https://fbref.com/en/matches/193942a6/Bari-Vicenza-January-23-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,5,1,NA,NA,NA,NA,NA,2015-2016
+2016-01-23,Novara,Crotone,0,1,NA,NA,5510,Eugenio Abbattista,https://fbref.com/en/matches/b151df5e/Novara-Crotone-January-23-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2016-01-24,Perugia,Pescara,0,4,NA,NA,9373,Francesco Paolo Saia,https://fbref.com/en/matches/6b2d879b/Perugia-Pescara-January-24-2016-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-01-25,Livorno,Como,1,1,NA,NA,5544,Riccardo Ros,https://fbref.com/en/matches/8dc8f572/Livorno-Como-January-25-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
+2016-01-29,Avellino,Cagliari,1,2,NA,NA,9000,Riccardo Pinzani,https://fbref.com/en/matches/51e66d73/Avellino-Cagliari-January-29-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2016-01-30,Virtus Lanciano,Trapani,0,3,NA,NA,2295,Daniele Martinelli,https://fbref.com/en/matches/be3ba3a8/Virtus-Lanciano-Trapani-January-30-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-01-30,Ternana,Modena,2,1,NA,NA,3152,Juan Sacchi,https://fbref.com/en/matches/20f4b608/Ternana-Modena-January-30-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2015-2016
+2016-01-30,Crotone,Perugia,1,2,NA,NA,7371,Daniele Chiffi,https://fbref.com/en/matches/0ef0241f/Crotone-Perugia-January-30-2016-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2016-01-30,Latina,Pro Vercelli,1,0,NA,NA,3178,Ivan Pezzuto,https://fbref.com/en/matches/1a4b3744/Latina-Pro-Vercelli-January-30-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-01-30,Brescia,Livorno,1,3,NA,NA,7432,Fabio Maresca,https://fbref.com/en/matches/9ecf35ba/Brescia-Livorno-January-30-2016-Serie-B,0,0,4,2,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
+2016-01-30,Como,Vicenza,1,1,NA,NA,3573,Renzo Candussio,https://fbref.com/en/matches/b5e4d01e/Como-Vicenza-January-30-2016-Serie-B,0,0,3,1,NA,NA,NA,NA,NA,0,0,6,1,NA,NA,NA,NA,NA,2015-2016
+2016-01-30,Cesena,Ascoli,3,0,NA,NA,11931,Leonardo Baracani,https://fbref.com/en/matches/c3404797/Cesena-Ascoli-January-30-2016-Serie-B,0,1,1,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
+2016-01-30,Pescara,Bari,3,1,NA,NA,12942,Davide Ghersini,https://fbref.com/en/matches/74c87101/Pescara-Bari-January-30-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,6,0,NA,NA,NA,NA,NA,2015-2016
+2016-01-31,Virtus Entella,Novara,1,0,NA,NA,2011,Gianluca Manganiello,https://fbref.com/en/matches/b8327e50/Virtus-Entella-Novara-January-31-2016-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
+2016-02-01,Spezia,Salernitana,3,1,NA,NA,6829,Rosario Abisso,https://fbref.com/en/matches/2fa35668/Spezia-Salernitana-February-1-2016-Serie-B,1,1,3,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2015-2016
+2016-02-05,Bari,Crotone,2,3,NA,NA,22074,Fabrizio Pasqua,https://fbref.com/en/matches/0ef58f1e/Bari-Crotone-February-5-2016-Serie-B,1,1,1,1,NA,NA,NA,NA,NA,1,1,1,0,NA,NA,NA,NA,NA,2015-2016
+2016-02-06,Cagliari,Virtus Entella,1,0,NA,NA,16604,Aleandro Di Paolo,https://fbref.com/en/matches/6033ea18/Cagliari-Virtus-Entella-February-6-2016-Serie-B,1,1,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-02-06,Vicenza,Virtus Lanciano,0,2,NA,NA,7056,Antonio Rapuano,https://fbref.com/en/matches/f1079e01/Vicenza-Virtus-Lanciano-February-6-2016-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-02-06,Pro Vercelli,Brescia,2,1,NA,NA,2788,Daniele Minelli,https://fbref.com/en/matches/26789b6c/Pro-Vercelli-Brescia-February-6-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-02-06,Salernitana,Pescara,2,2,NA,NA,9761,Gianluca Aureliano,https://fbref.com/en/matches/0291d97a/Salernitana-Pescara-February-6-2016-Serie-B,1,2,0,2,NA,NA,NA,NA,NA,0,0,6,1,NA,NA,NA,NA,NA,2015-2016
+2016-02-06,Livorno,Ternana,1,0,NA,NA,2599,Lorenzo Illuzzi,https://fbref.com/en/matches/86710874/Livorno-Ternana-February-6-2016-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-02-06,Ascoli,Latina,0,0,NA,NA,9512,Luca Pairetto,https://fbref.com/en/matches/555e0f8d/Ascoli-Latina-February-6-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-02-06,Perugia,Spezia,0,0,NA,NA,15497,Luigi Nasca,https://fbref.com/en/matches/ab173008/Perugia-Spezia-February-6-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2015-2016
+2016-02-06,Novara,Avellino,4,1,NA,NA,4639,Federico La Penna,https://fbref.com/en/matches/a8dce7c1/Novara-Avellino-February-6-2016-Serie-B,1,2,2,0,NA,NA,NA,NA,NA,0,0,5,1,NA,NA,NA,NA,NA,2015-2016
+2016-02-07,Modena,Cesena,0,0,NA,NA,5772,Francesco Paolo Saia,https://fbref.com/en/matches/659067a0/Modena-Cesena-February-7-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2016-02-08,Trapani,Como,2,2,NA,NA,5037,Marco Serra,https://fbref.com/en/matches/62f318a2/Trapani-Como-February-8-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-02-12,Pescara,Vicenza,1,1,NA,NA,8942,Federico La Penna,https://fbref.com/en/matches/96360404/Pescara-Vicenza-February-12-2016-Serie-B,0,1,3,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2015-2016
+2016-02-13,Avellino,Bari,1,1,NA,NA,8000,Gianluca Manganiello,https://fbref.com/en/matches/6afc799f/Avellino-Bari-February-13-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,5,1,NA,NA,NA,NA,NA,2015-2016
+2016-02-13,Ternana,Salernitana,4,0,NA,NA,3456,Ivan Pezzuto,https://fbref.com/en/matches/c0450b8a/Ternana-Salernitana-February-13-2016-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2015-2016
+2016-02-13,Como,Novara,1,1,NA,NA,3563,Aleandro Di Paolo,https://fbref.com/en/matches/86d8f88f/Como-Novara-February-13-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-02-13,Virtus Lanciano,Modena,2,1,NA,NA,2381,Daniele Chiffi,https://fbref.com/en/matches/89f38c2c/Virtus-Lanciano-Modena-February-13-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-02-13,Cesena,Perugia,2,1,NA,NA,13006,Renzo Candussio,https://fbref.com/en/matches/82ce6184/Cesena-Perugia-February-13-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,5,1,NA,NA,NA,NA,NA,2015-2016
+2016-02-13,Virtus Entella,Trapani,4,0,NA,NA,1678,Juan Sacchi,https://fbref.com/en/matches/780a5d66/Virtus-Entella-Trapani-February-13-2016-Serie-B,2,2,3,0,NA,NA,NA,NA,NA,0,0,2,2,NA,NA,NA,NA,NA,2015-2016
+2016-02-13,Crotone,Pro Vercelli,1,1,NA,NA,6043,Riccardo Ros,https://fbref.com/en/matches/39bae5cc/Crotone-Pro-Vercelli-February-13-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2015-2016
+2016-02-13,Latina,Cagliari,1,3,NA,NA,3715,Luigi Nasca,https://fbref.com/en/matches/a5375149/Latina-Cagliari-February-13-2016-Serie-B,0,1,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-02-14,Spezia,Livorno,3,0,NA,NA,7378,Riccardo Pinzani,https://fbref.com/en/matches/f8ec8b65/Spezia-Livorno-February-14-2016-Serie-B,0,0,5,1,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-02-15,Brescia,Ascoli,2,2,NA,NA,7334,Valerio Marini,https://fbref.com/en/matches/95f7519a/Brescia-Ascoli-February-15-2016-Serie-B,1,1,2,0,NA,NA,NA,NA,NA,0,0,5,1,NA,NA,NA,NA,NA,2015-2016
+2016-02-19,Bari,Latina,0,0,NA,NA,23932,Marco Serra,https://fbref.com/en/matches/d3dd2a1d/Bari-Latina-February-19-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-02-20,Modena,Brescia,1,0,NA,NA,4608,Lorenzo Illuzzi,https://fbref.com/en/matches/97dde7e7/Modena-Brescia-February-20-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-02-20,Vicenza,Avellino,0,0,NA,NA,7493,Gianluca Aureliano,https://fbref.com/en/matches/851dde35/Vicenza-Avellino-February-20-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
+2016-02-20,Cagliari,Pescara,2,1,NA,NA,16000,Rosario Abisso,https://fbref.com/en/matches/a8f2c523/Cagliari-Pescara-February-20-2016-Serie-B,0,0,5,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2016-02-20,Spezia,Virtus Lanciano,2,0,NA,NA,6795,Luca Pairetto,https://fbref.com/en/matches/71acf844/Spezia-Virtus-Lanciano-February-20-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2016-02-20,Novara,Ternana,1,2,NA,NA,4215,Francesco Paolo Saia,https://fbref.com/en/matches/12a1590e/Novara-Ternana-February-20-2016-Serie-B,0,0,2,1,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2016-02-20,Pro Vercelli,Virtus Entella,2,3,NA,NA,2852,Daniele Martinelli,https://fbref.com/en/matches/54361bc4/Pro-Vercelli-Virtus-Entella-February-20-2016-Serie-B,0,0,2,2,NA,NA,NA,NA,NA,1,1,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-02-20,Livorno,Cesena,1,1,NA,NA,5569,Eugenio Abbattista,https://fbref.com/en/matches/48e6bc58/Livorno-Cesena-February-20-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2015-2016
+2016-02-20,Ascoli,Como,1,0,NA,NA,5616,Vincenzo Ripa,https://fbref.com/en/matches/dfaf49ab/Ascoli-Como-February-20-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-02-21,Salernitana,Crotone,1,1,NA,NA,10691,Davide Ghersini,https://fbref.com/en/matches/00211261/Salernitana-Crotone-February-21-2016-Serie-B,0,0,1,1,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2016-02-22,Perugia,Trapani,0,2,NA,NA,8810,Ivan Pezzuto,https://fbref.com/en/matches/c3eaed69/Perugia-Trapani-February-22-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-02-26,Novara,Pro Vercelli,1,1,NA,NA,5904,Fabrizio Pasqua,https://fbref.com/en/matches/6a14711c/Novara-Pro-Vercelli-February-26-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-02-26,Cesena,Cagliari,2,0,NA,NA,13079,Gianluca Manganiello,https://fbref.com/en/matches/34f07284/Cesena-Cagliari-February-26-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,7,1,NA,NA,NA,NA,NA,2015-2016
+2016-02-27,Pescara,Ascoli,2,2,NA,NA,8334,Riccardo Pinzani,https://fbref.com/en/matches/416bb0e9/Pescara-Ascoli-February-27-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,6,2,NA,NA,NA,NA,NA,2015-2016
+2016-02-27,Virtus Entella,Perugia,2,1,NA,NA,1621,Lorenzo Illuzzi,https://fbref.com/en/matches/ed818f9e/Virtus-Entella-Perugia-February-27-2016-Serie-B,1,1,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-02-27,Latina,Modena,0,1,NA,NA,2514,Fabio Maresca,https://fbref.com/en/matches/b32e6116/Latina-Modena-February-27-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
+2016-02-27,Crotone,Vicenza,2,0,NA,NA,6053,Juan Sacchi,https://fbref.com/en/matches/3edeff51/Crotone-Vicenza-February-27-2016-Serie-B,1,1,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-02-27,Virtus Lanciano,Bari,1,0,NA,NA,2473,Riccardo Ros,https://fbref.com/en/matches/8ea99a47/Virtus-Lanciano-Bari-February-27-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-02-27,Trapani,Salernitana,1,1,NA,NA,4329,Federico La Penna,https://fbref.com/en/matches/c69dcbb5/Trapani-Salernitana-February-27-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
+2016-02-27,Ternana,Spezia,1,2,NA,NA,3391,Daniele Minelli,https://fbref.com/en/matches/21006b0b/Ternana-Spezia-February-27-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-02-27,Brescia,Como,2,1,NA,NA,6884,Leonardo Baracani,https://fbref.com/en/matches/eef1df32/Brescia-Como-February-27-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,1,1,4,1,NA,NA,NA,NA,NA,2015-2016
+2016-02-27,Avellino,Livorno,2,1,NA,NA,7000,Antonio Rapuano,https://fbref.com/en/matches/c12f9058/Avellino-Livorno-February-27-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-02-29,Cagliari,Novara,0,1,NA,NA,9785,Davide Ghersini,https://fbref.com/en/matches/ce734ced/Cagliari-Novara-February-29-2016-Serie-B,0,0,3,1,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-01,Como,Virtus Lanciano,1,1,NA,NA,2968,Rosario Abisso,https://fbref.com/en/matches/7ea6206c/Como-Virtus-Lanciano-March-1-2016-Serie-B,1,1,3,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
+2016-03-01,Bari,Ternana,4,0,NA,NA,15487,Juan Sacchi,https://fbref.com/en/matches/9ce8282e/Bari-Ternana-March-1-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-01,Vicenza,Pro Vercelli,1,1,NA,NA,6861,Daniele Minelli,https://fbref.com/en/matches/061b347d/Vicenza-Pro-Vercelli-March-1-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-01,Brescia,Avellino,1,0,NA,NA,7219,Renzo Candussio,https://fbref.com/en/matches/56e057db/Brescia-Avellino-March-1-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-01,Spezia,Cesena,1,1,NA,NA,7093,Aleandro Di Paolo,https://fbref.com/en/matches/deecc6e8/Spezia-Cesena-March-1-2016-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-01,Livorno,Crotone,0,0,NA,NA,5577,Francesco Paolo Saia,https://fbref.com/en/matches/75aedbcc/Livorno-Crotone-March-1-2016-Serie-B,0,0,2,1,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-01,Perugia,Latina,2,0,NA,NA,8073,Vincenzo Ripa,https://fbref.com/en/matches/04f4a517/Perugia-Latina-March-1-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-01,Pescara,Trapani,1,2,NA,NA,6788,Daniele Martinelli,https://fbref.com/en/matches/ec3958c0/Pescara-Trapani-March-1-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-01,Salernitana,Virtus Entella,2,2,NA,NA,9156,Eugenio Abbattista,https://fbref.com/en/matches/a832ff76/Salernitana-Virtus-Entella-March-1-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2015-2016
+2016-03-01,Ascoli,Modena,2,1,NA,NA,5977,Marco Serra,https://fbref.com/en/matches/f0df9629/Ascoli-Modena-March-1-2016-Serie-B,1,1,3,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2015-2016
+2016-03-05,Trapani,Cagliari,2,2,NA,NA,5436,Fabrizio Pasqua,https://fbref.com/en/matches/36ac403e/Trapani-Cagliari-March-5-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-05,Virtus Lanciano,Brescia,1,0,NA,NA,3261,Gianluca Aureliano,https://fbref.com/en/matches/8248b155/Virtus-Lanciano-Brescia-March-5-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-05,Virtus Entella,Bari,2,0,NA,NA,1677,Fabio Maresca,https://fbref.com/en/matches/29c16e7d/Virtus-Entella-Bari-March-5-2016-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-05,Perugia,Ternana,1,0,NA,NA,12075,Luca Pairetto,https://fbref.com/en/matches/f8ce1210/Perugia-Ternana-March-5-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,6,1,NA,NA,NA,NA,NA,2015-2016
+2016-03-05,Latina,Como,1,1,NA,NA,2292,Riccardo Ros,https://fbref.com/en/matches/2c0fd411/Latina-Como-March-5-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-05,Avellino,Spezia,0,1,NA,NA,5500,Daniele Chiffi,https://fbref.com/en/matches/12e4aed8/Avellino-Spezia-March-5-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-05,Novara,Vicenza,4,0,NA,NA,4105,Antonio Rapuano,https://fbref.com/en/matches/c44ec915/Novara-Vicenza-March-5-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2015-2016
+2016-03-05,Crotone,Ascoli,2,0,NA,NA,6184,Federico La Penna,https://fbref.com/en/matches/caeea11d/Crotone-Ascoli-March-5-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-05,Pro Vercelli,Pescara,5,2,NA,NA,2300,Valerio Marini,https://fbref.com/en/matches/da3548e7/Pro-Vercelli-Pescara-March-5-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,0,1,NA,NA,NA,NA,NA,2015-2016
+2016-03-06,Modena,Livorno,1,0,NA,NA,4537,Luigi Nasca,https://fbref.com/en/matches/0f703df4/Modena-Livorno-March-6-2016-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-07,Cesena,Salernitana,1,2,NA,NA,12280,Leonardo Baracani,https://fbref.com/en/matches/deb873ae/Cesena-Salernitana-March-7-2016-Serie-B,1,1,5,1,NA,NA,NA,NA,NA,1,1,5,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-11,Brescia,Crotone,3,0,NA,NA,8532,Rosario Abisso,https://fbref.com/en/matches/92bcdedc/Brescia-Crotone-March-11-2016-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,6,1,NA,NA,NA,NA,NA,2015-2016
+2016-03-12,Como,Cesena,1,3,NA,NA,3198,Fabio Maresca,https://fbref.com/en/matches/ad313002/Como-Cesena-March-12-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-12,Livorno,Virtus Entella,0,0,NA,NA,5652,Gianluca Manganiello,https://fbref.com/en/matches/1de7d9df/Livorno-Virtus-Entella-March-12-2016-Serie-B,0,0,5,1,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
+2016-03-12,Bari,Pro Vercelli,6,2,NA,NA,15056,Daniele Martinelli,https://fbref.com/en/matches/125ef2c8/Bari-Pro-Vercelli-March-12-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,1,1,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-12,Ascoli,Avellino,3,4,NA,NA,6104,Francesco Paolo Saia,https://fbref.com/en/matches/3b9eb3a2/Ascoli-Avellino-March-12-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,1,1,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-12,Ternana,Latina,0,0,NA,NA,3034,Aleandro Di Paolo,https://fbref.com/en/matches/97363dad/Ternana-Latina-March-12-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-12,Salernitana,Virtus Lanciano,1,3,NA,NA,11239,Marco Serra,https://fbref.com/en/matches/f1cd0ce3/Salernitana-Virtus-Lanciano-March-12-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,1,1,4,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-12,Pescara,Novara,1,2,NA,NA,6924,Ivan Pezzuto,https://fbref.com/en/matches/43cb2b01/Pescara-Novara-March-12-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-12,Spezia,Modena,2,0,NA,NA,7145,Renzo Candussio,https://fbref.com/en/matches/12b91d86/Spezia-Modena-March-12-2016-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-13,Vicenza,Trapani,1,2,NA,NA,7437,Davide Ghersini,https://fbref.com/en/matches/b8d5ef2b/Vicenza-Trapani-March-13-2016-Serie-B,0,0,6,1,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-14,Cagliari,Perugia,0,2,NA,NA,12120,Juan Sacchi,https://fbref.com/en/matches/6832bb7d/Cagliari-Perugia-March-14-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-18,Virtus Entella,Spezia,2,2,NA,NA,4971,Federico La Penna,https://fbref.com/en/matches/c74ea5ad/Virtus-Entella-Spezia-March-18-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-19,Novara,Bari,1,2,NA,NA,5317,Vincenzo Ripa,https://fbref.com/en/matches/23013671/Novara-Bari-March-19-2016-Serie-B,0,0,4,1,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
+2016-03-19,Latina,Brescia,2,2,NA,NA,3088,Daniele Chiffi,https://fbref.com/en/matches/9e999cf3/Latina-Brescia-March-19-2016-Serie-B,1,1,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-19,Trapani,Livorno,1,0,NA,NA,4918,Lorenzo Illuzzi,https://fbref.com/en/matches/d7d37f36/Trapani-Livorno-March-19-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,6,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-19,Pro Vercelli,Ascoli,1,1,NA,NA,2693,Ivan Pezzuto,https://fbref.com/en/matches/5a0f3bf8/Pro-Vercelli-Ascoli-March-19-2016-Serie-B,1,1,4,0,NA,NA,NA,NA,NA,1,1,6,1,NA,NA,NA,NA,NA,2015-2016
+2016-03-19,Modena,Como,1,2,NA,NA,4389,Daniele Minelli,https://fbref.com/en/matches/31436f6f/Modena-Como-March-19-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-19,Virtus Lanciano,Cesena,2,0,NA,NA,2498,Luigi Nasca,https://fbref.com/en/matches/16a0565d/Virtus-Lanciano-Cesena-March-19-2016-Serie-B,1,1,3,1,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2015-2016
+2016-03-19,Perugia,Salernitana,1,1,NA,NA,16023,Gianluca Aureliano,https://fbref.com/en/matches/05b02191/Perugia-Salernitana-March-19-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-19,Vicenza,Cagliari,0,2,NA,NA,7974,Riccardo Pinzani,https://fbref.com/en/matches/1f6957fd/Vicenza-Cagliari-March-19-2016-Serie-B,0,0,3,1,NA,NA,NA,NA,NA,0,0,6,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-20,Crotone,Pescara,4,2,NA,NA,8736,Fabio Maresca,https://fbref.com/en/matches/6ae0b511/Crotone-Pescara-March-20-2016-Serie-B,0,0,7,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-21,Avellino,Ternana,0,2,NA,NA,5000,Riccardo Ros,https://fbref.com/en/matches/d740b9d2/Avellino-Ternana-March-21-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-26,Livorno,Pro Vercelli,0,1,NA,NA,6891,Davide Ghersini,https://fbref.com/en/matches/ef2f2b2b/Livorno-Pro-Vercelli-March-26-2016-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,1,1,0,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-26,Como,Virtus Entella,1,1,NA,NA,4149,Marco Serra,https://fbref.com/en/matches/ae23f8d9/Como-Virtus-Entella-March-26-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2015-2016
+2016-03-26,Avellino,Crotone,0,0,NA,NA,7000,Gianluca Manganiello,https://fbref.com/en/matches/5c50375d/Avellino-Crotone-March-26-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-26,Ascoli,Vicenza,1,2,NA,NA,7219,Luigi Nasca,https://fbref.com/en/matches/3f1e99b5/Ascoli-Vicenza-March-26-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
+2016-03-26,Spezia,Trapani,1,2,NA,NA,7434,Valerio Marini,https://fbref.com/en/matches/a02f72cb/Spezia-Trapani-March-26-2016-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-26,Modena,Cagliari,1,2,NA,NA,5260,Rosario Abisso,https://fbref.com/en/matches/93e51efe/Modena-Cagliari-March-26-2016-Serie-B,0,0,3,1,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-26,Ternana,Pescara,1,0,NA,NA,3887,Eugenio Abbattista,https://fbref.com/en/matches/46a722a6/Ternana-Pescara-March-26-2016-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-26,Virtus Lanciano,Perugia,0,1,NA,NA,2885,Renzo Candussio,https://fbref.com/en/matches/3b39ed9e/Virtus-Lanciano-Perugia-March-26-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-26,Cesena,Latina,3,0,NA,NA,11696,Daniele Martinelli,https://fbref.com/en/matches/edb78ffb/Cesena-Latina-March-26-2016-Serie-B,1,1,6,1,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-26,Brescia,Novara,0,0,NA,NA,9647,Juan Sacchi,https://fbref.com/en/matches/811140bc/Brescia-Novara-March-26-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-26,Salernitana,Bari,3,4,NA,NA,17651,Francesco Paolo Saia,https://fbref.com/en/matches/a5aa573d/Salernitana-Bari-March-26-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-01,Crotone,Virtus Lanciano,1,0,NA,NA,8488,Ivan Pezzuto,https://fbref.com/en/matches/8977ec10/Crotone-Virtus-Lanciano-April-1-2016-Serie-B,1,1,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-02,Cagliari,Spezia,1,2,NA,NA,11095,Luca Pairetto,https://fbref.com/en/matches/808d3019/Cagliari-Spezia-April-2-2016-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-02,Trapani,Brescia,3,0,NA,NA,6170,Luigi Nasca,https://fbref.com/en/matches/52877cbb/Trapani-Brescia-April-2-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-02,Perugia,Ascoli,0,2,NA,NA,9524,Riccardo Ros,https://fbref.com/en/matches/04a648e4/Perugia-Ascoli-April-2-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-02,Pescara,Como,2,1,NA,NA,6184,Antonio Rapuano,https://fbref.com/en/matches/54676b2f/Pescara-Como-April-2-2016-Serie-B,0,0,5,1,NA,NA,NA,NA,NA,0,0,1,1,NA,NA,NA,NA,NA,2015-2016
+2016-04-02,Virtus Entella,Ternana,2,2,NA,NA,1825,Daniele Chiffi,https://fbref.com/en/matches/dfb7722b/Virtus-Entella-Ternana-April-2-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-02,Latina,Avellino,3,0,NA,NA,3938,Juan Sacchi,https://fbref.com/en/matches/02923159/Latina-Avellino-April-2-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-02,Vicenza,Livorno,2,0,NA,NA,8141,Federico La Penna,https://fbref.com/en/matches/277c0114/Vicenza-Livorno-April-2-2016-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,5,1,NA,NA,NA,NA,NA,2015-2016
+2016-04-02,Pro Vercelli,Modena,1,1,NA,NA,2862,Fabrizio Pasqua,https://fbref.com/en/matches/0f25f12d/Pro-Vercelli-Modena-April-2-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-03,Novara,Salernitana,1,1,NA,NA,5321,Daniele Minelli,https://fbref.com/en/matches/ec2b5496/Novara-Salernitana-April-3-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,5,1,NA,NA,NA,NA,NA,2015-2016
+2016-04-04,Bari,Cesena,0,0,NA,NA,29514,Gianluca Aureliano,https://fbref.com/en/matches/aa0d5c72/Bari-Cesena-April-4-2016-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-08,Avellino,Pescara,1,3,NA,NA,5000,Davide Ghersini,https://fbref.com/en/matches/36e7a8d6/Avellino-Pescara-April-8-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-09,Virtus Lanciano,Virtus Entella,1,2,NA,NA,2445,Riccardo Pinzani,https://fbref.com/en/matches/0b38fc0b/Virtus-Lanciano-Virtus-Entella-April-9-2016-Serie-B,0,0,3,1,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-09,Ascoli,Cagliari,2,1,NA,NA,6186,Gianluca Manganiello,https://fbref.com/en/matches/4c2eac56/Ascoli-Cagliari-April-9-2016-Serie-B,0,0,5,1,NA,NA,NA,NA,NA,1,1,1,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-09,Modena,Trapani,1,4,NA,NA,4599,Fabio Maresca,https://fbref.com/en/matches/f2a42453/Modena-Trapani-April-9-2016-Serie-B,0,0,5,2,NA,NA,NA,NA,NA,2,2,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-09,Ternana,Crotone,1,2,NA,NA,3398,Francesco Paolo Saia,https://fbref.com/en/matches/302f8583/Ternana-Crotone-April-9-2016-Serie-B,0,0,5,1,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-09,Spezia,Novara,1,0,NA,NA,7440,Marco Serra,https://fbref.com/en/matches/ac459e1b/Spezia-Novara-April-9-2016-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-09,Cesena,Vicenza,1,1,NA,NA,12142,Aleandro Di Paolo,https://fbref.com/en/matches/9e23f199/Cesena-Vicenza-April-9-2016-Serie-B,0,0,5,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-09,Livorno,Bari,1,2,NA,NA,6335,Leonardo Baracani,https://fbref.com/en/matches/44ef4328/Livorno-Bari-April-9-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-09,Salernitana,Latina,3,2,NA,NA,10182,Rosario Abisso,https://fbref.com/en/matches/8639bbb4/Salernitana-Latina-April-9-2016-Serie-B,1,1,5,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
+2016-04-10,Como,Pro Vercelli,1,1,NA,NA,3703,Daniele Martinelli,https://fbref.com/en/matches/2a8aad3d/Como-Pro-Vercelli-April-10-2016-Serie-B,0,0,5,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-11,Brescia,Perugia,2,2,NA,NA,8092,Eugenio Abbattista,https://fbref.com/en/matches/861d9faf/Brescia-Perugia-April-11-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-15,Crotone,Spezia,0,0,NA,NA,9229,Juan Sacchi,https://fbref.com/en/matches/1687bff1/Crotone-Spezia-April-15-2016-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-15,Pescara,Cesena,1,0,NA,NA,9519,Fabrizio Pasqua,https://fbref.com/en/matches/1cddfff3/Pescara-Cesena-April-15-2016-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-16,Latina,Virtus Lanciano,2,2,NA,NA,3702,Daniele Chiffi,https://fbref.com/en/matches/4396ea2b/Latina-Virtus-Lanciano-April-16-2016-Serie-B,0,0,6,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-16,Virtus Entella,Modena,1,0,NA,NA,2254,Daniele Martinelli,https://fbref.com/en/matches/ebe4e9e7/Virtus-Entella-Modena-April-16-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-16,Pro Vercelli,Salernitana,1,1,NA,NA,3251,Federico La Penna,https://fbref.com/en/matches/bda9b7da/Pro-Vercelli-Salernitana-April-16-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-16,Trapani,Ascoli,4,3,NA,NA,5799,Luca Pairetto,https://fbref.com/en/matches/21d48078/Trapani-Ascoli-April-16-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,2,2,5,1,NA,NA,NA,NA,NA,2015-2016
+2016-04-16,Cagliari,Brescia,6,0,NA,NA,11035,Gianluca Aureliano,https://fbref.com/en/matches/15701870/Cagliari-Brescia-April-16-2016-Serie-B,1,1,2,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
+2016-04-16,Perugia,Avellino,2,0,NA,NA,8898,Vincenzo Ripa,https://fbref.com/en/matches/bcfd918a/Perugia-Avellino-April-16-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-16,Novara,Livorno,2,1,NA,NA,4282,Luigi Nasca,https://fbref.com/en/matches/97630e69/Novara-Livorno-April-16-2016-Serie-B,0,0,5,0,NA,NA,NA,NA,NA,0,0,6,1,NA,NA,NA,NA,NA,2015-2016
+2016-04-16,Bari,Como,3,0,NA,NA,22592,Valerio Marini,https://fbref.com/en/matches/7e58579e/Bari-Como-April-16-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-16,Vicenza,Ternana,2,1,NA,NA,7760,Daniele Minelli,https://fbref.com/en/matches/396b7d5a/Vicenza-Ternana-April-16-2016-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-18,Cesena,Crotone,2,1,NA,NA,13156,Eugenio Abbattista,https://fbref.com/en/matches/7fd8d64a/Cesena-Crotone-April-18-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-19,Salernitana,Vicenza,0,0,NA,NA,13451,Gianluca Manganiello,https://fbref.com/en/matches/7d94ac12/Salernitana-Vicenza-April-19-2016-Serie-B,0,0,5,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-19,Ternana,Pro Vercelli,2,2,NA,NA,3146,Riccardo Pinzani,https://fbref.com/en/matches/8c856dbf/Ternana-Pro-Vercelli-April-19-2016-Serie-B,1,1,2,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-19,Livorno,Latina,1,0,NA,NA,5880,Luca Pairetto,https://fbref.com/en/matches/0cc4eb69/Livorno-Latina-April-19-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,6,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-19,Virtus Lanciano,Novara,2,1,NA,NA,2548,Fabio Maresca,https://fbref.com/en/matches/12c91553/Virtus-Lanciano-Novara-April-19-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-19,Modena,Perugia,3,0,NA,NA,4521,Luigi Nasca,https://fbref.com/en/matches/0f118d1e/Modena-Perugia-April-19-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-19,Ascoli,Bari,0,1,NA,NA,7896,Davide Ghersini,https://fbref.com/en/matches/ebf29b61/Ascoli-Bari-April-19-2016-Serie-B,0,0,3,1,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-19,Spezia,Pescara,0,1,NA,NA,8174,Aleandro Di Paolo,https://fbref.com/en/matches/2db4d25d/Spezia-Pescara-April-19-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-19,Brescia,Virtus Entella,2,0,NA,NA,7491,Rosario Abisso,https://fbref.com/en/matches/b35788c8/Brescia-Virtus-Entella-April-19-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-19,Como,Cagliari,1,1,NA,NA,3979,Francesco Paolo Saia,https://fbref.com/en/matches/15374f80/Como-Cagliari-April-19-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-19,Avellino,Trapani,1,3,NA,NA,5000,Renzo Candussio,https://fbref.com/en/matches/730a27d6/Avellino-Trapani-April-19-2016-Serie-B,0,0,4,1,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-23,Crotone,Como,2,0,NA,NA,9263,Leonardo Baracani,https://fbref.com/en/matches/198822c4/Crotone-Como-April-23-2016-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,1,NA,NA,NA,NA,NA,2015-2016
+2016-04-23,Ternana,Ascoli,1,3,NA,NA,3879,Federico La Penna,https://fbref.com/en/matches/448bfef4/Ternana-Ascoli-April-23-2016-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-23,Pro Vercelli,Avellino,1,1,NA,NA,2899,Antonio Rapuano,https://fbref.com/en/matches/e1b776a3/Pro-Vercelli-Avellino-April-23-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-23,Bari,Modena,1,1,NA,NA,20294,Riccardo Ros,https://fbref.com/en/matches/b7ae135b/Bari-Modena-April-23-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-23,Cagliari,Virtus Lanciano,1,1,NA,NA,13239,Daniele Minelli,https://fbref.com/en/matches/be338b59/Cagliari-Virtus-Lanciano-April-23-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-23,Trapani,Cesena,2,1,NA,NA,6315,Daniele Chiffi,https://fbref.com/en/matches/609f168c/Trapani-Cesena-April-23-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-23,Pescara,Brescia,2,1,NA,NA,8124,Juan Sacchi,https://fbref.com/en/matches/84f31d3f/Pescara-Brescia-April-23-2016-Serie-B,0,0,2,1,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
+2016-04-23,Vicenza,Spezia,0,3,NA,NA,7733,Luigi Nasca,https://fbref.com/en/matches/1be3043a/Vicenza-Spezia-April-23-2016-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-24,Salernitana,Livorno,3,1,NA,NA,11372,Gianluca Aureliano,https://fbref.com/en/matches/70b0ab15/Salernitana-Livorno-April-24-2016-Serie-B,0,0,1,1,NA,NA,NA,NA,NA,1,1,1,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-24,Latina,Virtus Entella,0,1,NA,NA,3488,Ivan Pezzuto,https://fbref.com/en/matches/e481ad3e/Latina-Virtus-Entella-April-24-2016-Serie-B,0,0,6,2,NA,NA,NA,NA,NA,0,0,5,1,NA,NA,NA,NA,NA,2015-2016
+2016-04-25,Novara,Perugia,2,2,NA,NA,5210,Luca Pairetto,https://fbref.com/en/matches/2c02a9e9/Novara-Perugia-April-25-2016-Serie-B,0,0,1,1,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-29,Modena,Crotone,1,1,NA,NA,7869,Riccardo Pinzani,https://fbref.com/en/matches/2827f580/Modena-Crotone-April-29-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-30,Latina,Spezia,0,0,NA,NA,3062,Fabrizio Pasqua,https://fbref.com/en/matches/ceb3720b/Latina-Spezia-April-30-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-30,Ascoli,Salernitana,2,2,NA,NA,8835,Eugenio Abbattista,https://fbref.com/en/matches/512785ae/Ascoli-Salernitana-April-30-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-30,Trapani,Novara,0,0,NA,NA,6959,Gianluca Aureliano,https://fbref.com/en/matches/b84b3254/Trapani-Novara-April-30-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-30,Perugia,Bari,0,0,NA,NA,9422,Francesco Paolo Saia,https://fbref.com/en/matches/f5966d48/Perugia-Bari-April-30-2016-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-30,Cagliari,Livorno,2,2,NA,NA,15415,Rosario Abisso,https://fbref.com/en/matches/bcdfba59/Cagliari-Livorno-April-30-2016-Serie-B,1,1,4,1,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-30,Virtus Lanciano,Avellino,1,2,NA,NA,3282,Daniele Martinelli,https://fbref.com/en/matches/b8be05e0/Virtus-Lanciano-Avellino-April-30-2016-Serie-B,0,0,3,1,NA,NA,NA,NA,NA,0,0,6,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-30,Virtus Entella,Pescara,0,0,NA,NA,2911,Fabio Maresca,https://fbref.com/en/matches/0cc0943e/Virtus-Entella-Pescara-April-30-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-30,Brescia,Vicenza,0,1,NA,NA,7557,Luca Pairetto,https://fbref.com/en/matches/fe425f6b/Brescia-Vicenza-April-30-2016-Serie-B,0,0,2,1,NA,NA,NA,NA,NA,1,1,1,0,NA,NA,NA,NA,NA,2015-2016
+2016-05-01,Como,Ternana,1,2,NA,NA,2219,Vincenzo Ripa,https://fbref.com/en/matches/f04b34c8/Como-Ternana-May-1-2016-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-05-02,Cesena,Pro Vercelli,2,1,NA,NA,11820,Gianluca Manganiello,https://fbref.com/en/matches/b1e024b5/Cesena-Pro-Vercelli-May-2-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2015-2016
+2016-05-06,Bari,Cagliari,0,3,NA,NA,31107,Daniele Chiffi,https://fbref.com/en/matches/c5e13168/Bari-Cagliari-May-6-2016-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-05-07,Novara,Ascoli,2,0,NA,NA,4609,Antonio Rapuano,https://fbref.com/en/matches/1a79899d/Novara-Ascoli-May-7-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
+2016-05-07,Pro Vercelli,Trapani,1,1,NA,NA,3454,Luigi Nasca,https://fbref.com/en/matches/7723726a/Pro-Vercelli-Trapani-May-7-2016-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
+2016-05-07,Livorno,Perugia,1,1,NA,NA,6709,Aleandro Di Paolo,https://fbref.com/en/matches/085e31ec/Livorno-Perugia-May-7-2016-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-05-07,Crotone,Latina,1,1,NA,NA,5362,Renzo Candussio,https://fbref.com/en/matches/5d357a4a/Crotone-Latina-May-7-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-05-07,Salernitana,Modena,0,0,NA,NA,21890,Leonardo Baracani,https://fbref.com/en/matches/53445d71/Salernitana-Modena-May-7-2016-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2015-2016
+2016-05-07,Ternana,Cesena,1,1,NA,NA,3195,Marco Serra,https://fbref.com/en/matches/2930bda2/Ternana-Cesena-May-7-2016-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2015-2016
+2016-05-07,Avellino,Como,1,1,NA,NA,6000,Valerio Marini,https://fbref.com/en/matches/ed8cea0e/Avellino-Como-May-7-2016-Serie-B,0,0,3,1,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2016-05-07,Vicenza,Virtus Entella,2,1,NA,NA,8433,Federico La Penna,https://fbref.com/en/matches/6cb982d3/Vicenza-Virtus-Entella-May-7-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2015-2016
+2016-05-08,Pescara,Virtus Lanciano,4,0,NA,NA,13970,Rosario Abisso,https://fbref.com/en/matches/fb760c9d/Pescara-Virtus-Lanciano-May-8-2016-Serie-B,1,1,1,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
+2016-05-09,Spezia,Brescia,2,1,NA,NA,7693,Daniele Minelli,https://fbref.com/en/matches/ec0f79c4/Spezia-Brescia-May-9-2016-Serie-B,0,1,2,1,NA,NA,NA,NA,NA,1,1,4,1,NA,NA,NA,NA,NA,2015-2016
+2016-05-13,Perugia,Pro Vercelli,1,2,NA,NA,8465,Fabio Maresca,https://fbref.com/en/matches/81f33422/Perugia-Pro-Vercelli-May-13-2016-Serie-B,0,0,0,1,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2016-05-14,Virtus Lanciano,Ternana,1,1,NA,NA,3284,Renzo Candussio,https://fbref.com/en/matches/3d5f4c23/Virtus-Lanciano-Ternana-May-14-2016-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,1,NA,NA,NA,NA,NA,2015-2016
+2016-05-14,Trapani,Crotone,3,0,NA,NA,6595,Daniele Martinelli,https://fbref.com/en/matches/b90a20f6/Trapani-Crotone-May-14-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-05-14,Modena,Pescara,2,5,NA,NA,8355,Fabrizio Pasqua,https://fbref.com/en/matches/1fa68d35/Modena-Pescara-May-14-2016-Serie-B,0,0,6,1,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2016-05-14,Ascoli,Livorno,1,3,NA,NA,8922,Luca Pairetto,https://fbref.com/en/matches/a7f84951/Ascoli-Livorno-May-14-2016-Serie-B,0,0,4,2,NA,NA,NA,NA,NA,1,1,5,0,NA,NA,NA,NA,NA,2015-2016
+2016-05-14,Brescia,Bari,2,3,NA,NA,8176,Aleandro Di Paolo,https://fbref.com/en/matches/8470cf2d/Brescia-Bari-May-14-2016-Serie-B,0,0,4,1,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-05-14,Cesena,Novara,1,0,NA,NA,12836,Riccardo Pinzani,https://fbref.com/en/matches/bea86d33/Cesena-Novara-May-14-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2015-2016
+2016-05-14,Virtus Entella,Avellino,4,0,NA,NA,3284,Luigi Nasca,https://fbref.com/en/matches/4204026e/Virtus-Entella-Avellino-May-14-2016-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2015-2016
+2016-05-14,Cagliari,Salernitana,3,0,NA,NA,15551,Juan Sacchi,https://fbref.com/en/matches/1c7e38ce/Cagliari-Salernitana-May-14-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,6,1,NA,NA,NA,NA,NA,2015-2016
+2016-05-14,Latina,Vicenza,2,1,NA,NA,3485,Eugenio Abbattista,https://fbref.com/en/matches/7888e43c/Latina-Vicenza-May-14-2016-Serie-B,1,1,4,0,NA,NA,NA,NA,NA,0,0,5,1,NA,NA,NA,NA,NA,2015-2016
+2016-05-15,Como,Spezia,4,0,NA,NA,3147,Davide Ghersini,https://fbref.com/en/matches/13c9144a/Como-Spezia-May-15-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-05-20,Spezia,Ascoli,0,0,NA,NA,7818,Daniele Chiffi,https://fbref.com/en/matches/b4f2f0db/Spezia-Ascoli-May-20-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-05-20,Bari,Trapani,1,2,NA,NA,26021,Davide Ghersini,https://fbref.com/en/matches/453ab193/Bari-Trapani-May-20-2016-Serie-B,1,1,7,0,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-05-20,Pro Vercelli,Cagliari,1,2,NA,NA,5352,Gianluca Aureliano,https://fbref.com/en/matches/985d96e3/Pro-Vercelli-Cagliari-May-20-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-05-20,Crotone,Virtus Entella,1,0,NA,NA,9060,Daniele Minelli,https://fbref.com/en/matches/d949bbb0/Crotone-Virtus-Entella-May-20-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-05-20,Pescara,Latina,1,1,NA,NA,10836,Leonardo Baracani,https://fbref.com/en/matches/06ce67d0/Pescara-Latina-May-20-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,7,0,NA,NA,NA,NA,NA,2015-2016
+2016-05-20,Ternana,Brescia,3,2,NA,NA,2873,Antonio Rapuano,https://fbref.com/en/matches/a65ac2bb/Ternana-Brescia-May-20-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2016-05-20,Avellino,Cesena,1,2,NA,NA,4500,Federico La Penna,https://fbref.com/en/matches/d0fd1dee/Avellino-Cesena-May-20-2016-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,1,1,NA,NA,NA,NA,NA,2015-2016
+2016-05-20,Livorno,Virtus Lanciano,2,2,NA,NA,9839,Luigi Nasca,https://fbref.com/en/matches/019de1de/Livorno-Virtus-Lanciano-May-20-2016-Serie-B,0,0,1,1,NA,NA,NA,NA,NA,1,1,5,2,NA,NA,NA,NA,NA,2015-2016
+2016-05-20,Vicenza,Perugia,0,0,NA,NA,11104,Vincenzo Ripa,https://fbref.com/en/matches/1a752ad0/Vicenza-Perugia-May-20-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-05-20,Salernitana,Como,1,0,NA,NA,17748,Ivan Pezzuto,https://fbref.com/en/matches/ebe03942/Salernitana-Como-May-20-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-05-20,Novara,Modena,4,0,NA,NA,6655,Rosario Abisso,https://fbref.com/en/matches/bd2830f6/Novara-Modena-May-20-2016-Serie-B,1,1,1,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2015-2016
+2016-05-24,Cesena,Spezia,1,2,NA,NA,11862,Luca Pairetto,https://fbref.com/en/matches/ad6a78e0/Cesena-Spezia-May-24-2016-Serie-B,1,1,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2016-05-25,Bari,Novara,3,4,NA,NA,22377,Fabio Maresca,https://fbref.com/en/matches/908694d0/Bari-Novara-May-25-2016-Serie-B,1,1,6,0,NA,NA,NA,NA,NA,0,0,6,1,NA,NA,NA,NA,NA,2015-2016
+2016-05-28,Spezia,Trapani,0,1,NA,NA,8618,Federico La Penna,https://fbref.com/en/matches/64cc01bb/Spezia-Trapani-May-28-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-05-29,Novara,Pescara,0,2,NA,NA,6881,Fabrizio Pasqua,https://fbref.com/en/matches/a59f3604/Novara-Pescara-May-29-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-05-31,Trapani,Spezia,2,0,NA,NA,7406,Gianluca Manganiello,https://fbref.com/en/matches/1243d52d/Trapani-Spezia-May-31-2016-Serie-B,1,1,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2016-06-01,Pescara,Novara,4,2,NA,NA,16335,Rosario Abisso,https://fbref.com/en/matches/8393616f/Pescara-Novara-June-1-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-06-04,Virtus Lanciano,Salernitana,1,4,NA,NA,5267,Gianluca Manganiello,https://fbref.com/en/matches/67dd36f6/Virtus-Lanciano-Salernitana-June-4-2016-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-06-05,Pescara,Trapani,2,0,NA,NA,20747,Luca Pairetto,https://fbref.com/en/matches/15e5f4e9/Pescara-Trapani-June-5-2016-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,6,1,NA,NA,NA,NA,NA,2015-2016
+2016-06-08,Salernitana,Virtus Lanciano,1,0,NA,NA,25051,Fabrizio Pasqua,https://fbref.com/en/matches/c6c4bf06/Salernitana-Virtus-Lanciano-June-8-2016-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
+2016-06-09,Trapani,Pescara,1,1,NA,NA,7787,Fabio Maresca,https://fbref.com/en/matches/5e2a3624/Trapani-Pescara-June-9-2016-Serie-B,0,0,7,1,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016

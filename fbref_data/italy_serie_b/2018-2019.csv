@@ -1,0 +1,354 @@
+date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_report_url,home_pk_goals,home_pk_attempts,home_yellow_cards,home_red_cards,home_shots,home_shots_on_target,home_tackles,home_interceptions,home_fouls_committed,away_pk_goals,away_pk_attempts,away_yellow_cards,away_red_cards,away_shots,away_shots_on_target,away_tackles,away_interceptions,away_fouls_committed,season
+2018-08-24,Brescia,Perugia,1,1,NA,NA,6500,Ivan Pezzuto,https://fbref.com/en/matches/966d41d9/Brescia-Perugia-August-24-2018-Serie-B,0,0,0,1,NA,NA,NA,NA,NA,1,1,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-08-25,Salernitana,Palermo,0,0,NA,NA,12979,Eugenio Abbattista,https://fbref.com/en/matches/6dc1f056/Salernitana-Palermo-August-25-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-08-25,Venezia,Spezia,1,0,NA,NA,2181,Luigi Pillitteri,https://fbref.com/en/matches/71904c55/Venezia-Spezia-August-25-2018-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-08-25,Cremonese,Pescara,1,1,NA,NA,6226,Riccardo Ros,https://fbref.com/en/matches/41fc104a/Cremonese-Pescara-August-25-2018-Serie-B,0,0,0,1,NA,NA,NA,NA,NA,0,0,1,1,NA,NA,NA,NA,NA,2018-2019
+2018-08-26,Hellas Verona,Padova,1,1,NA,NA,13503,Francesco Fourneau,https://fbref.com/en/matches/ad299ebe/Hellas-Verona-Padova-August-26-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-08-26,Foggia,Carpi,4,2,NA,NA,10753,Federico Dionisi,https://fbref.com/en/matches/ecb9f63e/Foggia-Carpi-August-26-2018-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-08-26,Ascoli,Cosenza,1,1,NA,NA,5852,Manuel Volpi,https://fbref.com/en/matches/cfba0ab9/Ascoli-Cosenza-August-26-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-08-26,Cittadella,Crotone,3,0,NA,NA,2892,Niccolò Baroni,https://fbref.com/en/matches/9ad2143a/Cittadella-Crotone-August-26-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,1,NA,NA,NA,NA,NA,2018-2019
+2018-08-27,Benevento,Lecce,3,3,NA,NA,11307,Juan Sacchi,https://fbref.com/en/matches/e3c78554/Benevento-Lecce-August-27-2018-Serie-B,1,1,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2018-08-31,Palermo,Cremonese,2,2,NA,NA,5779,Luigi Nasca,https://fbref.com/en/matches/71c81187/Palermo-Cremonese-August-31-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-01,Cosenza,Hellas Verona,0,3,NA,NA,2,Fabio Piscopo,https://fbref.com/en/matches/8fd03979/Cosenza-Hellas-Verona-September-1-2018-Serie-B,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
+2018-09-01,Padova,Venezia,1,0,NA,NA,8696,Davide Ghersini,https://fbref.com/en/matches/dea438e2/Padova-Venezia-September-1-2018-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-01,Carpi,Cittadella,0,1,NA,NA,1500,Lorenzo Illuzzi,https://fbref.com/en/matches/b83db43a/Carpi-Cittadella-September-1-2018-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-01,Spezia,Brescia,3,2,NA,NA,5105,Luca Massimi,https://fbref.com/en/matches/1f974f0c/Spezia-Brescia-September-1-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-02,Pescara,Livorno,2,1,NA,NA,5956,Lorenzo Maggioni,https://fbref.com/en/matches/e49cd2c3/Pescara-Livorno-September-2-2018-Serie-B,2,2,3,0,NA,NA,NA,NA,NA,0,1,1,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-02,Lecce,Salernitana,2,2,NA,NA,12675,Antonio Di Martino,https://fbref.com/en/matches/737a234a/Lecce-Salernitana-September-2-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-02,Crotone,Foggia,4,1,NA,NA,5711,Daniele Minelli,https://fbref.com/en/matches/3136ae4c/Crotone-Foggia-September-2-2018-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,1,1,1,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-02,Perugia,Ascoli,2,0,NA,NA,8681,Francesco Guccini,https://fbref.com/en/matches/ae7ae7cf/Perugia-Ascoli-September-2-2018-Serie-B,0,0,2,1,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-14,Venezia,Benevento,2,3,NA,NA,3529,Gianluca Aureliano,https://fbref.com/en/matches/d7881a4d/Venezia-Benevento-September-14-2018-Serie-B,1,1,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-15,Brescia,Pescara,1,1,NA,NA,6000,Marco Serra,https://fbref.com/en/matches/e96a54a8/Brescia-Pescara-September-15-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,1,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-15,Cittadella,Cosenza,2,0,NA,NA,3855,Valerio Marini,https://fbref.com/en/matches/a51fd46b/Cittadella-Cosenza-September-15-2018-Serie-B,2,2,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-15,Ascoli,Lecce,1,0,NA,NA,6403,Antonio Rapuano,https://fbref.com/en/matches/11b1f8cf/Ascoli-Lecce-September-15-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-15,Cremonese,Spezia,2,0,NA,NA,7036,Antonio Giua,https://fbref.com/en/matches/4fb5f772/Cremonese-Spezia-September-15-2018-Serie-B,1,1,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-16,Hellas Verona,Carpi,4,1,NA,NA,9966,Manuel Volpi,https://fbref.com/en/matches/70d0965c/Hellas-Verona-Carpi-September-16-2018-Serie-B,2,2,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-16,Salernitana,Padova,3,0,NA,NA,9763,Aleandro Di Paolo,https://fbref.com/en/matches/99da10df/Salernitana-Padova-September-16-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-16,Foggia,Palermo,1,2,NA,NA,10778,Livio Marinelli,https://fbref.com/en/matches/0d16fd26/Foggia-Palermo-September-16-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-17,Livorno,Crotone,0,1,NA,NA,6339,Marco Piccinini,https://fbref.com/en/matches/3a3e3ae7/Livorno-Crotone-September-17-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-21,Benevento,Salernitana,4,0,NA,NA,13622,Ivan Pezzuto,https://fbref.com/en/matches/b08f5d5f/Benevento-Salernitana-September-21-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-22,Crotone,Hellas Verona,1,2,NA,NA,5653,Juan Sacchi,https://fbref.com/en/matches/680b7a04/Crotone-Hellas-Verona-September-22-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-22,Carpi,Brescia,1,1,NA,NA,2691,Fabio Piscopo,https://fbref.com/en/matches/b6ab2d0e/Carpi-Brescia-September-22-2018-Serie-B,0,1,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-22,Spezia,Cittadella,1,0,NA,NA,4902,Lorenzo Maggioni,https://fbref.com/en/matches/5b16abc8/Spezia-Cittadella-September-22-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
+2018-09-22,Palermo,Perugia,4,1,NA,NA,5313,Francesco Fourneau,https://fbref.com/en/matches/75b02461/Palermo-Perugia-September-22-2018-Serie-B,1,1,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-22,Lecce,Venezia,2,1,NA,NA,9326,Niccolò Baroni,https://fbref.com/en/matches/a1b6ad5d/Lecce-Venezia-September-22-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-22,Pescara,Foggia,1,0,NA,NA,7240,Luigi Pillitteri,https://fbref.com/en/matches/c2d8f7d4/Pescara-Foggia-September-22-2018-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,1,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-22,Cosenza,Livorno,1,1,NA,NA,9500,Riccardo Ros,https://fbref.com/en/matches/bdf6dcde/Cosenza-Livorno-September-22-2018-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-23,Padova,Cremonese,1,1,NA,NA,6946,Eugenio Abbattista,https://fbref.com/en/matches/7bf73f3c/Padova-Cremonese-September-23-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-25,Livorno,Lecce,0,3,NA,NA,5768,Francesco Guccini,https://fbref.com/en/matches/32264758/Livorno-Lecce-September-25-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-25,Cittadella,Benevento,0,1,NA,NA,3791,Daniele Minelli,https://fbref.com/en/matches/63914b67/Cittadella-Benevento-September-25-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-25,Hellas Verona,Spezia,2,1,NA,NA,9914,Valerio Marini,https://fbref.com/en/matches/e36c68bc/Hellas-Verona-Spezia-September-25-2018-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-25,Perugia,Carpi,0,1,NA,NA,7349,Antonio Rapuano,https://fbref.com/en/matches/e5da0a59/Perugia-Carpi-September-25-2018-Serie-B,0,1,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-25,Pescara,Crotone,2,1,NA,NA,6211,Luigi Nasca,https://fbref.com/en/matches/694139fd/Pescara-Crotone-September-25-2018-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-25,Brescia,Palermo,2,1,NA,NA,6103,Marco Piccinini,https://fbref.com/en/matches/93a50b1f/Brescia-Palermo-September-25-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-25,Salernitana,Ascoli,1,1,NA,NA,8164,Lorenzo Illuzzi,https://fbref.com/en/matches/44f2cab3/Salernitana-Ascoli-September-25-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-26,Cremonese,Cosenza,2,0,NA,NA,6663,Luca Massimi,https://fbref.com/en/matches/6b8ca5a1/Cremonese-Cosenza-September-26-2018-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-26,Foggia,Padova,2,1,NA,NA,9173,Antonio Di Martino,https://fbref.com/en/matches/07a913cf/Foggia-Padova-September-26-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-28,Crotone,Brescia,2,2,NA,NA,5191,Livio Marinelli,https://fbref.com/en/matches/a46b71f5/Crotone-Brescia-September-28-2018-Serie-B,1,1,1,1,NA,NA,NA,NA,NA,1,1,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-29,Salernitana,Hellas Verona,1,0,NA,NA,10513,Gianluca Aureliano,https://fbref.com/en/matches/63cc4b87/Salernitana-Hellas-Verona-September-29-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-29,Lecce,Cittadella,1,1,NA,NA,9278,Antonio Giua,https://fbref.com/en/matches/22ea8fb0/Lecce-Cittadella-September-29-2018-Serie-B,1,1,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-29,Spezia,Carpi,2,1,NA,NA,4845,Marco Serra,https://fbref.com/en/matches/dd5580f9/Spezia-Carpi-September-29-2018-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-29,Venezia,Livorno,1,1,NA,NA,2919,Fabio Piscopo,https://fbref.com/en/matches/b9c82b32/Venezia-Livorno-September-29-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,1,1,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-30,Ascoli,Cremonese,0,0,NA,NA,5700,Ivan Pezzuto,https://fbref.com/en/matches/4e505eec/Ascoli-Cremonese-September-30-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-30,Cosenza,Perugia,1,1,NA,NA,6671,Federico Dionisi,https://fbref.com/en/matches/89057f14/Cosenza-Perugia-September-30-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2018-09-30,Benevento,Foggia,1,3,NA,NA,12910,Riccardo Ros,https://fbref.com/en/matches/74101bbf/Benevento-Foggia-September-30-2018-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-02,Padova,Pescara,2,2,NA,NA,6795,Manuel Volpi,https://fbref.com/en/matches/225fe696/Padova-Pescara-October-2-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,1,1,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-05,Hellas Verona,Lecce,0,2,NA,NA,11993,Luca Massimi,https://fbref.com/en/matches/ebb514fb/Hellas-Verona-Lecce-October-5-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-06,Cremonese,Salernitana,0,0,NA,NA,7629,Francesco Guccini,https://fbref.com/en/matches/a42fc835/Cremonese-Salernitana-October-6-2018-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-06,Carpi,Cosenza,1,1,NA,NA,2090,Luigi Pillitteri,https://fbref.com/en/matches/71548185/Carpi-Cosenza-October-6-2018-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-06,Pescara,Benevento,2,1,NA,NA,8074,Niccolò Baroni,https://fbref.com/en/matches/744d8fd4/Pescara-Benevento-October-6-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-06,Foggia,Ascoli,3,2,NA,NA,9752,Lorenzo Maggioni,https://fbref.com/en/matches/cf063b95/Foggia-Ascoli-October-6-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-06,Perugia,Venezia,1,0,NA,NA,6883,Antonio Di Martino,https://fbref.com/en/matches/c8863c7f/Perugia-Venezia-October-6-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
+2018-10-07,Livorno,Spezia,1,3,NA,NA,6500,Francesco Fourneau,https://fbref.com/en/matches/6e715e22/Livorno-Spezia-October-7-2018-Serie-B,0,0,2,1,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-07,Brescia,Padova,4,1,NA,NA,6521,Antonio Rapuano,https://fbref.com/en/matches/ea0e602f/Brescia-Padova-October-7-2018-Serie-B,1,1,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-07,Palermo,Crotone,1,0,NA,NA,6011,Davide Ghersini,https://fbref.com/en/matches/7a92a4ad/Palermo-Crotone-October-7-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-19,Spezia,Pescara,1,3,NA,NA,6508,Daniele Minelli,https://fbref.com/en/matches/7adcbefa/Spezia-Pescara-October-19-2018-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-20,Cittadella,Brescia,2,2,NA,NA,4288,Lorenzo Illuzzi,https://fbref.com/en/matches/5142b954/Cittadella-Brescia-October-20-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-20,Cosenza,Foggia,2,0,NA,NA,6583,Antonio Giua,https://fbref.com/en/matches/aa6058a1/Cosenza-Foggia-October-20-2018-Serie-B,0,1,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-20,Ascoli,Carpi,1,0,NA,NA,5291,Valerio Marini,https://fbref.com/en/matches/097b14e3/Ascoli-Carpi-October-20-2018-Serie-B,0,0,5,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-20,Crotone,Padova,2,1,NA,NA,5323,Marco Serra,https://fbref.com/en/matches/9c6bfaf7/Crotone-Padova-October-20-2018-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
+2018-10-21,Salernitana,Perugia,2,1,NA,NA,10113,Marco Piccinini,https://fbref.com/en/matches/c2fcc4d9/Salernitana-Perugia-October-21-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,1,1,2,1,NA,NA,NA,NA,NA,2018-2019
+2018-10-21,Venezia,Hellas Verona,1,1,NA,NA,5630,Eugenio Abbattista,https://fbref.com/en/matches/a9df9992/Venezia-Hellas-Verona-October-21-2018-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-21,Lecce,Palermo,1,2,NA,NA,12719,Manuel Volpi,https://fbref.com/en/matches/89c3abce/Lecce-Palermo-October-21-2018-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-22,Benevento,Livorno,1,0,NA,NA,10000,Luigi Nasca,https://fbref.com/en/matches/04ed7b83/Benevento-Livorno-October-22-2018-Serie-B,1,1,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-26,Palermo,Venezia,1,1,NA,NA,6067,Ivan Pezzuto,https://fbref.com/en/matches/050d2a89/Palermo-Venezia-October-26-2018-Serie-B,0,0,4,1,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-27,Padova,Spezia,0,0,NA,NA,6502,Fabio Piscopo,https://fbref.com/en/matches/4b302952/Padova-Spezia-October-27-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-27,Brescia,Cosenza,1,0,NA,NA,5502,Alessandro Prontera,https://fbref.com/en/matches/937e74f0/Brescia-Cosenza-October-27-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-27,Pescara,Cittadella,0,1,NA,NA,7205,Juan Sacchi,https://fbref.com/en/matches/53258142/Pescara-Cittadella-October-27-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-27,Livorno,Ascoli,1,0,NA,NA,5452,Federico Dionisi,https://fbref.com/en/matches/c83cb550/Livorno-Ascoli-October-27-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-27,Foggia,Lecce,2,2,NA,NA,12537,Gianluca Aureliano,https://fbref.com/en/matches/ff9e7ecb/Foggia-Lecce-October-27-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-27,Benevento,Cremonese,2,1,NA,NA,10011,Aleandro Di Paolo,https://fbref.com/en/matches/46edcf74/Benevento-Cremonese-October-27-2018-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-27,Hellas Verona,Perugia,2,1,NA,NA,9525,Livio Marinelli,https://fbref.com/en/matches/053fa8a7/Hellas-Verona-Perugia-October-27-2018-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,1,1,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-28,Crotone,Salernitana,1,1,NA,NA,5497,Riccardo Ros,https://fbref.com/en/matches/38a935bc/Crotone-Salernitana-October-28-2018-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-30,Ascoli,Hellas Verona,1,0,NA,NA,5583,Marco Serra,https://fbref.com/en/matches/d6e4262e/Ascoli-Hellas-Verona-October-30-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-30,Cremonese,Venezia,0,1,NA,NA,6268,Lorenzo Maggioni,https://fbref.com/en/matches/eddc9e19/Cremonese-Venezia-October-30-2018-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-30,Cosenza,Pescara,1,1,NA,NA,7008,Francesco Guccini,https://fbref.com/en/matches/2a1a142d/Cosenza-Pescara-October-30-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-30,Carpi,Palermo,0,3,NA,NA,1875,Niccolò Baroni,https://fbref.com/en/matches/b2c6becc/Carpi-Palermo-October-30-2018-Serie-B,0,0,2,1,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
+2018-10-30,Perugia,Padova,3,2,NA,NA,6958,Luigi Pillitteri,https://fbref.com/en/matches/0cf562eb/Perugia-Padova-October-30-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,1,1,4,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-30,Cittadella,Foggia,1,1,NA,NA,4270,Luca Massimi,https://fbref.com/en/matches/84660063/Cittadella-Foggia-October-30-2018-Serie-B,0,0,3,1,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-31,Salernitana,Livorno,3,1,NA,NA,8100,Antonio Rapuano,https://fbref.com/en/matches/991f9e8c/Salernitana-Livorno-October-31-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-10-31,Lecce,Crotone,1,0,NA,NA,8952,Francesco Fourneau,https://fbref.com/en/matches/55b73cd3/Lecce-Crotone-October-31-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2018-11-02,Hellas Verona,Cremonese,1,1,NA,NA,10489,Antonio Giua,https://fbref.com/en/matches/b059826d/Hellas-Verona-Cremonese-November-2-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-11-03,Padova,Cittadella,0,0,NA,NA,7500,Luigi Nasca,https://fbref.com/en/matches/71ef0075/Padova-Cittadella-November-3-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,6,0,NA,NA,NA,NA,NA,2018-2019
+2018-11-03,Palermo,Cosenza,2,1,NA,NA,4513,Lorenzo Illuzzi,https://fbref.com/en/matches/d46e070a/Palermo-Cosenza-November-3-2018-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
+2018-11-03,Foggia,Brescia,2,2,NA,NA,9834,Valerio Marini,https://fbref.com/en/matches/c8cffbaa/Foggia-Brescia-November-3-2018-Serie-B,0,0,2,1,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-11-03,Benevento,Ascoli,1,2,NA,NA,10440,Manuel Volpi,https://fbref.com/en/matches/0b0abf7d/Benevento-Ascoli-November-3-2018-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2018-11-04,Crotone,Carpi,1,1,NA,NA,4879,Alessandro Prontera,https://fbref.com/en/matches/22784cbd/Crotone-Carpi-November-4-2018-Serie-B,0,0,4,1,NA,NA,NA,NA,NA,0,0,1,1,NA,NA,NA,NA,NA,2018-2019
+2018-11-04,Venezia,Salernitana,1,0,NA,NA,3701,Daniele Minelli,https://fbref.com/en/matches/24ac448d/Venezia-Salernitana-November-4-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-11-04,Livorno,Perugia,2,3,NA,NA,5540,Eugenio Abbattista,https://fbref.com/en/matches/ddace419/Livorno-Perugia-November-4-2018-Serie-B,1,1,4,1,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-11-05,Pescara,Lecce,4,2,NA,NA,8782,Aleandro Di Paolo,https://fbref.com/en/matches/a38441a0/Pescara-Lecce-November-5-2018-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,2,NA,NA,NA,NA,NA,2018-2019
+2018-11-09,Perugia,Crotone,2,1,NA,NA,7834,Ivan Pezzuto,https://fbref.com/en/matches/1170f6df/Perugia-Crotone-November-9-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,1,1,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-11-10,Cremonese,Livorno,1,0,NA,NA,6379,Antonio Di Martino,https://fbref.com/en/matches/982c3c26/Cremonese-Livorno-November-10-2018-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-11-10,Carpi,Benevento,2,2,NA,NA,1930,Fabio Piscopo,https://fbref.com/en/matches/8a7e9b6e/Carpi-Benevento-November-10-2018-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,1,1,4,0,NA,NA,NA,NA,NA,2018-2019
+2018-11-10,Salernitana,Spezia,1,0,NA,NA,8743,Federico Dionisi,https://fbref.com/en/matches/c4ecd76b/Salernitana-Spezia-November-10-2018-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,1,NA,NA,NA,NA,NA,2018-2019
+2018-11-10,Ascoli,Padova,2,3,NA,NA,8416,Riccardo Ros,https://fbref.com/en/matches/dddcc04e/Ascoli-Padova-November-10-2018-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-11-10,Cosenza,Lecce,2,3,NA,NA,6881,Juan Sacchi,https://fbref.com/en/matches/9a6af04e/Cosenza-Lecce-November-10-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-11-11,Cittadella,Venezia,3,2,NA,NA,4784,Marco Piccinini,https://fbref.com/en/matches/46108169/Cittadella-Venezia-November-11-2018-Serie-B,0,0,5,0,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-11-11,Brescia,Hellas Verona,4,2,NA,NA,8500,Davide Ghersini,https://fbref.com/en/matches/efb2b24f/Brescia-Hellas-Verona-November-11-2018-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-11-11,Palermo,Pescara,3,0,NA,NA,9222,Livio Marinelli,https://fbref.com/en/matches/aaf821ac/Palermo-Pescara-November-11-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-11-18,Spezia,Benevento,3,1,NA,NA,5310,Antonio Di Martino,https://fbref.com/en/matches/144ce3f8/Spezia-Benevento-November-18-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-11-23,Hellas Verona,Palermo,1,1,NA,NA,8258,Aleandro Di Paolo,https://fbref.com/en/matches/d45b04f0/Hellas-Verona-Palermo-November-23-2018-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2018-11-24,Livorno,Cittadella,0,0,NA,NA,4986,Niccolò Baroni,https://fbref.com/en/matches/fd74cc65/Livorno-Cittadella-November-24-2018-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,5,1,NA,NA,NA,NA,NA,2018-2019
+2018-11-24,Venezia,Brescia,2,1,NA,NA,3543,Luigi Pillitteri,https://fbref.com/en/matches/dcdfa4d3/Venezia-Brescia-November-24-2018-Serie-B,0,0,2,1,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2018-11-24,Padova,Carpi,0,1,NA,NA,6444,Antonio Rapuano,https://fbref.com/en/matches/5c897fcc/Padova-Carpi-November-24-2018-Serie-B,0,0,1,1,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2018-11-24,Benevento,Perugia,2,1,NA,NA,9770,Luca Massimi,https://fbref.com/en/matches/0ccf5ff7/Benevento-Perugia-November-24-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
+2018-11-25,Spezia,Foggia,0,0,NA,NA,6332,Lorenzo Maggioni,https://fbref.com/en/matches/3040483a/Spezia-Foggia-November-25-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2018-2019
+2018-11-25,Pescara,Ascoli,1,1,NA,NA,9060,Francesco Fourneau,https://fbref.com/en/matches/5fa5dc9d/Pescara-Ascoli-November-25-2018-Serie-B,0,1,5,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
+2018-11-25,Lecce,Cremonese,2,0,NA,NA,8198,Marco Serra,https://fbref.com/en/matches/36e71c54/Lecce-Cremonese-November-25-2018-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-11-26,Crotone,Cosenza,0,1,NA,NA,8665,Gianluca Aureliano,https://fbref.com/en/matches/9d3f0e39/Crotone-Cosenza-November-26-2018-Serie-B,0,0,4,1,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2018-2019
+2018-11-30,Palermo,Benevento,0,0,NA,NA,7714,Eugenio Abbattista,https://fbref.com/en/matches/9a634a0c/Palermo-Benevento-November-30-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-01,Cosenza,Padova,2,1,NA,NA,5787,Valerio Marini,https://fbref.com/en/matches/534d6b3a/Cosenza-Padova-December-1-2018-Serie-B,1,1,3,0,NA,NA,NA,NA,NA,1,1,1,1,NA,NA,NA,NA,NA,2018-2019
+2018-12-01,Cremonese,Crotone,1,0,NA,NA,6111,Luigi Nasca,https://fbref.com/en/matches/63217099/Cremonese-Crotone-December-1-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
+2018-12-01,Cittadella,Salernitana,3,1,NA,NA,4153,Antonio Giua,https://fbref.com/en/matches/151d7678/Cittadella-Salernitana-December-1-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-01,Ascoli,Spezia,3,1,NA,NA,5431,Lorenzo Illuzzi,https://fbref.com/en/matches/06927355/Ascoli-Spezia-December-1-2018-Serie-B,0,0,4,1,NA,NA,NA,NA,NA,0,0,1,1,NA,NA,NA,NA,NA,2018-2019
+2018-12-02,Carpi,Lecce,0,1,NA,NA,3812,Francesco Guccini,https://fbref.com/en/matches/ec3720b6/Carpi-Lecce-December-2-2018-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-02,Brescia,Livorno,2,0,NA,NA,6021,Daniele Minelli,https://fbref.com/en/matches/7cf945da/Brescia-Livorno-December-2-2018-Serie-B,0,0,2,1,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-02,Perugia,Pescara,2,1,NA,NA,7657,Davide Ghersini,https://fbref.com/en/matches/18aa40ca/Perugia-Pescara-December-2-2018-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-03,Foggia,Venezia,1,1,NA,NA,9583,Manuel Volpi,https://fbref.com/en/matches/1fd5c94f/Foggia-Venezia-December-3-2018-Serie-B,1,1,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-07,Pescara,Carpi,2,0,NA,NA,5516,Lorenzo Maggioni,https://fbref.com/en/matches/3774f1e7/Pescara-Carpi-December-7-2018-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-08,Padova,Palermo,1,3,NA,NA,8215,Federico Dionisi,https://fbref.com/en/matches/f75956c8/Padova-Palermo-December-8-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-08,Spezia,Cosenza,4,0,NA,NA,5148,Ivan Pezzuto,https://fbref.com/en/matches/6685c4a9/Spezia-Cosenza-December-8-2018-Serie-B,1,1,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-08,Venezia,Ascoli,1,0,NA,NA,3339,Antonio Di Martino,https://fbref.com/en/matches/ecef3e31/Venezia-Ascoli-December-8-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
+2018-12-08,Lecce,Perugia,0,0,NA,NA,10300,Livio Marinelli,https://fbref.com/en/matches/55a0af48/Lecce-Perugia-December-8-2018-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-09,Livorno,Foggia,3,1,NA,NA,5797,Juan Sacchi,https://fbref.com/en/matches/ce9c71aa/Livorno-Foggia-December-9-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-09,Cremonese,Cittadella,0,0,NA,NA,6008,Riccardo Ros,https://fbref.com/en/matches/75b2816d/Cremonese-Cittadella-December-9-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-09,Benevento,Hellas Verona,0,1,NA,NA,9808,Marco Piccinini,https://fbref.com/en/matches/7669d4b9/Benevento-Hellas-Verona-December-9-2018-Serie-B,0,1,2,1,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2018-2019
+2018-12-10,Salernitana,Brescia,1,3,NA,NA,8576,Fabio Piscopo,https://fbref.com/en/matches/c7b85049/Salernitana-Brescia-December-10-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-14,Foggia,Cremonese,3,1,NA,NA,8836,Antonio Rapuano,https://fbref.com/en/matches/1aeccabf/Foggia-Cremonese-December-14-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-15,Ascoli,Cittadella,1,1,NA,NA,4789,Davide Ghersini,https://fbref.com/en/matches/fe4b0a7d/Ascoli-Cittadella-December-15-2018-Serie-B,1,1,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-15,Palermo,Livorno,1,1,NA,NA,5734,Valerio Marini,https://fbref.com/en/matches/ba571c72/Palermo-Livorno-December-15-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-15,Perugia,Spezia,1,1,NA,NA,6996,Gianluca Aureliano,https://fbref.com/en/matches/2bc1dc9a/Perugia-Spezia-December-15-2018-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-16,Carpi,Salernitana,3,2,NA,NA,2126,Luca Massimi,https://fbref.com/en/matches/5ebfb51b/Carpi-Salernitana-December-16-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-16,Crotone,Venezia,1,1,NA,NA,5146,Aleandro Di Paolo,https://fbref.com/en/matches/ec3e693b/Crotone-Venezia-December-16-2018-Serie-B,1,1,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-16,Cosenza,Benevento,0,0,NA,NA,5500,Luigi Pillitteri,https://fbref.com/en/matches/51acedaf/Cosenza-Benevento-December-16-2018-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-16,Brescia,Lecce,2,1,NA,NA,6500,Francesco Fourneau,https://fbref.com/en/matches/b15e3bf0/Brescia-Lecce-December-16-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-17,Hellas Verona,Pescara,3,1,NA,NA,9346,Daniele Minelli,https://fbref.com/en/matches/e85fe51c/Hellas-Verona-Pescara-December-17-2018-Serie-B,1,1,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-21,Ascoli,Brescia,1,1,NA,NA,5397,Luigi Nasca,https://fbref.com/en/matches/8731283f/Ascoli-Brescia-December-21-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-22,Cremonese,Carpi,1,2,NA,NA,5416,Antonio Di Martino,https://fbref.com/en/matches/10d43b32/Cremonese-Carpi-December-22-2018-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
+2018-12-22,Livorno,Hellas Verona,0,0,NA,NA,5662,Marco Serra,https://fbref.com/en/matches/7354cb3b/Livorno-Hellas-Verona-December-22-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-23,Salernitana,Foggia,1,0,NA,NA,9730,Niccolò Baroni,https://fbref.com/en/matches/dfb1862b/Salernitana-Foggia-December-23-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
+2018-12-23,Venezia,Cosenza,0,1,NA,NA,3142,Federico Dionisi,https://fbref.com/en/matches/f3d6b17b/Venezia-Cosenza-December-23-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-23,Cittadella,Perugia,2,2,NA,NA,4052,Francesco Guccini,https://fbref.com/en/matches/fc4e65c6/Cittadella-Perugia-December-23-2018-Serie-B,0,0,5,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-23,Lecce,Padova,3,2,NA,NA,12112,Manuel Volpi,https://fbref.com/en/matches/60d9f9cb/Lecce-Padova-December-23-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,2,2,1,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-23,Spezia,Palermo,1,1,NA,NA,5598,Riccardo Ros,https://fbref.com/en/matches/1f93de81/Spezia-Palermo-December-23-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-23,Benevento,Crotone,3,0,NA,NA,10475,Antonio Giua,https://fbref.com/en/matches/31e70c28/Benevento-Crotone-December-23-2018-Serie-B,1,1,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-26,Carpi,Livorno,1,4,NA,NA,1645,Marco Piccinini,https://fbref.com/en/matches/6d137f82/Carpi-Livorno-December-26-2018-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-26,Brescia,Cremonese,3,2,NA,NA,9507,Lorenzo Maggioni,https://fbref.com/en/matches/0b3f03ae/Brescia-Cremonese-December-26-2018-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-27,Pescara,Venezia,1,0,NA,NA,6834,Ivan Pezzuto,https://fbref.com/en/matches/1d5c8e4f/Pescara-Venezia-December-27-2018-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-27,Hellas Verona,Cittadella,4,0,NA,NA,9593,Juan Sacchi,https://fbref.com/en/matches/83ae80fa/Hellas-Verona-Cittadella-December-27-2018-Serie-B,1,1,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-27,Cosenza,Salernitana,0,0,NA,NA,12623,Livio Marinelli,https://fbref.com/en/matches/0c7b961c/Cosenza-Salernitana-December-27-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-27,Palermo,Ascoli,3,0,NA,NA,8262,Fabio Piscopo,https://fbref.com/en/matches/d08e7f78/Palermo-Ascoli-December-27-2018-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-27,Padova,Benevento,0,1,NA,NA,6405,Riccardo Ros,https://fbref.com/en/matches/60b38e91/Padova-Benevento-December-27-2018-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-27,Perugia,Foggia,3,0,NA,NA,8015,Eugenio Abbattista,https://fbref.com/en/matches/f817fab8/Perugia-Foggia-December-27-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-27,Crotone,Spezia,0,3,NA,NA,5559,Valerio Marini,https://fbref.com/en/matches/bd4242b4/Crotone-Spezia-December-27-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-30,Foggia,Hellas Verona,2,2,NA,NA,10943,Francesco Fourneau,https://fbref.com/en/matches/8bea97f6/Foggia-Hellas-Verona-December-30-2018-Serie-B,0,1,4,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-30,Ascoli,Crotone,3,2,NA,NA,6101,Luca Massimi,https://fbref.com/en/matches/39e831ad/Ascoli-Crotone-December-30-2018-Serie-B,0,0,3,1,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-30,Cremonese,Perugia,4,0,NA,NA,6061,Daniele Minelli,https://fbref.com/en/matches/677ed716/Cremonese-Perugia-December-30-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-30,Cittadella,Palermo,0,1,NA,NA,4815,Gianluca Aureliano,https://fbref.com/en/matches/da302d0f/Cittadella-Palermo-December-30-2018-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-30,Venezia,Carpi,1,1,NA,NA,2798,Niccolò Baroni,https://fbref.com/en/matches/b3f19eda/Venezia-Carpi-December-30-2018-Serie-B,1,1,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-30,Salernitana,Pescara,2,4,NA,NA,9824,Luigi Pillitteri,https://fbref.com/en/matches/7388254a/Salernitana-Pescara-December-30-2018-Serie-B,1,1,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-30,Benevento,Brescia,1,1,NA,NA,11409,Antonio Rapuano,https://fbref.com/en/matches/2a5352ae/Benevento-Brescia-December-30-2018-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-30,Livorno,Padova,1,1,NA,NA,6594,Aleandro Di Paolo,https://fbref.com/en/matches/23753dd6/Livorno-Padova-December-30-2018-Serie-B,1,1,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2018-12-30,Spezia,Lecce,1,1,NA,NA,5977,Davide Ghersini,https://fbref.com/en/matches/c8fe57a7/Spezia-Lecce-December-30-2018-Serie-B,1,1,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2019-01-18,Palermo,Salernitana,1,2,NA,NA,6674,Federico Dionisi,https://fbref.com/en/matches/b568e569/Palermo-Salernitana-January-18-2019-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-01-19,Lecce,Benevento,1,1,NA,NA,10118,Marco Serra,https://fbref.com/en/matches/8796bf89/Lecce-Benevento-January-19-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-01-19,Crotone,Cittadella,0,0,NA,NA,6015,Antonio Di Martino,https://fbref.com/en/matches/156c5595/Crotone-Cittadella-January-19-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
+2019-01-19,Carpi,Foggia,0,2,NA,NA,3413,Luigi Pillitteri,https://fbref.com/en/matches/f7dddcbc/Carpi-Foggia-January-19-2019-Serie-B,0,1,5,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-01-19,Perugia,Brescia,0,2,NA,NA,7682,Antonio Giua,https://fbref.com/en/matches/c0a9bd6f/Perugia-Brescia-January-19-2019-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-01-20,Cosenza,Ascoli,0,0,NA,NA,5974,Eugenio Abbattista,https://fbref.com/en/matches/8400e437/Cosenza-Ascoli-January-20-2019-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
+2019-01-20,Padova,Hellas Verona,3,0,NA,NA,8930,Luigi Nasca,https://fbref.com/en/matches/a2b9f3fa/Padova-Hellas-Verona-January-20-2019-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,1,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-01-20,Pescara,Cremonese,0,0,NA,NA,5759,Francesco Guccini,https://fbref.com/en/matches/3b1efcd6/Pescara-Cremonese-January-20-2019-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
+2019-01-21,Spezia,Venezia,1,1,NA,NA,4869,Manuel Volpi,https://fbref.com/en/matches/daba442f/Spezia-Venezia-January-21-2019-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-01-25,Foggia,Crotone,0,2,NA,NA,8860,Ivan Pezzuto,https://fbref.com/en/matches/fbb46137/Foggia-Crotone-January-25-2019-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-01-26,Ascoli,Perugia,0,3,NA,NA,5877,Valerio Marini,https://fbref.com/en/matches/dfe404da/Ascoli-Perugia-January-26-2019-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,1,1,4,0,NA,NA,NA,NA,NA,2018-2019
+2019-01-26,Cremonese,Palermo,2,0,NA,NA,7007,Livio Marinelli,https://fbref.com/en/matches/55baf7b1/Cremonese-Palermo-January-26-2019-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-01-26,Cittadella,Carpi,3,1,NA,NA,3535,Luca Massimi,https://fbref.com/en/matches/8587eebf/Cittadella-Carpi-January-26-2019-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,1,1,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-01-26,Salernitana,Lecce,1,2,NA,NA,7713,Lorenzo Maggioni,https://fbref.com/en/matches/67b9ff0e/Salernitana-Lecce-January-26-2019-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-01-27,Venezia,Padova,2,1,NA,NA,5271,Juan Sacchi,https://fbref.com/en/matches/8e8f0fab/Venezia-Padova-January-27-2019-Serie-B,1,1,4,1,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-01-27,Livorno,Pescara,0,0,NA,NA,5277,Fabio Piscopo,https://fbref.com/en/matches/726f7309/Livorno-Pescara-January-27-2019-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-01-27,Brescia,Spezia,4,4,NA,NA,7500,Aleandro Di Paolo,https://fbref.com/en/matches/8e9db9e2/Brescia-Spezia-January-27-2019-Serie-B,1,1,1,0,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-01-28,Hellas Verona,Cosenza,2,2,NA,NA,9141,Antonio Rapuano,https://fbref.com/en/matches/c2c9a2af/Hellas-Verona-Cosenza-January-28-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-02,Carpi,Hellas Verona,1,1,NA,NA,1904,Riccardo Ros,https://fbref.com/en/matches/857c26b0/Carpi-Hellas-Verona-February-2-2019-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-02,Cosenza,Cittadella,2,0,NA,NA,5632,Daniele Minelli,https://fbref.com/en/matches/02f23513/Cosenza-Cittadella-February-2-2019-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-02,Padova,Salernitana,0,0,NA,NA,6865,Antonio Di Martino,https://fbref.com/en/matches/44169b89/Padova-Salernitana-February-2-2019-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-02,Spezia,Cremonese,2,0,NA,NA,5171,Federico Dionisi,https://fbref.com/en/matches/4cfa74f3/Spezia-Cremonese-February-2-2019-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-03,Benevento,Venezia,3,0,NA,NA,9810,Luigi Nasca,https://fbref.com/en/matches/707ea55f/Benevento-Venezia-February-3-2019-Serie-B,1,1,3,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
+2019-02-03,Crotone,Livorno,1,1,NA,NA,6625,Francesco Fourneau,https://fbref.com/en/matches/138cfba6/Crotone-Livorno-February-3-2019-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-03,Pescara,Brescia,1,5,NA,NA,6383,Gianluca Aureliano,https://fbref.com/en/matches/3dce3e29/Pescara-Brescia-February-3-2019-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,2,2,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-04,Palermo,Foggia,0,0,NA,NA,4617,Davide Ghersini,https://fbref.com/en/matches/dbeef593/Palermo-Foggia-February-4-2019-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-08,Salernitana,Benevento,0,1,NA,NA,9795,Eugenio Abbattista,https://fbref.com/en/matches/e11cb332/Salernitana-Benevento-February-8-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-09,Cremonese,Padova,0,0,NA,NA,6055,Francesco Guccini,https://fbref.com/en/matches/59579485/Cremonese-Padova-February-9-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
+2019-02-09,Cittadella,Spezia,0,1,NA,NA,3674,Luigi Pillitteri,https://fbref.com/en/matches/8768cdcc/Cittadella-Spezia-February-9-2019-Serie-B,0,0,6,1,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-09,Perugia,Palermo,1,2,NA,NA,8105,Marco Serra,https://fbref.com/en/matches/39d86c99/Perugia-Palermo-February-9-2019-Serie-B,0,1,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-09,Brescia,Carpi,3,1,NA,NA,7500,Lorenzo Illuzzi,https://fbref.com/en/matches/b3eb039b/Brescia-Carpi-February-9-2019-Serie-B,1,1,1,0,NA,NA,NA,NA,NA,0,1,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-10,Livorno,Cosenza,2,0,NA,NA,6086,Valerio Marini,https://fbref.com/en/matches/0067f95c/Livorno-Cosenza-February-10-2019-Serie-B,1,1,4,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
+2019-02-10,Foggia,Pescara,1,1,NA,NA,9630,Manuel Volpi,https://fbref.com/en/matches/e5624ffc/Foggia-Pescara-February-10-2019-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,1,1,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-10,Hellas Verona,Crotone,1,1,NA,NA,8814,Marco Piccinini,https://fbref.com/en/matches/cae8313c/Hellas-Verona-Crotone-February-10-2019-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
+2019-02-11,Venezia,Lecce,1,1,NA,NA,3595,Antonio Giua,https://fbref.com/en/matches/921d0384/Venezia-Lecce-February-11-2019-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-15,Palermo,Brescia,1,1,NA,NA,22329,Juan Sacchi,https://fbref.com/en/matches/8b811d82/Palermo-Brescia-February-15-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-16,Benevento,Cittadella,1,0,NA,NA,9650,Aleandro Di Paolo,https://fbref.com/en/matches/692d5fd4/Benevento-Cittadella-February-16-2019-Serie-B,0,0,5,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-16,Carpi,Perugia,0,1,NA,NA,1856,Lorenzo Maggioni,https://fbref.com/en/matches/9e8c0b14/Carpi-Perugia-February-16-2019-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-16,Padova,Foggia,1,1,NA,NA,8715,Fabio Piscopo,https://fbref.com/en/matches/e2032e90/Padova-Foggia-February-16-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-16,Ascoli,Salernitana,2,4,NA,NA,6098,Daniele Minelli,https://fbref.com/en/matches/e685f342/Ascoli-Salernitana-February-16-2019-Serie-B,0,0,3,1,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-17,Lecce,Livorno,3,2,NA,NA,9544,Luca Massimi,https://fbref.com/en/matches/370d6cf7/Lecce-Livorno-February-17-2019-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,2,NA,NA,NA,NA,NA,2018-2019
+2019-02-17,Cosenza,Cremonese,2,0,NA,NA,4794,Niccolò Baroni,https://fbref.com/en/matches/34ce54f9/Cosenza-Cremonese-February-17-2019-Serie-B,1,2,3,1,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
+2019-02-17,Spezia,Hellas Verona,1,2,NA,NA,5839,Ivan Pezzuto,https://fbref.com/en/matches/acb57d47/Spezia-Hellas-Verona-February-17-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-18,Crotone,Pescara,0,2,NA,NA,6474,Antonio Rapuano,https://fbref.com/en/matches/536a4b57/Crotone-Pescara-February-18-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-22,Hellas Verona,Salernitana,1,0,NA,NA,9840,Marco Serra,https://fbref.com/en/matches/c3a6d1e5/Hellas-Verona-Salernitana-February-22-2019-Serie-B,0,0,3,1,NA,NA,NA,NA,NA,0,0,6,1,NA,NA,NA,NA,NA,2018-2019
+2019-02-23,Cremonese,Ascoli,0,1,NA,NA,5763,Luigi Nasca,https://fbref.com/en/matches/265d9869/Cremonese-Ascoli-February-23-2019-Serie-B,0,0,2,1,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-23,Carpi,Spezia,3,2,NA,NA,1961,Gianluca Aureliano,https://fbref.com/en/matches/5d21fa3e/Carpi-Spezia-February-23-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-23,Brescia,Crotone,2,0,NA,NA,8000,Riccardo Ros,https://fbref.com/en/matches/1c3349c5/Brescia-Crotone-February-23-2019-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
+2019-02-23,Perugia,Cosenza,0,1,NA,NA,7866,Alessandro Prontera,https://fbref.com/en/matches/ba8dff83/Perugia-Cosenza-February-23-2019-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,1,1,2,1,NA,NA,NA,NA,NA,2018-2019
+2019-02-23,Cittadella,Lecce,4,1,NA,NA,5543,Federico Dionisi,https://fbref.com/en/matches/10a7075b/Cittadella-Lecce-February-23-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-23,Pescara,Padova,2,0,NA,NA,5704,Francesco Fourneau,https://fbref.com/en/matches/e070b095/Pescara-Padova-February-23-2019-Serie-B,1,1,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-23,Foggia,Benevento,1,1,NA,NA,11207,Livio Marinelli,https://fbref.com/en/matches/73fde014/Foggia-Benevento-February-23-2019-Serie-B,0,0,2,1,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-24,Livorno,Venezia,1,0,NA,NA,5348,Davide Ghersini,https://fbref.com/en/matches/e4921fbb/Livorno-Venezia-February-24-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-26,Benevento,Pescara,2,1,NA,NA,10289,Valerio Marini,https://fbref.com/en/matches/16505da2/Benevento-Pescara-February-26-2019-Serie-B,0,1,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-26,Ascoli,Foggia,2,2,NA,NA,6157,Antonio Giua,https://fbref.com/en/matches/d896aa30/Ascoli-Foggia-February-26-2019-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-26,Cosenza,Carpi,1,0,NA,NA,6631,Ivan Pezzuto,https://fbref.com/en/matches/cd869b8c/Cosenza-Carpi-February-26-2019-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,1,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-26,Lecce,Hellas Verona,2,1,NA,NA,9518,Juan Sacchi,https://fbref.com/en/matches/114787a6/Lecce-Hellas-Verona-February-26-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-26,Padova,Brescia,1,1,NA,NA,8053,Niccolò Baroni,https://fbref.com/en/matches/3c1bf0ac/Padova-Brescia-February-26-2019-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-26,Salernitana,Cremonese,2,0,NA,NA,6601,Lorenzo Illuzzi,https://fbref.com/en/matches/6b739f5d/Salernitana-Cremonese-February-26-2019-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-26,Crotone,Palermo,3,0,NA,NA,6104,Eugenio Abbattista,https://fbref.com/en/matches/5afa221f/Crotone-Palermo-February-26-2019-Serie-B,1,1,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-27,Venezia,Perugia,2,3,NA,NA,2703,Luigi Pillitteri,https://fbref.com/en/matches/de1aeb2c/Venezia-Perugia-February-27-2019-Serie-B,0,1,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-27,Spezia,Livorno,3,0,NA,NA,6024,Marco Piccinini,https://fbref.com/en/matches/d531fd4e/Spezia-Livorno-February-27-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-01,Foggia,Cosenza,1,0,NA,NA,9500,Lorenzo Maggioni,https://fbref.com/en/matches/13bee5e7/Foggia-Cosenza-March-1-2019-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-02,Brescia,Cittadella,0,1,NA,NA,7500,Davide Ghersini,https://fbref.com/en/matches/9efdc2af/Brescia-Cittadella-March-2-2019-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-02,Carpi,Ascoli,1,1,NA,NA,2218,Antonio Rapuano,https://fbref.com/en/matches/a14f00b5/Carpi-Ascoli-March-2-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
+2019-03-02,Padova,Crotone,0,0,NA,NA,7576,Aleandro Di Paolo,https://fbref.com/en/matches/35df4be4/Padova-Crotone-March-2-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
+2019-03-02,Palermo,Lecce,2,1,NA,NA,9899,Gianluca Aureliano,https://fbref.com/en/matches/88eb24d2/Palermo-Lecce-March-2-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-03,Perugia,Salernitana,3,1,NA,NA,8556,Francesco Guccini,https://fbref.com/en/matches/1cc02770/Perugia-Salernitana-March-3-2019-Serie-B,0,0,3,1,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-03,Pescara,Spezia,2,0,NA,NA,6179,Livio Marinelli,https://fbref.com/en/matches/9f8ac067/Pescara-Spezia-March-3-2019-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,1,NA,NA,NA,NA,NA,2018-2019
+2019-03-03,Hellas Verona,Venezia,1,0,NA,NA,9828,Fabio Piscopo,https://fbref.com/en/matches/ef1f883d/Hellas-Verona-Venezia-March-3-2019-Serie-B,0,1,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-04,Livorno,Benevento,2,0,NA,NA,5842,Daniele Minelli,https://fbref.com/en/matches/2b546c5c/Livorno-Benevento-March-4-2019-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
+2019-03-08,Perugia,Hellas Verona,1,2,NA,NA,9501,Antonio Di Martino,https://fbref.com/en/matches/91f6f0fb/Perugia-Hellas-Verona-March-8-2019-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-09,Cittadella,Pescara,4,1,NA,NA,3923,Ivan Pezzuto,https://fbref.com/en/matches/7e7daff0/Cittadella-Pescara-March-9-2019-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-09,Cosenza,Brescia,2,3,NA,NA,10345,Federico Dionisi,https://fbref.com/en/matches/1c68e828/Cosenza-Brescia-March-9-2019-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,1,1,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-09,Lecce,Foggia,1,0,NA,NA,11680,Luigi Nasca,https://fbref.com/en/matches/d25cbaec/Lecce-Foggia-March-9-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2018-2019
+2019-03-09,Spezia,Padova,0,2,NA,NA,5028,Alessandro Prontera,https://fbref.com/en/matches/9deb0ca6/Spezia-Padova-March-9-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-10,Ascoli,Livorno,1,1,NA,NA,6623,Marco Serra,https://fbref.com/en/matches/75cd0cb7/Ascoli-Livorno-March-10-2019-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,1,1,4,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-10,Cremonese,Benevento,1,0,NA,NA,7308,Francesco Fourneau,https://fbref.com/en/matches/e32d2567/Cremonese-Benevento-March-10-2019-Serie-B,0,0,4,1,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-10,Salernitana,Crotone,0,2,NA,NA,7183,Manuel Volpi,https://fbref.com/en/matches/214efd1d/Salernitana-Crotone-March-10-2019-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-11,Venezia,Palermo,1,1,NA,NA,3154,Riccardo Ros,https://fbref.com/en/matches/7ce80baa/Venezia-Palermo-March-11-2019-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,1,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-15,Pescara,Cosenza,1,1,NA,NA,6088,Lorenzo Illuzzi,https://fbref.com/en/matches/b1676325/Pescara-Cosenza-March-15-2019-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-16,Livorno,Salernitana,1,0,NA,NA,6142,Aleandro Di Paolo,https://fbref.com/en/matches/4d7fb3e2/Livorno-Salernitana-March-16-2019-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-16,Foggia,Cittadella,1,1,NA,NA,9125,Niccolò Baroni,https://fbref.com/en/matches/93b9c334/Foggia-Cittadella-March-16-2019-Serie-B,1,1,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-16,Padova,Perugia,0,1,NA,NA,7858,Eugenio Abbattista,https://fbref.com/en/matches/3afa3d13/Padova-Perugia-March-16-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-16,Benevento,Spezia,2,3,NA,NA,9978,Antonio Giua,https://fbref.com/en/matches/1f6c9e51/Benevento-Spezia-March-16-2019-Serie-B,0,1,3,1,NA,NA,NA,NA,NA,1,1,4,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-16,Hellas Verona,Ascoli,1,1,NA,NA,12219,Luigi Pillitteri,https://fbref.com/en/matches/b0a4b460/Hellas-Verona-Ascoli-March-16-2019-Serie-B,0,0,3,1,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-17,Palermo,Carpi,4,1,NA,NA,9333,Luca Massimi,https://fbref.com/en/matches/20923c98/Palermo-Carpi-March-17-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,5,2,NA,NA,NA,NA,NA,2018-2019
+2019-03-17,Venezia,Cremonese,1,1,NA,NA,3461,Valerio Marini,https://fbref.com/en/matches/58572bc1/Venezia-Cremonese-March-17-2019-Serie-B,1,1,3,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-17,Crotone,Lecce,2,2,NA,NA,7401,Marco Piccinini,https://fbref.com/en/matches/b2b8d5b2/Crotone-Lecce-March-17-2019-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-23,Lecce,Ascoli,7,0,NA,NA,12583,Niccolò Baroni,https://fbref.com/en/matches/40c1d81f/Lecce-Ascoli-March-23-2019-Serie-B,1,1,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-29,Cremonese,Hellas Verona,1,1,NA,NA,9639,Livio Marinelli,https://fbref.com/en/matches/74f59213/Cremonese-Hellas-Verona-March-29-2019-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,1,1,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-30,Carpi,Crotone,1,2,NA,NA,2194,Davide Ghersini,https://fbref.com/en/matches/f953e6a7/Carpi-Crotone-March-30-2019-Serie-B,0,0,1,1,NA,NA,NA,NA,NA,1,1,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-30,Salernitana,Venezia,1,1,NA,NA,1912,Fabio Piscopo,https://fbref.com/en/matches/dbaddeb3/Salernitana-Venezia-March-30-2019-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-30,Cittadella,Padova,1,1,NA,NA,6605,Antonio Rapuano,https://fbref.com/en/matches/0868a2aa/Cittadella-Padova-March-30-2019-Serie-B,0,1,2,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
+2019-03-30,Perugia,Livorno,3,1,NA,NA,8151,Lorenzo Maggioni,https://fbref.com/en/matches/d1d2ddbe/Perugia-Livorno-March-30-2019-Serie-B,1,1,3,0,NA,NA,NA,NA,NA,1,1,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-30,Cosenza,Palermo,1,1,NA,NA,9268,Manuel Volpi,https://fbref.com/en/matches/b6ef29ba/Cosenza-Palermo-March-30-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,6,1,NA,NA,NA,NA,NA,2018-2019
+2019-03-30,Ascoli,Benevento,2,2,NA,NA,5672,Gianluca Aureliano,https://fbref.com/en/matches/d08f4576/Ascoli-Benevento-March-30-2019-Serie-B,0,0,7,0,NA,NA,NA,NA,NA,1,1,5,2,NA,NA,NA,NA,NA,2018-2019
+2019-03-30,Brescia,Foggia,2,1,NA,NA,10500,Daniele Minelli,https://fbref.com/en/matches/f9e68aad/Brescia-Foggia-March-30-2019-Serie-B,0,1,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-31,Lecce,Pescara,2,0,NA,NA,12936,Riccardo Ros,https://fbref.com/en/matches/af6b78c7/Lecce-Pescara-March-31-2019-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
+2019-04-02,Hellas Verona,Brescia,2,2,NA,NA,13059,Francesco Fourneau,https://fbref.com/en/matches/874b251b/Hellas-Verona-Brescia-April-2-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-02,Padova,Ascoli,1,2,NA,NA,6599,Ivan Pezzuto,https://fbref.com/en/matches/3985c3aa/Padova-Ascoli-April-2-2019-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,1,1,0,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-02,Venezia,Cittadella,1,1,NA,NA,3104,Juan Sacchi,https://fbref.com/en/matches/5b628b6a/Venezia-Cittadella-April-2-2019-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-02,Livorno,Cremonese,1,3,NA,NA,5814,Lorenzo Illuzzi,https://fbref.com/en/matches/e1688805/Livorno-Cremonese-April-2-2019-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-02,Benevento,Carpi,3,1,NA,NA,9505,Alessandro Prontera,https://fbref.com/en/matches/bea9d498/Benevento-Carpi-April-2-2019-Serie-B,1,1,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-02,Spezia,Salernitana,2,1,NA,NA,5040,Antonio Di Martino,https://fbref.com/en/matches/6dd43b29/Spezia-Salernitana-April-2-2019-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-02,Crotone,Perugia,2,0,NA,NA,6782,Daniele Minelli,https://fbref.com/en/matches/2def290c/Crotone-Perugia-April-2-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-03,Lecce,Cosenza,3,1,NA,NA,11785,Francesco Guccini,https://fbref.com/en/matches/ad7ef494/Lecce-Cosenza-April-3-2019-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-03,Pescara,Palermo,3,2,NA,NA,6557,Luigi Nasca,https://fbref.com/en/matches/36463fc5/Pescara-Palermo-April-3-2019-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-05,Brescia,Venezia,2,0,NA,NA,9000,Luca Massimi,https://fbref.com/en/matches/4988a02c/Brescia-Venezia-April-5-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-06,Carpi,Padova,2,1,NA,NA,2448,Marco Piccinini,https://fbref.com/en/matches/413e196a/Carpi-Padova-April-6-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-06,Cittadella,Livorno,4,0,NA,NA,3636,Valerio Marini,https://fbref.com/en/matches/46850e12/Cittadella-Livorno-April-6-2019-Serie-B,1,1,1,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
+2019-04-06,Foggia,Spezia,1,0,NA,NA,10350,Luigi Pillitteri,https://fbref.com/en/matches/4b01d75f/Foggia-Spezia-April-6-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-06,Perugia,Benevento,2,4,NA,NA,8093,Federico Dionisi,https://fbref.com/en/matches/a3c4834b/Perugia-Benevento-April-6-2019-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,2,2,4,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-07,Ascoli,Pescara,2,1,NA,NA,7045,Aleandro Di Paolo,https://fbref.com/en/matches/ffe83e8b/Ascoli-Pescara-April-7-2019-Serie-B,2,2,3,0,NA,NA,NA,NA,NA,1,1,0,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-07,Cremonese,Lecce,2,0,NA,NA,10199,Antonio Di Martino,https://fbref.com/en/matches/8f70fe26/Cremonese-Lecce-April-7-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
+2019-04-07,Cosenza,Crotone,1,0,NA,NA,8915,Eugenio Abbattista,https://fbref.com/en/matches/7ea3f515/Cosenza-Crotone-April-7-2019-Serie-B,0,0,2,1,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
+2019-04-08,Palermo,Hellas Verona,1,0,NA,NA,10377,Antonio Giua,https://fbref.com/en/matches/b07743b5/Palermo-Hellas-Verona-April-8-2019-Serie-B,0,0,3,1,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-12,Pescara,Perugia,1,1,NA,NA,5949,Antonio Rapuano,https://fbref.com/en/matches/3d060e4d/Pescara-Perugia-April-12-2019-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,1,1,NA,NA,NA,NA,NA,2018-2019
+2019-04-13,Salernitana,Cittadella,4,2,NA,NA,2910,Niccolò Baroni,https://fbref.com/en/matches/0cef9610/Salernitana-Cittadella-April-13-2019-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-13,Crotone,Cremonese,0,0,NA,NA,6570,Riccardo Ros,https://fbref.com/en/matches/a7c3b96a/Crotone-Cremonese-April-13-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-13,Lecce,Carpi,4,1,NA,NA,9360,Fabio Piscopo,https://fbref.com/en/matches/d3a6c5cf/Lecce-Carpi-April-13-2019-Serie-B,0,0,2,1,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-13,Venezia,Foggia,1,0,NA,NA,5344,Gianluca Aureliano,https://fbref.com/en/matches/d796b13b/Venezia-Foggia-April-13-2019-Serie-B,1,1,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-14,Spezia,Ascoli,3,2,NA,NA,4993,Manuel Volpi,https://fbref.com/en/matches/0e32920f/Spezia-Ascoli-April-14-2019-Serie-B,1,1,2,0,NA,NA,NA,NA,NA,0,0,1,2,NA,NA,NA,NA,NA,2018-2019
+2019-04-14,Padova,Cosenza,0,0,NA,NA,7243,Marco Serra,https://fbref.com/en/matches/b6db33fc/Padova-Cosenza-April-14-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-14,Benevento,Palermo,1,2,NA,NA,10861,Davide Ghersini,https://fbref.com/en/matches/06b61f68/Benevento-Palermo-April-14-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-15,Livorno,Brescia,0,1,NA,NA,5945,Livio Marinelli,https://fbref.com/en/matches/d23c6f26/Livorno-Brescia-April-15-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-22,Hellas Verona,Benevento,0,3,NA,NA,10482,Luigi Nasca,https://fbref.com/en/matches/3cf60c3a/Hellas-Verona-Benevento-April-22-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,1,1,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-22,Brescia,Salernitana,3,0,NA,NA,10900,Ivan Pezzuto,https://fbref.com/en/matches/e70d4431/Brescia-Salernitana-April-22-2019-Serie-B,1,1,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-22,Perugia,Lecce,1,2,NA,NA,7878,Juan Sacchi,https://fbref.com/en/matches/65089be2/Perugia-Lecce-April-22-2019-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-22,Carpi,Pescara,0,0,NA,NA,2125,Daniele Minelli,https://fbref.com/en/matches/1af7698e/Carpi-Pescara-April-22-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-22,Cittadella,Cremonese,1,3,NA,NA,4061,Francesco Guccini,https://fbref.com/en/matches/b07f4d8c/Cittadella-Cremonese-April-22-2019-Serie-B,1,1,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-22,Palermo,Padova,1,1,NA,NA,11639,Lorenzo Illuzzi,https://fbref.com/en/matches/a052b6c8/Palermo-Padova-April-22-2019-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,1,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-22,Ascoli,Venezia,1,0,NA,NA,6132,Livio Marinelli,https://fbref.com/en/matches/b3695175/Ascoli-Venezia-April-22-2019-Serie-B,1,1,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-22,Cosenza,Spezia,1,0,NA,NA,7402,Fabio Piscopo,https://fbref.com/en/matches/05771efa/Cosenza-Spezia-April-22-2019-Serie-B,0,1,3,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
+2019-04-22,Foggia,Livorno,2,2,NA,NA,11656,Francesco Fourneau,https://fbref.com/en/matches/81a2383e/Foggia-Livorno-April-22-2019-Serie-B,0,1,3,1,NA,NA,NA,NA,NA,0,1,5,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-26,Benevento,Cosenza,4,2,NA,NA,10919,Antonio Di Martino,https://fbref.com/en/matches/b0af2b48/Benevento-Cosenza-April-26-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-27,Salernitana,Carpi,2,5,NA,NA,6008,Luigi Pillitteri,https://fbref.com/en/matches/c65540f3/Salernitana-Carpi-April-27-2019-Serie-B,0,0,1,1,NA,NA,NA,NA,NA,1,1,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-27,Livorno,Palermo,2,2,NA,NA,6541,Aleandro Di Paolo,https://fbref.com/en/matches/69558dc5/Livorno-Palermo-April-27-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,1,1,1,1,NA,NA,NA,NA,NA,2018-2019
+2019-04-27,Venezia,Crotone,1,4,NA,NA,4152,Antonio Giua,https://fbref.com/en/matches/7f765c3e/Venezia-Crotone-April-27-2019-Serie-B,1,1,4,1,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-27,Pescara,Hellas Verona,1,1,NA,NA,9939,Eugenio Abbattista,https://fbref.com/en/matches/29154aa0/Pescara-Hellas-Verona-April-27-2019-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-27,Spezia,Perugia,1,1,NA,NA,5459,Valerio Marini,https://fbref.com/en/matches/9bc70a75/Spezia-Perugia-April-27-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-28,Cremonese,Foggia,1,0,NA,NA,8610,Federico Dionisi,https://fbref.com/en/matches/11a9743f/Cremonese-Foggia-April-28-2019-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-28,Cittadella,Ascoli,2,2,NA,NA,3783,Lorenzo Maggioni,https://fbref.com/en/matches/59a0ab52/Cittadella-Ascoli-April-28-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-28,Lecce,Brescia,1,0,NA,NA,21860,Marco Piccinini,https://fbref.com/en/matches/327f0f93/Lecce-Brescia-April-28-2019-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
+2019-05-01,Palermo,Spezia,2,2,NA,NA,7250,Antonio Rapuano,https://fbref.com/en/matches/fe8d636f/Palermo-Spezia-May-1-2019-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-01,Carpi,Cremonese,1,2,NA,NA,3163,Manuel Volpi,https://fbref.com/en/matches/e03d6ec1/Carpi-Cremonese-May-1-2019-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-01,Foggia,Salernitana,3,1,NA,NA,10095,Riccardo Ros,https://fbref.com/en/matches/afc52d99/Foggia-Salernitana-May-1-2019-Serie-B,1,1,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-01,Crotone,Benevento,1,0,NA,NA,7445,Juan Sacchi,https://fbref.com/en/matches/b20cb290/Crotone-Benevento-May-1-2019-Serie-B,0,0,2,1,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-01,Cosenza,Venezia,1,1,NA,NA,10234,Daniele Minelli,https://fbref.com/en/matches/eaa0583f/Cosenza-Venezia-May-1-2019-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-01,Padova,Lecce,2,1,NA,NA,9338,Lorenzo Illuzzi,https://fbref.com/en/matches/cd71517a/Padova-Lecce-May-1-2019-Serie-B,0,0,5,0,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-01,Hellas Verona,Livorno,2,3,NA,NA,9849,Gianluca Aureliano,https://fbref.com/en/matches/a50fa929/Hellas-Verona-Livorno-May-1-2019-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-01,Perugia,Cittadella,0,0,NA,NA,7679,Davide Ghersini,https://fbref.com/en/matches/ed096ce5/Perugia-Cittadella-May-1-2019-Serie-B,0,0,1,1,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-01,Brescia,Ascoli,1,0,NA,NA,12000,Niccolò Baroni,https://fbref.com/en/matches/4243b414/Brescia-Ascoli-May-1-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-04,Cremonese,Brescia,0,0,NA,NA,11840,Luigi Nasca,https://fbref.com/en/matches/225c019c/Cremonese-Brescia-May-4-2019-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-04,Ascoli,Palermo,1,2,NA,NA,6541,Francesco Fourneau,https://fbref.com/en/matches/4916778f/Ascoli-Palermo-May-4-2019-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-04,Venezia,Pescara,2,2,NA,NA,2919,Marco Piccinini,https://fbref.com/en/matches/cbb1162d/Venezia-Pescara-May-4-2019-Serie-B,2,2,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-04,Spezia,Crotone,2,0,NA,NA,5697,Livio Marinelli,https://fbref.com/en/matches/65b597bd/Spezia-Crotone-May-4-2019-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-04,Cittadella,Hellas Verona,3,0,NA,NA,2343,Ivan Pezzuto,https://fbref.com/en/matches/f764c7f4/Cittadella-Hellas-Verona-May-4-2019-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,5,1,NA,NA,NA,NA,NA,2018-2019
+2019-05-05,Livorno,Carpi,1,0,NA,NA,6198,Eugenio Abbattista,https://fbref.com/en/matches/a344bf87/Livorno-Carpi-May-5-2019-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-05,Benevento,Padova,3,3,NA,NA,9738,Lorenzo Maggioni,https://fbref.com/en/matches/75f533cb/Benevento-Padova-May-5-2019-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-05,Salernitana,Cosenza,1,2,NA,NA,5569,Francesco Guccini,https://fbref.com/en/matches/9402d0f0/Salernitana-Cosenza-May-5-2019-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-06,Foggia,Perugia,1,0,NA,NA,11301,Aleandro Di Paolo,https://fbref.com/en/matches/e546b5d1/Foggia-Perugia-May-6-2019-Serie-B,1,1,0,1,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-11,Brescia,Benevento,2,3,NA,NA,14000,Luigi Pillitteri,https://fbref.com/en/matches/2962fb30/Brescia-Benevento-May-11-2019-Serie-B,0,1,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-11,Palermo,Cittadella,2,2,NA,NA,28351,Juan Sacchi,https://fbref.com/en/matches/1c062b36/Palermo-Cittadella-May-11-2019-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-11,Perugia,Cremonese,3,1,NA,NA,7632,Antonio Giua,https://fbref.com/en/matches/b75b8e65/Perugia-Cremonese-May-11-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-11,Hellas Verona,Foggia,2,1,NA,NA,14517,Davide Ghersini,https://fbref.com/en/matches/603c3f1e/Hellas-Verona-Foggia-May-11-2019-Serie-B,1,1,2,1,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-11,Carpi,Venezia,2,3,NA,NA,1906,Lorenzo Illuzzi,https://fbref.com/en/matches/d27545c9/Carpi-Venezia-May-11-2019-Serie-B,1,1,2,1,NA,NA,NA,NA,NA,0,0,7,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-11,Pescara,Salernitana,2,0,NA,NA,9099,Luigi Nasca,https://fbref.com/en/matches/28468e61/Pescara-Salernitana-May-11-2019-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-11,Lecce,Spezia,2,1,NA,NA,25135,Gianluca Aureliano,https://fbref.com/en/matches/fb9efabb/Lecce-Spezia-May-11-2019-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-11,Padova,Livorno,1,1,NA,NA,7102,Antonio Rapuano,https://fbref.com/en/matches/3e533f00/Padova-Livorno-May-11-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-11,Crotone,Ascoli,3,0,NA,NA,10565,Fabio Piscopo,https://fbref.com/en/matches/1b18a581/Crotone-Ascoli-May-11-2019-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-17,Spezia,Cittadella,1,2,NA,NA,7442,Francesco Fourneau,https://fbref.com/en/matches/09169293/Spezia-Cittadella-May-17-2019-Serie-B,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-18,Hellas Verona,Perugia,4,1,NA,NA,10234,Ivan Pezzuto,https://fbref.com/en/matches/7045e395/Hellas-Verona-Perugia-May-18-2019-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,1,1,4,1,NA,NA,NA,NA,NA,2018-2019
+2019-05-21,Cittadella,Benevento,1,2,NA,NA,6250,Davide Ghersini,https://fbref.com/en/matches/c4ce2134/Cittadella-Benevento-May-21-2019-Serie-B,0,0,1,1,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
+2019-05-22,Hellas Verona,Pescara,0,0,NA,NA,11308,Livio Marinelli,https://fbref.com/en/matches/57d783cc/Hellas-Verona-Pescara-May-22-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-25,Benevento,Cittadella,0,3,NA,NA,10669,Juan Sacchi,https://fbref.com/en/matches/81ccd68e/Benevento-Cittadella-May-25-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-26,Pescara,Hellas Verona,0,1,NA,NA,11165,Eugenio Abbattista,https://fbref.com/en/matches/39092c01/Pescara-Hellas-Verona-May-26-2019-Serie-B,0,0,3,1,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-30,Cittadella,Hellas Verona,2,0,NA,NA,7623,Antonio Giua,https://fbref.com/en/matches/720c6c78/Cittadella-Hellas-Verona-May-30-2019-Serie-B,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-06-02,Hellas Verona,Cittadella,3,0,NA,NA,25248,Marco Piccinini,https://fbref.com/en/matches/e72f3e63/Hellas-Verona-Cittadella-June-2-2019-Serie-B,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,2,NA,NA,NA,NA,NA,2018-2019
+2019-06-05,Salernitana,Venezia,2,1,NA,NA,12722,Aleandro Di Paolo,https://fbref.com/en/matches/b1415dcd/Salernitana-Venezia-June-5-2019-Serie-B,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-06-09,Venezia,Salernitana,1,0,NA,NA,4414,Gianluca Aureliano,https://fbref.com/en/matches/91962a92/Venezia-Salernitana-June-9-2019-Serie-B,0,0,3,0,NA,NA,NA,NA,NA,0,0,0,1,NA,NA,NA,NA,NA,2018-2019
+2018-09-01,Cosenza,Hellas Verona,0,3,NA,NA,0,Fabio Piscopo,https://fbref.com/en/matches/8fd03979/Cosenza-Hellas-Verona-September-1-2018-Serie-B,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019

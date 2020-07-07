@@ -1,0 +1,307 @@
+date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_report_url,home_pk_goals,home_pk_attempts,home_yellow_cards,home_red_cards,home_shots,home_shots_on_target,home_tackles,home_interceptions,home_fouls_committed,away_pk_goals,away_pk_attempts,away_yellow_cards,away_red_cards,away_shots,away_shots_on_target,away_tackles,away_interceptions,away_fouls_committed,season
+2019-08-16,Denizlispor,Galatasaray,2,0,NA,NA,13666,Abdulkadir Bitigen,https://fbref.com/en/matches/bcbb9429/Denizlispor-Galatasaray-August-16-2019-Super-Lig,0,0,4,0,15,5,21,4,12,0,1,5,1,7,4,8,9,9,2019-2020
+2019-08-17,Gençlerbirliği,Rizespor,0,1,NA,NA,0,Bahattin Şimşek,https://fbref.com/en/matches/b43cde3e/Genclerbirligi-Rizespor-August-17-2019-Super-Lig,0,0,4,1,8,1,7,10,16,0,0,2,0,11,5,9,11,14,2019-2020
+2019-08-17,Sivasspor,Beşiktaş,3,0,NA,NA,0,Mustafa Ogretmenoglu,https://fbref.com/en/matches/c4416239/Sivasspor-Besiktas-August-17-2019-Super-Lig,0,0,4,0,13,8,11,15,15,0,0,3,0,13,3,4,13,9,2019-2020
+2019-08-17,Kayserispor,Alanyaspor,0,1,NA,NA,0,Tugay Kaan Numanoğlu,https://fbref.com/en/matches/40f1b16a/Kayserispor-Alanyaspor-August-17-2019-Super-Lig,0,0,4,0,6,3,11,6,13,0,0,1,0,14,7,11,10,10,2019-2020
+2019-08-18,Konyaspor,Ankaragücü,0,0,NA,NA,0,Bülent Birincioğlu,https://fbref.com/en/matches/cd11b2d6/Konyaspor-Ankaragucu-August-18-2019-Super-Lig,0,0,0,0,23,4,8,12,7,0,0,2,0,9,1,14,6,14,2019-2020
+2019-08-18,Göztepe,Antalyaspor,0,1,NA,NA,0,Zorbay Küçük,https://fbref.com/en/matches/5fe63329/Goztepe-Antalyaspor-August-18-2019-Super-Lig,0,0,3,0,7,1,16,7,15,0,0,2,0,10,3,6,14,13,2019-2020
+2019-08-18,Yeni Mal'spor,Başakşehir,3,0,NA,NA,0,Hüseyin Göçek,https://fbref.com/en/matches/721d6ef1/Yeni-Malatyaspor-Istanbul-Basaksehir-August-18-2019-Super-Lig,0,0,3,0,9,5,11,7,11,0,0,2,1,15,4,9,14,15,2019-2020
+2019-08-18,Kasımpaşa,Trabzonspor,1,1,NA,NA,0,Cüneyt Çakιr,https://fbref.com/en/matches/c2923368/Kasimpasa-Trabzonspor-August-18-2019-Super-Lig,0,0,2,0,15,7,11,11,14,0,0,0,0,17,2,10,6,17,2019-2020
+2019-08-19,Fenerbahçe,Gaziantep FK,5,0,NA,NA,0,Arda Kardeşler,https://fbref.com/en/matches/fac0007f/Fenerbahce-Gaziantep-FK-August-19-2019-Super-Lig,2,3,1,0,19,9,12,9,14,0,0,4,0,4,0,3,14,18,2019-2020
+2019-08-23,Beşiktaş,Göztepe,3,0,NA,NA,0,Ali Palabıyık,https://fbref.com/en/matches/3f87c3ea/Besiktas-Goztepe-August-23-2019-Super-Lig,0,0,1,0,8,4,8,12,19,0,0,1,0,12,3,9,8,9,2019-2020
+2019-08-24,Ankaragücü,Kayserispor,1,1,NA,NA,0,Ali Şansalan,https://fbref.com/en/matches/56810df7/Ankaragucu-Kayserispor-August-24-2019-Super-Lig,0,0,3,0,15,5,12,5,18,0,0,1,0,15,5,8,4,9,2019-2020
+2019-08-24,Başakşehir,Fenerbahçe,1,2,NA,NA,0,Halil Meler,https://fbref.com/en/matches/6f5ac736/Istanbul-Basaksehir-Fenerbahce-August-24-2019-Super-Lig,0,0,0,0,12,4,6,6,11,0,0,0,0,13,3,8,3,10,2019-2020
+2019-08-24,Alanyaspor,Kasımpaşa,4,1,NA,NA,0,Serkan Tokat,https://fbref.com/en/matches/22ce922a/Alanyaspor-Kasimpasa-August-24-2019-Super-Lig,0,0,4,0,18,8,6,9,13,0,0,4,0,6,1,9,10,11,2019-2020
+2019-08-25,Rizespor,Sivasspor,2,1,NA,NA,0,Fırat Aydınus,https://fbref.com/en/matches/177ff893/Rizespor-Sivasspor-August-25-2019-Super-Lig,1,1,2,0,11,5,7,9,15,0,0,2,0,15,2,9,9,11,2019-2020
+2019-08-25,Trabzonspor,Yeni Mal'spor,2,1,NA,NA,0,Koray Gençerler,https://fbref.com/en/matches/aeea6ac9/Trabzonspor-Yeni-Malatyaspor-August-25-2019-Super-Lig,0,0,1,0,16,5,12,8,5,0,0,2,0,13,2,14,9,13,2019-2020
+2019-08-25,Antalyaspor,Denizlispor,0,2,NA,NA,0,Volkan Bayarslan,https://fbref.com/en/matches/17b1248e/Antalyaspor-Denizlispor-August-25-2019-Super-Lig,0,1,1,0,19,3,6,12,13,0,0,3,0,8,2,5,8,14,2019-2020
+2019-08-25,Galatasaray,Konyaspor,1,1,NA,NA,0,Mete Kalkavan,https://fbref.com/en/matches/582f186c/Galatasaray-Konyaspor-August-25-2019-Super-Lig,0,0,1,1,18,6,5,8,8,0,0,3,0,16,4,10,13,11,2019-2020
+2019-08-26,Gaziantep FK,Gençlerbirliği,4,1,NA,NA,0,Atilla Karaoğlan,https://fbref.com/en/matches/52a32925/Gaziantep-FK-Genclerbirligi-August-26-2019-Super-Lig,1,1,1,0,15,7,15,16,17,0,0,1,2,12,4,14,14,8,2019-2020
+2019-08-30,Kasımpaşa,Ankaragücü,0,1,NA,NA,0,Zorbay Küçük,https://fbref.com/en/matches/fcc2261c/Kasimpasa-Ankaragucu-August-30-2019-Super-Lig,0,0,1,0,27,7,9,12,10,0,0,5,0,4,2,11,5,26,2019-2020
+2019-08-30,Kayserispor,Galatasaray,2,3,NA,NA,0,Mustafa Ogretmenoglu,https://fbref.com/en/matches/014d6aae/Kayserispor-Galatasaray-August-30-2019-Super-Lig,0,0,8,3,8,4,14,9,21,1,1,6,1,20,10,8,6,13,2019-2020
+2019-08-31,Konyaspor,Antalyaspor,2,2,NA,NA,0,Umit Öztürk,https://fbref.com/en/matches/037bbda4/Konyaspor-Antalyaspor-August-31-2019-Super-Lig,0,0,2,0,17,4,7,6,13,1,1,2,0,15,6,8,7,14,2019-2020
+2019-08-31,Göztepe,Denizlispor,0,0,NA,NA,0,Suat Arslanboga,https://fbref.com/en/matches/9c73fa0b/Goztepe-Denizlispor-August-31-2019-Super-Lig,0,1,3,0,17,2,7,13,13,0,0,4,1,5,1,8,9,14,2019-2020
+2019-08-31,Beşiktaş,Rizespor,1,1,NA,NA,0,Yaşar Kemal Uğurlu,https://fbref.com/en/matches/fcae1223/Besiktas-Rizespor-August-31-2019-Super-Lig,0,0,5,0,20,4,10,13,16,0,0,1,0,6,2,9,12,10,2019-2020
+2019-09-01,Gençlerbirliği,Başakşehir,1,2,NA,NA,0,Cüneyt Çakιr,https://fbref.com/en/matches/36685727/Genclerbirligi-Istanbul-Basaksehir-September-1-2019-Super-Lig,0,0,5,0,8,5,9,12,26,1,1,2,0,22,9,7,5,17,2019-2020
+2019-09-01,Sivasspor,Gaziantep FK,1,1,NA,NA,0,Hüseyin Göçek,https://fbref.com/en/matches/386b05d6/Sivasspor-Gaziantep-FK-September-1-2019-Super-Lig,0,0,3,0,22,5,9,6,14,0,0,4,0,11,4,10,8,19,2019-2020
+2019-09-01,Fenerbahçe,Trabzonspor,1,1,NA,NA,43478,Fırat Aydınus,https://fbref.com/en/matches/b0be9b76/Fenerbahce-Trabzonspor-September-1-2019-Super-Lig,0,0,1,0,21,9,10,6,14,0,0,3,0,10,5,5,8,9,2019-2020
+2019-09-01,Yeni Mal'spor,Alanyaspor,2,3,NA,NA,0,Alper Ulusoy,https://fbref.com/en/matches/90583b81/Yeni-Malatyaspor-Alanyaspor-September-1-2019-Super-Lig,0,0,4,0,14,8,9,8,18,0,0,2,0,8,5,15,12,13,2019-2020
+2019-09-13,Galatasaray,Kasımpaşa,1,0,NA,NA,0,Ali Palabıyık,https://fbref.com/en/matches/4eecd7d3/Galatasaray-Kasimpasa-September-13-2019-Super-Lig,0,0,2,0,15,4,2,6,15,0,0,3,0,9,2,11,11,18,2019-2020
+2019-09-14,Başakşehir,Sivasspor,1,1,NA,NA,0,Arda Kardeşler,https://fbref.com/en/matches/81259630/Istanbul-Basaksehir-Sivasspor-September-14-2019-Super-Lig,0,0,2,0,13,5,8,9,13,0,0,2,0,9,2,13,17,15,2019-2020
+2019-09-14,Antalyaspor,Kayserispor,2,2,NA,NA,0,Fırat Aydınus,https://fbref.com/en/matches/95f3bda9/Antalyaspor-Kayserispor-September-14-2019-Super-Lig,1,1,3,0,18,5,10,4,14,1,1,1,0,5,3,13,5,15,2019-2020
+2019-09-14,Gaziantep FK,Beşiktaş,3,2,NA,NA,0,Halil Meler,https://fbref.com/en/matches/569d9988/Gaziantep-FK-Besiktas-September-14-2019-Super-Lig,1,1,4,1,14,5,10,8,15,0,0,4,2,12,5,6,8,9,2019-2020
+2019-09-15,Ankaragücü,Yeni Mal'spor,0,4,NA,NA,0,Volkan Bayarslan,https://fbref.com/en/matches/d5366c8d/Ankaragucu-Yeni-Malatyaspor-September-15-2019-Super-Lig,0,0,4,1,11,2,15,7,12,0,0,3,0,18,10,9,5,12,2019-2020
+2019-09-15,Rizespor,Göztepe,0,0,NA,NA,0,Abdulkadir Bitigen,https://fbref.com/en/matches/d86bcb89/Rizespor-Goztepe-September-15-2019-Super-Lig,0,0,3,0,9,2,8,12,21,0,0,4,0,3,1,8,10,10,2019-2020
+2019-09-15,Denizlispor,Konyaspor,0,1,NA,NA,0,Ali Şansalan,https://fbref.com/en/matches/8b46b571/Denizlispor-Konyaspor-September-15-2019-Super-Lig,0,0,4,0,8,2,8,10,13,0,0,2,0,10,4,11,12,4,2019-2020
+2019-09-15,Trabzonspor,Gençlerbirliği,2,2,NA,NA,0,Mete Kalkavan,https://fbref.com/en/matches/76bd67e8/Trabzonspor-Genclerbirligi-September-15-2019-Super-Lig,1,1,2,0,17,9,12,12,11,0,0,2,0,14,6,16,11,15,2019-2020
+2019-09-16,Alanyaspor,Fenerbahçe,3,1,NA,NA,0,Halis Özkahya,https://fbref.com/en/matches/a046ce01/Alanyaspor-Fenerbahce-September-16-2019-Super-Lig,0,0,1,0,12,6,3,9,13,0,0,1,0,11,4,10,8,14,2019-2020
+2019-09-20,Göztepe,Konyaspor,1,0,NA,NA,0,Özgür Yankaya,https://fbref.com/en/matches/11077e84/Goztepe-Konyaspor-September-20-2019-Super-Lig,1,1,1,1,16,10,7,6,9,0,0,3,0,9,1,7,8,14,2019-2020
+2019-09-21,Kasımpaşa,Antalyaspor,3,0,NA,NA,0,Koray Gençerler,https://fbref.com/en/matches/e5ed03aa/Kasimpasa-Antalyaspor-September-21-2019-Super-Lig,0,0,2,0,15,7,16,16,17,0,0,3,0,10,3,14,6,15,2019-2020
+2019-09-21,Kayserispor,Denizlispor,1,1,NA,NA,0,Hüseyin Göçek,https://fbref.com/en/matches/b7f4e966/Kayserispor-Denizlispor-September-21-2019-Super-Lig,0,0,2,0,12,5,14,8,19,0,0,1,0,18,5,6,9,13,2019-2020
+2019-09-21,Fenerbahçe,Ankaragücü,2,1,NA,NA,0,Abdulkadir Bitigen,https://fbref.com/en/matches/d7269d40/Fenerbahce-Ankaragucu-September-21-2019-Super-Lig,0,0,2,0,30,8,4,11,11,0,0,3,0,6,3,10,6,11,2019-2020
+2019-09-22,Rizespor,Gaziantep FK,1,2,NA,NA,0,Serkan Tokat,https://fbref.com/en/matches/c76b8ad3/Rizespor-Gaziantep-FK-September-22-2019-Super-Lig,0,0,2,0,15,4,17,4,9,0,0,2,0,5,4,11,19,13,2019-2020
+2019-09-22,Gençlerbirliği,Alanyaspor,1,1,NA,NA,0,Zorbay Küçük,https://fbref.com/en/matches/0e613ab4/Genclerbirligi-Alanyaspor-September-22-2019-Super-Lig,1,1,3,0,12,5,16,3,15,0,0,3,0,14,5,11,12,22,2019-2020
+2019-09-22,Yeni Mal'spor,Galatasaray,1,1,NA,NA,0,Arda Kardeşler,https://fbref.com/en/matches/e4d2898e/Yeni-Malatyaspor-Galatasaray-September-22-2019-Super-Lig,0,0,1,0,16,4,10,10,16,0,0,3,0,12,3,7,11,16,2019-2020
+2019-09-23,Beşiktaş,Başakşehir,1,1,NA,NA,0,Suat Arslanboga,https://fbref.com/en/matches/05798ece/Besiktas-Istanbul-Basaksehir-September-23-2019-Super-Lig,1,1,4,0,8,2,9,9,9,0,0,5,0,11,7,17,12,18,2019-2020
+2019-09-23,Sivasspor,Trabzonspor,2,1,NA,NA,0,Yaşar Kemal Uğurlu,https://fbref.com/en/matches/0654ec66/Sivasspor-Trabzonspor-September-23-2019-Super-Lig,0,0,3,0,16,6,15,8,16,0,1,3,0,15,4,11,16,18,2019-2020
+2019-09-27,Başakşehir,Rizespor,5,0,NA,NA,0,Fırat Aydınus,https://fbref.com/en/matches/13fc4889/Istanbul-Basaksehir-Rizespor-September-27-2019-Super-Lig,0,0,0,0,16,7,13,8,9,0,0,2,0,13,1,8,17,14,2019-2020
+2019-09-28,Denizlispor,Kasımpaşa,0,1,NA,NA,0,Tugay Kaan Numanoğlu,https://fbref.com/en/matches/f8438a1a/Denizlispor-Kasimpasa-September-28-2019-Super-Lig,0,0,0,0,16,7,8,16,10,0,0,2,0,16,7,10,13,19,2019-2020
+2019-09-28,Alanyaspor,Sivasspor,1,1,NA,NA,0,Halil Meler,https://fbref.com/en/matches/278d648f/Alanyaspor-Sivasspor-September-28-2019-Super-Lig,0,0,3,0,29,11,11,7,19,0,0,4,0,8,4,13,17,17,2019-2020
+2019-09-28,Galatasaray,Fenerbahçe,0,0,NA,NA,0,Cüneyt Çakιr,https://fbref.com/en/matches/3053474b/Galatasaray-Fenerbahce-September-28-2019-Super-Lig,0,0,2,0,5,3,6,13,18,0,0,1,0,12,3,9,12,13,2019-2020
+2019-09-29,Konyaspor,Kayserispor,2,1,NA,NA,0,Alper Ulusoy,https://fbref.com/en/matches/4e8aa24f/Konyaspor-Kayserispor-September-29-2019-Super-Lig,1,1,4,0,24,8,8,12,10,0,0,7,2,7,3,11,9,19,2019-2020
+2019-09-29,Ankaragücü,Gençlerbirliği,2,1,NA,NA,0,Umit Öztürk,https://fbref.com/en/matches/abd3b0f9/Ankaragucu-Genclerbirligi-September-29-2019-Super-Lig,0,0,1,0,12,5,7,12,15,0,0,2,0,16,5,5,7,11,2019-2020
+2019-09-29,Antalyaspor,Yeni Mal'spor,3,0,NA,NA,0,Bahattin Şimşek,https://fbref.com/en/matches/c582452d/Antalyaspor-Yeni-Malatyaspor-September-29-2019-Super-Lig,0,0,2,0,11,5,8,8,14,0,0,2,1,11,1,9,15,14,2019-2020
+2019-09-29,Trabzonspor,Beşiktaş,4,1,NA,NA,0,Ali Palabıyık,https://fbref.com/en/matches/c72294da/Trabzonspor-Besiktas-September-29-2019-Super-Lig,0,0,6,0,13,5,13,9,23,0,0,3,0,12,4,12,12,10,2019-2020
+2019-09-30,Gaziantep FK,Göztepe,1,1,NA,NA,0,Ali Şansalan,https://fbref.com/en/matches/9cdc8577/Gaziantep-FK-Goztepe-September-30-2019-Super-Lig,0,0,2,0,15,2,8,10,12,0,0,4,1,4,2,11,10,9,2019-2020
+2019-10-04,Yeni Mal'spor,Denizlispor,5,1,NA,NA,0,Bülent Birincioğlu,https://fbref.com/en/matches/28844bb0/Yeni-Malatyaspor-Denizlispor-October-4-2019-Super-Lig,2,2,2,0,15,7,7,9,20,0,0,6,0,9,4,5,6,13,2019-2020
+2019-10-04,Fenerbahçe,Antalyaspor,0,1,NA,NA,0,Yaşar Kemal Uğurlu,https://fbref.com/en/matches/8914840b/Fenerbahce-Antalyaspor-October-4-2019-Super-Lig,0,0,2,0,25,6,8,12,10,0,0,2,0,7,5,10,14,17,2019-2020
+2019-10-05,Kasımpaşa,Konyaspor,1,4,NA,NA,0,Serkan Tokat,https://fbref.com/en/matches/4ce58f88/Kasimpasa-Konyaspor-October-5-2019-Super-Lig,0,0,5,0,17,8,11,9,11,2,3,4,0,14,9,5,8,10,2019-2020
+2019-10-05,Göztepe,Kayserispor,4,0,NA,NA,0,Cüneyt Çakιr,https://fbref.com/en/matches/1a850a23/Goztepe-Kayserispor-October-5-2019-Super-Lig,0,1,1,0,16,8,9,16,13,0,0,2,0,8,3,12,6,15,2019-2020
+2019-10-05,Gençlerbirliği,Galatasaray,0,0,NA,NA,0,Halil Meler,https://fbref.com/en/matches/a447ac9e/Genclerbirligi-Galatasaray-October-5-2019-Super-Lig,0,0,7,1,20,6,7,20,19,0,0,4,0,10,1,8,6,17,2019-2020
+2019-10-06,Sivasspor,Ankaragücü,3,1,NA,NA,0,Atilla Karaoğlan,https://fbref.com/en/matches/69f0d189/Sivasspor-Ankaragucu-October-6-2019-Super-Lig,0,0,4,0,11,5,5,8,14,0,0,1,0,14,4,12,11,12,2019-2020
+2019-10-06,Beşiktaş,Alanyaspor,2,0,NA,NA,0,Arda Kardeşler,https://fbref.com/en/matches/20e3e7e8/Besiktas-Alanyaspor-October-6-2019-Super-Lig,1,1,3,0,7,4,13,17,11,0,0,4,0,14,3,14,21,11,2019-2020
+2019-10-06,Gaziantep FK,Başakşehir,1,2,NA,NA,0,Koray Gençerler,https://fbref.com/en/matches/2e387a7f/Gaziantep-FK-Istanbul-Basaksehir-October-6-2019-Super-Lig,0,0,1,1,5,2,17,24,14,0,0,6,0,21,9,8,4,18,2019-2020
+2019-10-06,Rizespor,Trabzonspor,1,2,NA,NA,0,Hüseyin Göçek,https://fbref.com/en/matches/cd2b363b/Rizespor-Trabzonspor-October-6-2019-Super-Lig,0,0,5,0,16,4,17,8,17,0,0,2,0,13,4,10,7,11,2019-2020
+2019-10-18,Galatasaray,Sivasspor,3,2,NA,NA,0,Ali Palabıyık,https://fbref.com/en/matches/97c38c23/Galatasaray-Sivasspor-October-18-2019-Super-Lig,1,1,4,0,19,8,9,12,10,0,0,4,1,16,7,14,9,20,2019-2020
+2019-10-19,Antalyaspor,Gençlerbirliği,0,6,NA,NA,0,Abdulkadir Bitigen,https://fbref.com/en/matches/8339fdc3/Antalyaspor-Genclerbirligi-October-19-2019-Super-Lig,0,0,2,1,11,1,11,10,5,0,0,2,0,11,9,11,10,16,2019-2020
+2019-10-19,Trabzonspor,Gaziantep FK,4,1,NA,NA,0,Özgür Yankaya,https://fbref.com/en/matches/e3217f41/Trabzonspor-Gaziantep-FK-October-19-2019-Super-Lig,0,0,1,0,12,5,12,14,16,0,0,1,1,14,5,17,11,14,2019-2020
+2019-10-19,Başakşehir,Göztepe,2,1,NA,NA,0,Yaşar Kemal Uğurlu,https://fbref.com/en/matches/d92c21e6/Istanbul-Basaksehir-Goztepe-October-19-2019-Super-Lig,0,0,1,0,14,5,7,14,17,0,0,3,0,11,2,7,11,13,2019-2020
+2019-10-19,Ankaragücü,Beşiktaş,0,0,NA,NA,0,Ali Simlan,https://fbref.com/en/matches/74eced91/Ankaragucu-Besiktas-October-19-2019-Super-Lig,0,0,3,1,4,1,11,9,17,0,0,4,0,14,4,12,5,9,2019-2020
+2019-10-20,Kayserispor,Kasımpaşa,1,1,NA,NA,0,Atilla Karaoğlan,https://fbref.com/en/matches/76bb01ee/Kayserispor-Kasimpasa-October-20-2019-Super-Lig,0,0,5,0,23,10,12,11,14,0,0,3,0,9,3,8,11,17,2019-2020
+2019-10-20,Alanyaspor,Rizespor,5,2,NA,NA,0,Cüneyt Çakιr,https://fbref.com/en/matches/0fc6cc10/Alanyaspor-Rizespor-October-20-2019-Super-Lig,0,0,0,0,21,11,10,11,21,1,1,1,0,5,3,6,9,16,2019-2020
+2019-10-20,Denizlispor,Fenerbahçe,1,2,NA,NA,0,Fırat Aydınus,https://fbref.com/en/matches/70971b36/Denizlispor-Fenerbahce-October-20-2019-Super-Lig,0,0,2,0,3,1,10,13,12,0,0,0,0,8,3,13,10,12,2019-2020
+2019-10-21,Konyaspor,Yeni Mal'spor,0,2,NA,NA,0,Mustafa Ogretmenoglu,https://fbref.com/en/matches/1f3defd5/Konyaspor-Yeni-Malatyaspor-October-21-2019-Super-Lig,0,0,1,1,6,3,5,9,10,0,0,2,0,12,6,10,11,16,2019-2020
+2019-10-25,Rizespor,Ankaragücü,2,0,NA,NA,0,Koray Gençerler,https://fbref.com/en/matches/c03e1a3b/Rizespor-Ankaragucu-October-25-2019-Super-Lig,1,1,1,0,22,8,8,16,20,0,0,3,0,15,3,16,11,11,2019-2020
+2019-10-26,Sivasspor,Antalyaspor,2,1,NA,NA,0,Alper Ulusoy,https://fbref.com/en/matches/258b49df/Sivasspor-Antalyaspor-October-26-2019-Super-Lig,0,0,3,0,9,3,9,12,15,1,1,1,0,8,3,17,8,8,2019-2020
+2019-10-26,Gaziantep FK,Alanyaspor,1,1,NA,NA,0,Serkan Tokat,https://fbref.com/en/matches/89a19c5f/Gaziantep-FK-Alanyaspor-October-26-2019-Super-Lig,0,0,3,0,9,3,9,6,19,0,0,2,0,7,2,6,10,13,2019-2020
+2019-10-26,Fenerbahçe,Konyaspor,5,1,NA,NA,0,Ali Şansalan,https://fbref.com/en/matches/f698f228/Fenerbahce-Konyaspor-October-26-2019-Super-Lig,0,0,1,0,19,8,16,13,13,0,0,1,0,5,1,9,6,6,2019-2020
+2019-10-27,Yeni Mal'spor,Kayserispor,4,0,NA,NA,0,Zorbay Küçük,https://fbref.com/en/matches/9e97759a/Yeni-Malatyaspor-Kayserispor-October-27-2019-Super-Lig,1,1,1,0,18,7,8,7,15,0,0,3,0,5,2,10,10,18,2019-2020
+2019-10-27,Gençlerbirliği,Denizlispor,0,2,NA,NA,0,Halis Özkahya,https://fbref.com/en/matches/1270195b/Genclerbirligi-Denizlispor-October-27-2019-Super-Lig,0,0,1,0,16,7,8,13,13,1,1,2,0,10,3,12,11,9,2019-2020
+2019-10-27,Göztepe,Kasımpaşa,1,4,NA,NA,0,Umit Öztürk,https://fbref.com/en/matches/f2b591f1/Goztepe-Kasimpasa-October-27-2019-Super-Lig,0,0,4,0,11,3,4,12,13,1,1,3,0,16,8,18,10,18,2019-2020
+2019-10-27,Beşiktaş,Galatasaray,1,0,NA,NA,0,Mete Kalkavan,https://fbref.com/en/matches/0cf12393/Besiktas-Galatasaray-October-27-2019-Super-Lig,0,0,2,0,13,7,8,22,11,0,0,3,0,14,2,4,18,15,2019-2020
+2019-10-28,Başakşehir,Trabzonspor,2,2,NA,NA,0,Ali Palabıyık,https://fbref.com/en/matches/73b37ac1/Istanbul-Basaksehir-Trabzonspor-October-28-2019-Super-Lig,1,1,2,0,21,5,9,11,13,1,1,3,0,9,6,13,11,7,2019-2020
+2019-11-01,Galatasaray,Rizespor,2,0,NA,NA,0,Abdulkadir Bitigen,https://fbref.com/en/matches/e3b3b186/Galatasaray-Rizespor-November-1-2019-Super-Lig,1,1,1,0,12,7,11,7,14,0,0,3,0,10,3,11,15,19,2019-2020
+2019-11-02,Konyaspor,Gençlerbirliği,1,1,NA,NA,0,Volkan Bayarslan,https://fbref.com/en/matches/de9036fe/Konyaspor-Genclerbirligi-November-2-2019-Super-Lig,0,0,1,0,10,3,12,5,13,0,0,2,0,15,2,9,5,9,2019-2020
+2019-11-02,Alanyaspor,Başakşehir,0,0,NA,NA,0,Mete Kalkavan,https://fbref.com/en/matches/a240e32d/Alanyaspor-Istanbul-Basaksehir-November-2-2019-Super-Lig,0,0,1,0,22,3,10,9,13,0,0,1,0,4,1,7,13,10,2019-2020
+2019-11-02,Trabzonspor,Göztepe,0,1,NA,NA,0,Fırat Aydınus,https://fbref.com/en/matches/1a69f320/Trabzonspor-Goztepe-November-2-2019-Super-Lig,0,0,0,0,21,6,16,13,3,0,0,3,0,6,2,15,10,10,2019-2020
+2019-11-02,Antalyaspor,Beşiktaş,1,2,NA,NA,0,Cüneyt Çakιr,https://fbref.com/en/matches/958a0444/Antalyaspor-Besiktas-November-2-2019-Super-Lig,0,0,3,0,14,4,7,12,13,0,0,2,0,12,6,12,14,17,2019-2020
+2019-11-03,Denizlispor,Sivasspor,0,2,NA,NA,0,Zorbay Küçük,https://fbref.com/en/matches/a6e43681/Denizlispor-Sivasspor-November-3-2019-Super-Lig,0,0,3,0,10,2,10,17,14,0,0,3,0,16,6,11,11,22,2019-2020
+2019-11-03,Kasımpaşa,Yeni Mal'spor,2,2,NA,NA,0,Halis Özkahya,https://fbref.com/en/matches/6cc0bf84/Kasimpasa-Yeni-Malatyaspor-November-3-2019-Super-Lig,0,0,2,0,19,6,12,16,13,0,0,3,1,13,5,12,11,14,2019-2020
+2019-11-03,Kayserispor,Fenerbahçe,1,0,NA,NA,0,Arda Kardeşler,https://fbref.com/en/matches/11c95518/Kayserispor-Fenerbahce-November-3-2019-Super-Lig,0,0,1,0,11,1,10,6,19,0,0,3,0,23,6,12,10,10,2019-2020
+2019-11-04,Ankaragücü,Gaziantep FK,1,2,NA,NA,0,Halil Meler,https://fbref.com/en/matches/60066744/Ankaragucu-Gaziantep-FK-November-4-2019-Super-Lig,0,0,2,0,13,6,12,11,16,1,1,2,0,9,5,7,16,16,2019-2020
+2019-11-08,Fenerbahçe,Kasımpaşa,3,2,NA,NA,0,Ali Palabıyık,https://fbref.com/en/matches/4d4ec68a/Fenerbahce-Kasimpasa-November-8-2019-Super-Lig,2,2,3,1,19,9,14,9,14,0,0,5,1,8,5,13,12,14,2019-2020
+2019-11-09,Gençlerbirliği,Kayserispor,2,1,NA,NA,0,Ali Şansalan,https://fbref.com/en/matches/e92bca2b/Genclerbirligi-Kayserispor-November-9-2019-Super-Lig,0,0,2,0,15,7,10,7,13,0,0,0,0,7,3,16,11,7,2019-2020
+2019-11-09,Sivasspor,Konyaspor,2,0,NA,NA,0,Mete Kalkavan,https://fbref.com/en/matches/3f18c218/Sivasspor-Konyaspor-November-9-2019-Super-Lig,0,0,1,0,17,10,12,6,10,0,0,4,1,2,1,9,10,9,2019-2020
+2019-11-09,Rizespor,Antalyaspor,1,0,NA,NA,0,Yaşar Kemal Uğurlu,https://fbref.com/en/matches/4a599b5e/Rizespor-Antalyaspor-November-9-2019-Super-Lig,0,0,2,1,5,3,13,6,18,0,0,4,0,33,8,20,10,13,2019-2020
+2019-11-09,Gaziantep FK,Galatasaray,0,2,NA,NA,0,Cüneyt Çakιr,https://fbref.com/en/matches/7d0d6c0f/Gaziantep-FK-Galatasaray-November-9-2019-Super-Lig,0,0,3,0,7,0,8,7,17,0,0,1,0,12,3,8,5,13,2019-2020
+2019-11-10,Göztepe,Yeni Mal'spor,1,1,NA,NA,0,Arda Kardeşler,https://fbref.com/en/matches/468a2606/Goztepe-Yeni-Malatyaspor-November-10-2019-Super-Lig,0,0,6,1,7,3,11,10,19,1,1,6,1,7,2,5,8,13,2019-2020
+2019-11-10,Trabzonspor,Alanyaspor,1,0,NA,NA,0,Abdulkadir Bitigen,https://fbref.com/en/matches/e458cb98/Trabzonspor-Alanyaspor-November-10-2019-Super-Lig,1,2,4,1,7,2,15,14,8,0,0,4,1,13,4,12,7,18,2019-2020
+2019-11-10,Başakşehir,Ankaragücü,2,1,NA,NA,0,Zorbay Küçük,https://fbref.com/en/matches/cdfaa014/Istanbul-Basaksehir-Ankaragucu-November-10-2019-Super-Lig,0,0,1,0,16,7,11,7,13,0,0,2,0,19,6,7,9,9,2019-2020
+2019-11-10,Beşiktaş,Denizlispor,1,0,NA,NA,0,Özgür Yankaya,https://fbref.com/en/matches/cfaec0ae/Besiktas-Denizlispor-November-10-2019-Super-Lig,0,0,2,0,14,6,8,9,12,0,0,2,0,11,3,13,17,16,2019-2020
+2019-11-22,Galatasaray,Başakşehir,0,1,NA,NA,0,Yaşar Kemal Uğurlu,https://fbref.com/en/matches/1901fbf6/Galatasaray-Istanbul-Basaksehir-November-22-2019-Super-Lig,0,0,3,0,13,3,11,8,17,0,0,3,0,9,2,6,11,16,2019-2020
+2019-11-23,Denizlispor,Rizespor,2,0,NA,NA,0,Halil Meler,https://fbref.com/en/matches/75e62032/Denizlispor-Rizespor-November-23-2019-Super-Lig,1,1,3,0,12,3,7,13,13,0,0,3,0,5,0,6,13,14,2019-2020
+2019-11-23,Ankaragücü,Trabzonspor,0,3,NA,NA,0,Cüneyt Çakιr,https://fbref.com/en/matches/a23d30f7/Ankaragucu-Trabzonspor-November-23-2019-Super-Lig,0,0,5,1,12,1,12,12,18,0,0,2,0,21,10,9,9,12,2019-2020
+2019-11-23,Konyaspor,Beşiktaş,0,1,NA,NA,0,Fırat Aydınus,https://fbref.com/en/matches/e971e944/Konyaspor-Besiktas-November-23-2019-Super-Lig,0,0,3,0,7,1,6,13,12,0,0,1,0,9,4,6,11,11,2019-2020
+2019-11-24,Kayserispor,Sivasspor,1,4,NA,NA,0,Halis Özkahya,https://fbref.com/en/matches/4acff3c0/Kayserispor-Sivasspor-November-24-2019-Super-Lig,0,0,2,0,9,6,13,13,14,0,0,1,0,23,6,8,11,14,2019-2020
+2019-11-24,Alanyaspor,Göztepe,0,1,NA,NA,0,Volkan Bayarslan,https://fbref.com/en/matches/1c475ac3/Alanyaspor-Goztepe-November-24-2019-Super-Lig,0,0,3,0,14,7,5,10,12,0,0,1,0,6,2,13,10,10,2019-2020
+2019-11-24,Kasımpaşa,Gençlerbirliği,1,2,NA,NA,0,Alper Ulusoy,https://fbref.com/en/matches/1d525fe4/Kasimpasa-Genclerbirligi-November-24-2019-Super-Lig,0,0,1,0,10,4,9,10,10,1,1,1,0,18,3,9,14,13,2019-2020
+2019-11-24,Yeni Mal'spor,Fenerbahçe,0,0,NA,NA,0,Mete Kalkavan,https://fbref.com/en/matches/cb04b5df/Yeni-Malatyaspor-Fenerbahce-November-24-2019-Super-Lig,0,0,3,0,13,6,4,13,13,0,1,4,0,17,6,7,2,21,2019-2020
+2019-11-25,Antalyaspor,Gaziantep FK,1,1,NA,NA,0,Hüseyin Göçek,https://fbref.com/en/matches/55526194/Antalyaspor-Gaziantep-FK-November-25-2019-Super-Lig,0,0,2,0,24,5,10,7,19,0,0,3,0,10,4,11,12,18,2019-2020
+2019-11-29,Gençlerbirliği,Yeni Mal'spor,3,3,NA,NA,0,Zorbay Küçük,https://fbref.com/en/matches/0bb5afc0/Genclerbirligi-Yeni-Malatyaspor-November-29-2019-Super-Lig,1,1,2,0,16,8,9,5,15,0,0,2,0,11,7,12,10,12,2019-2020
+2019-11-30,Sivasspor,Kasımpaşa,2,0,NA,NA,0,Cüneyt Çakιr,https://fbref.com/en/matches/7c149816/Sivasspor-Kasimpasa-November-30-2019-Super-Lig,0,0,1,0,16,9,10,9,19,0,0,3,0,16,4,10,10,10,2019-2020
+2019-11-30,Rizespor,Konyaspor,3,1,NA,NA,0,Halis Özkahya,https://fbref.com/en/matches/dc410454/Rizespor-Konyaspor-November-30-2019-Super-Lig,0,0,1,0,9,5,17,17,16,0,0,0,0,13,2,18,5,9,2019-2020
+2019-11-30,Alanyaspor,Ankaragücü,5,0,NA,NA,0,Alper Ulusoy,https://fbref.com/en/matches/21fe753a/Alanyaspor-Ankaragucu-November-30-2019-Super-Lig,0,0,1,0,19,12,15,9,14,0,0,2,0,7,2,8,13,12,2019-2020
+2019-11-30,Göztepe,Fenerbahçe,2,2,NA,NA,0,Abdulkadir Bitigen,https://fbref.com/en/matches/b7ad1fdf/Goztepe-Fenerbahce-November-30-2019-Super-Lig,1,1,1,0,11,4,9,13,11,0,0,8,1,12,3,11,12,12,2019-2020
+2019-12-01,Gaziantep FK,Denizlispor,1,2,NA,NA,0,Atilla Karaoğlan,https://fbref.com/en/matches/093f964f/Gaziantep-FK-Denizlispor-December-1-2019-Super-Lig,0,0,3,0,18,3,9,5,10,0,0,5,0,5,2,10,7,18,2019-2020
+2019-12-01,Başakşehir,Antalyaspor,2,0,NA,NA,0,Serkan Tokat,https://fbref.com/en/matches/74df7f98/Istanbul-Basaksehir-Antalyaspor-December-1-2019-Super-Lig,0,0,1,0,12,4,16,11,16,0,0,3,0,14,5,10,13,18,2019-2020
+2019-12-01,Trabzonspor,Galatasaray,1,1,NA,NA,0,Ali Palabıyık,https://fbref.com/en/matches/09313a00/Trabzonspor-Galatasaray-December-1-2019-Super-Lig,0,0,5,0,12,4,11,11,10,0,0,3,0,10,3,9,11,8,2019-2020
+2019-12-02,Beşiktaş,Kayserispor,4,1,NA,NA,25913,Umit Öztürk,https://fbref.com/en/matches/36f4dc18/Besiktas-Kayserispor-December-2-2019-Super-Lig,0,0,2,0,24,13,12,9,12,0,0,1,0,7,3,17,14,10,2019-2020
+2019-12-06,Fenerbahçe,Gençlerbirliği,5,2,NA,NA,0,Ali Şansalan,https://fbref.com/en/matches/14771988/Fenerbahce-Genclerbirligi-December-6-2019-Super-Lig,0,0,3,0,24,13,11,22,14,0,0,4,0,14,6,8,12,12,2019-2020
+2019-12-07,Yeni Mal'spor,Sivasspor,1,3,NA,NA,0,Umit Öztürk,https://fbref.com/en/matches/4db2d108/Yeni-Malatyaspor-Sivasspor-December-7-2019-Super-Lig,0,0,2,0,16,3,10,6,13,0,0,4,0,13,8,12,17,15,2019-2020
+2019-12-07,Ankaragücü,Göztepe,1,3,NA,NA,0,Mete Kalkavan,https://fbref.com/en/matches/d076280c/Ankaragucu-Goztepe-December-7-2019-Super-Lig,0,0,2,0,11,4,11,9,13,0,0,3,0,15,6,6,12,9,2019-2020
+2019-12-07,Galatasaray,Alanyaspor,1,0,NA,NA,0,Halil Meler,https://fbref.com/en/matches/84d5211a/Galatasaray-Alanyaspor-December-7-2019-Super-Lig,1,1,2,0,7,4,8,11,15,0,0,4,0,21,5,13,5,13,2019-2020
+2019-12-08,Konyaspor,Gaziantep FK,0,0,NA,NA,0,Ali Palabıyık,https://fbref.com/en/matches/cfd44c1c/Konyaspor-Gaziantep-FK-December-8-2019-Super-Lig,0,0,2,0,16,5,8,11,16,0,0,1,0,13,2,11,11,16,2019-2020
+2019-12-08,Denizlispor,Başakşehir,1,1,NA,NA,0,Alper Ulusoy,https://fbref.com/en/matches/8a4c3839/Denizlispor-Istanbul-Basaksehir-December-8-2019-Super-Lig,0,0,3,0,8,2,6,14,15,0,0,1,0,18,5,4,9,10,2019-2020
+2019-12-08,Antalyaspor,Trabzonspor,1,3,NA,NA,0,Yaşar Kemal Uğurlu,https://fbref.com/en/matches/9ce0e2bf/Antalyaspor-Trabzonspor-December-8-2019-Super-Lig,0,0,2,0,24,8,18,8,12,0,0,2,0,11,5,20,14,14,2019-2020
+2019-12-08,Kasımpaşa,Beşiktaş,2,3,NA,NA,5276,Arda Kardeşler,https://fbref.com/en/matches/b111c659/Kasimpasa-Besiktas-December-8-2019-Super-Lig,0,0,3,1,12,6,9,12,10,0,0,5,0,19,7,4,10,12,2019-2020
+2019-12-09,Kayserispor,Rizespor,1,0,NA,NA,0,Fırat Aydınus,https://fbref.com/en/matches/7dd3fa3e/Kayserispor-Rizespor-December-9-2019-Super-Lig,0,0,2,0,16,5,15,20,8,0,0,3,0,20,5,11,10,7,2019-2020
+2019-12-13,Alanyaspor,Antalyaspor,0,0,NA,NA,0,Zorbay Küçük,https://fbref.com/en/matches/fd1e51c7/Alanyaspor-Antalyaspor-December-13-2019-Super-Lig,0,0,3,0,15,1,17,11,22,0,0,3,0,8,1,12,10,19,2019-2020
+2019-12-14,Rizespor,Kasımpaşa,0,3,NA,NA,0,Umit Öztürk,https://fbref.com/en/matches/f6d84710/Rizespor-Kasimpasa-December-14-2019-Super-Lig,0,1,5,1,16,4,3,5,16,0,0,6,0,9,4,10,7,19,2019-2020
+2019-12-14,Gençlerbirliği,Göztepe,3,1,NA,NA,0,Cüneyt Çakιr,https://fbref.com/en/matches/f72218b6/Genclerbirligi-Goztepe-December-14-2019-Super-Lig,0,0,3,0,8,5,9,12,17,0,0,1,0,11,1,16,9,11,2019-2020
+2019-12-14,Galatasaray,Ankaragücü,2,2,NA,NA,0,Ali Şansalan,https://fbref.com/en/matches/89a32486/Galatasaray-Ankaragucu-December-14-2019-Super-Lig,1,1,2,0,14,5,3,11,10,1,1,5,1,7,3,12,15,15,2019-2020
+2019-12-15,Gaziantep FK,Kayserispor,3,0,NA,NA,4684,Özgür Yankaya,https://fbref.com/en/matches/1c959080/Gaziantep-FK-Kayserispor-December-15-2019-Super-Lig,1,1,2,0,14,6,8,6,21,0,0,2,0,5,1,13,16,19,2019-2020
+2019-12-15,Sivasspor,Fenerbahçe,3,1,NA,NA,0,Ali Palabıyık,https://fbref.com/en/matches/d264f0b9/Sivasspor-Fenerbahce-December-15-2019-Super-Lig,0,0,4,0,13,3,8,11,19,0,0,3,2,9,4,7,9,12,2019-2020
+2019-12-15,Beşiktaş,Yeni Mal'spor,0,2,NA,NA,0,Yaşar Kemal Uğurlu,https://fbref.com/en/matches/597aad88/Besiktas-Yeni-Malatyaspor-December-15-2019-Super-Lig,0,0,6,1,12,1,7,12,11,1,1,3,0,4,3,13,16,12,2019-2020
+2019-12-16,Başakşehir,Konyaspor,1,1,NA,NA,0,Hüseyin Göçek,https://fbref.com/en/matches/32119fd2/Istanbul-Basaksehir-Konyaspor-December-16-2019-Super-Lig,0,0,0,0,19,6,12,10,14,0,0,3,0,6,2,19,20,10,2019-2020
+2019-12-16,Trabzonspor,Denizlispor,1,2,NA,NA,0,Halis Özkahya,https://fbref.com/en/matches/04d3ece3/Trabzonspor-Denizlispor-December-16-2019-Super-Lig,0,0,0,0,15,7,11,11,11,0,0,1,0,10,4,11,16,13,2019-2020
+2019-12-20,Antalyaspor,Ankaragücü,2,2,NA,NA,0,Fırat Aydınus,https://fbref.com/en/matches/6008b777/Antalyaspor-Ankaragucu-December-20-2019-Super-Lig,0,0,2,0,14,3,11,14,20,0,0,3,0,6,3,20,15,21,2019-2020
+2019-12-21,Yeni Mal'spor,Rizespor,0,2,NA,NA,0,Ali Palabıyık,https://fbref.com/en/matches/ce4b85a0/Yeni-Malatyaspor-Rizespor-December-21-2019-Super-Lig,0,0,2,0,15,4,13,7,11,0,0,3,0,10,4,12,17,14,2019-2020
+2019-12-21,Kasımpaşa,Gaziantep FK,3,4,NA,NA,0,Abdulkadir Bitigen,https://fbref.com/en/matches/95ce6808/Kasimpasa-Gaziantep-FK-December-21-2019-Super-Lig,0,1,4,0,10,4,7,10,13,1,1,2,0,10,7,9,5,16,2019-2020
+2019-12-21,Göztepe,Galatasaray,2,1,NA,NA,0,Serkan Tokat,https://fbref.com/en/matches/55022904/Goztepe-Galatasaray-December-21-2019-Super-Lig,0,0,4,0,14,6,9,10,6,0,0,2,0,12,1,6,2,9,2019-2020
+2019-12-22,Gençlerbirliği,Sivasspor,2,2,NA,NA,0,Halis Özkahya,https://fbref.com/en/matches/1384031a/Genclerbirligi-Sivasspor-December-22-2019-Super-Lig,0,0,3,0,17,7,12,6,15,0,0,2,0,12,6,7,11,10,2019-2020
+2019-12-22,Kayserispor,Başakşehir,1,4,NA,NA,0,Ali Şansalan,https://fbref.com/en/matches/e2abb1df/Kayserispor-Istanbul-Basaksehir-December-22-2019-Super-Lig,0,0,3,0,16,4,7,4,11,0,0,2,0,22,9,6,8,7,2019-2020
+2019-12-22,Fenerbahçe,Beşiktaş,3,1,NA,NA,0,Cüneyt Çakιr,https://fbref.com/en/matches/c76b2b23/Fenerbahce-Besiktas-December-22-2019-Super-Lig,1,1,2,0,17,6,7,15,18,0,0,3,0,7,2,9,14,21,2019-2020
+2019-12-23,Konyaspor,Trabzonspor,0,1,NA,NA,0,Halil Meler,https://fbref.com/en/matches/d9d9ba74/Konyaspor-Trabzonspor-December-23-2019-Super-Lig,0,0,5,1,14,3,11,5,13,0,0,2,0,8,2,4,8,17,2019-2020
+2019-12-23,Denizlispor,Alanyaspor,1,5,NA,NA,0,Hüseyin Göçek,https://fbref.com/en/matches/b8726cd2/Denizlispor-Alanyaspor-December-23-2019-Super-Lig,0,0,1,0,13,4,9,8,13,0,0,3,0,15,10,6,13,21,2019-2020
+2019-12-27,Beşiktaş,Gençlerbirliği,4,1,NA,NA,0,Fırat Aydınus,https://fbref.com/en/matches/1c4a739f/Besiktas-Genclerbirligi-December-27-2019-Super-Lig,0,0,2,0,24,6,5,12,11,0,0,4,2,6,3,7,7,10,2019-2020
+2019-12-28,Ankaragücü,Denizlispor,2,2,NA,NA,0,Arda Kardeşler,https://fbref.com/en/matches/ea7304db/Ankaragucu-Denizlispor-December-28-2019-Super-Lig,0,0,2,0,21,4,15,8,22,0,0,1,1,7,2,7,10,9,2019-2020
+2019-12-28,Trabzonspor,Kayserispor,6,2,NA,NA,0,Hüseyin Göçek,https://fbref.com/en/matches/5ce3629f/Trabzonspor-Kayserispor-December-28-2019-Super-Lig,1,1,0,0,31,13,7,10,8,0,0,2,0,8,3,12,16,11,2019-2020
+2019-12-28,Başakşehir,Kasımpaşa,5,1,NA,NA,0,Atilla Karaoğlan,https://fbref.com/en/matches/2a45a648/Istanbul-Basaksehir-Kasimpasa-December-28-2019-Super-Lig,0,0,2,0,17,9,8,12,22,1,1,3,0,24,4,11,7,11,2019-2020
+2019-12-28,Galatasaray,Antalyaspor,5,0,NA,NA,0,Abdulkadir Bitigen,https://fbref.com/en/matches/2180cb3d/Galatasaray-Antalyaspor-December-28-2019-Super-Lig,1,1,2,0,18,8,11,10,16,0,0,4,0,9,3,10,10,19,2019-2020
+2019-12-29,Sivasspor,Göztepe,1,0,NA,NA,0,Yaşar Kemal Uğurlu,https://fbref.com/en/matches/80ae1718/Sivasspor-Goztepe-December-29-2019-Super-Lig,0,0,1,0,10,4,11,16,17,0,0,1,0,2,0,15,10,12,2019-2020
+2019-12-29,Alanyaspor,Konyaspor,2,1,NA,NA,0,Umit Öztürk,https://fbref.com/en/matches/de35116c/Alanyaspor-Konyaspor-December-29-2019-Super-Lig,0,0,1,0,24,7,15,11,8,0,0,4,0,5,2,13,17,13,2019-2020
+2019-12-29,Gaziantep FK,Yeni Mal'spor,1,1,NA,NA,0,Bahattin Şimşek,https://fbref.com/en/matches/e0c1cc3b/Gaziantep-FK-Yeni-Malatyaspor-December-29-2019-Super-Lig,0,0,5,1,7,3,10,9,13,0,0,4,1,7,5,15,8,18,2019-2020
+2019-12-29,Rizespor,Fenerbahçe,1,2,NA,NA,0,Halil Meler,https://fbref.com/en/matches/709d06d1/Rizespor-Fenerbahce-December-29-2019-Super-Lig,0,0,3,0,9,3,8,9,15,0,0,2,0,15,4,9,11,13,2019-2020
+2020-01-17,Ankaragücü,Konyaspor,0,1,NA,NA,0,Alper Ulusoy,https://fbref.com/en/matches/c39f40ae/Ankaragucu-Konyaspor-January-17-2020-Super-Lig,0,0,0,0,14,1,11,10,17,0,0,1,0,11,1,11,9,13,2019-2020
+2020-01-18,Alanyaspor,Kayserispor,5,1,NA,NA,0,Ali Palabıyık,https://fbref.com/en/matches/2da2fe64/Alanyaspor-Kayserispor-January-18-2020-Super-Lig,0,0,0,0,21,8,7,5,10,0,0,2,1,10,5,14,10,16,2019-2020
+2020-01-18,Başakşehir,Yeni Mal'spor,4,1,NA,NA,0,Serkan Tokat,https://fbref.com/en/matches/0b4b92f1/Istanbul-Basaksehir-Yeni-Malatyaspor-January-18-2020-Super-Lig,0,0,2,0,15,7,6,14,15,0,0,4,0,10,6,11,4,21,2019-2020
+2020-01-18,Gaziantep FK,Fenerbahçe,0,2,NA,NA,0,Hüseyin Göçek,https://fbref.com/en/matches/a4fcc51a/Gaziantep-FK-Fenerbahce-January-18-2020-Super-Lig,0,0,5,0,12,2,8,5,15,0,0,5,1,12,6,8,11,19,2019-2020
+2020-01-19,Antalyaspor,Göztepe,0,3,NA,NA,0,Atilla Karaoğlan,https://fbref.com/en/matches/fd2cee2f/Antalyaspor-Goztepe-January-19-2020-Super-Lig,0,0,4,1,15,2,6,12,16,0,0,2,0,10,4,12,11,8,2019-2020
+2020-01-19,Trabzonspor,Kasımpaşa,6,0,NA,NA,0,Zorbay Küçük,https://fbref.com/en/matches/1a253e64/Trabzonspor-Kasimpasa-January-19-2020-Super-Lig,0,0,1,0,15,8,6,7,14,0,0,4,1,8,2,6,8,14,2019-2020
+2020-01-19,Galatasaray,Denizlispor,2,1,NA,NA,0,Yaşar Kemal Uğurlu,https://fbref.com/en/matches/e4e49c3c/Galatasaray-Denizlispor-January-19-2020-Super-Lig,0,0,1,0,19,4,13,7,15,0,0,4,0,9,2,10,13,10,2019-2020
+2020-01-19,Beşiktaş,Sivasspor,1,2,NA,NA,0,Ali Şansalan,https://fbref.com/en/matches/763f2649/Besiktas-Sivasspor-January-19-2020-Super-Lig,0,0,2,0,15,8,9,7,5,0,0,6,1,11,5,11,13,21,2019-2020
+2020-01-20,Rizespor,Gençlerbirliği,2,0,NA,NA,0,Arda Kardeşler,https://fbref.com/en/matches/c470391e/Rizespor-Genclerbirligi-January-20-2020-Super-Lig,0,0,1,0,13,5,6,13,18,0,0,1,0,13,3,9,13,15,2019-2020
+2020-01-24,Gençlerbirliği,Gaziantep FK,1,0,NA,NA,0,Mete Kalkavan,https://fbref.com/en/matches/a73aedad/Genclerbirligi-Gaziantep-FK-January-24-2020-Super-Lig,1,1,3,0,16,4,16,6,11,0,1,2,0,9,2,9,9,10,2019-2020
+2020-01-25,Kayserispor,Ankaragücü,1,1,NA,NA,0,Cüneyt Çakιr,https://fbref.com/en/matches/1931074a/Kayserispor-Ankaragucu-January-25-2020-Super-Lig,1,1,5,0,25,5,6,9,18,0,0,6,1,11,2,8,10,16,2019-2020
+2020-01-25,Kasımpaşa,Alanyaspor,1,2,NA,NA,0,Özgür Yankaya,https://fbref.com/en/matches/d4848908/Kasimpasa-Alanyaspor-January-25-2020-Super-Lig,1,1,3,1,6,2,11,11,22,0,0,1,0,16,4,11,14,20,2019-2020
+2020-01-25,Fenerbahçe,Başakşehir,2,0,NA,NA,0,Fırat Aydınus,https://fbref.com/en/matches/151e4e2a/Fenerbahce-Istanbul-Basaksehir-January-25-2020-Super-Lig,0,0,0,0,29,8,14,6,14,0,0,1,0,8,1,9,17,18,2019-2020
+2020-01-26,Denizlispor,Antalyaspor,0,3,NA,NA,0,Halil Meler,https://fbref.com/en/matches/fe1f1231/Denizlispor-Antalyaspor-January-26-2020-Super-Lig,0,0,2,0,11,2,6,8,11,0,0,2,0,11,6,6,9,14,2019-2020
+2020-01-26,Göztepe,Beşiktaş,2,1,NA,NA,0,Hüseyin Göçek,https://fbref.com/en/matches/372a0162/Goztepe-Besiktas-January-26-2020-Super-Lig,0,0,4,0,12,7,8,8,15,1,1,4,0,11,4,9,10,14,2019-2020
+2020-01-26,Konyaspor,Galatasaray,0,3,NA,NA,0,Koray Gençerler,https://fbref.com/en/matches/c02d06a8/Konyaspor-Galatasaray-January-26-2020-Super-Lig,0,0,0,0,7,5,5,8,9,0,0,2,0,11,7,8,15,14,2019-2020
+2020-01-27,Sivasspor,Rizespor,1,1,NA,NA,0,Abdulkadir Bitigen,https://fbref.com/en/matches/c10e2eb7/Sivasspor-Rizespor-January-27-2020-Super-Lig,0,0,1,0,25,5,15,10,11,0,0,5,0,5,3,7,18,17,2019-2020
+2020-01-31,Başakşehir,Gençlerbirliği,3,1,NA,NA,0,Alper Ulusoy,https://fbref.com/en/matches/13b0b80f/Istanbul-Basaksehir-Genclerbirligi-January-31-2020-Super-Lig,0,0,1,0,10,3,7,4,11,0,0,1,0,13,5,13,10,13,2019-2020
+2020-02-01,Antalyaspor,Konyaspor,0,0,NA,NA,0,Halis Özkahya,https://fbref.com/en/matches/1e5a89fe/Antalyaspor-Konyaspor-February-1-2020-Super-Lig,0,0,3,0,5,1,9,7,16,0,0,0,0,15,2,8,12,10,2019-2020
+2020-02-01,Rizespor,Beşiktaş,1,2,NA,NA,0,Umit Öztürk,https://fbref.com/en/matches/5e46fcd7/Rizespor-Besiktas-February-1-2020-Super-Lig,0,0,3,0,14,4,8,14,15,0,0,0,0,7,2,4,3,10,2019-2020
+2020-02-01,Trabzonspor,Fenerbahçe,2,1,NA,NA,0,Ali Palabıyık,https://fbref.com/en/matches/56545d5e/Trabzonspor-Fenerbahce-February-1-2020-Super-Lig,0,0,3,0,16,4,13,10,20,0,0,5,1,23,9,7,5,14,2019-2020
+2020-02-02,Ankaragücü,Kasımpaşa,1,1,NA,NA,0,Halil Meler,https://fbref.com/en/matches/f869862b/Ankaragucu-Kasimpasa-February-2-2020-Super-Lig,1,1,3,0,11,3,16,10,14,0,0,3,0,19,3,15,6,15,2019-2020
+2020-02-02,Alanyaspor,Yeni Mal'spor,2,1,NA,NA,4895,Mete Kalkavan,https://fbref.com/en/matches/ae6504fd/Alanyaspor-Yeni-Malatyaspor-February-2-2020-Super-Lig,1,1,2,1,14,7,6,13,12,0,0,3,0,12,2,7,6,17,2019-2020
+2020-02-02,Gaziantep FK,Sivasspor,5,1,NA,NA,0,Arda Kardeşler,https://fbref.com/en/matches/b209b7dc/Gaziantep-FK-Sivasspor-February-2-2020-Super-Lig,0,0,3,0,11,7,10,7,13,0,0,4,0,21,8,5,7,14,2019-2020
+2020-02-02,Galatasaray,Kayserispor,4,1,NA,NA,0,Zorbay Küçük,https://fbref.com/en/matches/adfc70ab/Galatasaray-Kayserispor-February-2-2020-Super-Lig,0,0,2,0,11,5,16,7,16,0,0,1,0,10,2,8,8,10,2019-2020
+2020-02-03,Denizlispor,Göztepe,1,1,NA,NA,8956,Mustafa Ogretmenoglu,https://fbref.com/en/matches/f17eb4f4/Denizlispor-Goztepe-February-3-2020-Super-Lig,0,0,3,0,19,7,5,13,11,0,0,4,0,8,3,16,10,14,2019-2020
+2020-02-07,Yeni Mal'spor,Ankaragücü,0,1,NA,NA,0,Fırat Aydınus,https://fbref.com/en/matches/984efa1e/Yeni-Malatyaspor-Ankaragucu-February-7-2020-Super-Lig,0,0,1,1,12,2,9,2,7,0,0,2,0,15,7,14,18,16,2019-2020
+2020-02-08,Konyaspor,Denizlispor,0,0,NA,NA,0,Volkan Bayarslan,https://fbref.com/en/matches/2569ea5a/Konyaspor-Denizlispor-February-8-2020-Super-Lig,0,0,2,0,20,5,5,13,14,0,0,1,0,10,2,6,12,18,2019-2020
+2020-02-08,Beşiktaş,Gaziantep FK,3,0,NA,NA,0,Alper Ulusoy,https://fbref.com/en/matches/6038ef7b/Besiktas-Gaziantep-FK-February-8-2020-Super-Lig,1,1,3,0,17,8,6,12,14,0,0,2,0,11,2,6,16,13,2019-2020
+2020-02-08,Gençlerbirliği,Trabzonspor,0,2,NA,NA,0,Hüseyin Göçek,https://fbref.com/en/matches/2c6546e8/Genclerbirligi-Trabzonspor-February-8-2020-Super-Lig,0,0,8,0,13,2,10,10,19,1,1,1,1,15,7,5,12,11,2019-2020
+2020-02-08,Fenerbahçe,Alanyaspor,1,1,NA,NA,0,Umit Öztürk,https://fbref.com/en/matches/29992bc3/Fenerbahce-Alanyaspor-February-8-2020-Super-Lig,1,1,3,0,15,3,11,6,11,1,2,4,0,5,2,11,12,13,2019-2020
+2020-02-09,Kayserispor,Antalyaspor,2,2,NA,NA,6198,Koray Gençerler,https://fbref.com/en/matches/b9f4398a/Kayserispor-Antalyaspor-February-9-2020-Super-Lig,1,1,4,0,15,9,14,12,16,1,1,4,0,11,3,12,7,15,2019-2020
+2020-02-09,Sivasspor,Başakşehir,1,1,NA,NA,0,Halis Özkahya,https://fbref.com/en/matches/887f4e70/Sivasspor-Istanbul-Basaksehir-February-9-2020-Super-Lig,0,0,0,0,14,4,8,10,12,0,0,3,0,8,1,11,21,11,2019-2020
+2020-02-09,Kasımpaşa,Galatasaray,0,3,NA,NA,0,Mete Kalkavan,https://fbref.com/en/matches/8e3d0460/Kasimpasa-Galatasaray-February-9-2020-Super-Lig,0,0,2,0,11,3,7,11,12,1,1,0,0,19,8,6,10,11,2019-2020
+2020-02-14,Başakşehir,Beşiktaş,1,0,NA,NA,0,Abdulkadir Bitigen,https://fbref.com/en/matches/c9930b1f/Istanbul-Basaksehir-Besiktas-February-14-2020-Super-Lig,0,0,3,0,6,3,18,23,14,0,0,3,0,19,7,12,11,11,2019-2020
+2020-02-15,Denizlispor,Kayserispor,0,1,NA,NA,0,Özgür Yankaya,https://fbref.com/en/matches/f97ab5a8/Denizlispor-Kayserispor-February-15-2020-Super-Lig,0,0,0,0,9,3,10,7,11,0,0,0,0,17,4,8,7,19,2019-2020
+2020-02-15,Konyaspor,Göztepe,1,3,NA,NA,0,Ali Şansalan,https://fbref.com/en/matches/31b7aa59/Konyaspor-Goztepe-February-15-2020-Super-Lig,0,0,2,0,14,5,6,9,10,0,0,0,0,12,3,7,19,12,2019-2020
+2020-02-15,Ankaragücü,Fenerbahçe,2,1,NA,NA,0,Mete Kalkavan,https://fbref.com/en/matches/8fdb408d/Ankaragucu-Fenerbahce-February-15-2020-Super-Lig,0,0,1,0,8,3,9,8,13,0,0,2,0,16,7,10,6,12,2019-2020
+2020-02-16,Alanyaspor,Gençlerbirliği,0,1,NA,NA,0,Atilla Karaoğlan,https://fbref.com/en/matches/b6d6ee01/Alanyaspor-Genclerbirligi-February-16-2020-Super-Lig,0,0,3,0,23,11,14,10,11,0,0,2,0,14,6,9,14,8,2019-2020
+2020-02-16,Trabzonspor,Sivasspor,2,1,NA,NA,0,Cüneyt Çakιr,https://fbref.com/en/matches/c8fc2434/Trabzonspor-Sivasspor-February-16-2020-Super-Lig,0,0,2,0,12,4,12,10,9,0,0,1,0,18,3,7,20,16,2019-2020
+2020-02-16,Galatasaray,Yeni Mal'spor,1,0,NA,NA,0,Alper Ulusoy,https://fbref.com/en/matches/b75da690/Galatasaray-Yeni-Malatyaspor-February-16-2020-Super-Lig,1,1,2,0,18,3,9,12,8,0,0,3,0,10,4,9,15,20,2019-2020
+2020-02-17,Antalyaspor,Kasımpaşa,3,1,NA,NA,10763,Arda Kardeşler,https://fbref.com/en/matches/bb4db6b3/Antalyaspor-Kasimpasa-February-17-2020-Super-Lig,0,0,4,0,16,9,16,12,12,0,0,3,0,6,3,9,16,15,2019-2020
+2020-02-17,Gaziantep FK,Rizespor,2,0,NA,NA,0,Ali Palabıyık,https://fbref.com/en/matches/fe9edc8a/Gaziantep-FK-Rizespor-February-17-2020-Super-Lig,0,2,3,0,21,3,10,15,14,0,0,4,1,6,1,14,12,14,2019-2020
+2020-02-21,Sivasspor,Alanyaspor,1,0,NA,NA,0,Zorbay Küçük,https://fbref.com/en/matches/17accd7d/Sivasspor-Alanyaspor-February-21-2020-Super-Lig,1,1,5,0,9,3,16,16,17,0,0,2,0,18,4,8,8,13,2019-2020
+2020-02-22,Kayserispor,Konyaspor,2,2,NA,NA,0,Arda Kardeşler,https://fbref.com/en/matches/e0701463/Kayserispor-Konyaspor-February-22-2020-Super-Lig,0,0,3,0,17,6,8,6,15,0,0,5,0,11,4,11,10,15,2019-2020
+2020-02-22,Göztepe,Gaziantep FK,1,1,NA,NA,0,Suat Arslanboga,https://fbref.com/en/matches/59c816e9/Goztepe-Gaziantep-FK-February-22-2020-Super-Lig,0,0,2,0,12,4,7,9,13,0,0,3,0,16,5,10,5,11,2019-2020
+2020-02-22,Beşiktaş,Trabzonspor,2,2,NA,NA,0,Fırat Aydınus,https://fbref.com/en/matches/f1d191de/Besiktas-Trabzonspor-February-22-2020-Super-Lig,0,0,2,0,29,9,5,10,12,0,0,2,0,9,3,6,11,17,2019-2020
+2020-02-23,Yeni Mal'spor,Antalyaspor,1,2,NA,NA,0,Yaşar Kemal Uğurlu,https://fbref.com/en/matches/a2843e05/Yeni-Malatyaspor-Antalyaspor-February-23-2020-Super-Lig,0,0,2,0,21,8,5,11,10,0,0,2,1,10,4,14,9,14,2019-2020
+2020-02-23,Gençlerbirliği,Ankaragücü,1,0,NA,NA,0,Ali Şansalan,https://fbref.com/en/matches/29f0566b/Genclerbirligi-Ankaragucu-February-23-2020-Super-Lig,0,0,3,0,14,3,12,0,21,0,0,3,0,9,5,13,14,13,2019-2020
+2020-02-23,Fenerbahçe,Galatasaray,1,3,NA,NA,0,Halil Meler,https://fbref.com/en/matches/203b143e/Fenerbahce-Galatasaray-February-23-2020-Super-Lig,1,1,5,1,10,4,7,6,22,1,1,7,1,14,7,4,6,14,2019-2020
+2020-02-24,Rizespor,Başakşehir,1,2,NA,NA,0,Cüneyt Çakιr,https://fbref.com/en/matches/546f82b6/Rizespor-Istanbul-Basaksehir-February-24-2020-Super-Lig,0,0,0,0,17,6,6,14,11,1,1,1,0,21,5,6,12,14,2019-2020
+2020-02-24,Kasımpaşa,Denizlispor,2,0,NA,NA,0,Atilla Karaoğlan,https://fbref.com/en/matches/d28c7fc2/Kasimpasa-Denizlispor-February-24-2020-Super-Lig,0,0,2,0,14,5,10,13,11,0,0,1,0,8,3,6,14,13,2019-2020
+2020-02-28,Alanyaspor,Beşiktaş,1,2,NA,NA,0,Halis Özkahya,https://fbref.com/en/matches/7a508da2/Alanyaspor-Besiktas-February-28-2020-Super-Lig,0,0,1,0,8,2,11,7,10,1,1,0,0,18,5,4,11,11,2019-2020
+2020-02-29,Konyaspor,Kasımpaşa,0,0,NA,NA,0,Ali Palabıyık,https://fbref.com/en/matches/0f6faf63/Konyaspor-Kasimpasa-February-29-2020-Super-Lig,0,0,1,0,10,3,6,11,14,0,0,0,0,9,0,5,14,12,2019-2020
+2020-02-29,Trabzonspor,Rizespor,5,2,NA,NA,0,Abdulkadir Bitigen,https://fbref.com/en/matches/6b60fb2e/Trabzonspor-Rizespor-February-29-2020-Super-Lig,1,1,3,1,17,6,9,9,11,1,1,2,0,18,3,11,8,8,2019-2020
+2020-02-29,Antalyaspor,Fenerbahçe,2,2,NA,NA,0,Ali Şansalan,https://fbref.com/en/matches/e1a67a80/Antalyaspor-Fenerbahce-February-29-2020-Super-Lig,0,0,6,1,12,4,7,7,15,0,0,1,0,17,4,13,10,10,2019-2020
+2020-03-01,Denizlispor,Yeni Mal'spor,2,0,NA,NA,0,Koray Gençerler,https://fbref.com/en/matches/45e82757/Denizlispor-Yeni-Malatyaspor-March-1-2020-Super-Lig,0,0,0,0,24,11,14,5,17,0,0,4,1,2,0,10,6,23,2019-2020
+2020-03-01,Ankaragücü,Sivasspor,0,3,NA,NA,0,Umit Öztürk,https://fbref.com/en/matches/3b8dfdb8/Ankaragucu-Sivasspor-March-1-2020-Super-Lig,0,0,2,1,9,2,9,12,14,0,1,2,0,21,9,11,11,17,2019-2020
+2020-03-01,Galatasaray,Gençlerbirliği,3,0,NA,NA,0,Arda Kardeşler,https://fbref.com/en/matches/1a432aa6/Galatasaray-Genclerbirligi-March-1-2020-Super-Lig,0,0,1,0,12,6,9,16,7,0,0,4,0,9,2,8,8,10,2019-2020
+2020-03-02,Başakşehir,Gaziantep FK,3,1,NA,NA,0,Zorbay Küçük,https://fbref.com/en/matches/5cf7d574/Istanbul-Basaksehir-Gaziantep-FK-March-2-2020-Super-Lig,0,0,1,0,20,10,11,11,9,0,0,0,0,22,8,8,18,7,2019-2020
+2020-03-02,Kayserispor,Göztepe,1,0,NA,NA,0,Mete Kalkavan,https://fbref.com/en/matches/6cf45659/Kayserispor-Goztepe-March-2-2020-Super-Lig,0,0,4,0,9,3,8,8,17,0,0,1,0,13,2,11,15,13,2019-2020
+2020-03-06,Beşiktaş,Ankaragücü,2,1,NA,NA,0,Arda Kardeşler,https://fbref.com/en/matches/4bff6d59/Besiktas-Ankaragucu-March-6-2020-Super-Lig,1,1,3,0,12,2,11,12,14,1,1,5,0,12,5,11,8,17,2019-2020
+2020-03-07,Yeni Mal'spor,Konyaspor,1,1,NA,NA,0,Cüneyt Çakιr,https://fbref.com/en/matches/b2d4ac10/Yeni-Malatyaspor-Konyaspor-March-7-2020-Super-Lig,0,0,1,1,8,4,13,8,15,1,1,2,1,9,3,7,9,14,2019-2020
+2020-03-07,Gaziantep FK,Trabzonspor,1,1,NA,NA,0,Halis Özkahya,https://fbref.com/en/matches/f71332b9/Gaziantep-FK-Trabzonspor-March-7-2020-Super-Lig,0,0,2,0,10,3,14,17,8,0,0,5,0,6,2,12,9,14,2019-2020
+2020-03-07,Göztepe,Başakşehir,0,3,NA,NA,0,Ali Palabıyık,https://fbref.com/en/matches/a85481b5/Goztepe-Istanbul-Basaksehir-March-7-2020-Super-Lig,0,0,1,0,17,1,11,6,10,0,0,2,1,12,4,1,9,10,2019-2020
+2020-03-07,Fenerbahçe,Denizlispor,2,2,NA,NA,0,Zorbay Küçük,https://fbref.com/en/matches/82ee35cf/Fenerbahce-Denizlispor-March-7-2020-Super-Lig,0,0,7,1,9,3,6,14,16,1,1,4,0,12,8,6,8,20,2019-2020
+2020-03-08,Kasımpaşa,Kayserispor,5,1,NA,NA,0,Hüseyin Göçek,https://fbref.com/en/matches/1ecb30c1/Kasimpasa-Kayserispor-March-8-2020-Super-Lig,0,0,3,0,16,10,5,6,19,0,0,4,0,13,4,5,6,15,2019-2020
+2020-03-08,Rizespor,Alanyaspor,1,1,NA,NA,0,Ali Şansalan,https://fbref.com/en/matches/9cc93b42/Rizespor-Alanyaspor-March-8-2020-Super-Lig,0,0,1,0,12,4,10,13,10,0,0,3,0,22,5,16,15,15,2019-2020
+2020-03-08,Sivasspor,Galatasaray,2,2,NA,NA,0,Mete Kalkavan,https://fbref.com/en/matches/c79cfd3b/Sivasspor-Galatasaray-March-8-2020-Super-Lig,0,1,1,0,10,8,8,18,15,0,0,2,0,11,6,11,6,12,2019-2020
+2020-03-09,Gençlerbirliği,Antalyaspor,1,1,NA,NA,0,Halil Meler,https://fbref.com/en/matches/8e643861/Genclerbirligi-Antalyaspor-March-9-2020-Super-Lig,0,0,3,0,20,8,4,5,11,0,0,1,0,7,2,9,12,11,2019-2020
+2020-03-11,Yeni Mal'spor,Trabzonspor,1,3,NA,NA,0,Ali Palabıyık,https://fbref.com/en/matches/3116a088/Yeni-Malatyaspor-Trabzonspor-March-11-2020-Super-Lig,0,0,3,0,6,3,19,3,12,0,0,2,0,13,5,20,16,9,2019-2020
+2020-03-13,Ankaragücü,Rizespor,2,1,NA,NA,0,Halil Meler,https://fbref.com/en/matches/511b75d3/Ankaragucu-Rizespor-March-13-2020-Super-Lig,0,0,2,0,13,3,8,4,15,0,0,3,1,15,2,11,12,17,2019-2020
+2020-03-13,Kasımpaşa,Göztepe,2,0,NA,NA,0,Yaşar Kemal Uğurlu,https://fbref.com/en/matches/2cc92bb9/Kasimpasa-Goztepe-March-13-2020-Super-Lig,0,0,3,0,11,5,5,11,15,0,0,2,0,7,3,6,12,13,2019-2020
+2020-03-14,Denizlispor,Gençlerbirliği,1,0,NA,NA,0,Cüneyt Çakιr,https://fbref.com/en/matches/fafde728/Denizlispor-Genclerbirligi-March-14-2020-Super-Lig,0,0,1,0,19,8,12,6,9,0,0,2,0,13,2,5,7,11,2019-2020
+2020-03-14,Alanyaspor,Gaziantep FK,1,0,NA,NA,0,Atilla Karaoğlan,https://fbref.com/en/matches/92b6ce12/Alanyaspor-Gaziantep-FK-March-14-2020-Super-Lig,0,0,0,0,7,2,6,11,8,0,0,3,0,14,0,7,10,10,2019-2020
+2020-03-14,Konyaspor,Fenerbahçe,1,0,NA,NA,0,Hüseyin Göçek,https://fbref.com/en/matches/274a5b57/Konyaspor-Fenerbahce-March-14-2020-Super-Lig,0,0,7,2,8,2,7,12,14,0,0,2,0,10,0,5,11,10,2019-2020
+2020-03-15,Kayserispor,Yeni Mal'spor,2,1,NA,NA,0,Ali Şansalan,https://fbref.com/en/matches/bb4f1855/Kayserispor-Yeni-Malatyaspor-March-15-2020-Super-Lig,0,1,3,0,15,5,11,16,19,0,0,1,0,15,8,5,12,9,2019-2020
+2020-03-15,Trabzonspor,Başakşehir,1,1,NA,NA,0,Fırat Aydınus,https://fbref.com/en/matches/b9b63884/Trabzonspor-Istanbul-Basaksehir-March-15-2020-Super-Lig,0,0,1,0,17,2,10,14,6,0,0,1,0,12,5,10,10,14,2019-2020
+2020-03-15,Galatasaray,Beşiktaş,0,0,NA,NA,0,Abdulkadir Bitigen,https://fbref.com/en/matches/648ac10e/Galatasaray-Besiktas-March-15-2020-Super-Lig,0,0,1,0,16,4,10,11,15,0,0,2,0,3,2,5,21,15,2019-2020
+2020-03-16,Antalyaspor,Sivasspor,1,0,NA,NA,0,Özgür Yankaya,https://fbref.com/en/matches/6bc0fd24/Antalyaspor-Sivasspor-March-16-2020-Super-Lig,0,0,1,0,17,6,6,17,12,0,0,4,1,8,3,5,9,17,2019-2020
+2020-03-17,Göztepe,Rizespor,2,0,NA,NA,0,Mustafa Ogretmenoglu,https://fbref.com/en/matches/c2cd0547/Goztepe-Rizespor-March-17-2020-Super-Lig,0,0,1,0,14,4,10,8,11,0,0,2,0,4,1,10,11,17,2019-2020
+2020-06-12,Göztepe,Trabzonspor,1,3,NA,NA,0,Zorbay Küçük,https://fbref.com/en/matches/7dffa2a2/Goztepe-Trabzonspor-June-12-2020-Super-Lig,1,1,2,0,18,7,6,5,10,1,1,3,1,10,7,7,5,16,2019-2020
+2020-06-12,Fenerbahçe,Kayserispor,2,1,NA,NA,0,Atilla Karaoğlan,https://fbref.com/en/matches/22a709ae/Fenerbahce-Kayserispor-June-12-2020-Super-Lig,1,1,1,1,10,4,10,5,6,0,0,2,0,11,6,7,6,14,2019-2020
+2020-06-13,Başakşehir,Alanyaspor,2,0,NA,NA,0,Ali Şansalan,https://fbref.com/en/matches/25f54eb7/Istanbul-Basaksehir-Alanyaspor-June-13-2020-Super-Lig,1,1,1,0,18,6,10,8,10,0,0,3,0,12,4,7,17,13,2019-2020
+2020-06-13,Beşiktaş,Antalyaspor,1,2,NA,NA,0,Umit Öztürk,https://fbref.com/en/matches/f56f1196/Besiktas-Antalyaspor-June-13-2020-Super-Lig,0,0,3,0,25,6,7,10,12,0,0,3,0,11,4,6,16,13,2019-2020
+2020-06-13,Yeni Mal'spor,Kasımpaşa,1,2,NA,NA,0,Halil Meler,https://fbref.com/en/matches/80e47efb/Yeni-Malatyaspor-Kasimpasa-June-13-2020-Super-Lig,0,0,1,0,14,1,9,14,9,0,0,2,0,11,3,9,24,13,2019-2020
+2020-06-14,Gençlerbirliği,Konyaspor,2,1,NA,NA,0,Alper Ulusoy,https://fbref.com/en/matches/0e74b831/Genclerbirligi-Konyaspor-June-14-2020-Super-Lig,0,0,2,0,12,3,9,10,15,0,0,2,0,19,3,13,15,13,2019-2020
+2020-06-14,Rizespor,Galatasaray,2,0,NA,NA,0,Yaşar Kemal Uğurlu,https://fbref.com/en/matches/0ffc93dc/Rizespor-Galatasaray-June-14-2020-Super-Lig,0,1,4,0,8,4,13,13,17,0,0,3,1,15,3,8,5,18,2019-2020
+2020-06-14,Gaziantep FK,Ankaragücü,1,1,NA,NA,0,Mete Kalkavan,https://fbref.com/en/matches/b98bdc2f/Gaziantep-FK-Ankaragucu-June-14-2020-Super-Lig,1,1,3,0,5,1,10,18,10,0,0,3,0,16,7,5,12,19,2019-2020
+2020-06-15,Sivasspor,Denizlispor,1,0,NA,NA,0,Abdulkadir Bitigen,https://fbref.com/en/matches/ba18cb09/Sivasspor-Denizlispor-June-15-2020-Super-Lig,0,0,3,0,16,4,9,5,19,0,0,2,1,9,2,7,12,13,2019-2020
+2020-06-19,Ankaragücü,Başakşehir,1,2,NA,NA,0,Hüseyin Göçek,https://fbref.com/en/matches/f2e331cf/Ankaragucu-Istanbul-Basaksehir-June-19-2020-Super-Lig,1,1,4,0,10,2,7,13,19,0,0,4,0,20,11,12,14,15,2019-2020
+2020-06-20,Kayserispor,Gençlerbirliği,2,0,NA,NA,0,Umit Öztürk,https://fbref.com/en/matches/3f5ba2d0/Kayserispor-Genclerbirligi-June-20-2020-Super-Lig,0,0,4,0,15,4,12,10,14,0,0,3,0,16,3,10,3,9,2019-2020
+2020-06-20,Yeni Mal'spor,Göztepe,2,1,NA,NA,0,Özgür Yankaya,https://fbref.com/en/matches/1ee39c63/Yeni-Malatyaspor-Goztepe-June-20-2020-Super-Lig,0,0,3,0,7,3,15,6,10,1,1,1,0,10,2,7,9,11,2019-2020
+2020-06-20,Denizlispor,Beşiktaş,1,5,NA,NA,0,Mete Kalkavan,https://fbref.com/en/matches/f59599b5/Denizlispor-Besiktas-June-20-2020-Super-Lig,0,0,2,0,11,3,14,3,15,0,0,0,0,17,10,5,8,9,2019-2020
+2020-06-21,Kasımpaşa,Fenerbahçe,2,0,NA,NA,0,Fırat Aydınus,https://fbref.com/en/matches/e148eb71/Kasimpasa-Fenerbahce-June-21-2020-Super-Lig,0,0,4,0,12,5,10,15,15,0,0,0,0,13,6,7,6,11,2019-2020
+2020-06-21,Konyaspor,Sivasspor,2,2,NA,NA,0,Halil Meler,https://fbref.com/en/matches/01be2215/Konyaspor-Sivasspor-June-21-2020-Super-Lig,0,0,3,0,10,5,9,22,13,0,0,1,0,11,2,2,4,6,2019-2020
+2020-06-21,Galatasaray,Gaziantep FK,3,3,NA,NA,0,Alper Ulusoy,https://fbref.com/en/matches/a2a48efc/Galatasaray-Gaziantep-FK-June-21-2020-Super-Lig,0,0,6,1,10,6,9,8,18,1,1,1,0,10,5,7,9,14,2019-2020
+2020-06-22,Antalyaspor,Rizespor,3,1,NA,NA,0,Suat Arslanboga,https://fbref.com/en/matches/6257e3b1/Antalyaspor-Rizespor-June-22-2020-Super-Lig,1,1,2,0,10,7,11,9,16,1,1,2,0,8,4,5,6,15,2019-2020
+2020-06-22,Alanyaspor,Trabzonspor,2,2,NA,NA,0,Atilla Karaoğlan,https://fbref.com/en/matches/cbe00d10/Alanyaspor-Trabzonspor-June-22-2020-Super-Lig,0,0,3,1,17,8,17,11,12,0,0,1,1,12,6,4,16,16,2019-2020
+2020-06-26,Beşiktaş,Konyaspor,3,0,NA,NA,0,Zorbay Küçük,https://fbref.com/en/matches/02103ece/Besiktas-Konyaspor-June-26-2020-Super-Lig,0,0,3,0,15,4,8,12,14,0,0,0,1,4,2,9,10,6,2019-2020
+2020-06-27,Fenerbahçe,Yeni Mal'spor,3,2,NA,NA,0,Ali Şansalan,https://fbref.com/en/matches/fd710651/Fenerbahce-Yeni-Malatyaspor-June-27-2020-Super-Lig,0,0,3,0,18,4,3,7,12,0,0,4,1,8,4,7,8,14,2019-2020
+2020-06-27,Trabzonspor,Ankaragücü,1,1,NA,NA,0,Abdulkadir Bitigen,https://fbref.com/en/matches/dda9a461/Trabzonspor-Ankaragucu-June-27-2020-Super-Lig,0,0,4,0,7,2,16,14,14,1,1,8,1,9,4,8,11,28,2019-2020
+2020-06-27,Göztepe,Alanyaspor,3,3,NA,NA,0,Yaşar Kemal Uğurlu,https://fbref.com/en/matches/71faf092/Goztepe-Alanyaspor-June-27-2020-Super-Lig,0,0,3,0,7,3,3,13,12,0,0,2,0,14,6,10,5,12,2019-2020
+2020-06-28,Rizespor,Denizlispor,2,2,NA,NA,0,Cüneyt Çakιr,https://fbref.com/en/matches/57e05d4a/Rizespor-Denizlispor-June-28-2020-Super-Lig,0,0,2,0,16,7,6,13,19,0,0,1,0,5,1,6,15,11,2019-2020
+2020-06-28,Sivasspor,Kayserispor,0,2,NA,NA,0,Mete Kalkavan,https://fbref.com/en/matches/2936cedc/Sivasspor-Kayserispor-June-28-2020-Super-Lig,0,1,3,0,21,5,10,5,11,1,1,4,0,9,4,11,8,16,2019-2020
+2020-06-28,Gaziantep FK,Antalyaspor,1,1,NA,NA,0,Serkan Tokat,https://fbref.com/en/matches/34c76286/Gaziantep-FK-Antalyaspor-June-28-2020-Super-Lig,0,0,2,0,19,2,10,8,16,1,1,3,1,8,1,4,16,13,2019-2020
+2020-06-28,Başakşehir,Galatasaray,1,1,NA,NA,0,Ali Palabıyık,https://fbref.com/en/matches/2e36c576/Istanbul-Basaksehir-Galatasaray-June-28-2020-Super-Lig,0,0,7,1,11,4,10,11,15,0,0,1,0,21,6,7,7,9,2019-2020
+2020-06-29,Gençlerbirliği,Kasımpaşa,0,2,NA,NA,0,Halis Özkahya,https://fbref.com/en/matches/c91fcedf/Genclerbirligi-Kasimpasa-June-29-2020-Super-Lig,0,0,2,0,12,3,5,5,13,0,0,2,0,16,9,13,12,9,2019-2020
+2020-07-03,Denizlispor,Gaziantep FK,0,1,NA,NA,0,Özgür Yankaya,https://fbref.com/en/matches/2eecd392/Denizlispor-Gaziantep-FK-July-3-2020-Super-Lig,0,0,2,0,9,0,7,7,17,0,0,1,0,8,5,10,14,21,2019-2020
+2020-07-04,Ankaragücü,Alanyaspor,1,4,NA,NA,0,Halil Meler,https://fbref.com/en/matches/a34e07b2/Ankaragucu-Alanyaspor-July-4-2020-Super-Lig,0,1,2,0,20,8,6,13,14,1,1,2,0,15,7,12,12,10,2019-2020
+2020-07-04,Yeni Mal'spor,Gençlerbirliği,0,0,NA,NA,0,Abdulkadir Bitigen,https://fbref.com/en/matches/e27f01a5/Yeni-Malatyaspor-Genclerbirligi-July-4-2020-Super-Lig,0,0,5,0,4,1,2,9,10,0,0,2,0,8,1,4,7,7,2019-2020
+2020-07-04,Fenerbahçe,Göztepe,2,1,NA,NA,0,Bahattin Şimşek,https://fbref.com/en/matches/5a7d9f47/Fenerbahce-Goztepe-July-4-2020-Super-Lig,0,0,2,1,11,5,8,9,12,0,0,2,0,10,4,10,7,9,2019-2020
+2020-07-04,Antalyaspor,Başakşehir,0,2,NA,NA,0,Yaşar Kemal Uğurlu,https://fbref.com/en/matches/c102a2fc/Antalyaspor-Istanbul-Basaksehir-July-4-2020-Super-Lig,0,0,1,0,11,3,10,3,24,0,0,2,0,16,4,8,7,12,2019-2020
+2020-07-05,Kasımpaşa,Sivasspor,0,0,NA,NA,0,Atilla Karaoğlan,https://fbref.com/en/matches/3f2018c9/Kasimpasa-Sivasspor-July-5-2020-Super-Lig,0,0,3,1,6,2,6,12,19,0,0,2,0,16,5,7,10,9,2019-2020
+2020-07-05,Galatasaray,Trabzonspor,1,3,NA,NA,0,Cüneyt Çakιr,https://fbref.com/en/matches/306e841d/Galatasaray-Trabzonspor-July-5-2020-Super-Lig,1,1,2,1,9,4,4,7,13,1,1,3,0,10,5,9,8,16,2019-2020
+2020-07-05,Konyaspor,Rizespor,1,0,NA,NA,0,Fırat Aydınus,https://fbref.com/en/matches/7ef8d371/Konyaspor-Rizespor-July-5-2020-Super-Lig,1,1,3,0,13,4,8,9,14,0,0,2,0,5,1,8,9,17,2019-2020
+2020-07-06,Kayserispor,Beşiktaş,3,1,NA,NA,0,Arda Kardeşler,https://fbref.com/en/matches/53c219ce/Kayserispor-Besiktas-July-6-2020-Super-Lig,0,0,1,0,9,4,12,9,18,0,0,1,0,12,8,6,5,15,2019-2020
+2020-07-07,Gençlerbirliği,Fenerbahçe,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-07,Başakşehir,Denizlispor,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-08,Trabzonspor,Antalyaspor,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-08,Sivasspor,Yeni Mal'spor,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-08,Göztepe,Ankaragücü,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-08,Alanyaspor,Galatasaray,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-09,Rizespor,Kayserispor,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-09,Beşiktaş,Kasımpaşa,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-09,Gaziantep FK,Konyaspor,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-12,Denizlispor,Trabzonspor,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-12,Yeni Mal'spor,Beşiktaş,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-12,Kayserispor,Gaziantep FK,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-12,Ankaragücü,Galatasaray,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-12,Fenerbahçe,Sivasspor,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-12,Göztepe,Gençlerbirliği,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-12,Antalyaspor,Alanyaspor,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-12,Konyaspor,Başakşehir,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-12,Kasımpaşa,Rizespor,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-19,Sivasspor,Gençlerbirliği,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-19,Trabzonspor,Konyaspor,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-19,Ankaragücü,Antalyaspor,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-19,Gaziantep FK,Kasımpaşa,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-19,Alanyaspor,Denizlispor,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-19,Beşiktaş,Fenerbahçe,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-19,Rizespor,Yeni Mal'spor,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-19,Başakşehir,Kayserispor,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-19,Galatasaray,Göztepe,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-26,Denizlispor,Ankaragücü,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-26,Kasımpaşa,Başakşehir,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-26,Kayserispor,Trabzonspor,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-26,Göztepe,Sivasspor,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-26,Gençlerbirliği,Beşiktaş,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-26,Konyaspor,Alanyaspor,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-26,Fenerbahçe,Rizespor,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-26,Antalyaspor,Galatasaray,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-26,Yeni Mal'spor,Gaziantep FK,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020

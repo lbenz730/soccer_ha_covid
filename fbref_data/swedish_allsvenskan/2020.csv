@@ -1,0 +1,241 @@
+date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_report_url,home_pk_goals,home_pk_attempts,home_yellow_cards,home_red_cards,home_shots,home_shots_on_target,home_tackles,home_interceptions,home_fouls_committed,away_pk_goals,away_pk_attempts,away_yellow_cards,away_red_cards,away_shots,away_shots_on_target,away_tackles,away_interceptions,away_fouls_committed,season
+2020-06-14,Sirius,Djurgården,0,2,NA,NA,0,Victor Wolf,https://fbref.com/en/matches/49f71975/Sirius-Djurgarden-June-14-2020-Allsvenskan,0,0,1,0,18,3,9,7,13,0,0,1,0,10,3,11,9,12,2020
+2020-06-14,Norrköping,Kalmar,2,1,NA,NA,0,Mohammed Al Hakim,https://fbref.com/en/matches/96ab2043/Norrkoping-Kalmar-June-14-2020-Allsvenskan,0,0,2,0,18,10,5,9,10,0,0,1,0,6,1,8,7,14,2020
+2020-06-14,Göteborg,Elfsborg,0,1,NA,NA,0,Glenn Nyberg,https://fbref.com/en/matches/a71b9073/Goteborg-Elfsborg-June-14-2020-Allsvenskan,0,0,1,1,12,4,9,8,11,0,0,2,0,9,3,9,13,25,2020
+2020-06-14,Hammarby,Östersund,2,0,NA,NA,0,Bojan Pandzic,https://fbref.com/en/matches/4fd1fff6/Hammarby-Ostersund-June-14-2020-Allsvenskan,0,1,1,0,19,6,10,12,12,0,0,2,0,6,2,12,17,11,2020
+2020-06-14,Örebro,AIK Stockholm,0,2,NA,NA,0,Martin Strömbergsson,https://fbref.com/en/matches/a53775a6/Orebro-AIK-Stockholm-June-14-2020-Allsvenskan,0,0,1,0,13,5,13,9,6,0,0,1,0,10,4,11,8,12,2020
+2020-06-15,Helsingborg,Varberg,0,3,NA,NA,0,Andreas Ekberg,https://fbref.com/en/matches/fc4aafad/Helsingborg-Varberg-June-15-2020-Allsvenskan,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2020
+2020-06-15,Falkenberg,Häcken,1,1,NA,NA,0,Kaspar Sjöberg,https://fbref.com/en/matches/96c7b4e3/Falkenberg-Hacken-June-15-2020-Allsvenskan,0,0,0,0,14,4,10,16,11,0,0,2,0,9,5,10,5,22,2020
+2020-06-15,Malmö,Mjällby,2,0,NA,NA,0,Kristoffer Karlsson,https://fbref.com/en/matches/f2fab444/Malmo-Mjallby-June-15-2020-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020
+2020-06-17,Elfsborg,Hammarby,2,2,NA,NA,0,Kristoffer Karlsson,https://fbref.com/en/matches/d982f4ff/Elfsborg-Hammarby-June-17-2020-Allsvenskan,0,0,0,0,15,7,9,14,17,0,0,1,0,17,6,7,8,13,2020
+2020-06-17,Djurgården,Örebro,1,2,NA,NA,0,Adam Ladebäck,https://fbref.com/en/matches/14dd59bb/Djurgarden-Orebro-June-17-2020-Allsvenskan,0,0,1,0,15,4,7,6,14,0,0,4,0,17,7,10,5,16,2020
+2020-06-17,AIK Stockholm,Norrköping,1,4,NA,NA,0,Glenn Nyberg,https://fbref.com/en/matches/cb66f52e/AIK-Stockholm-Norrkoping-June-17-2020-Allsvenskan,0,0,1,0,12,2,12,13,7,1,1,2,0,13,8,7,7,11,2020
+2020-06-18,Kalmar,Helsingborg,4,0,NA,NA,0,Kaspar Sjöberg,https://fbref.com/en/matches/beac98e7/Kalmar-Helsingborg-June-18-2020-Allsvenskan,0,0,2,0,27,10,11,10,16,0,0,1,0,7,1,11,5,8,2020
+2020-06-18,Östersund,Sirius,0,2,NA,NA,0,Mohammed Al Hakim,https://fbref.com/en/matches/863649f4/Ostersund-Sirius-June-18-2020-Allsvenskan,0,0,2,0,11,5,7,16,9,0,0,0,0,20,6,10,11,12,2020
+2020-06-18,Häcken,Malmö,1,1,NA,NA,0,Andreas Ekberg,https://fbref.com/en/matches/0b1f7c82/Hacken-Malmo-June-18-2020-Allsvenskan,0,0,3,0,18,5,13,7,19,0,0,1,0,11,3,10,12,9,2020
+2020-06-18,Varberg,Göteborg,1,2,NA,NA,0,Bojan Pandzic,https://fbref.com/en/matches/bf20314e/Varberg-Goteborg-June-18-2020-Allsvenskan,0,0,4,0,5,2,3,3,7,0,0,2,0,10,4,4,3,13,2020
+2020-06-18,Mjällby,Falkenberg,0,1,NA,NA,0,Fredrik Klitte,https://fbref.com/en/matches/b3f0049d/Mjallby-Falkenberg-June-18-2020-Allsvenskan,0,0,2,0,2,2,1,5,14,0,0,1,0,12,6,9,9,14,2020
+2020-06-21,Malmö,Varberg,2,2,NA,NA,0,Adam Ladebäck,https://fbref.com/en/matches/f47c7a95/Malmo-Varberg-June-21-2020-Allsvenskan,0,0,3,2,18,3,6,3,9,0,0,2,0,8,3,10,10,17,2020
+2020-06-21,Norrköping,Djurgården,3,0,NA,NA,0,Bojan Pandzic,https://fbref.com/en/matches/3364414a/Norrkoping-Djurgarden-June-21-2020-Allsvenskan,0,0,1,0,13,7,13,12,10,0,0,1,0,14,1,14,10,13,2020
+2020-06-21,Falkenberg,Kalmar,0,2,NA,NA,0,Kristoffer Karlsson,https://fbref.com/en/matches/4d6782cb/Falkenberg-Kalmar-June-21-2020-Allsvenskan,0,0,2,0,11,1,15,10,16,0,0,3,0,11,3,12,13,18,2020
+2020-06-21,Hammarby,AIK Stockholm,0,2,NA,NA,0,Andreas Ekberg,https://fbref.com/en/matches/98c2e507/Hammarby-AIK-Stockholm-June-21-2020-Allsvenskan,0,0,2,0,6,1,2,13,17,1,1,3,0,13,7,13,12,21,2020
+2020-06-21,Örebro,Östersund,0,0,NA,NA,0,Kaspar Sjöberg,https://fbref.com/en/matches/917d009a/Orebro-Ostersund-June-21-2020-Allsvenskan,0,0,2,0,11,2,13,5,12,0,0,2,0,15,2,6,10,14,2020
+2020-06-22,Helsingborg,Elfsborg,0,0,NA,NA,0,Victor Wolf,https://fbref.com/en/matches/61032533/Helsingborg-Elfsborg-June-22-2020-Allsvenskan,0,0,4,0,5,0,9,17,17,0,0,0,0,6,2,8,7,13,2020
+2020-06-22,Sirius,Häcken,2,2,NA,NA,0,Fredrik Klitte,https://fbref.com/en/matches/a5e6be89/Sirius-Hacken-June-22-2020-Allsvenskan,0,0,1,0,13,5,6,10,14,0,0,4,0,10,3,12,12,17,2020
+2020-06-22,Göteborg,Mjällby,2,2,NA,NA,0,Mohammed Al Hakim,https://fbref.com/en/matches/5d41d422/Goteborg-Mjallby-June-22-2020-Allsvenskan,0,0,1,0,20,6,5,12,13,0,0,1,0,5,4,10,18,16,2020
+2020-06-27,Östersund,Norrköping,2,4,NA,NA,0,Fredrik Klitte,https://fbref.com/en/matches/1e31dc28/Ostersund-Norrkoping-June-27-2020-Allsvenskan,0,0,1,0,7,5,10,14,11,1,1,0,0,28,15,10,10,8,2020
+2020-06-28,Sirius,Göteborg,2,2,NA,NA,0,Glenn Nyberg,https://fbref.com/en/matches/4974b4c0/Sirius-Goteborg-June-28-2020-Allsvenskan,0,0,2,0,14,7,10,13,5,0,0,0,0,10,4,4,3,9,2020
+2020-06-28,Djurgården,Kalmar,5,0,NA,NA,0,Kaspar Sjöberg,https://fbref.com/en/matches/2f61089e/Djurgarden-Kalmar-June-28-2020-Allsvenskan,1,1,0,0,16,6,10,10,16,0,0,3,1,12,2,5,8,14,2020
+2020-06-28,Mjällby,Hammarby,2,1,NA,NA,0,Victor Wolf,https://fbref.com/en/matches/94eae5b1/Mjallby-Hammarby-June-28-2020-Allsvenskan,0,1,2,0,21,6,5,10,12,0,0,3,1,3,1,8,13,12,2020
+2020-06-28,Elfsborg,Örebro,1,1,NA,NA,0,Bojan Pandzic,https://fbref.com/en/matches/b02aa92b/Elfsborg-Orebro-June-28-2020-Allsvenskan,1,1,1,1,19,9,11,15,19,0,0,3,0,6,2,3,11,12,2020
+2020-06-28,AIK Stockholm,Malmö,2,2,NA,NA,0,Mohammed Al Hakim,https://fbref.com/en/matches/431ac6d9/AIK-Stockholm-Malmo-June-28-2020-Allsvenskan,0,0,3,0,8,2,7,8,16,1,2,1,0,14,3,9,6,19,2020
+2020-06-29,Varberg,Falkenberg,3,1,NA,NA,0,Andreas Ekberg,https://fbref.com/en/matches/6df75255/Varberg-Falkenberg-June-29-2020-Allsvenskan,0,1,1,0,9,5,8,13,24,0,0,1,0,16,8,6,7,19,2020
+2020-06-29,Häcken,Helsingborg,1,0,NA,NA,0,Adam Ladebäck,https://fbref.com/en/matches/5043b487/Hacken-Helsingborg-June-29-2020-Allsvenskan,0,0,1,0,20,5,10,11,13,0,0,4,0,11,2,9,7,20,2020
+2020-07-01,Malmö,Djurgården,1,0,NA,NA,0,Glenn Nyberg,https://fbref.com/en/matches/a8df2c3c/Malmo-Djurgarden-July-1-2020-Allsvenskan,0,0,2,0,14,3,7,13,14,0,0,3,0,12,4,7,14,17,2020
+2020-07-01,Norrköping,Elfsborg,1,1,NA,NA,0,Andreas Ekberg,https://fbref.com/en/matches/e071b810/Norrkoping-Elfsborg-July-1-2020-Allsvenskan,0,0,1,0,22,7,11,6,9,0,0,2,0,9,2,14,10,18,2020
+2020-07-01,Kalmar,Östersund,1,2,NA,NA,0,Adam Ladebäck,https://fbref.com/en/matches/1bf8d2cc/Kalmar-Ostersund-July-1-2020-Allsvenskan,0,0,2,0,19,5,8,8,19,1,1,2,0,11,4,8,7,10,2020
+2020-07-02,Göteborg,AIK Stockholm,1,0,NA,NA,0,Kristoffer Karlsson,https://fbref.com/en/matches/1dd78183/Goteborg-AIK-Stockholm-July-2-2020-Allsvenskan,0,0,1,0,7,2,10,12,17,0,0,3,0,6,3,16,23,16,2020
+2020-07-02,Örebro,Häcken,0,0,NA,NA,0,Mohammed Al Hakim,https://fbref.com/en/matches/ce239c73/Orebro-Hacken-July-2-2020-Allsvenskan,0,0,3,0,12,6,7,8,16,0,0,1,0,14,3,7,15,18,2020
+2020-07-02,Helsingborg,Mjällby,0,1,NA,NA,0,Kaspar Sjöberg,https://fbref.com/en/matches/ba51c2d9/Helsingborg-Mjallby-July-2-2020-Allsvenskan,0,0,3,0,15,4,8,7,18,0,0,1,0,18,6,10,8,19,2020
+2020-07-02,Falkenberg,Sirius,1,2,NA,NA,0,Victor Wolf,https://fbref.com/en/matches/2c5c901c/Falkenberg-Sirius-July-2-2020-Allsvenskan,0,0,3,0,13,5,17,28,18,0,0,2,0,7,4,15,17,11,2020
+2020-07-02,Hammarby,Varberg,1,0,NA,NA,0,Fredrik Klitte,https://fbref.com/en/matches/87c1212a/Hammarby-Varberg-July-2-2020-Allsvenskan,0,0,3,0,12,3,4,9,13,0,0,3,0,7,1,12,18,24,2020
+2020-07-05,AIK Stockholm,Falkenberg,1,1,NA,NA,0,Kaspar Sjöberg,https://fbref.com/en/matches/88e21b87/AIK-Stockholm-Falkenberg-July-5-2020-Allsvenskan,0,0,1,0,8,2,4,7,10,0,0,0,0,9,2,11,13,13,2020
+2020-07-05,Elfsborg,Malmö,1,0,NA,NA,0,Kristoffer Karlsson,https://fbref.com/en/matches/07855450/Elfsborg-Malmo-July-5-2020-Allsvenskan,0,0,3,0,14,2,14,17,18,0,0,1,0,11,2,12,16,11,2020
+2020-07-05,Sirius,Örebro,2,1,NA,NA,0,Adam Ladebäck,https://fbref.com/en/matches/53cadc31/Sirius-Orebro-July-5-2020-Allsvenskan,0,0,3,0,17,2,5,11,15,0,1,3,0,10,4,3,17,15,2020
+2020-07-05,Häcken,Hammarby,3,0,NA,NA,0,Andreas Ekberg,https://fbref.com/en/matches/7f20d7f8/Hacken-Hammarby-July-5-2020-Allsvenskan,0,0,1,0,18,7,13,7,16,0,0,2,0,17,4,10,16,14,2020
+2020-07-06,Norrköping,Göteborg,3,1,NA,NA,0,Glenn Nyberg,https://fbref.com/en/matches/ff8583be/Norrkoping-Goteborg-July-6-2020-Allsvenskan,0,0,1,0,16,7,14,13,8,0,0,2,0,13,5,10,11,11,2020
+2020-07-06,Östersund,Mjällby,0,1,NA,NA,0,Victor Wolf,https://fbref.com/en/matches/d8f0d231/Ostersund-Mjallby-July-6-2020-Allsvenskan,0,0,3,0,8,2,8,4,13,0,0,3,0,11,5,4,9,17,2020
+2020-07-06,Djurgården,Helsingborg,2,2,NA,NA,0,Bojan Pandzic,https://fbref.com/en/matches/6c461db0/Djurgarden-Helsingborg-July-6-2020-Allsvenskan,1,1,3,0,13,3,8,11,9,0,0,2,0,13,4,9,17,11,2020
+2020-07-06,Varberg,Kalmar,1,0,NA,NA,0,Granit Maqedonci,https://fbref.com/en/matches/46125cd3/Varberg-Kalmar-July-6-2020-Allsvenskan,0,0,4,0,12,5,7,11,18,0,0,2,0,14,8,6,11,16,2020
+2020-07-12,Mjällby,Häcken,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-12,Göteborg,Djurgården,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-12,Kalmar,Elfsborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-12,Örebro,Varberg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-12,Hammarby,Sirius,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-12,Falkenberg,Östersund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-12,Helsingborg,AIK Stockholm,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-12,Malmö,Norrköping,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-16,Häcken,Elfsborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-16,Varberg,Mjällby,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-16,Kalmar,Hammarby,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-16,Djurgården,Falkenberg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-16,Norrköping,Örebro,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-16,AIK Stockholm,Sirius,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-16,Göteborg,Helsingborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-16,Östersund,Malmö,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-19,Elfsborg,Djurgården,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-19,Hammarby,Göteborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-19,Malmö,Kalmar,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-19,Örebro,Mjällby,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-19,Östersund,Häcken,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-19,Sirius,Norrköping,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-19,Falkenberg,Helsingborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-19,Varberg,AIK Stockholm,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-23,Djurgården,Östersund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-23,Norrköping,Varberg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-23,Helsingborg,Örebro,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-23,Kalmar,Sirius,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-23,Mjällby,Elfsborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-23,Malmö,Hammarby,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-23,Göteborg,Falkenberg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-23,Häcken,AIK Stockholm,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-26,Hammarby,Örebro,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-26,Mjällby,Kalmar,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-26,AIK Stockholm,Djurgården,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-26,Häcken,Göteborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-26,Elfsborg,Varberg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-26,Sirius,Malmö,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-26,Östersund,Helsingborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-26,Falkenberg,Norrköping,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-02,Djurgården,Häcken,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-02,Örebro,Falkenberg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-02,Göteborg,Malmö,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-02,Elfsborg,Sirius,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-02,Norrköping,Mjällby,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-02,Varberg,Östersund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-02,Kalmar,AIK Stockholm,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-02,Helsingborg,Hammarby,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-06,Malmö,Helsingborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-06,Kalmar,Örebro,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-06,AIK Stockholm,Elfsborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-06,Varberg,Djurgården,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-06,Mjällby,Sirius,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-06,Häcken,Norrköping,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-06,Hammarby,Falkenberg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-06,Göteborg,Östersund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-09,Örebro,Göteborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-09,Mjällby,AIK Stockholm,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-09,Östersund,Elfsborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-09,Falkenberg,Malmö,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-09,Djurgården,Hammarby,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-09,Häcken,Kalmar,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-09,Helsingborg,Norrköping,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-09,Sirius,Varberg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-13,Djurgården,Mjällby,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-13,Sirius,Helsingborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-13,Kalmar,Göteborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-13,Varberg,Häcken,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-13,Malmö,Örebro,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-13,Elfsborg,Falkenberg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-13,Norrköping,Hammarby,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-13,AIK Stockholm,Östersund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-16,Falkenberg,AIK Stockholm,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-16,Häcken,Varberg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-16,Helsingborg,Sirius,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-16,Örebro,Djurgården,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-16,Mjällby,Malmö,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-16,Östersund,Kalmar,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-16,Hammarby,Elfsborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-16,Göteborg,Norrköping,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-23,AIK Stockholm,Helsingborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-23,Norrköping,Häcken,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-23,Varberg,Örebro,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-23,Sirius,Hammarby,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-23,Kalmar,Mjällby,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-23,Elfsborg,Östersund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-23,Djurgården,Göteborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-23,Malmö,Falkenberg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-30,Örebro,Norrköping,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-30,Helsingborg,Djurgården,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-30,Malmö,Elfsborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-30,Östersund,Falkenberg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-30,AIK Stockholm,Häcken,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-30,Hammarby,Kalmar,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-30,Varberg,Sirius,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-30,Mjällby,Göteborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-10,Örebro,Malmö,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-10,Häcken,Djurgården,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-10,Sirius,AIK Stockholm,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-10,Norrköping,Östersund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-10,Falkenberg,Varberg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-10,Elfsborg,Mjällby,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-10,Helsingborg,Kalmar,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-10,Göteborg,Hammarby,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-13,Mjällby,Varberg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-13,Häcken,Sirius,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-13,Malmö,AIK Stockholm,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-13,Kalmar,Norrköping,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-13,Östersund,Örebro,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-13,Hammarby,Helsingborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-13,Djurgården,Elfsborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-13,Falkenberg,Göteborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-20,Varberg,Helsingborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-20,Norrköping,Malmö,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-20,Mjällby,Örebro,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-20,Sirius,Falkenberg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-20,Göteborg,Kalmar,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-20,AIK Stockholm,Hammarby,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-20,Elfsborg,Häcken,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-20,Östersund,Djurgården,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-27,Elfsborg,Göteborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-27,Falkenberg,Hammarby,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-27,Djurgården,Norrköping,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-27,Malmö,Häcken,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-27,AIK Stockholm,Mjällby,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-27,Kalmar,Varberg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-27,Helsingborg,Östersund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-27,Örebro,Sirius,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-04,Hammarby,Djurgården,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-04,Mjällby,Helsingborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-04,Kalmar,Malmö,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-04,Norrköping,Sirius,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-04,Östersund,AIK Stockholm,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-04,Örebro,Elfsborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-04,Göteborg,Varberg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-04,Häcken,Falkenberg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-18,Sirius,Östersund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-18,Elfsborg,Kalmar,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-18,Falkenberg,Örebro,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-18,Hammarby,Mjällby,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-18,Helsingborg,Häcken,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-18,Varberg,Norrköping,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-18,AIK Stockholm,Göteborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-18,Djurgården,Malmö,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-25,Malmö,Göteborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-25,Östersund,Hammarby,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-25,Örebro,Helsingborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-25,Häcken,Mjällby,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-25,Kalmar,Falkenberg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-25,Norrköping,AIK Stockholm,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-25,Djurgården,Sirius,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-25,Elfsborg,Varberg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-01,Mjällby,Östersund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-01,Falkenberg,Djurgården,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-01,Sirius,Kalmar,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-01,Göteborg,Örebro,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-01,Hammarby,Häcken,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-01,AIK Stockholm,Varberg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-01,Helsingborg,Malmö,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-01,Elfsborg,Norrköping,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-08,Varberg,Hammarby,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-08,Mjällby,Norrköping,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-08,Häcken,Östersund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-08,Malmö,Sirius,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-08,Örebro,Kalmar,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-08,Falkenberg,Elfsborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-08,Djurgården,AIK Stockholm,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-08,Helsingborg,Göteborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-22,AIK Stockholm,Örebro,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-22,Kalmar,Djurgården,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-22,Östersund,Varberg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-22,Sirius,Mjällby,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-22,Hammarby,Malmö,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-22,Norrköping,Falkenberg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-22,Elfsborg,Helsingborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-22,Göteborg,Häcken,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-29,Hammarby,Norrköping,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-29,Helsingborg,Falkenberg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-29,Häcken,Örebro,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-29,AIK Stockholm,Kalmar,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-29,Mjällby,Djurgården,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-29,Malmö,Varberg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-29,Sirius,Elfsborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-29,Östersund,Göteborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-12-06,Elfsborg,AIK Stockholm,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-12-06,Göteborg,Sirius,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-12-06,Örebro,Hammarby,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-12-06,Falkenberg,Mjällby,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-12-06,Norrköping,Helsingborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-12-06,Kalmar,Häcken,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-12-06,Malmö,Östersund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-12-06,Djurgården,Varberg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
