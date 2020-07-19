@@ -21,8 +21,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2015-08-30,Mallorca,Ponferradina,1,0,NA,NA,8715,Daniel Ocón,https://fbref.com/en/matches/a67b14d1/Mallorca-Ponferradina-August-30-2015-Segunda-Division,1,1,3,1,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
 2015-08-30,Elche,Bilbao B,2,1,NA,NA,10209,Jorge Figueroa,https://fbref.com/en/matches/7cc8c524/Elche-Athletic-Bilbao-B-August-30-2015-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
 2015-08-30,Valladolid,Alcorcón,2,0,NA,NA,8016,Alberola Rojas,https://fbref.com/en/matches/9a622e3c/Valladolid-Alcorcon-August-30-2015-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2015-2016
-2015-09-05,Gimnàstic,Girona,1,0,NA,NA,5823,José Piñeiro,https://fbref.com/en/matches/e0e9f91a/Gimnastic-Girona-September-5-2015-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
 2015-09-05,Huesca,Tenerife,1,1,NA,NA,2518,Jorge Valdés Aller,https://fbref.com/en/matches/1809458e/Huesca-Tenerife-September-5-2015-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-05,Gimnàstic,Girona,1,0,NA,NA,5823,José Piñeiro,https://fbref.com/en/matches/e0e9f91a/Gimnastic-Girona-September-5-2015-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
 2015-09-05,Mirandés,Lugo,1,1,NA,NA,2990,Juan López,https://fbref.com/en/matches/664e9ceb/Mirandes-Lugo-September-5-2015-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
 2015-09-05,Numancia,Elche,0,0,NA,NA,3024,Víctor Areces,https://fbref.com/en/matches/9f6f09a8/Numancia-Elche-September-5-2015-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
 2015-09-06,Bilbao B,Mallorca,3,1,NA,NA,8982,Rubén Eiriz,https://fbref.com/en/matches/e6151f92/Athletic-Bilbao-B-Mallorca-September-6-2015-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
@@ -46,16 +46,16 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2015-09-19,Oviedo,Girona,1,2,NA,NA,12983,Dámaso Arcediano,https://fbref.com/en/matches/49e1c2e5/Oviedo-Girona-September-19-2015-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,1,1,7,1,NA,NA,NA,NA,NA,2015-2016
 2015-09-19,Bilbao B,Alcorcón,1,0,NA,NA,8700,Rubén Ruipérez,https://fbref.com/en/matches/9813cf9c/Athletic-Bilbao-B-Alcorcon-September-19-2015-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
 2015-09-19,Leganés,Lugo,0,0,NA,NA,3983,David Medié,https://fbref.com/en/matches/863be3ff/Leganes-Lugo-September-19-2015-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
-2015-09-19,Mirandés,Albacete,1,1,NA,NA,3156,Francisco Arias,https://fbref.com/en/matches/50cef943/Mirandes-Albacete-September-19-2015-Segunda-Division,0,1,4,1,NA,NA,NA,NA,NA,0,0,0,1,NA,NA,NA,NA,NA,2015-2016
 2015-09-19,Llagostera,Tenerife,0,2,NA,NA,1428,Juan López,https://fbref.com/en/matches/394c200d/Llagostera-Tenerife-September-19-2015-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-19,Mirandés,Albacete,1,1,NA,NA,3156,Francisco Arias,https://fbref.com/en/matches/50cef943/Mirandes-Albacete-September-19-2015-Segunda-Division,0,1,4,1,NA,NA,NA,NA,NA,0,0,0,1,NA,NA,NA,NA,NA,2015-2016
 2015-09-20,Zaragoza,Osasuna,0,1,NA,NA,18654,Jorge Valdés Aller,https://fbref.com/en/matches/5153b7ce/Zaragoza-Osasuna-September-20-2015-Segunda-Division,0,0,5,1,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
 2015-09-20,Huesca,Elche,1,3,NA,NA,2673,Guillermo Cuadra,https://fbref.com/en/matches/1d76c10d/Huesca-Elche-September-20-2015-Segunda-Division,0,0,0,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
 2015-09-20,Numancia,Valladolid,2,2,NA,NA,3375,José Piñeiro,https://fbref.com/en/matches/e37b60ee/Numancia-Valladolid-September-20-2015-Segunda-Division,1,1,3,0,NA,NA,NA,NA,NA,0,0,7,2,NA,NA,NA,NA,NA,2015-2016
 2015-09-20,Gimnàstic,Mallorca,1,0,NA,NA,6020,Saúl Ais,https://fbref.com/en/matches/826f2e31/Gimnastic-Mallorca-September-20-2015-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
 2015-09-20,Almería,Alavés,0,2,NA,NA,8538,Víctor Areces,https://fbref.com/en/matches/f564e185/Almeria-Alaves-September-20-2015-Segunda-Division,0,0,8,1,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
 2015-09-20,Córdoba,Ponferradina,1,0,NA,NA,12724,Rubén Eiriz,https://fbref.com/en/matches/c8e870fd/Cordoba-Ponferradina-September-20-2015-Segunda-Division,0,0,3,1,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
-2015-09-26,Alcorcón,Numancia,1,1,NA,NA,2257,Daniel Ocón,https://fbref.com/en/matches/2e10fbbb/Alcorcon-Numancia-September-26-2015-Segunda-Division,0,0,5,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
 2015-09-26,Mallorca,Huesca,0,1,NA,NA,6257,Alberola Rojas,https://fbref.com/en/matches/e484c591/Mallorca-Huesca-September-26-2015-Segunda-Division,0,0,0,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-09-26,Alcorcón,Numancia,1,1,NA,NA,2257,Daniel Ocón,https://fbref.com/en/matches/2e10fbbb/Alcorcon-Numancia-September-26-2015-Segunda-Division,0,0,5,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
 2015-09-26,Lugo,Zaragoza,0,0,NA,NA,4460,Oliver De La Fuente,https://fbref.com/en/matches/d1f45243/Lugo-Zaragoza-September-26-2015-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
 2015-09-26,Ponferradina,Bilbao B,1,0,NA,NA,4104,Daniel Trujillo,https://fbref.com/en/matches/d9e9d296/Ponferradina-Athletic-Bilbao-B-September-26-2015-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
 2015-09-26,Osasuna,Córdoba,0,0,NA,NA,13171,Adrián Cordero,https://fbref.com/en/matches/c0205584/Osasuna-Cordoba-September-26-2015-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
@@ -87,8 +87,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2015-10-11,Lugo,Córdoba,1,2,NA,NA,3705,Daniel Ocón,https://fbref.com/en/matches/2d508a2e/Lugo-Cordoba-October-11-2015-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
 2015-10-11,Alcorcón,Huesca,0,1,NA,NA,1986,Gorka Sagues,https://fbref.com/en/matches/87824478/Alcorcon-Huesca-October-11-2015-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
 2015-10-11,Girona,Almería,1,1,NA,NA,4290,Oliver De La Fuente,https://fbref.com/en/matches/4d3a9929/Girona-Almeria-October-11-2015-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,1,1,5,0,NA,NA,NA,NA,NA,2015-2016
-2015-10-17,Gimnàstic,Bilbao B,2,1,NA,NA,5565,Juan López,https://fbref.com/en/matches/69165d47/Gimnastic-Athletic-Bilbao-B-October-17-2015-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
 2015-10-17,Mirandés,Mallorca,2,2,NA,NA,3154,Víctor Areces,https://fbref.com/en/matches/20fbb347/Mirandes-Mallorca-October-17-2015-Segunda-Division,0,0,0,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2015-10-17,Gimnàstic,Bilbao B,2,1,NA,NA,5565,Juan López,https://fbref.com/en/matches/69165d47/Gimnastic-Athletic-Bilbao-B-October-17-2015-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
 2015-10-17,Oviedo,Alcorcón,3,2,NA,NA,12582,Rubén Eiriz,https://fbref.com/en/matches/389ee026/Oviedo-Alcorcon-October-17-2015-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
 2015-10-17,Leganés,Girona,2,2,NA,NA,3328,Saúl Ais,https://fbref.com/en/matches/9a46d581/Leganes-Girona-October-17-2015-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2015-2016
 2015-10-17,Osasuna,Albacete,1,0,NA,NA,13440,David Medié,https://fbref.com/en/matches/bf139b6a/Osasuna-Albacete-October-17-2015-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,1,3,0,NA,NA,NA,NA,NA,2015-2016
@@ -137,8 +137,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2015-11-14,Albacete,Tenerife,1,2,NA,NA,8111,Rubén Eiriz,https://fbref.com/en/matches/48c12207/Albacete-Tenerife-November-14-2015-Segunda-Division,0,0,5,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
 2015-11-14,Lugo,Elche,1,1,NA,NA,4022,Francisco Arias,https://fbref.com/en/matches/83981d25/Lugo-Elche-November-14-2015-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
 2015-11-15,Zaragoza,Valladolid,0,2,NA,NA,16231,Saúl Ais,https://fbref.com/en/matches/16d95d5a/Zaragoza-Valladolid-November-15-2015-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,1,1,4,0,NA,NA,NA,NA,NA,2015-2016
-2015-11-15,Córdoba,Huesca,1,1,NA,NA,15908,David Medié,https://fbref.com/en/matches/0c74dbfd/Cordoba-Huesca-November-15-2015-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,6,1,NA,NA,NA,NA,NA,2015-2016
 2015-11-15,Almería,Ponferradina,1,1,NA,NA,7744,Guillermo Cuadra,https://fbref.com/en/matches/7ff32238/Almeria-Ponferradina-November-15-2015-Segunda-Division,0,0,5,0,NA,NA,NA,NA,NA,1,1,6,0,NA,NA,NA,NA,NA,2015-2016
+2015-11-15,Córdoba,Huesca,1,1,NA,NA,15908,David Medié,https://fbref.com/en/matches/0c74dbfd/Cordoba-Huesca-November-15-2015-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,6,1,NA,NA,NA,NA,NA,2015-2016
 2015-11-15,Llagostera,Numancia,2,1,NA,NA,894,José Piñeiro,https://fbref.com/en/matches/877f1e41/Llagostera-Numancia-November-15-2015-Segunda-Division,1,1,4,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2015-2016
 2015-11-15,Oviedo,Gimnàstic,2,0,NA,NA,14622,Rubén Ruipérez,https://fbref.com/en/matches/5ab4801a/Oviedo-Gimnastic-November-15-2015-Segunda-Division,0,0,0,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
 2015-11-15,Osasuna,Mallorca,2,1,NA,NA,13490,Daniel Trujillo,https://fbref.com/en/matches/ccab2e89/Osasuna-Mallorca-November-15-2015-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
@@ -177,8 +177,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2015-12-07,Bilbao B,Zaragoza,0,1,NA,NA,12441,Jorge Valdés Aller,https://fbref.com/en/matches/ca010c53/Athletic-Bilbao-B-Zaragoza-December-7-2015-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
 2015-12-12,Córdoba,Llagostera,2,0,NA,NA,14061,Rubén Ruipérez,https://fbref.com/en/matches/4aa07060/Cordoba-Llagostera-December-12-2015-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,5,2,NA,NA,NA,NA,NA,2015-2016
 2015-12-12,Lugo,Ponferradina,3,1,NA,NA,5250,Víctor Areces,https://fbref.com/en/matches/c019a4ae/Lugo-Ponferradina-December-12-2015-Segunda-Division,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2015-12-12,Alavés,Alcorcón,1,1,NA,NA,9621,Francisco Arias,https://fbref.com/en/matches/bc695d10/Alaves-Alcorcon-December-12-2015-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
 2015-12-12,Girona,Elche,0,1,NA,NA,3449,José Luis Munuera,https://fbref.com/en/matches/918221c7/Girona-Elche-December-12-2015-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2015-2016
+2015-12-12,Alavés,Alcorcón,1,1,NA,NA,9621,Francisco Arias,https://fbref.com/en/matches/bc695d10/Alaves-Alcorcon-December-12-2015-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
 2015-12-12,Tenerife,Mallorca,2,1,NA,NA,8005,David Medié,https://fbref.com/en/matches/57a3cec5/Tenerife-Mallorca-December-12-2015-Segunda-Division,0,0,5,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
 2015-12-13,Zaragoza,Numancia,2,2,NA,NA,15923,Guillermo Cuadra,https://fbref.com/en/matches/a3d5621a/Zaragoza-Numancia-December-13-2015-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
 2015-12-13,Leganés,Gimnàstic,1,0,NA,NA,4157,Rubén Eiriz,https://fbref.com/en/matches/94232f9b/Leganes-Gimnastic-December-13-2015-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
@@ -312,8 +312,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-03-12,Numancia,Bilbao B,3,2,NA,NA,2938,Valentín Pizarro,https://fbref.com/en/matches/b422397d/Numancia-Athletic-Bilbao-B-March-12-2016-Segunda-Division,1,1,5,1,NA,NA,NA,NA,NA,1,1,4,0,NA,NA,NA,NA,NA,2015-2016
 2016-03-12,Oviedo,Valladolid,2,4,NA,NA,16191,Dámaso Arcediano,https://fbref.com/en/matches/7047e72e/Oviedo-Valladolid-March-12-2016-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
 2016-03-13,Osasuna,Alavés,3,1,NA,NA,16256,Pablo González,https://fbref.com/en/matches/ebbe69bf/Osasuna-Alaves-March-13-2016-Segunda-Division,1,1,5,0,NA,NA,NA,NA,NA,0,0,6,1,NA,NA,NA,NA,NA,2015-2016
-2016-03-13,Huesca,Alcorcón,1,0,NA,NA,2590,Alberola Rojas,https://fbref.com/en/matches/8d226a21/Huesca-Alcorcon-March-13-2016-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
 2016-03-13,Gimnàstic,Ponferradina,1,1,NA,NA,7272,Daniel Trujillo,https://fbref.com/en/matches/4feaaa7c/Gimnastic-Ponferradina-March-13-2016-Segunda-Division,0,0,5,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-13,Huesca,Alcorcón,1,0,NA,NA,2590,Alberola Rojas,https://fbref.com/en/matches/8d226a21/Huesca-Alcorcon-March-13-2016-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
 2016-03-13,Llagostera,Mallorca,3,0,NA,NA,3028,Jorge Figueroa,https://fbref.com/en/matches/ee8c32e5/Llagostera-Mallorca-March-13-2016-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
 2016-03-13,Córdoba,Lugo,1,2,NA,NA,14356,David Medié,https://fbref.com/en/matches/8de4900e/Cordoba-Lugo-March-13-2016-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
 2016-03-13,Leganés,Tenerife,0,1,NA,NA,8138,Daniel Ocón,https://fbref.com/en/matches/b3c4b6b3/Leganes-Tenerife-March-13-2016-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
@@ -324,15 +324,15 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-03-19,Alcorcón,Oviedo,1,0,NA,NA,3582,Gorka Sagues,https://fbref.com/en/matches/895308c8/Alcorcon-Oviedo-March-19-2016-Segunda-Division,1,1,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
 2016-03-19,Elche,Almería,0,0,NA,NA,7977,Jorge Valdés Aller,https://fbref.com/en/matches/9c39b774/Elche-Almeria-March-19-2016-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2015-2016
 2016-03-20,Tenerife,Zaragoza,0,0,NA,NA,10895,Víctor Areces,https://fbref.com/en/matches/c0eb4650/Tenerife-Zaragoza-March-20-2016-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
-2016-03-20,Girona,Leganés,1,1,NA,NA,3859,Guillermo Cuadra,https://fbref.com/en/matches/50fba396/Girona-Leganes-March-20-2016-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
 2016-03-20,Mallorca,Mirandés,1,1,NA,NA,8708,Juan López,https://fbref.com/en/matches/47376c9a/Mallorca-Mirandes-March-20-2016-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-20,Girona,Leganés,1,1,NA,NA,3859,Guillermo Cuadra,https://fbref.com/en/matches/50fba396/Girona-Leganes-March-20-2016-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
 2016-03-20,Bilbao B,Gimnàstic,0,4,NA,NA,4861,Adrián Cordero,https://fbref.com/en/matches/d8ba6bdf/Athletic-Bilbao-B-Gimnastic-March-20-2016-Segunda-Division,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
 2016-03-20,Ponferradina,Huesca,2,1,NA,NA,5548,Rubén Ruipérez,https://fbref.com/en/matches/17e0fcfa/Ponferradina-Huesca-March-20-2016-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
 2016-03-20,Numancia,Córdoba,1,1,NA,NA,2737,Rubén Eiriz,https://fbref.com/en/matches/d7681dba/Numancia-Cordoba-March-20-2016-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
 2016-03-26,Gimnàstic,Numancia,1,0,NA,NA,6893,Alberola Rojas,https://fbref.com/en/matches/b68c4eaf/Gimnastic-Numancia-March-26-2016-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2015-2016
 2016-03-26,Osasuna,Tenerife,0,0,NA,NA,14937,Oliver De La Fuente,https://fbref.com/en/matches/d5ddf66b/Osasuna-Tenerife-March-26-2016-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2016-03-26,Leganés,Elche,0,0,NA,NA,6632,Jorge Figueroa,https://fbref.com/en/matches/854b73e8/Leganes-Elche-March-26-2016-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
 2016-03-26,Huesca,Bilbao B,1,2,NA,NA,3080,David Medié,https://fbref.com/en/matches/d87efb70/Huesca-Athletic-Bilbao-B-March-26-2016-Segunda-Division,1,1,3,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
+2016-03-26,Leganés,Elche,0,0,NA,NA,6632,Jorge Figueroa,https://fbref.com/en/matches/854b73e8/Leganes-Elche-March-26-2016-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
 2016-03-26,Oviedo,Ponferradina,3,0,NA,NA,19511,Valentín Pizarro,https://fbref.com/en/matches/17b38bb9/Oviedo-Ponferradina-March-26-2016-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
 2016-03-27,Córdoba,Alavés,1,2,NA,NA,13575,Daniel Trujillo,https://fbref.com/en/matches/4c954c40/Cordoba-Alaves-March-27-2016-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
 2016-03-27,Llagostera,Alcorcón,4,0,NA,NA,3112,Dámaso Arcediano,https://fbref.com/en/matches/94264712/Llagostera-Alcorcon-March-27-2016-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,6,0,NA,NA,NA,NA,NA,2015-2016
@@ -342,8 +342,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-03-27,Mirandés,Valladolid,4,1,NA,NA,3576,Pablo González,https://fbref.com/en/matches/d201c080/Mirandes-Valladolid-March-27-2016-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,1,1,2,0,NA,NA,NA,NA,NA,2015-2016
 2016-04-02,Alcorcón,Mirandés,1,0,NA,NA,2324,Saúl Ais,https://fbref.com/en/matches/0a6ffac2/Alcorcon-Mirandes-April-2-2016-Segunda-Division,0,0,4,1,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2015-2016
 2016-04-02,Ponferradina,Llagostera,1,0,NA,NA,5240,Rubén Eiriz,https://fbref.com/en/matches/466a0407/Ponferradina-Llagostera-April-2-2016-Segunda-Division,1,1,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
-2016-04-02,Mallorca,Leganés,3,0,NA,NA,8027,Jorge Valdés Aller,https://fbref.com/en/matches/536ce61c/Mallorca-Leganes-April-2-2016-Segunda-Division,1,1,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
 2016-04-02,Elche,Zaragoza,2,1,NA,NA,10041,David Medié,https://fbref.com/en/matches/0f505a23/Elche-Zaragoza-April-2-2016-Segunda-Division,1,1,5,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
+2016-04-02,Mallorca,Leganés,3,0,NA,NA,8027,Jorge Valdés Aller,https://fbref.com/en/matches/536ce61c/Mallorca-Leganes-April-2-2016-Segunda-Division,1,1,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
 2016-04-03,Gimnàstic,Córdoba,4,4,NA,NA,10227,Francisco Arias,https://fbref.com/en/matches/e8a408e4/Gimnastic-Cordoba-April-3-2016-Segunda-Division,1,1,3,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
 2016-04-03,Tenerife,Lugo,1,0,NA,NA,10369,Adrián Cordero,https://fbref.com/en/matches/d7fefecb/Tenerife-Lugo-April-3-2016-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
 2016-04-03,Valladolid,Almería,1,1,NA,NA,8771,Víctor Areces,https://fbref.com/en/matches/9f7fa0ea/Valladolid-Almeria-April-3-2016-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
@@ -448,8 +448,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-05-29,Osasuna,Huesca,2,3,NA,NA,16921,Rubén Eiriz,https://fbref.com/en/matches/07434b36/Osasuna-Huesca-May-29-2016-Segunda-Division,0,0,1,1,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
 2016-05-29,Almería,Mirandés,2,1,NA,NA,8640,Daniel Trujillo,https://fbref.com/en/matches/20809661/Almeria-Mirandes-May-29-2016-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
 2016-05-29,Girona,Alcorcón,2,0,NA,NA,6602,Jorge Valdés Aller,https://fbref.com/en/matches/302a6aaa/Girona-Alcorcon-May-29-2016-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-29,Lugo,Gimnàstic,0,3,NA,NA,2570,José Luis Munuera,https://fbref.com/en/matches/8dde48f4/Lugo-Gimnastic-May-29-2016-Segunda-Division,0,0,5,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
 2016-05-29,Leganés,Llagostera,2,0,NA,NA,8138,Adrián Cordero,https://fbref.com/en/matches/ee33b86c/Leganes-Llagostera-May-29-2016-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
+2016-05-29,Lugo,Gimnàstic,0,3,NA,NA,2570,José Luis Munuera,https://fbref.com/en/matches/8dde48f4/Lugo-Gimnastic-May-29-2016-Segunda-Division,0,0,5,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
 2016-06-04,Huesca,Lugo,1,0,NA,NA,2370,David Medié,https://fbref.com/en/matches/1d53f790/Huesca-Lugo-June-4-2016-Segunda-Division,0,0,0,0,NA,NA,NA,NA,NA,0,0,7,3,NA,NA,NA,NA,NA,2015-2016
 2016-06-04,Bilbao B,Tenerife,2,0,NA,NA,727,Pablo González,https://fbref.com/en/matches/95ea7a6d/Athletic-Bilbao-B-Tenerife-June-4-2016-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
 2016-06-04,Numancia,Albacete,2,0,NA,NA,2478,David Pérez,https://fbref.com/en/matches/ccc19957/Numancia-Albacete-June-4-2016-Segunda-Division,1,1,2,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2015-2016

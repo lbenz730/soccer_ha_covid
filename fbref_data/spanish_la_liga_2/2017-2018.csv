@@ -56,8 +56,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-09-17,Córdoba,Tenerife,2,0,NA,NA,10091,Gorka Sagues,https://fbref.com/en/matches/39f3c070/Cordoba-Tenerife-September-17-2017-Segunda-Division,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-09-22,Almería,Sevilla B,3,0,NA,NA,7306,Jorge Valdés Aller,https://fbref.com/en/matches/09cf57fc/Almeria-Sevilla-Atletico-September-22-2017-Segunda-Division,1,1,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-09-23,Reus,Osasuna,0,0,NA,NA,3572,Valentín Pizarro,https://fbref.com/en/matches/4d92c55e/Reus-Osasuna-September-23-2017-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
-2017-09-23,Sporting Gijón,Lorca FC,1,0,NA,NA,20974,Iñaki Bikandi,https://fbref.com/en/matches/4980be78/Sporting-Gijon-Lorca-FC-September-23-2017-Segunda-Division,0,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-09-23,Granada,Córdoba,3,1,NA,NA,12050,Eduardo Prieto ,https://fbref.com/en/matches/0da827d4/Granada-Cordoba-September-23-2017-Segunda-Division,0,1,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
+2017-09-23,Sporting Gijón,Lorca FC,1,0,NA,NA,20974,Iñaki Bikandi,https://fbref.com/en/matches/4980be78/Sporting-Gijon-Lorca-FC-September-23-2017-Segunda-Division,0,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-09-23,Tenerife,Alcorcón,4,0,NA,NA,12039,Luis Milla,https://fbref.com/en/matches/54bab8b4/Tenerife-Alcorcon-September-23-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-09-24,Huesca,Valladolid,1,0,NA,NA,1609,Guillermo Cuadra,https://fbref.com/en/matches/089e3503/Huesca-Valladolid-September-24-2017-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2017-2018
 2017-09-24,Rayo Vallecano,Cultural Leonesa,3,1,NA,NA,9795,Víctor Areces,https://fbref.com/en/matches/3e3cc7a4/Rayo-Vallecano-Cultural-Leonesa-September-24-2017-Segunda-Division,1,1,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
@@ -204,8 +204,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-12-16,Albacete,Zaragoza,0,0,NA,NA,5446,Rubén Eiriz,https://fbref.com/en/matches/a9e0d219/Albacete-Zaragoza-December-16-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-12-17,Sevilla B,Oviedo,0,1,NA,NA,1216,Jorge Valdés Aller,https://fbref.com/en/matches/8bbc003e/Sevilla-Atletico-Oviedo-December-17-2017-Segunda-Division,0,1,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2017-2018
 2017-12-17,Huesca,Lugo,3,0,NA,NA,4595,José López,https://fbref.com/en/matches/61ecc3ec/Huesca-Lugo-December-17-2017-Segunda-Division,1,1,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
-2017-12-17,Cultural Leonesa,Gimnàstic,2,0,NA,NA,6833,Víctor Areces,https://fbref.com/en/matches/5a0e2097/Cultural-Leonesa-Gimnastic-December-17-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-12-17,Sporting Gijón,Tenerife,3,0,NA,NA,20013,Luis Milla,https://fbref.com/en/matches/d8914194/Sporting-Gijon-Tenerife-December-17-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2017-2018
+2017-12-17,Cultural Leonesa,Gimnàstic,2,0,NA,NA,6833,Víctor Areces,https://fbref.com/en/matches/5a0e2097/Cultural-Leonesa-Gimnastic-December-17-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-12-17,Rayo Vallecano,Alcorcón,2,1,NA,NA,8208,Jorge Figueroa,https://fbref.com/en/matches/23f7f1ba/Rayo-Vallecano-Alcorcon-December-17-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-12-19,Barcelona B,Albacete,0,1,NA,NA,1327,David Pérez,https://fbref.com/en/matches/2e63d973/Barcelona-B-Albacete-December-19-2017-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2017-2018
 2017-12-19,Valladolid,Zaragoza,3,2,NA,NA,5559,Iñaki Bikandi,https://fbref.com/en/matches/67267696/Valladolid-Zaragoza-December-19-2017-Segunda-Division,0,0,1,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2017-2018
@@ -298,8 +298,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2018-02-18,Lugo,Barcelona B,1,2,NA,NA,4062,Adrián Cordero,https://fbref.com/en/matches/d071ccef/Lugo-Barcelona-B-February-18-2018-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2018-02-23,Sporting Gijón,Osasuna,2,0,NA,NA,18884,Dámaso Arcediano,https://fbref.com/en/matches/5a2b42cc/Sporting-Gijon-Osasuna-February-23-2018-Segunda-Division,0,0,5,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-02-24,Barcelona B,Gimnàstic,1,1,NA,NA,3678,Jorge Figueroa,https://fbref.com/en/matches/7ce17d91/Barcelona-B-Gimnastic-February-24-2018-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
-2018-02-24,Rayo Vallecano,Huesca,3,0,NA,NA,12014,Juan Pulido,https://fbref.com/en/matches/da36ce8c/Rayo-Vallecano-Huesca-February-24-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-02-24,Almería,Cultural Leonesa,2,1,NA,NA,7024,Rubén Eiriz,https://fbref.com/en/matches/4c79604c/Almeria-Cultural-Leonesa-February-24-2018-Segunda-Division,1,1,2,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,2017-2018
+2018-02-24,Rayo Vallecano,Huesca,3,0,NA,NA,12014,Juan Pulido,https://fbref.com/en/matches/da36ce8c/Rayo-Vallecano-Huesca-February-24-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-02-24,Cádiz,Lorca FC,0,0,NA,NA,11846,Saúl Ais,https://fbref.com/en/matches/2871b68d/Cadiz-Lorca-FC-February-24-2018-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-02-25,Córdoba,Valladolid,2,1,NA,NA,14670,Eduardo Prieto ,https://fbref.com/en/matches/482189cc/Cordoba-Valladolid-February-25-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,1,4,1,0,0,0,0,0,2017-2018
 2018-02-25,Zaragoza,Oviedo,2,1,NA,NA,20607,Iñaki Bikandi,https://fbref.com/en/matches/e75be395/Zaragoza-Oviedo-February-25-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2017-2018
@@ -353,8 +353,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2018-03-26,Cádiz,Huesca,1,1,NA,NA,15709,Adrián Cordero,https://fbref.com/en/matches/21c94e94/Cadiz-Huesca-March-26-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-03-31,Numancia,Córdoba,2,1,NA,NA,2961,Juan Pulido,https://fbref.com/en/matches/92e94fe9/Numancia-Cordoba-March-31-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-03-31,Cultural Leonesa,Zaragoza,0,1,NA,NA,9710,Luis Milla,https://fbref.com/en/matches/b1f578f0/Cultural-Leonesa-Zaragoza-March-31-2018-Segunda-Division,0,0,3,1,0,0,0,0,0,0,0,5,1,0,0,0,0,0,2017-2018
-2018-03-31,Oviedo,Alcorcón,0,1,NA,NA,13318,Guillermo Cuadra,https://fbref.com/en/matches/3f8788f5/Oviedo-Alcorcon-March-31-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2017-2018
 2018-03-31,Valladolid,Reus,1,0,NA,NA,7759,David Pérez,https://fbref.com/en/matches/bbf8ad28/Valladolid-Reus-March-31-2018-Segunda-Division,0,0,2,1,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2017-2018
+2018-03-31,Oviedo,Alcorcón,0,1,NA,NA,13318,Guillermo Cuadra,https://fbref.com/en/matches/3f8788f5/Oviedo-Alcorcon-March-31-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2017-2018
 2018-04-01,Sevilla B,Barcelona B,3,1,NA,NA,989,Valentín Pizarro,https://fbref.com/en/matches/9ecdab9a/Sevilla-Atletico-Barcelona-B-April-1-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-04-01,Lorca FC,Granada,3,2,NA,NA,3842,Saúl Ais,https://fbref.com/en/matches/c2231038/Lorca-FC-Granada-April-1-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-04-01,Osasuna,Tenerife,0,1,NA,NA,12843,Jorge Valdés Aller,https://fbref.com/en/matches/1c8c8c31/Osasuna-Tenerife-April-1-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
@@ -445,11 +445,11 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2018-05-27,Almería,Alcorcón,0,0,NA,NA,12678,Eduardo Prieto ,https://fbref.com/en/matches/321cb2b3/Almeria-Alcorcon-May-27-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-05-27,Sporting Gijón,Granada,2,1,NA,NA,19846,Isidro Díaz de Mera,https://fbref.com/en/matches/3a196cef/Sporting-Gijon-Granada-May-27-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-05-27,Cádiz,Tenerife,1,1,NA,NA,16705,Álvaro Moreno,https://fbref.com/en/matches/1ff67ad0/Cadiz-Tenerife-May-27-2018-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
-2018-05-27,Rayo Vallecano,Lugo,1,0,NA,NA,13840,Jorge Figueroa,https://fbref.com/en/matches/e95e1bd6/Rayo-Vallecano-Lugo-May-27-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,2017-2018
 2018-05-27,Osasuna,Lorca FC,1,0,NA,NA,14616,Oliver De La Fuente,https://fbref.com/en/matches/4b3f05e0/Osasuna-Lorca-FC-May-27-2018-Segunda-Division,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
+2018-05-27,Rayo Vallecano,Lugo,1,0,NA,NA,13840,Jorge Figueroa,https://fbref.com/en/matches/e95e1bd6/Rayo-Vallecano-Lugo-May-27-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,2017-2018
 2018-05-27,Reus,Córdoba,1,2,NA,NA,3820,Guillermo Cuadra,https://fbref.com/en/matches/06c568bd/Reus-Cordoba-May-27-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
-2018-05-27,Albacete,Barcelona B,0,0,NA,NA,12556,Víctor Areces,https://fbref.com/en/matches/7bf5dfc7/Albacete-Barcelona-B-May-27-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-05-27,Huesca,Gimnàstic,0,1,NA,NA,5261,Gorka Sagues,https://fbref.com/en/matches/5edc1db3/Huesca-Gimnastic-May-27-2018-Segunda-Division,0,0,3,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
+2018-05-27,Albacete,Barcelona B,0,0,NA,NA,12556,Víctor Areces,https://fbref.com/en/matches/7bf5dfc7/Albacete-Barcelona-B-May-27-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-06-01,Lorca FC,Sevilla B,2,1,NA,NA,1492,Jorge Valdés Aller,https://fbref.com/en/matches/372e9ac6/Lorca-FC-Sevilla-Atletico-June-1-2018-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2018-06-02,Tenerife,Albacete,1,1,NA,NA,7937,Rubén Eiriz,https://fbref.com/en/matches/b43fca44/Tenerife-Albacete-June-2-2018-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-06-02,Alcorcón,Reus,3,0,NA,NA,3073,David Pérez,https://fbref.com/en/matches/d1a5759e/Alcorcon-Reus-June-2-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
@@ -457,8 +457,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2018-06-02,Lugo,Almería,1,1,NA,NA,2923,Adrián Cordero,https://fbref.com/en/matches/7f37e22c/Lugo-Almeria-June-2-2018-Segunda-Division,1,1,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2018-06-02,Valladolid,Osasuna,2,0,NA,NA,22287,Iñaki Bikandi,https://fbref.com/en/matches/62963dd3/Valladolid-Osasuna-June-2-2018-Segunda-Division,1,1,3,0,0,0,0,0,0,0,0,6,1,0,0,0,0,0,2017-2018
 2018-06-02,Córdoba,Sporting Gijón,3,0,NA,NA,20306,José López,https://fbref.com/en/matches/a3e2f75c/Cordoba-Sporting-Gijon-June-2-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
-2018-06-02,Numancia,Cultural Leonesa,2,1,NA,NA,5005,Guillermo Cuadra,https://fbref.com/en/matches/99b0a893/Numancia-Cultural-Leonesa-June-2-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-06-02,Barcelona B,Zaragoza,0,2,NA,NA,3995,Álvaro Moreno,https://fbref.com/en/matches/ecd65eb4/Barcelona-B-Zaragoza-June-2-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
+2018-06-02,Numancia,Cultural Leonesa,2,1,NA,NA,5005,Guillermo Cuadra,https://fbref.com/en/matches/99b0a893/Numancia-Cultural-Leonesa-June-2-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-06-02,Oviedo,Huesca,2,1,NA,NA,10418,Valentín Pizarro,https://fbref.com/en/matches/d774f472/Oviedo-Huesca-June-2-2018-Segunda-Division,0,1,3,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,2017-2018
 2018-06-02,Gimnàstic,Rayo Vallecano,2,0,NA,NA,11853,Saúl Ais,https://fbref.com/en/matches/5b105e29/Gimnastic-Rayo-Vallecano-June-2-2018-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2017-2018
 2018-06-06,Numancia,Zaragoza,1,1,NA,NA,7827,Aitor Gorostegui,https://fbref.com/en/matches/cb4a26f2/Numancia-Zaragoza-June-6-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018

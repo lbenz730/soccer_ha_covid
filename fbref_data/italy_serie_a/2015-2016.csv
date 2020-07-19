@@ -33,8 +33,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2015-09-19,Milan,Palermo,3,2,NA,NA,33689,Carmine Russo,https://fbref.com/en/matches/f951b207/Milan-Palermo-September-19-2015-Serie-A,0,0,1,0,18,8,33,23,8,0,0,2,0,13,3,32,10,8,2015-2016
 2015-09-20,Chievo,Inter,0,1,NA,NA,19500,Paolo Tagliavento,https://fbref.com/en/matches/d9105ded/Chievo-Internazionale-September-20-2015-Serie-A,0,0,4,0,15,2,28,31,17,0,0,1,0,14,3,11,9,13,2015-2016
 2015-09-20,Genoa,Juventus,0,2,NA,NA,25115,Paolo Valeri,https://fbref.com/en/matches/7b97ddea/Genoa-Juventus-September-20-2015-Serie-A,0,0,3,1,7,0,14,18,21,1,1,4,0,13,4,24,15,23,2015-2016
-2015-09-20,Atalanta,Hellas Verona,1,1,NA,NA,14323,Fabio Maresca,https://fbref.com/en/matches/68818078/Atalanta-Hellas-Verona-September-20-2015-Serie-A,0,0,3,0,15,3,11,21,21,0,0,5,1,9,3,16,11,19,2015-2016
 2015-09-20,Roma,Sassuolo,2,2,NA,NA,60133,Davide Massa,https://fbref.com/en/matches/fe0ced90/Roma-Sassuolo-September-20-2015-Serie-A,0,0,2,0,21,7,17,16,15,0,0,3,0,12,4,19,19,15,2015-2016
+2015-09-20,Atalanta,Hellas Verona,1,1,NA,NA,14323,Fabio Maresca,https://fbref.com/en/matches/68818078/Atalanta-Hellas-Verona-September-20-2015-Serie-A,0,0,3,0,15,3,11,21,21,0,0,5,1,9,3,16,11,19,2015-2016
 2015-09-20,Bologna,Frosinone,1,0,NA,NA,28436,Daniele Orsato,https://fbref.com/en/matches/6a1c76c5/Bologna-Frosinone-September-20-2015-Serie-A,0,0,4,0,12,2,24,26,19,0,0,5,0,20,6,18,23,17,2015-2016
 2015-09-20,Torino,Sampdoria,2,0,NA,NA,13590,Piero Giacomelli,https://fbref.com/en/matches/3214844a/Torino-Sampdoria-September-20-2015-Serie-A,0,0,2,0,19,8,20,28,9,0,0,3,0,13,5,9,13,10,2015-2016
 2015-09-20,Carpi,Fiorentina,0,1,NA,NA,7981,Marco Di Bello,https://fbref.com/en/matches/5e545157/Carpi-Fiorentina-September-20-2015-Serie-A,0,0,3,0,12,3,30,25,21,0,0,4,0,8,2,22,9,15,2015-2016
@@ -76,8 +76,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2015-10-18,Genoa,Chievo,3,2,NA,NA,19207,Paolo Mazzoleni,https://fbref.com/en/matches/00277222/Genoa-Chievo-October-18-2015-Serie-A,0,0,4,1,12,6,12,16,14,0,0,2,0,21,3,12,21,17,2015-2016
 2015-10-18,Frosinone,Sampdoria,2,0,NA,NA,7252,Massimiliano Irrati,https://fbref.com/en/matches/a1a9fa45/Frosinone-Sampdoria-October-18-2015-Serie-A,0,0,2,0,14,4,12,21,11,0,0,4,0,19,2,20,9,16,2015-2016
 2015-10-18,Sassuolo,Lazio,2,1,NA,NA,11812,Marco Guida,https://fbref.com/en/matches/7980cda3/Sassuolo-Lazio-October-18-2015-Serie-A,1,1,1,0,16,4,23,36,7,0,0,5,1,12,3,20,19,21,2015-2016
-2015-10-18,Hellas Verona,Udinese,1,1,NA,NA,16382,Claudio Gavillucci,https://fbref.com/en/matches/98d83a44/Hellas-Verona-Udinese-October-18-2015-Serie-A,1,1,2,0,8,2,17,13,14,0,0,2,0,15,5,18,23,11,2015-2016
 2015-10-18,Atalanta,Carpi,3,0,NA,NA,14479,Fabrizio Pasqua,https://fbref.com/en/matches/38c4f675/Atalanta-Carpi-October-18-2015-Serie-A,1,1,1,0,15,7,16,23,16,0,0,3,0,13,5,19,11,13,2015-2016
+2015-10-18,Hellas Verona,Udinese,1,1,NA,NA,16382,Claudio Gavillucci,https://fbref.com/en/matches/98d83a44/Hellas-Verona-Udinese-October-18-2015-Serie-A,1,1,2,0,8,2,17,13,14,0,0,2,0,15,5,18,23,11,2015-2016
 2015-10-18,Inter,Juventus,0,0,NA,NA,79154,Paolo Valeri,https://fbref.com/en/matches/bdfac72b/Internazionale-Juventus-October-18-2015-Serie-A,0,0,3,0,8,2,21,11,14,0,0,5,0,15,4,16,16,14,2015-2016
 2015-10-24,Empoli,Genoa,2,0,NA,NA,8770,Domenico Celi,https://fbref.com/en/matches/c9a153f9/Empoli-Genoa-October-24-2015-Serie-A,0,0,3,0,15,5,15,27,11,0,0,3,0,14,3,13,25,25,2015-2016
 2015-10-24,Carpi,Bologna,1,2,NA,NA,6747,Paolo Tagliavento,https://fbref.com/en/matches/9a09a148/Carpi-Bologna-October-24-2015-Serie-A,0,0,4,1,8,2,28,15,16,0,0,2,0,14,4,10,13,9,2015-2016
@@ -145,8 +145,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2015-12-06,Bologna,Napoli,3,2,NA,NA,35068,Paolo Mazzoleni,https://fbref.com/en/matches/d57a26cc/Bologna-Napoli-December-6-2015-Serie-A,0,0,2,0,11,4,20,32,19,0,0,0,0,16,7,10,14,11,2015-2016
 2015-12-06,Hellas Verona,Empoli,0,1,NA,NA,15198,Paolo Tagliavento,https://fbref.com/en/matches/962e1a7b/Hellas-Verona-Empoli-December-6-2015-Serie-A,0,0,1,0,18,4,25,7,18,0,0,4,0,11,5,16,14,7,2015-2016
 2015-12-06,Fiorentina,Udinese,3,0,NA,NA,27021,Marco Guida,https://fbref.com/en/matches/8855aed0/Fiorentina-Udinese-December-6-2015-Serie-A,1,1,2,0,14,5,19,24,17,0,0,5,0,8,0,14,25,14,2015-2016
-2015-12-06,Atalanta,Palermo,3,0,NA,NA,14499,Carmine Russo,https://fbref.com/en/matches/50817a3d/Atalanta-Palermo-December-6-2015-Serie-A,0,0,1,1,12,4,19,13,15,0,0,3,0,17,4,19,21,20,2015-2016
 2015-12-06,Frosinone,Chievo,0,2,NA,NA,6007,Gianluca Rocchi,https://fbref.com/en/matches/8cf47467/Frosinone-Chievo-December-6-2015-Serie-A,0,0,3,0,14,3,20,19,18,1,1,5,1,10,3,20,22,21,2015-2016
+2015-12-06,Atalanta,Palermo,3,0,NA,NA,14499,Carmine Russo,https://fbref.com/en/matches/50817a3d/Atalanta-Palermo-December-6-2015-Serie-A,0,0,1,1,12,4,19,13,15,0,0,3,0,17,4,19,21,20,2015-2016
 2015-12-06,Sampdoria,Sassuolo,1,3,NA,NA,20581,Maurizio Mariani,https://fbref.com/en/matches/83183ae2/Sampdoria-Sassuolo-December-6-2015-Serie-A,0,0,2,0,8,2,18,11,19,0,0,3,0,17,10,13,21,18,2015-2016
 2015-12-06,Carpi,Milan,0,0,NA,NA,12150,Massimiliano Irrati,https://fbref.com/en/matches/24537de7/Carpi-Milan-December-6-2015-Serie-A,0,0,0,0,11,3,26,24,15,0,0,2,0,20,7,21,21,22,2015-2016
 2015-12-12,Genoa,Bologna,0,1,NA,NA,19594,Marco Di Bello,https://fbref.com/en/matches/05bea139/Genoa-Bologna-December-12-2015-Serie-A,0,0,0,1,19,4,19,11,13,0,0,4,1,10,2,31,18,19,2015-2016
@@ -174,8 +174,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-01-06,Palermo,Fiorentina,1,3,NA,NA,13928,Antonio Damato,https://fbref.com/en/matches/9082a14b/Palermo-Fiorentina-January-6-2016-Serie-A,0,0,3,0,11,3,25,21,23,0,0,3,0,11,5,30,20,16,2015-2016
 2016-01-06,Lazio,Carpi,0,0,NA,NA,20090,Carmine Russo,https://fbref.com/en/matches/208504c0/Lazio-Carpi-January-6-2016-Serie-A,0,0,2,0,15,0,17,32,12,0,0,1,0,5,2,34,22,9,2015-2016
 2016-01-06,Juventus,Hellas Verona,3,0,NA,NA,38748,Giampaolo Calvarese,https://fbref.com/en/matches/a9a995e8/Juventus-Hellas-Verona-January-6-2016-Serie-A,0,0,3,0,15,6,13,30,17,0,0,2,0,7,1,25,7,11,2015-2016
-2016-01-06,Chievo,Roma,3,3,NA,NA,12000,Massimiliano Irrati,https://fbref.com/en/matches/47d2ee6e/Chievo-Roma-January-6-2016-Serie-A,0,0,3,0,12,6,11,17,12,0,0,2,0,14,5,6,11,13,2015-2016
 2016-01-06,Milan,Bologna,0,1,NA,NA,31381,Davide Massa,https://fbref.com/en/matches/21b9802a/Milan-Bologna-January-6-2016-Serie-A,0,0,6,0,17,4,17,22,16,0,0,5,0,7,3,22,31,12,2015-2016
+2016-01-06,Chievo,Roma,3,3,NA,NA,12000,Massimiliano Irrati,https://fbref.com/en/matches/47d2ee6e/Chievo-Roma-January-6-2016-Serie-A,0,0,3,0,12,6,11,17,12,0,0,2,0,14,5,6,11,13,2015-2016
 2016-01-06,Empoli,Inter,0,1,NA,NA,13735,Domenico Celi,https://fbref.com/en/matches/a3d5c663/Empoli-Internazionale-January-6-2016-Serie-A,0,0,2,0,16,4,15,31,9,0,0,2,0,14,3,20,14,10,2015-2016
 2016-01-06,Napoli,Torino,2,1,NA,NA,33326,Marco Di Bello,https://fbref.com/en/matches/75818ee1/Napoli-Torino-January-6-2016-Serie-A,0,0,2,0,17,8,9,6,12,1,1,4,0,9,4,17,19,21,2015-2016
 2016-01-09,Carpi,Udinese,2,1,NA,NA,5268,Michael Fabbri,https://fbref.com/en/matches/12fa8ce2/Carpi-Udinese-January-9-2016-Serie-A,0,0,1,0,13,6,24,20,17,0,0,1,0,10,5,10,21,10,2015-2016
@@ -215,8 +215,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-01-31,Chievo,Juventus,0,4,NA,NA,25000,Daniele Doveri,https://fbref.com/en/matches/549e72f7/Chievo-Juventus-January-31-2016-Serie-A,0,0,3,0,6,2,17,34,12,0,0,2,0,30,10,19,22,7,2015-2016
 2016-01-31,Napoli,Empoli,5,1,NA,NA,39986,Davide Massa,https://fbref.com/en/matches/16506d15/Napoli-Empoli-January-31-2016-Serie-A,0,0,3,0,20,6,21,17,11,0,0,3,0,7,2,17,16,15,2015-2016
 2016-01-31,Udinese,Lazio,0,0,NA,NA,13611,Domenico Celi,https://fbref.com/en/matches/06c10eaa/Udinese-Lazio-January-31-2016-Serie-A,0,0,4,1,11,1,5,17,8,0,0,4,1,17,1,15,20,19,2015-2016
-2016-01-31,Torino,Hellas Verona,0,0,NA,NA,15838,Maurizio Mariani,https://fbref.com/en/matches/8e85503c/Torino-Hellas-Verona-January-31-2016-Serie-A,0,0,0,0,16,6,13,19,13,0,0,4,0,10,3,23,20,18,2015-2016
 2016-01-31,Genoa,Fiorentina,0,0,NA,NA,20832,Piero Giacomelli,https://fbref.com/en/matches/a787e4f1/Genoa-Fiorentina-January-31-2016-Serie-A,0,0,2,0,11,2,22,25,13,0,0,3,0,11,3,19,14,15,2015-2016
+2016-01-31,Torino,Hellas Verona,0,0,NA,NA,15838,Maurizio Mariani,https://fbref.com/en/matches/8e85503c/Torino-Hellas-Verona-January-31-2016-Serie-A,0,0,0,0,16,6,13,19,13,0,0,4,0,10,3,23,20,18,2015-2016
 2016-01-31,Bologna,Sampdoria,3,2,NA,NA,30777,Michael Fabbri,https://fbref.com/en/matches/1ecd2852/Bologna-Sampdoria-January-31-2016-Serie-A,1,1,3,0,7,5,18,25,13,0,0,5,0,14,6,16,6,14,2015-2016
 2016-01-31,Milan,Inter,3,0,NA,NA,77043,Antonio Damato,https://fbref.com/en/matches/d9c37d8d/Milan-Internazionale-January-31-2016-Serie-A,0,0,3,0,14,5,17,24,18,0,1,1,0,12,3,21,9,16,2015-2016
 2016-02-02,Sassuolo,Roma,0,2,NA,NA,11102,Giampaolo Calvarese,https://fbref.com/en/matches/a3a5251e/Sassuolo-Roma-February-2-2016-Serie-A,0,1,1,0,16,5,16,23,12,0,0,4,1,13,5,19,16,15,2015-2016
@@ -226,8 +226,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-02-03,Inter,Chievo,1,0,NA,NA,31494,Paolo Valeri,https://fbref.com/en/matches/98ca6bb5/Internazionale-Chievo-February-3-2016-Serie-A,0,0,3,0,24,8,16,11,17,0,0,5,0,6,0,11,20,20,2015-2016
 2016-02-03,Palermo,Milan,0,2,NA,NA,17605,Paolo Mazzoleni,https://fbref.com/en/matches/3b859f19/Palermo-Milan-February-3-2016-Serie-A,0,0,3,0,12,2,16,31,16,1,1,0,0,16,8,13,21,15,2015-2016
 2016-02-03,Fiorentina,Carpi,2,1,NA,NA,22791,Angelo Cervellera,https://fbref.com/en/matches/b04a83c2/Fiorentina-Carpi-February-3-2016-Serie-A,0,0,5,0,11,5,12,16,11,0,0,3,0,7,2,20,20,22,2015-2016
-2016-02-03,Lazio,Napoli,0,2,NA,NA,34419,Massimiliano Irrati,https://fbref.com/en/matches/37471672/Lazio-Napoli-February-3-2016-Serie-A,0,0,4,0,8,0,17,28,17,0,0,2,0,10,5,19,19,13,2015-2016
 2016-02-03,Empoli,Udinese,1,1,NA,NA,7581,Eugenio Abbattista,https://fbref.com/en/matches/785745de/Empoli-Udinese-February-3-2016-Serie-A,0,1,3,0,19,4,16,12,11,0,0,6,0,5,2,23,29,27,2015-2016
+2016-02-03,Lazio,Napoli,0,2,NA,NA,34419,Massimiliano Irrati,https://fbref.com/en/matches/37471672/Lazio-Napoli-February-3-2016-Serie-A,0,0,4,0,8,0,17,28,17,0,0,2,0,10,5,19,19,13,2015-2016
 2016-02-03,Hellas Verona,Atalanta,2,1,NA,NA,15490,Marco Di Bello,https://fbref.com/en/matches/43d36eb0/Hellas-Verona-Atalanta-February-3-2016-Serie-A,0,0,2,0,13,5,14,14,21,0,0,5,1,18,4,17,21,18,2015-2016
 2016-02-06,Bologna,Fiorentina,1,1,NA,NA,19591,Luca Banti,https://fbref.com/en/matches/3c820af5/Bologna-Fiorentina-February-6-2016-Serie-A,0,0,2,0,12,6,19,24,13,0,0,4,1,12,2,17,18,10,2015-2016
 2016-02-06,Genoa,Lazio,0,0,NA,NA,19670,Daniele Orsato,https://fbref.com/en/matches/4db44b71/Genoa-Lazio-February-6-2016-Serie-A,0,0,3,0,4,1,18,12,12,0,0,3,0,10,2,25,24,18,2015-2016
@@ -264,8 +264,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-02-28,Palermo,Bologna,0,0,NA,NA,15566,Marco Di Bello,https://fbref.com/en/matches/2dd581c3/Palermo-Bologna-February-28-2016-Serie-A,0,0,3,0,7,4,16,13,15,0,0,1,0,17,5,20,28,12,2015-2016
 2016-02-28,Sampdoria,Frosinone,2,0,NA,NA,20622,Daniele Orsato,https://fbref.com/en/matches/dbe12a50/Sampdoria-Frosinone-February-28-2016-Serie-A,0,0,5,0,25,6,17,13,15,0,0,2,0,15,1,9,23,16,2015-2016
 2016-02-28,Carpi,Atalanta,1,1,NA,NA,6699,Giampaolo Calvarese,https://fbref.com/en/matches/61ebaa7b/Carpi-Atalanta-February-28-2016-Serie-A,1,1,3,0,10,4,12,13,26,0,0,3,0,12,5,21,11,25,2015-2016
-2016-02-28,Chievo,Genoa,1,0,NA,NA,10000,Michael Fabbri,https://fbref.com/en/matches/bc2c98dc/Chievo-Genoa-February-28-2016-Serie-A,0,0,2,0,12,5,11,23,8,0,0,3,0,9,3,13,13,10,2015-2016
 2016-02-28,Udinese,Hellas Verona,2,0,NA,NA,14776,Daniele Doveri,https://fbref.com/en/matches/579f80c7/Udinese-Hellas-Verona-February-28-2016-Serie-A,0,0,1,0,13,4,17,16,15,0,0,3,0,10,2,16,15,18,2015-2016
+2016-02-28,Chievo,Genoa,1,0,NA,NA,10000,Michael Fabbri,https://fbref.com/en/matches/bc2c98dc/Chievo-Genoa-February-28-2016-Serie-A,0,0,2,0,12,5,11,23,8,0,0,3,0,9,3,13,13,10,2015-2016
 2016-02-28,Juventus,Inter,2,0,NA,NA,40204,Gianluca Rocchi,https://fbref.com/en/matches/40dff20a/Juventus-Internazionale-February-28-2016-Serie-A,1,1,3,0,9,6,18,12,12,0,0,1,0,8,3,23,20,17,2015-2016
 2016-02-29,Lazio,Sassuolo,0,2,NA,NA,13995,Antonio Damato,https://fbref.com/en/matches/e1da3090/Lazio-Sassuolo-February-29-2016-Serie-A,0,0,1,0,15,3,18,27,15,1,1,2,0,7,6,21,28,19,2015-2016
 2016-02-29,Fiorentina,Napoli,1,1,NA,NA,55775,Paolo Tagliavento,https://fbref.com/en/matches/f28941c4/Fiorentina-Napoli-February-29-2016-Serie-A,0,0,0,0,12,1,10,22,8,0,0,1,0,6,5,20,7,16,2015-2016
@@ -273,8 +273,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-03-05,Hellas Verona,Sampdoria,0,3,NA,NA,18900,Angelo Cervellera,https://fbref.com/en/matches/b58bd7c2/Hellas-Verona-Sampdoria-March-5-2016-Serie-A,0,0,2,0,11,4,18,23,12,0,0,3,0,14,8,6,21,14,2015-2016
 2016-03-05,Napoli,Chievo,3,1,NA,NA,33239,Marco Di Bello,https://fbref.com/en/matches/be5a87fb/Napoli-Chievo-March-5-2016-Serie-A,0,0,0,0,25,10,14,12,6,0,0,3,0,8,2,12,28,13,2015-2016
 2016-03-06,Torino,Lazio,1,1,NA,NA,18863,Davide Massa,https://fbref.com/en/matches/8762f0b9/Torino-Lazio-March-6-2016-Serie-A,0,1,3,0,13,4,20,26,19,1,1,2,0,12,5,12,28,18,2015-2016
-2016-03-06,Atalanta,Juventus,0,2,NA,NA,19770,Paolo Valeri,https://fbref.com/en/matches/3243f988/Atalanta-Juventus-March-6-2016-Serie-A,0,0,3,0,4,2,6,16,7,0,0,2,0,5,3,3,6,6,2015-2016
 2016-03-06,Sassuolo,Milan,2,0,NA,NA,17697,Piero Giacomelli,https://fbref.com/en/matches/d0657ef0/Sassuolo-Milan-March-6-2016-Serie-A,0,0,3,1,9,2,9,9,10,0,0,2,0,11,4,9,9,7,2015-2016
+2016-03-06,Atalanta,Juventus,0,2,NA,NA,19770,Paolo Valeri,https://fbref.com/en/matches/3243f988/Atalanta-Juventus-March-6-2016-Serie-A,0,0,3,0,4,2,6,16,7,0,0,2,0,5,3,3,6,6,2015-2016
 2016-03-06,Bologna,Carpi,0,0,NA,NA,16820,Paolo Mazzoleni,https://fbref.com/en/matches/5dbf8dc8/Bologna-Carpi-March-6-2016-Serie-A,0,0,1,0,17,4,22,29,17,0,0,3,0,6,2,24,24,17,2015-2016
 2016-03-06,Genoa,Empoli,1,0,NA,NA,21134,Maurizio Mariani,https://fbref.com/en/matches/953076b7/Genoa-Empoli-March-6-2016-Serie-A,0,0,1,0,8,3,13,17,8,0,0,4,0,0,0,13,11,9,2015-2016
 2016-03-06,Frosinone,Udinese,2,0,NA,NA,6510,Nicola Rizzoli,https://fbref.com/en/matches/141153cd/Frosinone-Udinese-March-6-2016-Serie-A,0,0,2,0,7,1,10,9,9,0,0,3,0,4,2,7,5,0,2015-2016
@@ -333,8 +333,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-04-20,Sassuolo,Sampdoria,0,0,NA,NA,9392,Maurizio Mariani,https://fbref.com/en/matches/2fd3617e/Sassuolo-Sampdoria-April-20-2016-Serie-A,0,1,4,0,19,7,4,15,13,0,0,5,1,4,2,10,20,14,2015-2016
 2016-04-20,Roma,Torino,3,2,NA,NA,30407,Giampaolo Calvarese,https://fbref.com/en/matches/98d9f816/Roma-Torino-April-20-2016-Serie-A,1,1,1,0,20,6,17,11,13,1,1,3,0,13,5,16,12,16,2015-2016
 2016-04-20,Juventus,Lazio,3,0,NA,NA,38655,Paolo Mazzoleni,https://fbref.com/en/matches/acdd19a9/Juventus-Lazio-April-20-2016-Serie-A,1,1,1,0,19,12,11,14,7,0,0,3,1,7,1,10,15,12,2015-2016
-2016-04-20,Empoli,Hellas Verona,1,0,NA,NA,7816,Marco Serra,https://fbref.com/en/matches/134fdd1b/Empoli-Hellas-Verona-April-20-2016-Serie-A,0,0,1,0,12,7,9,4,16,0,0,5,1,20,6,18,13,19,2015-2016
 2016-04-20,Udinese,Fiorentina,2,1,NA,NA,18493,Davide Massa,https://fbref.com/en/matches/c264cbda/Udinese-Fiorentina-April-20-2016-Serie-A,0,0,2,0,10,3,21,25,19,0,0,4,0,9,3,11,18,14,2015-2016
+2016-04-20,Empoli,Hellas Verona,1,0,NA,NA,7816,Marco Serra,https://fbref.com/en/matches/134fdd1b/Empoli-Hellas-Verona-April-20-2016-Serie-A,0,0,1,0,12,7,9,4,16,0,0,5,1,20,6,18,13,19,2015-2016
 2016-04-20,Palermo,Atalanta,2,2,NA,NA,28983,Daniele Doveri,https://fbref.com/en/matches/97f17402/Palermo-Atalanta-April-20-2016-Serie-A,1,1,3,1,15,3,6,26,23,1,1,3,0,10,4,22,14,21,2015-2016
 2016-04-20,Chievo,Frosinone,5,1,NA,NA,8000,Carmine Russo,https://fbref.com/en/matches/e8637686/Chievo-Frosinone-April-20-2016-Serie-A,1,1,2,0,23,8,18,16,12,0,0,5,2,9,2,12,14,13,2015-2016
 2016-04-20,Genoa,Inter,1,0,NA,NA,22781,Massimiliano Irrati,https://fbref.com/en/matches/c8173da2/Genoa-Internazionale-April-20-2016-Serie-A,0,0,2,0,16,5,18,17,15,0,0,2,0,17,4,18,20,7,2015-2016

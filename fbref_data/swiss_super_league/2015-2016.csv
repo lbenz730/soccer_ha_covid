@@ -32,8 +32,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2015-08-29,Lugano,Luzern,0,1,NA,NA,4526,Nicolas Jancevski,https://fbref.com/en/matches/96e969b8/Lugano-Luzern-August-29-2015-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
 2015-08-29,Vaduz,St. Gallen,1,0,NA,NA,5240,Stephan Klossner,https://fbref.com/en/matches/0a0aa6f4/Vaduz-St-Gallen-August-29-2015-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
 2015-08-30,Thun,Sion,0,2,NA,NA,5514,Luca Gut,https://fbref.com/en/matches/881fa9e8/Thun-Sion-August-30-2015-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2015-08-30,Basel,Zürich,3,1,NA,NA,30579,Nikolaj Hänni,https://fbref.com/en/matches/29c2c0e4/Basel-Zurich-August-30-2015-Super-League,1,1,0,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
 2015-08-30,Grasshopper,Young Boys,3,2,NA,NA,7300,Sascha Amhof,https://fbref.com/en/matches/4721de95/Grasshopper-Young-Boys-August-30-2015-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2015-08-30,Basel,Zürich,3,1,NA,NA,30579,Nikolaj Hänni,https://fbref.com/en/matches/29c2c0e4/Basel-Zurich-August-30-2015-Super-League,1,1,0,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
 2015-09-12,Basel,St. Gallen,2,1,NA,NA,27736,Sascha Amhof,https://fbref.com/en/matches/425b4713/Basel-St-Gallen-September-12-2015-Super-League,1,1,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
 2015-09-12,Young Boys,Vaduz,4,0,NA,NA,15383,Urs Schnyder,https://fbref.com/en/matches/eb19bb45/Young-Boys-Vaduz-September-12-2015-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
 2015-09-13,Luzern,Grasshopper,3,3,NA,NA,13403,Fedayi San,https://fbref.com/en/matches/97d3ed48/Luzern-Grasshopper-September-13-2015-Super-League,1,1,4,1,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
@@ -174,8 +174,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-05-22,Vaduz,Lugano,0,0,NA,NA,6023,Pascal Erlachner,https://fbref.com/en/matches/01df57ce/Vaduz-Lugano-May-22-2016-Super-League,0,1,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
 2016-05-22,Sion,Zürich,2,2,NA,NA,11400,Sandro Schärer,https://fbref.com/en/matches/58043e10/Sion-Zurich-May-22-2016-Super-League,0,0,5,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
 2016-05-22,St. Gallen,Luzern,1,4,NA,NA,15149,Alain Bieri,https://fbref.com/en/matches/158cabe9/St-Gallen-Luzern-May-22-2016-Super-League,0,0,4,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-25,Lugano,St. Gallen,3,0,NA,NA,6150,Sandro Schärer,https://fbref.com/en/matches/1ccdc223/Lugano-St-Gallen-May-25-2016-Super-League,1,1,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
 2016-05-25,Zürich,Vaduz,3,1,NA,NA,15955,Fedayi San,https://fbref.com/en/matches/8b171afa/Zurich-Vaduz-May-25-2016-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
+2016-05-25,Lugano,St. Gallen,3,0,NA,NA,6150,Sandro Schärer,https://fbref.com/en/matches/1ccdc223/Lugano-St-Gallen-May-25-2016-Super-League,1,1,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
 2016-05-25,Luzern,Sion,2,2,NA,NA,14687,Nikolaj Hänni,https://fbref.com/en/matches/9d26a5e5/Luzern-Sion-May-25-2016-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
 2016-05-25,Basel,Grasshopper,0,1,NA,NA,30682,Stephan Klossner,https://fbref.com/en/matches/3a172538/Basel-Grasshopper-May-25-2016-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
 2016-05-25,Thun,Young Boys,0,3,NA,NA,6874,Urs Schnyder,https://fbref.com/en/matches/ce5804df/Thun-Young-Boys-May-25-2016-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016

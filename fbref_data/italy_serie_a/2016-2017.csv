@@ -5,8 +5,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-08-21,Empoli,Sampdoria,0,1,NA,NA,8000,Maurizio Mariani,https://fbref.com/en/matches/f526ddb8/Empoli-Sampdoria-August-21-2016-Serie-A,0,0,3,1,8,3,13,8,17,0,0,4,0,16,6,23,14,32,2016-2017
 2016-08-21,Chievo,Inter,2,0,NA,NA,24000,Massimiliano Irrati,https://fbref.com/en/matches/f25666d8/Chievo-Internazionale-August-21-2016-Serie-A,0,0,2,0,12,4,13,22,15,0,0,4,0,13,3,14,20,13,2016-2017
 2016-08-21,Palermo,Sassuolo,0,1,NA,NA,12935,Luca Pairetto,https://fbref.com/en/matches/4e14d321/Palermo-Sassuolo-August-21-2016-Serie-A,0,0,2,1,7,2,21,17,19,1,1,2,0,22,8,15,15,15,2016-2017
-2016-08-21,Pescara,Napoli,2,2,NA,NA,16758,Piero Giacomelli,https://fbref.com/en/matches/9f2b418a/Pescara-Napoli-August-21-2016-Serie-A,0,0,3,0,10,3,12,14,11,0,0,2,0,22,4,13,11,12,2016-2017
 2016-08-21,Bologna,Crotone,1,0,NA,NA,18396,Claudio Gavillucci,https://fbref.com/en/matches/e92b9160/Bologna-Crotone-August-21-2016-Serie-A,0,0,1,0,20,6,11,23,7,0,0,1,0,5,0,12,11,17,2016-2017
+2016-08-21,Pescara,Napoli,2,2,NA,NA,16758,Piero Giacomelli,https://fbref.com/en/matches/9f2b418a/Pescara-Napoli-August-21-2016-Serie-A,0,0,3,0,10,3,12,14,11,0,0,2,0,22,4,13,11,12,2016-2017
 2016-08-21,Atalanta,Lazio,3,4,NA,NA,14710,Luca Banti,https://fbref.com/en/matches/450cd04c/Atalanta-Lazio-August-21-2016-Serie-A,0,0,2,0,18,6,12,14,7,0,0,2,0,11,6,12,15,17,2016-2017
 2016-08-21,Genoa,Cagliari,3,1,NA,NA,20443,Daniele Orsato,https://fbref.com/en/matches/8917654e/Genoa-Cagliari-August-21-2016-Serie-A,0,0,4,0,22,6,17,18,13,0,0,3,0,4,3,22,18,10,2016-2017
 2016-08-27,Lazio,Juventus,0,1,NA,NA,35000,Marco Guida,https://fbref.com/en/matches/0dab68ce/Lazio-Juventus-August-27-2016-Serie-A,0,0,1,0,6,1,22,15,16,0,0,2,0,13,5,13,25,5,2016-2017
@@ -25,7 +25,7 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-09-11,Atalanta,Torino,2,1,NA,NA,14925,Maurizio Mariani,https://fbref.com/en/matches/613afe65/Atalanta-Torino-September-11-2016-Serie-A,1,1,2,0,22,3,6,13,17,0,0,2,0,14,7,13,14,20,2016-2017
 2016-09-11,Chievo,Lazio,1,1,NA,NA,10000,Daniele Orsato,https://fbref.com/en/matches/38a75ca8/Chievo-Lazio-September-11-2016-Serie-A,0,0,2,0,7,4,15,21,14,0,0,5,0,11,3,11,15,15,2016-2017
 2016-09-11,Milan,Udinese,0,1,NA,NA,28303,Giampaolo Calvarese,https://fbref.com/en/matches/02e0c4c5/Milan-Udinese-September-11-2016-Serie-A,0,0,1,0,14,2,16,11,10,0,0,5,0,10,2,13,16,9,2016-2017
-2016-09-11,Roma,Sampdoria,3,2,NA,NA,27630,Piero Giacomelli,https://fbref.com/en/matches/397d72d3/Roma-Sampdoria-September-11-2016-Serie-A,1,1,3,0,24,8,22,14,13,0,0,1,0,12,7,17,16,13,2016-2017
+2016-09-11,Roma,Sampdoria,3,2,NA,NA,27630,Piero Giacomelli,https://fbref.com/en/matches/397d72d3/Roma-Sampdoria-September-11-2016-Serie-A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016-2017
 2016-09-11,Pescara,Inter,1,2,NA,NA,20088,Antonio Damato,https://fbref.com/en/matches/0bc33c28/Pescara-Internazionale-September-11-2016-Serie-A,0,0,1,0,10,5,12,10,14,0,0,1,0,22,7,9,23,10,2016-2017
 2016-09-12,Empoli,Crotone,2,1,NA,NA,7678,Paolo Valeri,https://fbref.com/en/matches/dc2c6282/Empoli-Crotone-September-12-2016-Serie-A,0,0,1,0,13,5,10,15,16,0,0,2,1,6,2,17,20,20,2016-2017
 2016-09-16,Sampdoria,Milan,0,1,NA,NA,19708,Massimiliano Irrati,https://fbref.com/en/matches/96c802c5/Sampdoria-Milan-September-16-2016-Serie-A,0,0,2,0,13,3,22,10,12,0,0,3,0,10,3,16,5,16,2016-2017
@@ -36,7 +36,7 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-09-18,Crotone,Palermo,1,1,NA,NA,510,Domenico Celi,https://fbref.com/en/matches/68285d4b/Crotone-Palermo-September-18-2016-Serie-A,0,0,3,0,13,1,14,37,19,0,0,2,0,12,5,18,25,9,2016-2017
 2016-09-18,Cagliari,Atalanta,3,0,NA,NA,12301,Michael Fabbri,https://fbref.com/en/matches/69db93b8/Cagliari-Atalanta-September-18-2016-Serie-A,0,0,2,0,14,9,25,19,11,0,1,2,0,7,2,11,9,19,2016-2017
 2016-09-18,Torino,Empoli,0,0,NA,NA,16403,Daniele Chiffi,https://fbref.com/en/matches/854ea2bc/Torino-Empoli-September-18-2016-Serie-A,0,0,4,0,14,5,14,19,19,0,0,3,0,5,2,12,10,7,2016-2017
-2016-09-18,Inter,Juventus,2,1,NA,NA,76500,Paolo Tagliavento,https://fbref.com/en/matches/6d3656e0/Internazionale-Juventus-September-18-2016-Serie-A,0,0,3,1,16,3,14,13,13,0,0,3,0,9,2,8,8,18,2016-2017
+2016-09-18,Inter,Juventus,2,1,NA,NA,76500,Paolo Tagliavento,https://fbref.com/en/matches/6d3656e0/Internazionale-Juventus-September-18-2016-Serie-A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016-2017
 2016-09-18,Fiorentina,Roma,1,0,NA,NA,27359,Nicola Rizzoli,https://fbref.com/en/matches/82b678b7/Fiorentina-Roma-September-18-2016-Serie-A,0,0,1,0,8,4,15,14,10,0,0,1,0,14,3,13,24,11,2016-2017
 2016-09-20,Milan,Lazio,2,0,NA,NA,26464,Davide Massa,https://fbref.com/en/matches/a996a7ba/Milan-Lazio-September-20-2016-Serie-A,1,1,1,0,16,7,17,15,16,0,0,4,0,20,5,20,27,12,2016-2017
 2016-09-21,Bologna,Sampdoria,2,0,NA,NA,16998,Giampaolo Calvarese,https://fbref.com/en/matches/f3e66ce6/Bologna-Sampdoria-September-21-2016-Serie-A,0,0,1,1,11,4,14,33,16,0,0,3,1,10,3,16,21,12,2016-2017
@@ -63,8 +63,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-10-02,Empoli,Juventus,0,3,NA,NA,15424,Paolo Mazzoleni,https://fbref.com/en/matches/f8723cad/Empoli-Juventus-October-2-2016-Serie-A,0,0,2,0,6,3,13,12,21,0,0,1,0,27,11,19,20,20,2016-2017
 2016-10-02,Bologna,Genoa,0,1,NA,NA,18840,Fabio Maresca,https://fbref.com/en/matches/ee098144/Bologna-Genoa-October-2-2016-Serie-A,0,0,1,2,6,3,7,18,8,0,0,4,1,13,4,22,17,22,2016-2017
 2016-10-02,Atalanta,Napoli,1,0,NA,NA,15732,Nicola Rizzoli,https://fbref.com/en/matches/455e7978/Atalanta-Napoli-October-2-2016-Serie-A,0,0,3,0,10,4,15,36,11,0,0,3,0,13,4,14,9,13,2016-2017
-2016-10-02,Sampdoria,Palermo,1,1,NA,NA,18093,Maurizio Mariani,https://fbref.com/en/matches/3e5bcc3b/Sampdoria-Palermo-October-2-2016-Serie-A,0,0,2,0,23,7,17,15,9,0,0,6,1,4,2,15,19,18,2016-2017
 2016-10-02,Cagliari,Crotone,2,1,NA,NA,14501,Piero Giacomelli,https://fbref.com/en/matches/f2f575c3/Cagliari-Crotone-October-2-2016-Serie-A,0,0,0,0,15,9,21,15,15,0,0,4,0,23,8,14,15,14,2016-2017
+2016-10-02,Sampdoria,Palermo,1,1,NA,NA,18093,Maurizio Mariani,https://fbref.com/en/matches/3e5bcc3b/Sampdoria-Palermo-October-2-2016-Serie-A,0,0,2,0,23,7,17,15,9,0,0,6,1,4,2,15,19,18,2016-2017
 2016-10-02,Milan,Sassuolo,4,3,NA,NA,31738,Marco Guida,https://fbref.com/en/matches/d088a7e3/Milan-Sassuolo-October-2-2016-Serie-A,1,1,1,0,15,6,10,15,10,0,0,5,0,7,5,10,18,10,2016-2017
 2016-10-02,Torino,Fiorentina,2,1,NA,NA,21641,Giampaolo Calvarese,https://fbref.com/en/matches/e86e2c25/Torino-Fiorentina-October-2-2016-Serie-A,0,0,2,0,19,5,11,15,15,0,0,2,0,13,5,13,13,13,2016-2017
 2016-10-02,Roma,Inter,2,1,NA,NA,36340,Luca Banti,https://fbref.com/en/matches/55a318d8/Roma-Internazionale-October-2-2016-Serie-A,0,0,1,0,19,9,12,18,9,0,0,2,0,18,5,7,13,17,2016-2017
@@ -83,7 +83,7 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-10-23,Udinese,Pescara,3,1,NA,NA,14317,Gianluca Rocchi,https://fbref.com/en/matches/400c76cb/Udinese-Pescara-October-23-2016-Serie-A,2,2,2,0,9,4,11,20,12,0,0,1,0,16,3,15,13,9,2016-2017
 2016-10-23,Empoli,Chievo,0,0,NA,NA,7105,Fabio Maresca,https://fbref.com/en/matches/87f11746/Empoli-Chievo-October-23-2016-Serie-A,0,0,3,0,8,3,20,15,16,0,0,4,1,13,2,15,22,28,2016-2017
 2016-10-23,Atalanta,Inter,2,1,NA,NA,18159,Daniele Doveri,https://fbref.com/en/matches/5ef40156/Atalanta-Internazionale-October-23-2016-Serie-A,1,1,2,0,11,8,11,22,19,0,0,2,0,7,4,16,15,12,2016-2017
-2016-10-23,Cagliari,Fiorentina,3,5,NA,NA,15619,Carmine Russo,https://fbref.com/en/matches/c8e77ba5/Cagliari-Fiorentina-October-23-2016-Serie-A,0,0,2,0,11,5,11,11,20,0,0,2,0,19,8,8,16,7,2016-2017
+2016-10-23,Cagliari,Fiorentina,3,5,NA,NA,15619,Carmine Russo,https://fbref.com/en/matches/c8e77ba5/Cagliari-Fiorentina-October-23-2016-Serie-A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016-2017
 2016-10-23,Crotone,Napoli,1,2,NA,NA,8329,Paolo Mazzoleni,https://fbref.com/en/matches/2d82946f/Crotone-Napoli-October-23-2016-Serie-A,0,0,2,0,13,4,16,19,20,0,0,0,1,13,8,16,21,9,2016-2017
 2016-10-23,Torino,Lazio,2,2,NA,NA,21517,Piero Giacomelli,https://fbref.com/en/matches/d5a00008/Torino-Lazio-October-23-2016-Serie-A,1,1,2,0,16,4,18,11,13,0,0,2,0,14,6,22,11,14,2016-2017
 2016-10-23,Bologna,Sassuolo,1,1,NA,NA,20201,Massimiliano Irrati,https://fbref.com/en/matches/308e58cc/Bologna-Sassuolo-October-23-2016-Serie-A,0,0,0,0,14,5,20,10,11,0,0,1,0,9,3,20,11,13,2016-2017
@@ -95,15 +95,15 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-10-26,Chievo,Bologna,1,1,NA,NA,10000,Fabrizio Pasqua,https://fbref.com/en/matches/d8d185bb/Chievo-Bologna-October-26-2016-Serie-A,0,0,0,0,10,3,11,14,18,0,0,4,0,8,4,18,22,16,2016-2017
 2016-10-26,Inter,Torino,2,1,NA,NA,36446,Davide Massa,https://fbref.com/en/matches/ecb0b125/Internazionale-Torino-October-26-2016-Serie-A,0,0,0,0,22,6,16,13,14,0,0,4,0,7,2,15,11,18,2016-2017
 2016-10-26,Sassuolo,Roma,1,3,NA,NA,13221,Antonio Damato,https://fbref.com/en/matches/1cf78680/Sassuolo-Roma-October-26-2016-Serie-A,0,0,3,0,16,3,7,19,13,1,1,0,0,16,5,19,16,10,2016-2017
-2016-10-26,Fiorentina,Crotone,1,1,NA,NA,22983,Claudio Gavillucci,https://fbref.com/en/matches/e1d88fc2/Fiorentina-Crotone-October-26-2016-Serie-A,0,0,1,0,26,11,8,9,15,0,0,2,0,4,2,16,13,17,2016-2017
+2016-10-26,Fiorentina,Crotone,1,1,NA,NA,22983,Claudio Gavillucci,https://fbref.com/en/matches/e1d88fc2/Fiorentina-Crotone-October-26-2016-Serie-A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016-2017
 2016-10-26,Lazio,Cagliari,4,1,NA,NA,10000,Domenico Celi,https://fbref.com/en/matches/86a28a95/Lazio-Cagliari-October-26-2016-Serie-A,1,1,2,0,19,12,16,9,6,0,1,3,0,15,5,10,20,7,2016-2017
 2016-10-27,Palermo,Udinese,1,3,NA,NA,9360,Daniele Orsato,https://fbref.com/en/matches/c806bcb4/Palermo-Udinese-October-27-2016-Serie-A,0,0,3,1,11,2,12,15,15,0,0,2,0,11,7,16,15,16,2016-2017
 2016-10-29,Bologna,Fiorentina,0,1,NA,NA,20780,Paolo Valeri,https://fbref.com/en/matches/66c05e6a/Bologna-Fiorentina-October-29-2016-Serie-A,0,0,3,1,5,2,23,15,8,1,1,3,0,12,5,13,15,17,2016-2017
 2016-10-29,Juventus,Napoli,2,1,NA,NA,41409,Gianluca Rocchi,https://fbref.com/en/matches/12b87107/Juventus-Napoli-October-29-2016-Serie-A,0,0,4,0,10,3,8,13,12,0,0,1,0,12,2,15,8,10,2016-2017
 2016-10-30,Atalanta,Genoa,3,0,NA,NA,16245,Michael Fabbri,https://fbref.com/en/matches/7899b118/Atalanta-Genoa-October-30-2016-Serie-A,0,0,1,0,15,9,11,21,13,0,0,2,0,10,2,19,18,14,2016-2017
 2016-10-30,Empoli,Roma,0,0,NA,NA,13122,Marco Di Bello,https://fbref.com/en/matches/7461f582/Empoli-Roma-October-30-2016-Serie-A,0,0,6,0,8,3,11,35,19,0,0,3,0,23,5,24,14,14,2016-2017
-2016-10-30,Lazio,Sassuolo,2,1,NA,NA,12000,Giampaolo Calvarese,https://fbref.com/en/matches/1f95040e/Lazio-Sassuolo-October-30-2016-Serie-A,0,0,2,0,14,6,12,16,17,0,0,1,0,14,5,16,12,11,2016-2017
 2016-10-30,Crotone,Chievo,2,0,NA,NA,7298,Luca Pairetto,https://fbref.com/en/matches/fed507df/Crotone-Chievo-October-30-2016-Serie-A,1,1,1,0,10,7,14,18,20,0,0,2,0,17,4,13,11,21,2016-2017
+2016-10-30,Lazio,Sassuolo,2,1,NA,NA,12000,Giampaolo Calvarese,https://fbref.com/en/matches/1f95040e/Lazio-Sassuolo-October-30-2016-Serie-A,0,0,2,0,14,6,12,16,17,0,0,1,0,14,5,16,12,11,2016-2017
 2016-10-30,Milan,Pescara,1,0,NA,NA,36535,Daniele Doveri,https://fbref.com/en/matches/9c024a36/Milan-Pescara-October-30-2016-Serie-A,0,0,1,0,19,9,14,7,12,0,0,2,0,15,6,18,15,15,2016-2017
 2016-10-30,Sampdoria,Inter,1,0,NA,NA,20906,Paolo Mazzoleni,https://fbref.com/en/matches/ac0f4222/Sampdoria-Internazionale-October-30-2016-Serie-A,0,0,1,0,9,3,10,16,16,0,0,3,0,14,3,13,17,14,2016-2017
 2016-10-31,Udinese,Torino,2,2,NA,NA,9210,Paolo Tagliavento,https://fbref.com/en/matches/8704bc46/Udinese-Torino-October-31-2016-Serie-A,0,0,2,0,16,5,10,10,13,0,0,3,0,13,3,12,12,19,2016-2017
@@ -139,8 +139,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-11-28,Napoli,Sassuolo,1,1,NA,NA,49490,Paolo Valeri,https://fbref.com/en/matches/bb5cab41/Napoli-Sassuolo-November-28-2016-Serie-A,0,0,3,0,20,6,16,17,14,0,0,4,0,4,1,20,18,13,2016-2017
 2016-11-28,Inter,Fiorentina,4,2,NA,NA,40558,Antonio Damato,https://fbref.com/en/matches/0508faf8/Internazionale-Fiorentina-November-28-2016-Serie-A,0,0,5,0,22,9,11,16,28,0,0,3,1,12,6,8,14,15,2016-2017
 2016-12-02,Napoli,Inter,3,0,NA,NA,32341,Nicola Rizzoli,https://fbref.com/en/matches/c1dd13a0/Napoli-Internazionale-December-2-2016-Serie-A,0,0,2,0,19,11,10,13,7,0,0,3,0,18,6,7,22,12,2016-2017
-2016-12-03,Juventus,Atalanta,3,1,NA,NA,39110,Massimiliano Irrati,https://fbref.com/en/matches/7c36cf6a/Juventus-Atalanta-December-3-2016-Serie-A,0,0,3,0,12,7,15,13,25,0,0,2,0,7,2,10,18,18,2016-2017
-2016-12-04,Milan,Crotone,2,1,NA,NA,37293,Marco Di Bello,https://fbref.com/en/matches/d332a863/Milan-Crotone-December-4-2016-Serie-A,0,1,4,0,12,4,8,6,22,0,0,4,0,9,5,17,12,19,2016-2017
+2016-12-03,Juventus,Atalanta,3,1,NA,NA,39110,Massimiliano Irrati,https://fbref.com/en/matches/7c36cf6a/Juventus-Atalanta-December-3-2016-Serie-A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016-2017
+2016-12-04,Milan,Crotone,2,1,NA,NA,37293,Marco Di Bello,https://fbref.com/en/matches/d332a863/Milan-Crotone-December-4-2016-Serie-A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016-2017
 2016-12-04,Pescara,Cagliari,1,1,NA,NA,11575,Daniele Doveri,https://fbref.com/en/matches/3c383ef5/Pescara-Cagliari-December-4-2016-Serie-A,0,0,2,0,19,2,19,13,21,0,0,3,1,6,2,16,14,19,2016-2017
 2016-12-04,Sassuolo,Empoli,3,0,NA,NA,9588,Claudio Gavillucci,https://fbref.com/en/matches/7d1dc1c4/Sassuolo-Empoli-December-4-2016-Serie-A,2,2,4,0,12,6,14,30,21,0,0,6,0,14,3,9,18,10,2016-2017
 2016-12-04,Lazio,Roma,0,2,NA,NA,40000,Luca Banti,https://fbref.com/en/matches/46d7e583/Lazio-Roma-December-4-2016-Serie-A,0,0,4,1,11,2,12,9,21,0,0,3,0,7,4,13,12,14,2016-2017
@@ -150,7 +150,7 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-12-05,Udinese,Bologna,1,0,NA,NA,16014,Fabrizio Pasqua,https://fbref.com/en/matches/3f835e38/Udinese-Bologna-December-5-2016-Serie-A,0,0,3,0,19,9,15,19,11,0,0,1,1,7,1,11,14,17,2016-2017
 2016-12-10,Crotone,Pescara,2,1,NA,NA,7470,Antonio Damato,https://fbref.com/en/matches/e7c7b270/Crotone-Pescara-December-10-2016-Serie-A,1,1,2,1,9,4,15,12,19,0,1,4,1,6,3,8,12,20,2016-2017
 2016-12-10,Sampdoria,Lazio,1,2,NA,NA,18829,Carmine Russo,https://fbref.com/en/matches/990709d7/Sampdoria-Lazio-December-10-2016-Serie-A,0,0,2,0,10,5,24,15,9,0,0,4,0,10,7,19,17,15,2016-2017
-2016-12-11,Cagliari,Napoli,0,5,NA,NA,13992,Giampaolo Calvarese,https://fbref.com/en/matches/879a68cb/Cagliari-Napoli-December-11-2016-Serie-A,0,0,4,0,6,3,11,18,17,0,0,3,0,23,11,4,5,10,2016-2017
+2016-12-11,Cagliari,Napoli,0,5,NA,NA,13992,Giampaolo Calvarese,https://fbref.com/en/matches/879a68cb/Cagliari-Napoli-December-11-2016-Serie-A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016-2017
 2016-12-11,Torino,Juventus,1,3,NA,NA,26426,Gianluca Rocchi,https://fbref.com/en/matches/24ebc9c5/Torino-Juventus-December-11-2016-Serie-A,0,0,1,0,9,2,12,14,23,0,0,2,0,17,8,12,9,19,2016-2017
 2016-12-11,Palermo,Chievo,0,2,NA,NA,21232,Paolo Tagliavento,https://fbref.com/en/matches/50e68b72/Palermo-Chievo-December-11-2016-Serie-A,0,0,1,0,17,3,11,18,10,0,0,1,0,8,3,7,18,17,2016-2017
 2016-12-11,Bologna,Empoli,0,0,NA,NA,17598,Marco Guida,https://fbref.com/en/matches/ac37477b/Bologna-Empoli-December-11-2016-Serie-A,0,0,2,0,22,3,17,20,14,0,0,4,0,3,1,7,16,17,2016-2017
@@ -194,7 +194,7 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-01-15,Udinese,Roma,0,1,NA,NA,16825,Antonio Damato,https://fbref.com/en/matches/c26f458d/Udinese-Roma-January-15-2017-Serie-A,0,0,2,0,10,5,16,10,16,0,1,1,0,14,4,10,22,17,2016-2017
 2017-01-15,Napoli,Pescara,3,1,NA,NA,31117,Claudio Gavillucci,https://fbref.com/en/matches/d10cc130/Napoli-Pescara-January-15-2017-Serie-A,0,0,1,0,24,9,14,8,10,1,1,3,0,8,2,12,27,15,2016-2017
 2017-01-15,Sampdoria,Empoli,0,0,NA,NA,19056,Domenico Celi,https://fbref.com/en/matches/0dd50bfc/Sampdoria-Empoli-January-15-2017-Serie-A,0,0,3,0,16,2,17,17,8,0,1,3,0,14,2,17,12,9,2016-2017
-2017-01-15,Fiorentina,Juventus,2,1,NA,NA,34085,Luca Banti,https://fbref.com/en/matches/b641fac1/Fiorentina-Juventus-January-15-2017-Serie-A,0,0,3,0,16,6,18,15,22,0,0,5,0,11,4,14,10,20,2016-2017
+2017-01-15,Fiorentina,Juventus,2,1,NA,NA,34085,Luca Banti,https://fbref.com/en/matches/b641fac1/Fiorentina-Juventus-January-15-2017-Serie-A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016-2017
 2017-01-16,Torino,Milan,2,2,NA,NA,22418,Paolo Tagliavento,https://fbref.com/en/matches/2d7666e6/Torino-Milan-January-16-2017-Serie-A,0,1,5,0,18,7,12,22,11,1,1,2,1,23,8,9,10,11,2016-2017
 2017-01-21,Chievo,Fiorentina,0,3,NA,NA,8000,Fabio Maresca,https://fbref.com/en/matches/9007ed2f/Chievo-Fiorentina-January-21-2017-Serie-A,0,0,3,0,16,6,14,12,17,1,1,2,0,11,6,16,18,18,2016-2017
 2017-01-21,Milan,Napoli,1,2,NA,NA,54257,Gianluca Rocchi,https://fbref.com/en/matches/b268e7b1/Milan-Napoli-January-21-2017-Serie-A,0,0,4,0,13,4,9,8,15,0,0,4,0,9,5,19,15,16,2016-2017
@@ -203,7 +203,7 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-01-22,Genoa,Crotone,2,2,NA,NA,18800,Maurizio Mariani,https://fbref.com/en/matches/15fbed97/Genoa-Crotone-January-22-2017-Serie-A,1,1,1,0,10,4,14,9,18,0,0,2,0,14,6,22,18,9,2016-2017
 2017-01-22,Bologna,Torino,2,0,NA,NA,17820,Davide Ghersini,https://fbref.com/en/matches/98c30203/Bologna-Torino-January-22-2017-Serie-A,0,0,2,0,9,5,12,10,11,0,0,2,0,9,2,13,19,11,2016-2017
 2017-01-22,Palermo,Inter,0,1,NA,NA,10113,Massimiliano Irrati,https://fbref.com/en/matches/664211db/Palermo-Internazionale-January-22-2017-Serie-A,0,0,6,1,6,0,12,25,23,0,0,2,1,17,6,17,22,14,2016-2017
-2017-01-22,Pescara,Sassuolo,1,3,NA,NA,10463,Paolo Valeri,https://fbref.com/en/matches/9b593ade/Pescara-Sassuolo-January-22-2017-Serie-A,0,1,4,0,19,5,8,17,13,0,0,5,0,16,5,15,15,23,2016-2017
+2017-01-22,Pescara,Sassuolo,1,3,NA,NA,10463,Paolo Valeri,https://fbref.com/en/matches/9b593ade/Pescara-Sassuolo-January-22-2017-Serie-A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016-2017
 2017-01-22,Atalanta,Sampdoria,1,0,NA,NA,15614,Nicola Rizzoli,https://fbref.com/en/matches/38e81744/Atalanta-Sampdoria-January-22-2017-Serie-A,1,1,1,0,13,6,17,22,13,0,0,3,0,13,3,13,6,20,2016-2017
 2017-01-22,Roma,Cagliari,1,0,NA,NA,23961,Marco Guida,https://fbref.com/en/matches/daebb5b1/Roma-Cagliari-January-22-2017-Serie-A,0,0,1,0,18,6,8,20,8,0,0,3,1,9,0,14,11,15,2016-2017
 2017-01-28,Lazio,Chievo,0,1,NA,NA,15000,Michael Fabbri,https://fbref.com/en/matches/f13522ab/Lazio-Chievo-January-28-2017-Serie-A,0,0,2,0,28,8,16,9,16,0,0,2,0,7,2,18,15,8,2016-2017
@@ -212,8 +212,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-01-29,Sampdoria,Roma,3,2,NA,NA,19799,Paolo Mazzoleni,https://fbref.com/en/matches/72db00e9/Sampdoria-Roma-January-29-2017-Serie-A,0,0,2,0,19,8,6,13,20,0,0,3,0,16,10,18,11,14,2016-2017
 2017-01-29,Cagliari,Bologna,1,1,NA,NA,11114,Luca Pairetto,https://fbref.com/en/matches/50e91f5f/Cagliari-Bologna-January-29-2017-Serie-A,0,0,2,0,19,6,19,14,15,0,0,3,2,8,2,10,14,19,2016-2017
 2017-01-29,Crotone,Empoli,4,1,NA,NA,7486,Paolo Tagliavento,https://fbref.com/en/matches/1a5155cb/Crotone-Empoli-January-29-2017-Serie-A,1,1,3,0,14,7,18,29,13,0,0,1,0,5,3,10,8,14,2016-2017
-2017-01-29,Sassuolo,Juventus,0,2,NA,NA,21584,Daniele Doveri,https://fbref.com/en/matches/a3a9eff5/Sassuolo-Juventus-January-29-2017-Serie-A,0,0,3,0,7,3,14,7,18,0,0,1,0,14,5,8,19,13,2016-2017
 2017-01-29,Udinese,Milan,2,1,NA,NA,25155,Luca Banti,https://fbref.com/en/matches/35d3a51b/Udinese-Milan-January-29-2017-Serie-A,0,0,3,0,12,5,17,19,10,0,0,2,0,12,5,18,5,13,2016-2017
+2017-01-29,Sassuolo,Juventus,0,2,NA,NA,21584,Daniele Doveri,https://fbref.com/en/matches/a3a9eff5/Sassuolo-Juventus-January-29-2017-Serie-A,0,0,3,0,7,3,14,7,18,0,0,1,0,14,5,8,19,13,2016-2017
 2017-01-29,Fiorentina,Genoa,3,3,NA,NA,27301,Daniele Orsato,https://fbref.com/en/matches/0cf37158/Fiorentina-Genoa-January-29-2017-Serie-A,0,0,3,1,22,8,9,10,10,1,1,4,0,8,5,8,5,20,2016-2017
 2017-01-29,Napoli,Palermo,1,1,NA,NA,41166,Domenico Celi,https://fbref.com/en/matches/5b95118f/Napoli-Palermo-January-29-2017-Serie-A,0,0,0,0,19,10,11,7,6,0,0,4,1,3,2,9,25,9,2016-2017
 2017-02-01,Pescara,Fiorentina,1,2,NA,NA,8483,Carmine Russo,https://fbref.com/en/matches/330a5d15/Pescara-Fiorentina-February-1-2017-Serie-A,0,0,4,0,4,3,15,11,10,0,0,3,0,22,5,8,3,15,2016-2017
@@ -249,9 +249,9 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-02-19,Pescara,Genoa,5,0,NA,NA,11142,Eugenio Abbattista,https://fbref.com/en/matches/220b4173/Pescara-Genoa-February-19-2017-Serie-A,0,0,2,0,8,6,11,19,14,0,0,1,0,13,2,9,11,15,2016-2017
 2017-02-19,Roma,Torino,4,1,NA,NA,31165,Marco Guida,https://fbref.com/en/matches/22c171ba/Roma-Torino-February-19-2017-Serie-A,0,0,0,0,20,7,17,20,14,0,0,2,0,12,4,14,20,9,2016-2017
 2017-02-19,Milan,Fiorentina,2,1,NA,NA,32743,Paolo Valeri,https://fbref.com/en/matches/346a8844/Milan-Fiorentina-February-19-2017-Serie-A,0,0,3,0,6,4,16,11,11,0,0,2,0,18,7,18,16,13,2016-2017
-2017-02-25,Napoli,Atalanta,0,2,NA,NA,45800,Domenico Celi,https://fbref.com/en/matches/4b2280a3/Napoli-Atalanta-February-25-2017-Serie-A,0,0,1,0,20,9,12,13,8,0,0,2,1,8,5,13,24,10,2016-2017
+2017-02-25,Napoli,Atalanta,0,2,NA,NA,45800,Domenico Celi,https://fbref.com/en/matches/4b2280a3/Napoli-Atalanta-February-25-2017-Serie-A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016-2017
 2017-02-25,Juventus,Empoli,2,0,NA,NA,38297,Maurizio Mariani,https://fbref.com/en/matches/a02161a7/Juventus-Empoli-February-25-2017-Serie-A,0,0,0,0,24,6,11,12,12,0,0,1,0,6,1,13,11,11,2016-2017
-2017-02-26,Palermo,Sampdoria,1,1,NA,NA,10139,Daniele Doveri,https://fbref.com/en/matches/60c93df1/Palermo-Sampdoria-February-26-2017-Serie-A,1,1,2,0,16,7,14,20,11,0,0,2,0,11,3,9,7,15,2016-2017
+2017-02-26,Palermo,Sampdoria,1,1,NA,NA,10139,Daniele Doveri,https://fbref.com/en/matches/60c93df1/Palermo-Sampdoria-February-26-2017-Serie-A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016-2017
 2017-02-26,Genoa,Bologna,1,1,NA,NA,18788,Gianluca Rocchi,https://fbref.com/en/matches/9a5b623d/Genoa-Bologna-February-26-2017-Serie-A,0,0,1,0,20,6,14,12,15,0,0,1,1,13,4,14,14,6,2016-2017
 2017-02-26,Lazio,Udinese,1,0,NA,NA,15000,Luca Pairetto,https://fbref.com/en/matches/2b33529c/Lazio-Udinese-February-26-2017-Serie-A,1,1,2,0,8,2,21,12,13,0,0,3,0,13,3,11,16,17,2016-2017
 2017-02-26,Sassuolo,Milan,0,1,NA,NA,18842,Giampaolo Calvarese,https://fbref.com/en/matches/6de59663/Sassuolo-Milan-February-26-2017-Serie-A,0,1,6,0,12,5,11,8,20,1,1,3,0,13,6,10,16,18,2016-2017
@@ -262,10 +262,10 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-03-04,Roma,Napoli,1,2,NA,NA,30909,Luca Banti,https://fbref.com/en/matches/2f769b5a/Roma-Napoli-March-4-2017-Serie-A,0,0,3,0,22,4,9,31,11,0,0,2,0,13,4,11,16,12,2016-2017
 2017-03-04,Sampdoria,Pescara,3,1,NA,NA,17660,Fabrizio Pasqua,https://fbref.com/en/matches/bfc7f75a/Sampdoria-Pescara-March-4-2017-Serie-A,0,0,0,0,19,7,15,11,18,0,0,2,0,11,4,8,14,12,2016-2017
 2017-03-04,Milan,Chievo,3,1,NA,NA,27357,Fabio Maresca,https://fbref.com/en/matches/ec16d7fd/Milan-Chievo-March-4-2017-Serie-A,1,2,2,0,22,6,6,7,17,1,1,1,0,9,3,8,10,15,2016-2017
-2017-03-05,Atalanta,Fiorentina,0,0,NA,NA,18919,Marco Guida,https://fbref.com/en/matches/3702364e/Atalanta-Fiorentina-March-5-2017-Serie-A,0,0,2,0,16,4,12,28,18,0,0,4,0,9,3,17,16,15,2016-2017
+2017-03-05,Atalanta,Fiorentina,0,0,NA,NA,18919,Marco Guida,https://fbref.com/en/matches/3702364e/Atalanta-Fiorentina-March-5-2017-Serie-A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016-2017
 2017-03-05,Udinese,Juventus,1,1,NA,NA,25828,Antonio Damato,https://fbref.com/en/matches/eca4b44b/Udinese-Juventus-March-5-2017-Serie-A,0,0,2,0,10,5,6,16,17,0,0,2,0,9,3,12,11,20,2016-2017
-2017-03-05,Cagliari,Inter,1,5,NA,NA,15649,Marco Di Bello,https://fbref.com/en/matches/2cc2103f/Cagliari-Internazionale-March-5-2017-Serie-A,0,0,2,0,7,4,15,11,10,1,1,0,0,22,10,13,15,13,2016-2017
 2017-03-05,Crotone,Sassuolo,0,0,NA,NA,7544,Michael Fabbri,https://fbref.com/en/matches/dfd32087/Crotone-Sassuolo-March-5-2017-Serie-A,0,0,3,0,16,1,9,13,15,0,0,1,0,9,1,20,15,11,2016-2017
+2017-03-05,Cagliari,Inter,1,5,NA,NA,15649,Marco Di Bello,https://fbref.com/en/matches/2cc2103f/Cagliari-Internazionale-March-5-2017-Serie-A,0,0,2,0,7,4,15,11,10,1,1,0,0,22,10,13,15,13,2016-2017
 2017-03-05,Empoli,Genoa,0,2,NA,NA,7655,Daniele Doveri,https://fbref.com/en/matches/efad59fb/Empoli-Genoa-March-5-2017-Serie-A,0,0,3,0,7,2,9,10,7,0,0,2,0,8,4,12,15,23,2016-2017
 2017-03-05,Torino,Palermo,3,1,NA,NA,16098,Nicola Rizzoli,https://fbref.com/en/matches/04ca3b8b/Torino-Palermo-March-5-2017-Serie-A,0,0,0,0,25,6,13,7,15,0,0,3,1,7,3,12,21,12,2016-2017
 2017-03-05,Bologna,Lazio,0,2,NA,NA,18262,Carmine Russo,https://fbref.com/en/matches/2a9b26bd/Bologna-Lazio-March-5-2017-Serie-A,0,0,2,0,10,3,19,13,9,0,0,1,0,13,6,14,12,19,2016-2017
@@ -303,9 +303,9 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-04-08,Atalanta,Sassuolo,1,1,NA,NA,18209,Nicola Rizzoli,https://fbref.com/en/matches/1165820a/Atalanta-Sassuolo-April-8-2017-Serie-A,0,0,3,0,18,7,11,13,13,0,0,4,0,4,2,13,18,15,2016-2017
 2017-04-08,Juventus,Chievo,2,0,NA,NA,39196,Michael Fabbri,https://fbref.com/en/matches/d3cdd6a0/Juventus-Chievo-April-8-2017-Serie-A,0,0,1,0,17,6,7,10,8,0,0,2,0,10,3,6,8,12,2016-2017
 2017-04-09,Sampdoria,Fiorentina,2,2,NA,NA,19347,Carmine Russo,https://fbref.com/en/matches/db1c5c06/Sampdoria-Fiorentina-April-9-2017-Serie-A,0,0,2,0,10,4,23,18,19,0,0,1,0,19,4,23,17,15,2016-2017
-2017-04-09,Udinese,Genoa,3,0,NA,NA,16126,Maurizio Mariani,https://fbref.com/en/matches/120d21a0/Udinese-Genoa-April-9-2017-Serie-A,0,0,2,0,9,3,16,6,15,0,0,2,0,13,3,16,15,13,2016-2017
+2017-04-09,Udinese,Genoa,3,0,NA,NA,16126,Maurizio Mariani,https://fbref.com/en/matches/120d21a0/Udinese-Genoa-April-9-2017-Serie-A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016-2017
 2017-04-09,Crotone,Inter,2,1,NA,NA,13967,Marco Guida,https://fbref.com/en/matches/e071a63e/Crotone-Internazionale-April-9-2017-Serie-A,1,1,4,0,12,7,13,24,15,0,0,2,0,17,4,15,4,15,2016-2017
-2017-04-09,Milan,Palermo,4,0,NA,NA,36808,Marco Di Bello,https://fbref.com/en/matches/99abf9be/Milan-Palermo-April-9-2017-Serie-A,0,0,1,0,14,10,16,7,10,0,0,3,1,8,2,7,13,14,2016-2017
+2017-04-09,Milan,Palermo,4,0,NA,NA,36808,Marco Di Bello,https://fbref.com/en/matches/99abf9be/Milan-Palermo-April-9-2017-Serie-A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016-2017
 2017-04-09,Bologna,Roma,0,3,NA,NA,22947,Antonio Damato,https://fbref.com/en/matches/c137303c/Bologna-Roma-April-9-2017-Serie-A,0,0,3,0,13,4,13,33,14,0,0,2,0,11,5,14,15,9,2016-2017
 2017-04-09,Cagliari,Torino,2,3,NA,NA,12103,Gianluca Rocchi,https://fbref.com/en/matches/2e45bbe9/Cagliari-Torino-April-9-2017-Serie-A,1,1,2,0,10,2,23,9,22,0,0,4,1,13,5,14,13,14,2016-2017
 2017-04-09,Lazio,Napoli,0,3,NA,NA,30000,Massimiliano Irrati,https://fbref.com/en/matches/4dd5eab6/Lazio-Napoli-April-9-2017-Serie-A,0,0,3,0,17,5,16,18,10,0,0,3,0,12,7,10,11,8,2016-2017
@@ -316,7 +316,7 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-04-15,Cagliari,Chievo,4,0,NA,NA,11195,Gianluca Manganiello,https://fbref.com/en/matches/eea88c5c/Cagliari-Chievo-April-15-2017-Serie-A,0,0,2,0,23,11,12,8,20,0,0,2,0,16,2,10,14,16,2016-2017
 2017-04-15,Pescara,Juventus,0,2,NA,NA,19938,Marco Di Bello,https://fbref.com/en/matches/d3807013/Pescara-Juventus-April-15-2017-Serie-A,0,0,4,0,6,2,19,16,19,0,0,1,0,14,7,10,24,12,2016-2017
 2017-04-15,Fiorentina,Empoli,1,2,NA,NA,26195,Paolo Mazzoleni,https://fbref.com/en/matches/219c2680/Fiorentina-Empoli-April-15-2017-Serie-A,0,0,4,1,18,7,8,7,17,1,1,5,0,11,5,9,7,18,2016-2017
-2017-04-15,Genoa,Lazio,2,2,NA,NA,19545,Fabio Maresca,https://fbref.com/en/matches/28c52aa0/Genoa-Lazio-April-15-2017-Serie-A,0,0,4,0,13,6,21,12,15,0,1,4,0,21,6,9,9,13,2016-2017
+2017-04-15,Genoa,Lazio,2,2,NA,NA,19545,Fabio Maresca,https://fbref.com/en/matches/28c52aa0/Genoa-Lazio-April-15-2017-Serie-A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016-2017
 2017-04-15,Sassuolo,Sampdoria,2,1,NA,NA,11362,Luca Pairetto,https://fbref.com/en/matches/cee27bd0/Sassuolo-Sampdoria-April-15-2017-Serie-A,0,0,3,0,8,3,12,15,13,0,0,2,0,13,3,12,4,14,2016-2017
 2017-04-15,Napoli,Udinese,3,0,NA,NA,38764,Davide Massa,https://fbref.com/en/matches/bf500a26/Napoli-Udinese-April-15-2017-Serie-A,0,0,0,0,19,6,14,9,8,0,0,1,0,7,2,9,11,8,2016-2017
 2017-04-22,Atalanta,Bologna,3,2,NA,NA,17528,Carmine Russo,https://fbref.com/en/matches/5af0f527/Atalanta-Bologna-April-22-2017-Serie-A,0,0,2,0,5,3,12,10,17,0,0,3,0,11,6,21,18,19,2016-2017
@@ -325,8 +325,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-04-23,Udinese,Cagliari,2,1,NA,NA,16623,Valerio Marini,https://fbref.com/en/matches/c150d117/Udinese-Cagliari-April-23-2017-Serie-A,0,1,1,0,18,5,19,6,11,0,0,1,0,12,3,13,9,15,2016-2017
 2017-04-23,Chievo,Torino,1,3,NA,NA,10000,Maurizio Mariani,https://fbref.com/en/matches/3011c681/Chievo-Torino-April-23-2017-Serie-A,0,0,1,0,13,3,10,17,12,0,0,1,0,22,5,9,11,11,2016-2017
 2017-04-23,Milan,Empoli,1,2,NA,NA,39529,Claudio Gavillucci,https://fbref.com/en/matches/0dbe0682/Milan-Empoli-April-23-2017-Serie-A,0,1,3,0,28,12,18,12,15,0,0,4,0,11,7,13,13,17,2016-2017
-2017-04-23,Sampdoria,Crotone,1,2,NA,NA,18215,Nicola Rizzoli,https://fbref.com/en/matches/e04ebc4e/Sampdoria-Crotone-April-23-2017-Serie-A,0,0,2,0,10,5,14,9,10,0,0,3,0,13,6,11,15,13,2016-2017
 2017-04-23,Lazio,Palermo,6,2,NA,NA,25000,Michael Fabbri,https://fbref.com/en/matches/56b466cf/Lazio-Palermo-April-23-2017-Serie-A,1,1,1,0,17,7,8,14,10,0,0,1,0,7,2,13,23,8,2016-2017
+2017-04-23,Sampdoria,Crotone,1,2,NA,NA,18215,Nicola Rizzoli,https://fbref.com/en/matches/e04ebc4e/Sampdoria-Crotone-April-23-2017-Serie-A,0,0,2,0,10,5,14,9,10,0,0,3,0,13,6,11,15,13,2016-2017
 2017-04-23,Juventus,Genoa,4,0,NA,NA,39220,Giampaolo Calvarese,https://fbref.com/en/matches/3a6466ec/Juventus-Genoa-April-23-2017-Serie-A,0,0,0,0,18,4,9,22,10,0,0,1,0,11,2,10,9,14,2016-2017
 2017-04-24,Pescara,Roma,1,4,NA,NA,15368,Massimiliano Irrati,https://fbref.com/en/matches/1a8b31bd/Pescara-Roma-April-24-2017-Serie-A,0,0,2,0,16,5,10,11,10,0,0,0,0,23,6,15,16,12,2016-2017
 2017-04-28,Atalanta,Juventus,2,2,NA,NA,19600,Marco Guida,https://fbref.com/en/matches/e77592fd/Atalanta-Juventus-April-28-2017-Serie-A,0,0,3,0,13,7,13,22,13,0,0,2,0,16,8,14,12,9,2016-2017
@@ -342,8 +342,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-05-06,Napoli,Cagliari,3,1,NA,NA,47281,Piero Giacomelli,https://fbref.com/en/matches/4b79a1dc/Napoli-Cagliari-May-6-2017-Serie-A,0,0,1,0,28,9,13,7,4,0,0,0,0,8,3,10,28,6,2016-2017
 2017-05-06,Juventus,Torino,1,1,NA,NA,39239,Paolo Valeri,https://fbref.com/en/matches/a6950eaa/Juventus-Torino-May-6-2017-Serie-A,0,0,3,0,22,5,14,19,15,0,0,3,1,9,2,16,8,11,2016-2017
 2017-05-07,Udinese,Atalanta,1,1,NA,NA,18476,Marco Di Bello,https://fbref.com/en/matches/d62b44ae/Udinese-Atalanta-May-7-2017-Serie-A,0,0,4,0,12,5,20,11,15,0,0,3,0,9,4,17,20,19,2016-2017
-2017-05-07,Genoa,Inter,1,0,NA,NA,20980,Antonio Damato,https://fbref.com/en/matches/d84e8cde/Genoa-Internazionale-May-7-2017-Serie-A,0,0,4,0,10,5,4,3,16,0,1,2,1,12,4,13,13,27,2016-2017
 2017-05-07,Lazio,Sampdoria,7,3,NA,NA,40000,Paolo Mazzoleni,https://fbref.com/en/matches/271494c9/Lazio-Sampdoria-May-7-2017-Serie-A,2,2,0,0,19,11,10,15,14,1,1,1,1,8,7,8,16,6,2016-2017
+2017-05-07,Genoa,Inter,1,0,NA,NA,20980,Antonio Damato,https://fbref.com/en/matches/d84e8cde/Genoa-Internazionale-May-7-2017-Serie-A,0,0,4,0,10,5,4,3,16,0,1,2,1,12,4,13,13,27,2016-2017
 2017-05-07,Chievo,Palermo,1,1,NA,NA,10000,Marco Serra,https://fbref.com/en/matches/97dce920/Chievo-Palermo-May-7-2017-Serie-A,1,1,3,0,5,2,7,7,20,0,0,3,0,16,6,18,17,20,2016-2017
 2017-05-07,Sassuolo,Fiorentina,2,2,NA,NA,11152,Claudio Gavillucci,https://fbref.com/en/matches/fd5ab2a7/Sassuolo-Fiorentina-May-7-2017-Serie-A,1,1,5,0,12,8,15,13,18,0,1,3,1,13,6,18,15,19,2016-2017
 2017-05-07,Empoli,Bologna,3,1,NA,NA,8883,Giampaolo Calvarese,https://fbref.com/en/matches/c84c3e16/Empoli-Bologna-May-7-2017-Serie-A,0,0,1,0,20,8,16,11,20,0,0,2,0,6,3,10,21,18,2016-2017
@@ -355,11 +355,11 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-05-14,Torino,Napoli,0,5,NA,NA,24267,Massimiliano Irrati,https://fbref.com/en/matches/345faae1/Torino-Napoli-May-14-2017-Serie-A,0,0,2,0,10,2,14,14,12,0,0,1,0,15,6,11,14,9,2016-2017
 2017-05-14,Sampdoria,Chievo,1,1,NA,NA,18163,Fabio Maresca,https://fbref.com/en/matches/7f4110a1/Sampdoria-Chievo-May-14-2017-Serie-A,0,0,2,0,12,3,10,12,17,0,0,4,0,7,1,15,14,14,2016-2017
 2017-05-14,Palermo,Genoa,1,0,NA,NA,8863,Daniele Doveri,https://fbref.com/en/matches/4f55b068/Palermo-Genoa-May-14-2017-Serie-A,0,0,1,0,10,3,12,8,18,0,0,1,0,14,3,8,8,17,2016-2017
-2017-05-14,Cagliari,Empoli,3,2,NA,NA,12021,Maurizio Mariani,https://fbref.com/en/matches/f6d25dbf/Cagliari-Empoli-May-14-2017-Serie-A,0,0,2,0,15,6,20,19,17,0,1,2,0,12,3,15,13,11,2016-2017
 2017-05-14,Bologna,Pescara,3,1,NA,NA,21546,Antonio Di Martino,https://fbref.com/en/matches/62c0e925/Bologna-Pescara-May-14-2017-Serie-A,0,0,2,0,15,7,13,12,9,0,0,2,0,15,4,22,10,14,2016-2017
+2017-05-14,Cagliari,Empoli,3,2,NA,NA,12021,Maurizio Mariani,https://fbref.com/en/matches/f6d25dbf/Cagliari-Empoli-May-14-2017-Serie-A,0,0,2,0,15,6,20,19,17,0,1,2,0,12,3,15,13,11,2016-2017
 2017-05-14,Crotone,Udinese,1,0,NA,NA,8500,Michael Fabbri,https://fbref.com/en/matches/3550c4b4/Crotone-Udinese-May-14-2017-Serie-A,0,0,2,0,11,7,8,15,13,0,0,2,0,13,5,9,9,10,2016-2017
 2017-05-14,Roma,Juventus,3,1,NA,NA,53023,Luca Banti,https://fbref.com/en/matches/46ebda4c/Roma-Juventus-May-14-2017-Serie-A,0,0,3,0,14,7,11,11,9,0,0,2,0,16,5,12,9,6,2016-2017
-2017-05-20,Chievo,Roma,3,5,NA,NA,20000,Antonio Damato,https://fbref.com/en/matches/bcd70122/Chievo-Roma-May-20-2017-Serie-A,0,0,2,0,11,4,14,14,11,0,0,0,0,19,11,9,9,11,2016-2017
+2017-05-20,Chievo,Roma,3,5,NA,NA,20000,Antonio Damato,https://fbref.com/en/matches/bcd70122/Chievo-Roma-May-20-2017-Serie-A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016-2017
 2017-05-20,Napoli,Fiorentina,4,1,NA,NA,49519,Nicola Rizzoli,https://fbref.com/en/matches/ccfed01c/Napoli-Fiorentina-May-20-2017-Serie-A,0,0,2,0,19,9,18,10,10,0,0,1,0,14,5,6,19,8,2016-2017
 2017-05-21,Sassuolo,Cagliari,6,2,NA,NA,10806,Luigi Nasca,https://fbref.com/en/matches/cc38e0f3/Sassuolo-Cagliari-May-21-2017-Serie-A,1,1,1,0,14,9,22,24,14,0,0,5,0,14,6,19,18,22,2016-2017
 2017-05-21,Milan,Bologna,3,0,NA,NA,41054,Piero Giacomelli,https://fbref.com/en/matches/dda1940f/Milan-Bologna-May-21-2017-Serie-A,0,0,2,0,23,7,8,6,9,0,0,2,0,8,0,15,14,8,2016-2017
@@ -369,7 +369,7 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-05-21,Empoli,Atalanta,0,1,NA,NA,10233,Paolo Valeri,https://fbref.com/en/matches/52ab1a65/Empoli-Atalanta-May-21-2017-Serie-A,0,0,3,0,8,3,13,10,16,0,0,2,0,13,5,22,15,17,2016-2017
 2017-05-21,Lazio,Inter,1,3,NA,NA,30000,Marco Di Bello,https://fbref.com/en/matches/047a5da6/Lazio-Internazionale-May-21-2017-Serie-A,1,1,4,2,7,1,8,8,18,0,0,2,0,9,3,17,13,14,2016-2017
 2017-05-22,Pescara,Palermo,2,0,NA,NA,10062,Luca Pairetto,https://fbref.com/en/matches/2b21a7b5/Pescara-Palermo-May-22-2017-Serie-A,0,0,2,0,12,4,10,12,18,0,0,0,0,12,3,8,13,10,2016-2017
-2017-05-27,Atalanta,Chievo,1,0,NA,NA,19217,Domenico Celi,https://fbref.com/en/matches/b47f67ea/Atalanta-Chievo-May-27-2017-Serie-A,0,0,1,0,13,6,14,25,15,0,0,0,0,6,3,15,9,8,2016-2017
+2017-05-27,Atalanta,Chievo,1,0,NA,NA,19217,Domenico Celi,https://fbref.com/en/matches/b47f67ea/Atalanta-Chievo-May-27-2017-Serie-A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016-2017
 2017-05-27,Bologna,Juventus,1,2,NA,NA,29233,Maurizio Mariani,https://fbref.com/en/matches/53b6b545/Bologna-Juventus-May-27-2017-Serie-A,0,0,3,0,8,2,14,7,17,0,0,1,0,17,7,6,9,8,2016-2017
 2017-05-28,Cagliari,Milan,2,1,NA,NA,12225,Rosario Abisso,https://fbref.com/en/matches/a74dcc78/Cagliari-Milan-May-28-2017-Serie-A,0,0,3,0,17,9,11,14,16,1,2,2,1,18,7,5,15,13,2016-2017
 2017-05-28,Sampdoria,Napoli,2,4,NA,NA,19147,Luca Banti,https://fbref.com/en/matches/3680a60c/Sampdoria-Napoli-May-28-2017-Serie-A,0,0,1,0,12,2,9,12,10,0,0,0,0,22,7,15,12,8,2016-2017

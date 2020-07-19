@@ -51,8 +51,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-05-07,Vålerenga,Stabæk,1,1,NA,NA,6968,Kai Erik Steen,https://fbref.com/en/matches/dcb7e53e/Valerenga-Stabaek-May-7-2017-Eliteserien,1,1,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017
 2017-05-07,Tromsø,Kristiansund,1,1,NA,NA,3068,Dag Vidar Hafsås,https://fbref.com/en/matches/7f00d668/Tromso-Kristiansund-May-7-2017-Eliteserien,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
 2017-05-07,Strømsgodset,Sarpsborg 08,1,1,NA,NA,6251,Trygve Kjensli,https://fbref.com/en/matches/8937d1b5/Stromsgodset-Sarpsborg-08-May-7-2017-Eliteserien,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
-2017-05-07,Haugesund,Sogndal,0,0,NA,NA,4627,Martin Lundby,https://fbref.com/en/matches/1c37ea40/Haugesund-Sogndal-May-7-2017-Eliteserien,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2017
 2017-05-07,Viking,Sandefjord,0,2,NA,NA,7261,Rohit Saggi,https://fbref.com/en/matches/8b9e1729/Viking-Sandefjord-May-7-2017-Eliteserien,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-05-07,Haugesund,Sogndal,0,0,NA,NA,4627,Martin Lundby,https://fbref.com/en/matches/1c37ea40/Haugesund-Sogndal-May-7-2017-Eliteserien,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2017
 2017-05-07,Rosenborg,Brann,2,1,NA,NA,17020,Espen Andreas Eskås,https://fbref.com/en/matches/09b2bd6f/Rosenborg-Brann-May-7-2017-Eliteserien,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
 2017-05-08,Lillestrøm,Odd,0,1,NA,NA,4527,Ola Nilsen,https://fbref.com/en/matches/e83eb860/Lillestrom-Odd-May-8-2017-Eliteserien,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
 2017-05-12,Aalesund,Vålerenga,0,1,NA,NA,75000,Dag Vidar Hafsås,https://fbref.com/en/matches/82930002/Aalesund-Valerenga-May-12-2017-Eliteserien,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
@@ -67,8 +67,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-05-16,Brann,Sandefjord,5,0,NA,NA,17009,Martin Lundby,https://fbref.com/en/matches/ddbf6db8/Brann-Sandefjord-May-16-2017-Eliteserien,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
 2017-05-16,Haugesund,Odd,0,2,NA,NA,4342,Espen Andreas Eskås,https://fbref.com/en/matches/71c56a5e/Haugesund-Odd-May-16-2017-Eliteserien,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
 2017-05-16,Vålerenga,Kristiansund,1,0,NA,NA,7226,Tore Hansen,https://fbref.com/en/matches/d52f33a2/Valerenga-Kristiansund-May-16-2017-Eliteserien,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
-2017-05-16,Molde,Sogndal,1,2,NA,NA,7106,Trygve Kjensli,https://fbref.com/en/matches/a5e1859f/Molde-Sogndal-May-16-2017-Eliteserien,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
 2017-05-16,Viking,Aalesund,1,2,NA,NA,8431,Ola Nilsen,https://fbref.com/en/matches/bc260508/Viking-Aalesund-May-16-2017-Eliteserien,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
+2017-05-16,Molde,Sogndal,1,2,NA,NA,7106,Trygve Kjensli,https://fbref.com/en/matches/a5e1859f/Molde-Sogndal-May-16-2017-Eliteserien,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
 2017-05-16,Strømsgodset,Stabæk,1,2,NA,NA,6565,Dag Vidar Hafsås,https://fbref.com/en/matches/a2c7874b/Stromsgodset-Stabaek-May-16-2017-Eliteserien,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
 2017-05-16,Rosenborg,Tromsø,1,2,NA,NA,21112,Kai Erik Steen,https://fbref.com/en/matches/97b3fc2b/Rosenborg-Tromso-May-16-2017-Eliteserien,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
 2017-05-20,Rosenborg,Lillestrøm,1,1,NA,NA,18947,Trygve Kjensli,https://fbref.com/en/matches/79a1cbf8/Rosenborg-Lillestrom-May-20-2017-Eliteserien,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
@@ -107,8 +107,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-06-25,Stabæk,Kristiansund,1,4,NA,NA,3835,Dag Vidar Hafsås,https://fbref.com/en/matches/9b8501fc/Stabaek-Kristiansund-June-25-2017-Eliteserien,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
 2017-06-25,Rosenborg,Sogndal,3,0,NA,NA,17545,Tore Hansen,https://fbref.com/en/matches/aaa73bc4/Rosenborg-Sogndal-June-25-2017-Eliteserien,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
 2017-06-25,Aalesund,Odd,5,1,NA,NA,5537,Trygve Kjensli,https://fbref.com/en/matches/0f803c56/Aalesund-Odd-June-25-2017-Eliteserien,1,1,1,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2017
-2017-06-25,Tromsø,Sandefjord,1,1,NA,NA,3555,Kai Erik Steen,https://fbref.com/en/matches/d6ccb06b/Tromso-Sandefjord-June-25-2017-Eliteserien,0,0,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2017
 2017-06-25,Sarpsborg 08,Brann,1,1,NA,NA,5759,Tommy Skjerven,https://fbref.com/en/matches/5f440307/Sarpsborg-08-Brann-June-25-2017-Eliteserien,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-06-25,Tromsø,Sandefjord,1,1,NA,NA,3555,Kai Erik Steen,https://fbref.com/en/matches/d6ccb06b/Tromso-Sandefjord-June-25-2017-Eliteserien,0,0,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2017
 2017-06-25,Viking,Haugesund,1,1,NA,NA,8234,Rohit Saggi,https://fbref.com/en/matches/aa9821f0/Viking-Haugesund-June-25-2017-Eliteserien,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017
 2017-06-26,Strømsgodset,Molde,1,1,NA,NA,6372,Tom Hagen,https://fbref.com/en/matches/5e88f2a3/Stromsgodset-Molde-June-26-2017-Eliteserien,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
 2017-07-01,Lillestrøm,Strømsgodset,2,0,NA,NA,5634,Kai Erik Steen,https://fbref.com/en/matches/d4227f51/Lillestrom-Stromsgodset-July-1-2017-Eliteserien,0,0,1,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,2017
@@ -128,8 +128,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-07-15,Sogndal,Rosenborg,0,3,NA,NA,4507,Rohit Saggi,https://fbref.com/en/matches/834796ee/Sogndal-Rosenborg-July-15-2017-Eliteserien,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
 2017-07-15,Lillestrøm,Stabæk,2,2,NA,NA,4280,Tom Hagen,https://fbref.com/en/matches/a60ded8a/Lillestrom-Stabaek-July-15-2017-Eliteserien,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
 2017-07-16,Sandefjord,Tromsø,3,0,NA,NA,3446,Svein Oddvar Moen,https://fbref.com/en/matches/9dd7a071/Sandefjord-Tromso-July-16-2017-Eliteserien,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
-2017-07-16,Haugesund,Aalesund,2,0,NA,NA,3831,Espen Andreas Eskås,https://fbref.com/en/matches/6ec71680/Haugesund-Aalesund-July-16-2017-Eliteserien,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
 2017-07-16,Molde,Strømsgodset,0,0,NA,NA,8628,Tommy Skjerven,https://fbref.com/en/matches/0a3e3138/Molde-Stromsgodset-July-16-2017-Eliteserien,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
+2017-07-16,Haugesund,Aalesund,2,0,NA,NA,3831,Espen Andreas Eskås,https://fbref.com/en/matches/6ec71680/Haugesund-Aalesund-July-16-2017-Eliteserien,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
 2017-07-16,Odd,Viking,0,2,NA,NA,6780,Kristoffer Hagenes,https://fbref.com/en/matches/d210a839/Odd-Viking-July-16-2017-Eliteserien,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
 2017-07-16,Brann,Sarpsborg 08,0,1,NA,NA,10721,Trond Døvle,https://fbref.com/en/matches/8716bc63/Brann-Sarpsborg-08-July-16-2017-Eliteserien,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2017
 2017-07-17,Kristiansund,Vålerenga,1,1,NA,NA,4050,Dag Vidar Hafsås,https://fbref.com/en/matches/c4d45a1f/Kristiansund-Valerenga-July-17-2017-Eliteserien,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017

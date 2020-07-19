@@ -336,8 +336,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2020-03-07,Almería,La Coruña,4,0,NA,NA,9116,Daniel Trujillo,https://fbref.com/en/matches/9678bdd1/Almeria-Deportivo-La-Coruna-March-7-2020-Segunda-Division,0,0,1,0,15,8,12,9,13,0,0,2,0,13,2,6,11,4,2019-2020
 2020-03-08,Rayo Vallecano,Elche,2,3,NA,NA,10163,Luis Milla,https://fbref.com/en/matches/c2594731/Rayo-Vallecano-Elche-March-8-2020-Segunda-Division,1,1,3,1,17,9,6,7,20,0,0,3,0,13,5,4,8,13,2019-2020
 2020-03-08,Málaga,Zaragoza,0,1,NA,NA,22206,Dámaso Arcediano,https://fbref.com/en/matches/9366bb94/Malaga-Zaragoza-March-8-2020-Segunda-Division,0,0,2,0,16,3,14,9,14,0,0,3,0,10,4,8,6,10,2019-2020
-2020-03-08,Sporting Gijón,Las Palmas,4,0,NA,NA,17860,Oliver De La Fuente,https://fbref.com/en/matches/2f0fdac3/Sporting-Gijon-Las-Palmas-March-8-2020-Segunda-Division,0,0,1,0,10,6,12,11,18,0,0,2,1,7,5,12,10,12,2019-2020
 2020-03-08,Alcorcón,CD Mirandés,1,2,NA,NA,3191,Iosu Galech,https://fbref.com/en/matches/7e5ec95c/Alcorcon-CD-Mirandes-March-8-2020-Segunda-Division,0,0,6,1,11,3,4,11,15,1,1,1,0,8,4,7,12,13,2019-2020
+2020-03-08,Sporting Gijón,Las Palmas,4,0,NA,NA,17860,Oliver De La Fuente,https://fbref.com/en/matches/2f0fdac3/Sporting-Gijon-Las-Palmas-March-8-2020-Segunda-Division,0,0,1,0,10,6,12,11,18,0,0,2,1,7,5,12,10,12,2019-2020
 2020-03-08,Tenerife,Ponferradina,1,0,NA,NA,9355,Jon González,https://fbref.com/en/matches/578562b8/Tenerife-Ponferradina-March-8-2020-Segunda-Division,0,0,2,0,8,4,11,6,13,0,0,0,0,4,1,13,6,12,2019-2020
 2020-06-10,Rayo Vallecano,Albacete,1,0,NA,NA,9114,José López,https://fbref.com/en/matches/eb2ccd33/Rayo-Vallecano-Albacete-June-10-2020-Segunda-Division,0,0,4,0,15,6,7,5,8,0,0,3,1,7,1,11,13,18,2019-2020
 2020-06-12,Elche,Extremadura,1,1,NA,NA,0,Jorge Figueroa,https://fbref.com/en/matches/0b0d5eb9/Elche-Extremadura-June-12-2020-Segunda-Division,0,0,1,0,5,2,5,16,9,0,0,2,1,13,3,14,7,14,2019-2020
@@ -417,47 +417,47 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2020-07-05,Alcorcón,Lugo,2,2,NA,NA,0,Jon González,https://fbref.com/en/matches/78ac0888/Alcorcon-Lugo-July-5-2020-Segunda-Division,0,0,4,0,17,4,8,8,13,0,0,4,0,6,2,6,16,13,2019-2020
 2020-07-06,Sporting Gijón,Girona,0,0,NA,NA,0,Aitor Gorostegui,https://fbref.com/en/matches/86956ac9/Sporting-Gijon-Girona-July-6-2020-Segunda-Division,0,0,2,0,11,3,9,9,16,0,0,0,0,10,4,6,9,22,2019-2020
 2020-07-06,Zaragoza,Rayo Vallecano,2,4,NA,NA,0,Daniel Ocón,https://fbref.com/en/matches/6c6b568b/Zaragoza-Rayo-Vallecano-July-6-2020-Segunda-Division,0,0,4,0,12,5,10,16,15,0,0,4,0,13,6,3,9,20,2019-2020
-2020-07-07,CD Mirandés,Elche,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-07,Fuenlabrada,Santander,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-07,Extremadura,Cádiz,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-08,Málaga,La Coruña,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-08,Oviedo,Las Palmas,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-08,Ponferradina,Lugo,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-08,Huesca,Alcorcón,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-09,Albacete,Sporting Gijón,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-09,Rayo Vallecano,Numancia,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-09,Tenerife,Zaragoza,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-09,Girona,Almería,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-12,Numancia,Ponferradina,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-12,Las Palmas,CD Mirandés,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-12,Elche,Albacete,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-12,Santander,Huesca,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-12,Sporting Gijón,Málaga,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-12,Zaragoza,Oviedo,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-12,Alcorcón,Tenerife,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-12,Cádiz,Fuenlabrada,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-12,Almería,Rayo Vallecano,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-12,La Coruña,Extremadura,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-12,Lugo,Girona,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-15,Extremadura,Sporting Gijón,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-15,Girona,Cádiz,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-15,CD Mirandés,La Coruña,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-15,Rayo Vallecano,Las Palmas,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-15,Tenerife,Lugo,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-15,Ponferradina,Almería,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-15,Oviedo,Santander,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-15,Málaga,Alcorcón,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-15,Huesca,Numancia,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-15,Fuenlabrada,Elche,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-15,Albacete,Zaragoza,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-19,La Coruña,Fuenlabrada,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-19,Almería,Málaga,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-19,Zaragoza,Ponferradina,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-19,Cádiz,Albacete,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-19,Sporting Gijón,Huesca,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-19,Elche,Oviedo,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-19,Santander,Rayo Vallecano,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-19,Numancia,Tenerife,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-19,Lugo,CD Mirandés,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-19,Alcorcón,Girona,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-19,Las Palmas,Extremadura,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-07,CD Mirandés,Elche,1,0,NA,NA,0,Santiago Varón,https://fbref.com/en/matches/df1af58a/CD-Mirandes-Elche-July-7-2020-Segunda-Division,0,0,1,0,12,3,14,13,10,0,0,2,0,6,0,13,6,16,2019-2020
+2020-07-07,Fuenlabrada,Santander,1,0,NA,NA,0,Luis Milla,https://fbref.com/en/matches/b0694713/Fuenlabrada-Santander-July-7-2020-Segunda-Division,0,0,1,0,9,4,16,9,10,0,0,2,0,7,1,11,8,11,2019-2020
+2020-07-07,Extremadura,Cádiz,0,1,NA,NA,0,Miguel Ángel Ortiz Arias,https://fbref.com/en/matches/5403cd6c/Extremadura-Cadiz-July-7-2020-Segunda-Division,0,0,1,0,11,0,12,13,15,0,0,3,0,8,2,5,11,19,2019-2020
+2020-07-08,Málaga,La Coruña,1,0,NA,NA,0,José López,https://fbref.com/en/matches/15d840c8/Malaga-Deportivo-La-Coruna-July-8-2020-Segunda-Division,0,0,1,0,15,4,14,8,15,0,0,4,0,4,0,7,8,12,2019-2020
+2020-07-08,Oviedo,Las Palmas,2,1,NA,NA,0,Alejandro Muñíz,https://fbref.com/en/matches/c69fc4ec/Oviedo-Las-Palmas-July-8-2020-Segunda-Division,0,0,2,0,14,6,8,8,15,0,0,3,0,9,4,8,8,18,2019-2020
+2020-07-08,Ponferradina,Lugo,0,1,NA,NA,0,Víctor Areces,https://fbref.com/en/matches/094de08e/Ponferradina-Lugo-July-8-2020-Segunda-Division,0,0,2,0,14,4,4,6,19,1,1,5,0,7,1,10,11,15,2019-2020
+2020-07-08,Huesca,Alcorcón,2,1,NA,NA,0,Dámaso Arcediano,https://fbref.com/en/matches/60208bbe/Huesca-Alcorcon-July-8-2020-Segunda-Division,0,0,2,0,9,5,8,8,21,0,0,2,0,7,3,6,9,21,2019-2020
+2020-07-09,Albacete,Sporting Gijón,1,1,NA,NA,0,Daniel Trujillo,https://fbref.com/en/matches/134d509d/Albacete-Sporting-Gijon-July-9-2020-Segunda-Division,0,0,4,0,10,2,10,10,10,0,0,5,1,9,6,15,13,10,2019-2020
+2020-07-09,Rayo Vallecano,Numancia,3,2,NA,NA,0,Iosu Galech,https://fbref.com/en/matches/f26c9c96/Rayo-Vallecano-Numancia-July-9-2020-Segunda-Division,2,2,3,0,14,6,8,11,20,0,0,4,1,8,3,9,10,10,2019-2020
+2020-07-09,Tenerife,Zaragoza,1,1,NA,NA,0,Jorge Figueroa,https://fbref.com/en/matches/db380acc/Tenerife-Zaragoza-July-9-2020-Segunda-Division,1,1,3,1,8,3,9,12,13,0,0,4,0,17,5,8,14,12,2019-2020
+2020-07-09,Girona,Almería,1,0,NA,NA,0,Oliver De La Fuente,https://fbref.com/en/matches/eb79ea01/Girona-Almeria-July-9-2020-Segunda-Division,1,1,2,0,8,2,7,14,20,0,0,2,1,11,5,11,10,17,2019-2020
+2020-07-11,Santander,Huesca,1,0,NA,NA,0,Javier Villanueva,https://fbref.com/en/matches/cca0cca5/Santander-Huesca-July-11-2020-Segunda-Division,0,0,1,0,11,4,17,13,17,0,0,1,0,13,1,15,7,15,2019-2020
+2020-07-11,Las Palmas,CD Mirandés,1,0,NA,NA,0,Álvaro Moreno,https://fbref.com/en/matches/c8b2637f/Las-Palmas-CD-Mirandes-July-11-2020-Segunda-Division,1,1,3,0,12,5,8,10,12,0,0,3,0,7,0,7,14,15,2019-2020
+2020-07-11,Cádiz,Fuenlabrada,0,1,NA,NA,0,Juan Pulido,https://fbref.com/en/matches/06911331/Cadiz-Fuenlabrada-July-11-2020-Segunda-Division,0,0,2,0,11,4,2,4,16,1,1,3,0,9,3,6,14,25,2019-2020
+2020-07-12,La Coruña,Extremadura,2,3,NA,NA,0,Dámaso Arcediano,https://fbref.com/en/matches/2ff38609/Deportivo-La-Coruna-Extremadura-July-12-2020-Segunda-Division,0,0,0,0,16,7,12,7,12,0,0,2,0,14,4,13,7,16,2019-2020
+2020-07-12,Numancia,Ponferradina,1,0,NA,NA,0,Iñaki Bikandi,https://fbref.com/en/matches/0c1c8043/Numancia-Ponferradina-July-12-2020-Segunda-Division,0,0,3,0,11,4,9,10,18,0,0,2,0,10,5,5,5,23,2019-2020
+2020-07-12,Lugo,Girona,2,2,NA,NA,0,Saúl Ais,https://fbref.com/en/matches/fc8c7703/Lugo-Girona-July-12-2020-Segunda-Division,0,0,3,0,10,3,6,6,12,1,1,2,0,12,5,2,4,19,2019-2020
+2020-07-12,Zaragoza,Oviedo,2,4,NA,NA,0,Gorka Sagues,https://fbref.com/en/matches/4a28128b/Zaragoza-Oviedo-July-12-2020-Segunda-Division,1,1,4,0,12,5,5,4,17,0,1,0,0,11,8,6,17,10,2019-2020
+2020-07-13,Sporting Gijón,Málaga,2,1,NA,NA,0,Isidro Díaz de Mera,https://fbref.com/en/matches/6259a9eb/Sporting-Gijon-Malaga-July-13-2020-Segunda-Division,0,0,2,0,10,4,8,8,17,0,0,1,0,9,4,13,13,4,2019-2020
+2020-07-13,Almería,Rayo Vallecano,3,2,NA,NA,0,Rubén Ávalos,https://fbref.com/en/matches/f712bc83/Almeria-Rayo-Vallecano-July-13-2020-Segunda-Division,0,0,2,0,9,4,8,9,13,0,0,3,0,16,4,6,5,19,2019-2020
+2020-07-13,Elche,Albacete,2,0,NA,NA,0,Jon González,https://fbref.com/en/matches/3efbaeb5/Elche-Albacete-July-13-2020-Segunda-Division,0,0,3,0,11,3,3,4,13,0,0,2,1,5,2,6,7,13,2019-2020
+2020-07-13,Alcorcón,Tenerife,0,0,NA,NA,0,Daniel Ocón,https://fbref.com/en/matches/a6ae0494/Alcorcon-Tenerife-July-13-2020-Segunda-Division,0,0,5,0,19,8,4,9,11,0,0,2,0,6,3,7,9,17,2019-2020
+2020-07-17,Tenerife,Lugo,1,2,NA,NA,0,Oliver De La Fuente,https://fbref.com/en/matches/73303691/Tenerife-Lugo-July-17-2020-Segunda-Division,0,0,1,0,15,5,5,3,14,0,0,2,1,8,4,6,6,11,2019-2020
+2020-07-17,Extremadura,Sporting Gijón,2,0,NA,NA,0,Iosu Galech,https://fbref.com/en/matches/5483ceec/Extremadura-Sporting-Gijon-July-17-2020-Segunda-Division,0,0,1,0,9,2,7,11,23,0,0,5,0,15,5,6,7,13,2019-2020
+2020-07-17,Girona,Cádiz,2,1,NA,NA,0,Alejandro Muñíz,https://fbref.com/en/matches/87ae975a/Girona-Cadiz-July-17-2020-Segunda-Division,1,1,4,1,5,2,9,6,23,1,1,2,1,7,3,12,8,14,2019-2020
+2020-07-17,Rayo Vallecano,Las Palmas,2,2,NA,NA,0,Luis Milla,https://fbref.com/en/matches/f87c0fdc/Rayo-Vallecano-Las-Palmas-July-17-2020-Segunda-Division,0,0,6,0,14,6,10,11,19,2,2,3,0,10,5,10,5,12,2019-2020
+2020-07-17,CD Mirandés,La Coruña,1,0,NA,NA,0,Víctor Areces,https://fbref.com/en/matches/b7147161/CD-Mirandes-Deportivo-La-Coruna-July-17-2020-Segunda-Division,0,0,5,0,12,4,8,14,16,0,0,2,0,18,7,18,9,6,2019-2020
+2020-07-17,Ponferradina,Almería,2,1,NA,NA,0,Miguel Ángel Ortiz Arias,https://fbref.com/en/matches/84053ec5/Ponferradina-Almeria-July-17-2020-Segunda-Division,0,0,3,0,10,5,8,12,11,0,0,3,0,23,7,7,5,14,2019-2020
+2020-07-17,Oviedo,Santander,1,0,NA,NA,0,Daniel Trujillo,https://fbref.com/en/matches/25efdb2c/Oviedo-Santander-July-17-2020-Segunda-Division,0,0,2,0,4,2,12,12,20,0,0,2,0,4,2,9,6,17,2019-2020
+2020-07-17,Málaga,Alcorcón,2,0,NA,NA,0,Santiago Varón,https://fbref.com/en/matches/834d372c/Malaga-Alcorcon-July-17-2020-Segunda-Division,0,0,0,0,4,2,9,21,17,0,0,4,0,9,2,7,11,19,2019-2020
+2020-07-17,Fuenlabrada,Elche,3,1,NA,NA,0,Jorge Figueroa,https://fbref.com/en/matches/be3a4224/Fuenlabrada-Elche-July-17-2020-Segunda-Division,1,1,4,0,13,5,13,7,22,1,1,5,0,15,4,9,7,11,2019-2020
+2020-07-17,Huesca,Numancia,3,0,NA,NA,0,José López,https://fbref.com/en/matches/93f19894/Huesca-Numancia-July-17-2020-Segunda-Division,1,1,1,0,27,9,4,12,12,0,0,1,0,6,1,4,10,7,2019-2020
+2020-07-17,Albacete,Zaragoza,4,1,NA,NA,0,Aitor Gorostegui,https://fbref.com/en/matches/c2bc84e0/Albacete-Zaragoza-July-17-2020-Segunda-Division,1,1,2,0,15,7,9,11,15,1,2,2,0,10,3,6,5,14,2019-2020
+2020-07-20,Las Palmas,Extremadura,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-20,La Coruña,Fuenlabrada,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-20,Almería,Málaga,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-20,Zaragoza,Ponferradina,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-20,Cádiz,Albacete,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-20,Sporting Gijón,Huesca,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-20,Elche,Oviedo,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-20,Santander,Rayo Vallecano,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-20,Numancia,Tenerife,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-20,Lugo,CD Mirandés,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-20,Alcorcón,Girona,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020

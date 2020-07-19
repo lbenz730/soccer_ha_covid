@@ -90,8 +90,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2018-05-27,Elfsborg,Trelleborg,2,1,NA,NA,4762,Magnus Lindgren,https://fbref.com/en/matches/28a47f81/Elfsborg-Trelleborg-May-27-2018-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018
 2018-07-03,Sirius,Sundsvall,1,3,NA,NA,2602,Glenn Nyberg,https://fbref.com/en/matches/2b0f3849/Sirius-Sundsvall-July-3-2018-Allsvenskan,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2018
 2018-07-07,Sirius,Malmö,0,4,NA,NA,1823,Stefan Johannesson,https://fbref.com/en/matches/ec63200a/Sirius-Malmo-July-7-2018-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018
-2018-07-07,Dalkurd,Brommapojkarna,3,0,NA,NA,211,Patrik Eriksson,https://fbref.com/en/matches/88327ede/Dalkurd-Brommapojkarna-July-7-2018-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018
 2018-07-07,Trelleborg,AIK Stockholm,1,4,NA,NA,2682,Mohammed Al Hakim,https://fbref.com/en/matches/4fb10e9f/Trelleborg-AIK-Stockholm-July-7-2018-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018
+2018-07-07,Dalkurd,Brommapojkarna,3,0,NA,NA,211,Patrik Eriksson,https://fbref.com/en/matches/88327ede/Dalkurd-Brommapojkarna-July-7-2018-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018
 2018-07-07,Häcken,Sundsvall,3,0,NA,NA,1017,Martin Strömbergsson,https://fbref.com/en/matches/cc5addf6/Hacken-Sundsvall-July-7-2018-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018
 2018-07-08,Göteborg,Kalmar,1,3,NA,NA,7298,Kristoffer Karlsson,https://fbref.com/en/matches/9c6e5a52/Goteborg-Kalmar-July-8-2018-Allsvenskan,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018
 2018-07-08,Örebro,Elfsborg,1,2,NA,NA,5084,Magnus Lindgren,https://fbref.com/en/matches/55f5875a/Orebro-Elfsborg-July-8-2018-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018
@@ -234,8 +234,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2018-11-11,Örebro,Göteborg,1,3,NA,NA,4129,Johan Hamlin,https://fbref.com/en/matches/828af3eb/Orebro-Goteborg-November-11-2018-Allsvenskan,0,0,1,1,NA,NA,NA,NA,NA,1,1,2,0,NA,NA,NA,NA,NA,2018
 2018-11-11,Sundsvall,Dalkurd,0,1,NA,NA,4632,Kaspar Sjöberg,https://fbref.com/en/matches/0894b2bf/Sundsvall-Dalkurd-November-11-2018-Allsvenskan,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018
 2018-11-11,Häcken,Norrköping,0,1,NA,NA,6207,Martin Strömbergsson,https://fbref.com/en/matches/c1b6838d/Hacken-Norrkoping-November-11-2018-Allsvenskan,0,0,4,2,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018
-2018-11-11,Djurgården,Sirius,1,0,NA,NA,11106,Adam Ladebäck,https://fbref.com/en/matches/a86a8205/Djurgarden-Sirius-November-11-2018-Allsvenskan,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018
 2018-11-11,Kalmar,AIK Stockholm,0,1,NA,NA,11991,Kristoffer Karlsson,https://fbref.com/en/matches/0d2de4bc/Kalmar-AIK-Stockholm-November-11-2018-Allsvenskan,0,0,3,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018
+2018-11-11,Djurgården,Sirius,1,0,NA,NA,11106,Adam Ladebäck,https://fbref.com/en/matches/a86a8205/Djurgarden-Sirius-November-11-2018-Allsvenskan,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018
 2018-11-11,Malmö,Elfsborg,2,0,NA,NA,13091,Magnus Lindgren,https://fbref.com/en/matches/2c07b2d2/Malmo-Elfsborg-November-11-2018-Allsvenskan,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018
 2018-11-11,Brommapojkarna,Trelleborg,3,0,NA,NA,4702,Mohammed Al Hakim,https://fbref.com/en/matches/3a77ecf1/Brommapojkarna-Trelleborg-November-11-2018-Allsvenskan,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018
 2018-11-11,Östersund,Hammarby,3,3,NA,NA,6183,Glenn Nyberg,https://fbref.com/en/matches/c78d57dd/Ostersund-Hammarby-November-11-2018-Allsvenskan,0,0,1,0,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2018

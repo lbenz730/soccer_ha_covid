@@ -155,8 +155,10 @@ get_match_stats <- function(game_html) {
       names(home_df) <- paste0("home_", names(home_df))
       names(away_df) <- paste0("away_", names(away_df))
       
+    } else {
+      home_df <- NULL
+      away_df <- NULL
     }
-    
   } else {
     home_df <- NULL
     away_df <- NULL
@@ -170,7 +172,7 @@ get_match_stats <- function(game_html) {
 
 ### Scrape Data
 league_info <- read_csv("league_info.csv")
-for(i in 9:nrow(league_info)) {
+for(i in 16:nrow(league_info)) {
   base_url <- league_info$fbref_url[i]
   league_id <- league_info$fbref_league_id[i]
   league <- gsub("https://fbref.com/en/comps/\\d+/history/", "", gsub("-Seasons", "", base_url))
@@ -195,5 +197,4 @@ for(i in 9:nrow(league_info)) {
       mutate("season" = years[j])
     write_csv(df_stats, paste0("fbref_data/", gsub("\\s", "_", tolower(league_info$alias[i])), "/", years[j], ".csv"))
   }
-  
 }

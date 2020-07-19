@@ -219,17 +219,26 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2020-07-06,Larissa,Panionios,0,0,NA,NA,5,Praxiteles Zachariadis,https://fbref.com/en/matches/e5193590/Larissa-Panionios-July-6-2020-Super-League-Greece,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2019-2020
 2020-07-06,PAS Lamia,Xanthi,0,0,NA,NA,5,Evangelos Manouhos,https://fbref.com/en/matches/caa440d6/PAS-Lamia-Xanthi-July-6-2020-Super-League-Greece,0,0,4,1,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2019-2020
 2020-07-06,Atromitos,Panetolikos,2,2,NA,NA,5,Vassilis Fotias,https://fbref.com/en/matches/a3057f6b/Atromitos-Panetolikos-July-6-2020-Super-League-Greece,1,1,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2019-2020
-2020-07-08,Aris,Olympiacos,NA,NA,NA,NA,7,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-08,PAOK,Panathinaikos,NA,NA,NA,NA,7,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-08,AEK Athens,OFI Crete,NA,NA,NA,NA,7,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-11,Volos NFC,Atromitos,NA,NA,NA,NA,6,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-11,Panionios,Panetolikos,NA,NA,NA,NA,6,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-11,PAS Lamia,Larissa,NA,NA,NA,NA,6,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-11,Xanthi,Asteras Tripoli,NA,NA,NA,NA,6,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-08,Aris,Olympiacos,2,4,NA,NA,7,Aristomenis Koutsiaftis,https://fbref.com/en/matches/666b42c3/Aris-Olympiacos-July-8-2020-Super-League-Greece,0,0,1,0,NA,NA,NA,NA,NA,1,1,2,0,NA,NA,NA,NA,NA,2019-2020
+2020-07-08,PAOK,Panathinaikos,0,0,NA,NA,7,Damir Skomina,https://fbref.com/en/matches/b5396cd4/PAOK-Panathinaikos-July-8-2020-Super-League-Greece,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2019-2020
+2020-07-08,AEK Athens,OFI Crete,2,0,NA,NA,7,Anastasios Sidiropoulos,https://fbref.com/en/matches/2e33a24a/AEK-Athens-OFI-Crete-July-8-2020-Super-League-Greece,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2019-2020
+2020-07-11,Volos NFC,Atromitos,2,3,NA,NA,6,Giorgos Tassis,https://fbref.com/en/matches/7308f198/Volos-NFC-Atromitos-July-11-2020-Super-League-Greece,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2019-2020
+2020-07-11,Panionios,Panetolikos,0,2,NA,NA,6,Angelos Evangelo u,https://fbref.com/en/matches/8c1d42bd/Panionios-Panetolikos-July-11-2020-Super-League-Greece,0,0,1,0,NA,NA,NA,NA,NA,1,1,5,0,NA,NA,NA,NA,NA,2019-2020
+2020-07-11,PAS Lamia,Larissa,0,0,NA,NA,6,Athanasios Sezos,https://fbref.com/en/matches/f9fd2a35/PAS-Lamia-Larissa-July-11-2020-Super-League-Greece,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2019-2020
+2020-07-11,Xanthi,Asteras Tripoli,1,2,NA,NA,6,Athanasios Tzilos,https://fbref.com/en/matches/067ba7fa/Xanthi-Asteras-Tripoli-July-11-2020-Super-League-Greece,0,0,4,0,NA,NA,NA,NA,NA,1,1,5,0,NA,NA,NA,NA,NA,2019-2020
+2020-07-11,OFI Crete,Aris,0,1,NA,NA,8,Petros Tsagarakis,https://fbref.com/en/matches/bde617fb/OFI-Crete-Aris-July-11-2020-Super-League-Greece,0,1,6,1,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2019-2020
+2020-07-12,Panathinaikos,AEK Athens,1,3,NA,NA,8,Aristotelis Diamantopoulos,https://fbref.com/en/matches/4d8f5d98/Panathinaikos-AEK-Athens-July-12-2020-Super-League-Greece,0,0,2,0,NA,NA,NA,NA,NA,1,1,2,0,NA,NA,NA,NA,NA,2019-2020
+2020-07-12,Olympiacos,PAOK,0,1,NA,NA,8,Evangelos Manouhos,https://fbref.com/en/matches/926e65d7/Olympiacos-PAOK-July-12-2020-Super-League-Greece,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2019-2020
+2020-07-15,OFI Crete,Olympiacos,1,3,NA,NA,9,Aristidis Vatsios,https://fbref.com/en/matches/e1cbad56/OFI-Crete-Olympiacos-July-15-2020-Super-League-Greece,0,0,3,0,NA,NA,NA,NA,NA,1,1,1,0,NA,NA,NA,NA,NA,2019-2020
+2020-07-15,Aris,Panathinaikos,0,1,NA,NA,9,Giorgos Vreskas,https://fbref.com/en/matches/862916bd/Aris-Panathinaikos-July-15-2020-Super-League-Greece,0,1,5,1,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2019-2020
+2020-07-15,AEK Athens,PAOK,0,0,NA,NA,9,Danny Makkelie,https://fbref.com/en/matches/08f26a76/AEK-Athens-PAOK-July-15-2020-Super-League-Greece,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2019-2020
 2020-07-18,Panetolikos,Volos NFC,NA,NA,NA,NA,7,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
 2020-07-18,Asteras Tripoli,PAS Lamia,NA,NA,NA,NA,7,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
 2020-07-18,Larissa,Xanthi,NA,NA,NA,NA,7,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
 2020-07-18,Atromitos,Panionios,NA,NA,NA,NA,7,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-19,Olympiacos,AEK Athens,NA,NA,NA,NA,10,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-19,Panathinaikos,OFI Crete,NA,NA,NA,NA,10,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-19,PAOK,Aris,NA,NA,NA,NA,10,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
 2020-06-06,Aris,OFI Crete,3,1,NA,NA,0,Aristotelis Diamantopoulos,https://fbref.com/en/matches/e2bfd9b6/Aris-OFI-Crete-June-6-2020-Super-League-Greece,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2019-2020
 2020-06-07,PAOK,Olympiacos,0,1,NA,NA,0,Anastasios Papapetrou,https://fbref.com/en/matches/a9719b21/PAOK-Olympiacos-June-7-2020-Super-League-Greece,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2019-2020
 2020-06-07,AEK Athens,Panathinaikos,1,1,NA,NA,0,Athanasios Tzilos,https://fbref.com/en/matches/52af33aa/AEK-Athens-Panathinaikos-June-7-2020-Super-League-Greece,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2019-2020
@@ -248,9 +257,18 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2020-07-04,OFI Crete,PAOK,2,2,NA,NA,0,Stefanos Koubarakis,https://fbref.com/en/matches/9c566532/OFI-Crete-PAOK-July-4-2020-Super-League-Greece,0,0,7,1,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2019-2020
 2020-07-05,Aris,AEK Athens,1,4,NA,NA,0,Aliaksei Kulbakou,https://fbref.com/en/matches/a07dbf84/Aris-AEK-Athens-July-5-2020-Super-League-Greece,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2019-2020
 2020-07-05,Panathinaikos,Olympiacos,0,0,NA,NA,0,Georgios Kominis,https://fbref.com/en/matches/67cace4d/Panathinaikos-Olympiacos-July-5-2020-Super-League-Greece,0,0,3,0,NA,NA,NA,NA,NA,0,1,6,0,NA,NA,NA,NA,NA,2019-2020
-2020-07-08,Aris,Olympiacos,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-08,PAOK,Panathinaikos,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-08,AEK Athens,OFI Crete,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-08,Aris,Olympiacos,2,4,NA,NA,0,Aristomenis Koutsiaftis,https://fbref.com/en/matches/666b42c3/Aris-Olympiacos-July-8-2020-Super-League-Greece,0,0,1,0,NA,NA,NA,NA,NA,1,1,2,0,NA,NA,NA,NA,NA,2019-2020
+2020-07-08,PAOK,Panathinaikos,0,0,NA,NA,0,Damir Skomina,https://fbref.com/en/matches/b5396cd4/PAOK-Panathinaikos-July-8-2020-Super-League-Greece,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2019-2020
+2020-07-08,AEK Athens,OFI Crete,2,0,NA,NA,0,Anastasios Sidiropoulos,https://fbref.com/en/matches/2e33a24a/AEK-Athens-OFI-Crete-July-8-2020-Super-League-Greece,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2019-2020
+2020-07-11,OFI Crete,Aris,0,1,NA,NA,0,Petros Tsagarakis,https://fbref.com/en/matches/bde617fb/OFI-Crete-Aris-July-11-2020-Super-League-Greece,0,1,6,1,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2019-2020
+2020-07-12,Panathinaikos,AEK Athens,1,3,NA,NA,0,Aristotelis Diamantopoulos,https://fbref.com/en/matches/4d8f5d98/Panathinaikos-AEK-Athens-July-12-2020-Super-League-Greece,0,0,2,0,NA,NA,NA,NA,NA,1,1,2,0,NA,NA,NA,NA,NA,2019-2020
+2020-07-12,Olympiacos,PAOK,0,1,NA,NA,0,Evangelos Manouhos,https://fbref.com/en/matches/926e65d7/Olympiacos-PAOK-July-12-2020-Super-League-Greece,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2019-2020
+2020-07-15,OFI Crete,Olympiacos,1,3,NA,NA,0,Aristidis Vatsios,https://fbref.com/en/matches/e1cbad56/OFI-Crete-Olympiacos-July-15-2020-Super-League-Greece,0,0,3,0,NA,NA,NA,NA,NA,1,1,1,0,NA,NA,NA,NA,NA,2019-2020
+2020-07-15,Aris,Panathinaikos,0,1,NA,NA,0,Giorgos Vreskas,https://fbref.com/en/matches/862916bd/Aris-Panathinaikos-July-15-2020-Super-League-Greece,0,1,5,1,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2019-2020
+2020-07-15,AEK Athens,PAOK,0,0,NA,NA,0,Danny Makkelie,https://fbref.com/en/matches/08f26a76/AEK-Athens-PAOK-July-15-2020-Super-League-Greece,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2019-2020
+2020-07-19,Olympiacos,AEK Athens,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-19,Panathinaikos,OFI Crete,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-19,PAOK,Aris,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
 2020-06-06,Panionios,Volos NFC,1,0,NA,NA,0,Stefanos Koubarakis,https://fbref.com/en/matches/bfff9f9a/Panionios-Volos-NFC-June-6-2020-Super-League-Greece,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2019-2020
 2020-06-07,Larissa,Asteras Tripoli,1,2,NA,NA,0,Praxiteles Zachariadis,https://fbref.com/en/matches/be836e73/Larissa-Asteras-Tripoli-June-7-2020-Super-League-Greece,0,0,2,0,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2019-2020
 2020-06-08,PAS Lamia,Panetolikos,2,0,NA,NA,0,Giorgos Vreskas,https://fbref.com/en/matches/a96950db/PAS-Lamia-Panetolikos-June-8-2020-Super-League-Greece,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2019-2020
@@ -271,10 +289,10 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2020-07-06,PAS Lamia,Xanthi,0,0,NA,NA,0,Evangelos Manouhos,https://fbref.com/en/matches/caa440d6/PAS-Lamia-Xanthi-July-6-2020-Super-League-Greece,0,0,4,1,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2019-2020
 2020-07-06,Larissa,Panionios,0,0,NA,NA,0,Praxiteles Zachariadis,https://fbref.com/en/matches/e5193590/Larissa-Panionios-July-6-2020-Super-League-Greece,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2019-2020
 2020-07-06,Atromitos,Panetolikos,2,2,NA,NA,0,Vassilis Fotias,https://fbref.com/en/matches/a3057f6b/Atromitos-Panetolikos-July-6-2020-Super-League-Greece,1,1,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2019-2020
-2020-07-11,PAS Lamia,Larissa,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-11,Xanthi,Asteras Tripoli,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-11,Volos NFC,Atromitos,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-11,Panionios,Panetolikos,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-11,PAS Lamia,Larissa,0,0,NA,NA,0,Athanasios Sezos,https://fbref.com/en/matches/f9fd2a35/PAS-Lamia-Larissa-July-11-2020-Super-League-Greece,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2019-2020
+2020-07-11,Xanthi,Asteras Tripoli,1,2,NA,NA,0,Athanasios Tzilos,https://fbref.com/en/matches/067ba7fa/Xanthi-Asteras-Tripoli-July-11-2020-Super-League-Greece,0,0,4,0,NA,NA,NA,NA,NA,1,1,5,0,NA,NA,NA,NA,NA,2019-2020
+2020-07-11,Volos NFC,Atromitos,2,3,NA,NA,0,Giorgos Tassis,https://fbref.com/en/matches/7308f198/Volos-NFC-Atromitos-July-11-2020-Super-League-Greece,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2019-2020
+2020-07-11,Panionios,Panetolikos,0,2,NA,NA,0,Angelos Evangelo u,https://fbref.com/en/matches/8c1d42bd/Panionios-Panetolikos-July-11-2020-Super-League-Greece,0,0,1,0,NA,NA,NA,NA,NA,1,1,5,0,NA,NA,NA,NA,NA,2019-2020
 2020-07-18,Panetolikos,Volos NFC,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
 2020-07-18,Asteras Tripoli,PAS Lamia,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
 2020-07-18,Larissa,Xanthi,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020

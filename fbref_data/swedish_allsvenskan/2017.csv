@@ -11,8 +11,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-04-09,Östersund,Norrköping,1,0,NA,NA,4644,Stefan Johannesson,https://fbref.com/en/matches/9c91d75e/Ostersund-Norrkoping-April-9-2017-Allsvenskan,0,1,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
 2017-04-09,Hammarby,Kalmar,1,1,NA,NA,30671,Kaspar Sjöberg,https://fbref.com/en/matches/542c5f9a/Hammarby-Kalmar-April-9-2017-Allsvenskan,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
 2017-04-09,Sirius,Göteborg,0,2,NA,NA,7248,Andreas Ekberg,https://fbref.com/en/matches/7592010e/Sirius-Goteborg-April-9-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
-2017-04-09,Jönköping,Halmstad,2,2,NA,NA,4214,Magnus Lindgren,https://fbref.com/en/matches/bccaf4ef/Jonkopings-Sodra-Halmstad-April-9-2017-Allsvenskan,0,1,3,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2017
 2017-04-09,Häcken,Djurgården,0,0,NA,NA,5541,Markus Strömbergsson,https://fbref.com/en/matches/f6719e99/Hacken-Djurgarden-April-9-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2017
+2017-04-09,Jönköping,Halmstad,2,2,NA,NA,4214,Magnus Lindgren,https://fbref.com/en/matches/bccaf4ef/Jonkopings-Sodra-Halmstad-April-9-2017-Allsvenskan,0,1,3,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2017
 2017-04-10,Elfsborg,AIK Stockholm,1,2,NA,NA,9335,Johan Hamlin,https://fbref.com/en/matches/abcd241a/Elfsborg-AIK-Stockholm-April-10-2017-Allsvenskan,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
 2017-04-11,Malmö,Sundsvall,2,0,NA,NA,18378,Patrik Eriksson,https://fbref.com/en/matches/213c55fc/Malmo-Sundsvall-April-11-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
 2017-04-16,Halmstad,Malmö,0,3,NA,NA,8297,Glenn Nyberg,https://fbref.com/en/matches/d4205768/Halmstad-Malmo-April-16-2017-Allsvenskan,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017
@@ -35,8 +35,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-04-26,Göteborg,Hammarby,1,1,NA,NA,12149,Stefan Johannesson,https://fbref.com/en/matches/29c6be68/Goteborg-Hammarby-April-26-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
 2017-04-26,AFC Eskilstuna,Östersund,1,3,NA,NA,1840,Magnus Lindgren,https://fbref.com/en/matches/6e760946/AFC-Eskilstuna-Ostersund-April-26-2017-Allsvenskan,0,0,2,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
 2017-04-26,Sundsvall,Elfsborg,1,1,NA,NA,3031,Kaspar Sjöberg,https://fbref.com/en/matches/cbfdc6ac/Sundsvall-Elfsborg-April-26-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
-2017-04-27,AIK Stockholm,Sirius,1,0,NA,NA,13517,Mohammed Al Hakim,https://fbref.com/en/matches/4f0f2f89/AIK-Stockholm-Sirius-April-27-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
 2017-04-27,Halmstad,Djurgården,0,1,NA,NA,4690,Johan Hamlin,https://fbref.com/en/matches/b44956f1/Halmstad-Djurgarden-April-27-2017-Allsvenskan,0,0,4,0,0,0,0,0,0,1,1,4,0,0,0,0,0,0,2017
+2017-04-27,AIK Stockholm,Sirius,1,0,NA,NA,13517,Mohammed Al Hakim,https://fbref.com/en/matches/4f0f2f89/AIK-Stockholm-Sirius-April-27-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
 2017-04-27,Kalmar,Malmö,0,0,NA,NA,5887,Bojan Pandzic,https://fbref.com/en/matches/f9e75fc4/Kalmar-Malmo-April-27-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017
 2017-04-27,Norrköping,Jönköping,3,0,NA,NA,6214,Jonas Eriksson,https://fbref.com/en/matches/326a0d8e/Norrkoping-Jonkopings-Sodra-April-27-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
 2017-04-29,Hammarby,AFC Eskilstuna,4,0,NA,NA,20741,Kaspar Sjöberg,https://fbref.com/en/matches/91d4b955/Hammarby-AFC-Eskilstuna-April-29-2017-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2017
@@ -235,7 +235,7 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-11-05,Örebro,AIK Stockholm,1,2,NA,NA,6572,Jonas Eriksson,https://fbref.com/en/matches/157cafb7/Orebro-AIK-Stockholm-November-5-2017-Allsvenskan,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
 2017-11-05,Hammarby,Halmstad,1,3,NA,NA,20070,Johan Hamlin,https://fbref.com/en/matches/086eb00b/Hammarby-Halmstad-November-5-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
 2017-11-05,Kalmar,Djurgården,0,2,NA,NA,8241,Andreas Ekberg,https://fbref.com/en/matches/0c5e3570/Kalmar-Djurgarden-November-5-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
-2017-11-05,Göteborg,Sundsvall,0,3,NA,NA,6769,Stefan Johannesson,https://fbref.com/en/matches/94339899/Goteborg-Sundsvall-November-5-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
 2017-11-05,Jönköping,Östersund,0,0,NA,NA,4885,Glenn Nyberg,https://fbref.com/en/matches/2f42bc7d/Jonkopings-Sodra-Ostersund-November-5-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
-2017-11-05,AFC Eskilstuna,Sirius,1,3,NA,NA,887,Bojan Pandzic,https://fbref.com/en/matches/4b5044f1/AFC-Eskilstuna-Sirius-November-5-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,2017
+2017-11-05,Göteborg,Sundsvall,0,3,NA,NA,6769,Stefan Johannesson,https://fbref.com/en/matches/94339899/Goteborg-Sundsvall-November-5-2017-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017
 2017-11-05,Elfsborg,Norrköping,3,3,NA,NA,6516,Kristoffer Karlsson,https://fbref.com/en/matches/3087d6f6/Elfsborg-Norrkoping-November-5-2017-Allsvenskan,1,1,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017
+2017-11-05,AFC Eskilstuna,Sirius,1,3,NA,NA,887,Bojan Pandzic,https://fbref.com/en/matches/4b5044f1/AFC-Eskilstuna-Sirius-November-5-2017-Allsvenskan,0,0,1,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,2017

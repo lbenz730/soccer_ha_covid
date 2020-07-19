@@ -12,7 +12,7 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-08-07,Orenburg,CSKA Moscow,0,1,NA,NA,5600,Aleksandr Egorov,https://fbref.com/en/matches/0e8adb86/Orenburg-CSKA-Moscow-August-7-2016-Russian-Premier-League,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
 2016-08-07,Amkar Perm,Anzhi,2,0,NA,NA,8800,Vladislav Bezborodov,https://fbref.com/en/matches/f6dea571/Amkar-Perm-Anzhi-Makhachkala-August-7-2016-Russian-Premier-League,0,1,2,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2016-2017
 2016-08-07,Loko Moscow,Tom Tomsk,2,2,NA,NA,8103,Sergey Ivanov,https://fbref.com/en/matches/a10e7faa/Lokomotiv-Moscow-Tom-Tomsk-August-7-2016-Russian-Premier-League,2,2,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
-2016-08-07,Rostov,Ural,0,0,NA,NA,8494,Igor Fedotov,https://fbref.com/en/matches/c941cef2/Rostov-Ural-Yekaterinburg-August-7-2016-Russian-Premier-League,0,0,2,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2016-08-07,Rostov,Ural,0,0,NA,NA,8494,Igor Fedotov,https://fbref.com/en/matches/c941cef2/Rostov-Ural-Yekaterinburg-August-7-2016-Russian-Premier-League,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016-2017
 2016-08-08,Spartak Moscow,Samara,1,0,NA,NA,17449,Mikhail Vilkov,https://fbref.com/en/matches/d80ceccb/Spartak-Moscow-Krylia-Sovetov-Samara-August-8-2016-Russian-Premier-League,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
 2016-08-08,Krasnodar,Terek Grozny,4,0,NA,NA,7930,Vladimir Seldyakov,https://fbref.com/en/matches/c8b15af7/Krasnodar-Terek-Grozny-August-8-2016-Russian-Premier-League,0,1,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2016-08-12,Zenit,Rostov,3,2,NA,NA,17967,Vladimir Moskalev,https://fbref.com/en/matches/233ec6f6/Zenit-Rostov-August-12-2016-Russian-Premier-League,1,1,5,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2016-2017
@@ -53,7 +53,7 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-09-17,Terek Grozny,Amkar Perm,1,3,NA,NA,14735,Alexey Nikolaev,https://fbref.com/en/matches/a5b9bcb6/Terek-Grozny-Amkar-Perm-September-17-2016-Russian-Premier-League,0,0,3,0,0,0,0,0,0,1,1,4,0,0,0,0,0,0,2016-2017
 2016-09-17,Loko Moscow,Ufa,0,1,NA,NA,9714,Vitaly Meshkov,https://fbref.com/en/matches/311f9124/Lokomotiv-Moscow-Ufa-September-17-2016-Russian-Premier-League,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
 2016-09-18,Samara,CSKA Moscow,1,2,NA,NA,11083,Vladislav Bezborodov,https://fbref.com/en/matches/1e4df3be/Krylia-Sovetov-Samara-CSKA-Moscow-September-18-2016-Russian-Premier-League,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
-2016-09-18,Krasnodar,Rostov,2,1,NA,NA,6425,Aleksey Eskov,https://fbref.com/en/matches/0dd92b6e/Krasnodar-Rostov-September-18-2016-Russian-Premier-League,1,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2016-09-18,Krasnodar,Rostov,2,1,NA,NA,6425,Aleksey Eskov,https://fbref.com/en/matches/0dd92b6e/Krasnodar-Rostov-September-18-2016-Russian-Premier-League,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016-2017
 2016-09-19,Zenit,Rubin Kazan,4,1,NA,NA,17008,Aleksey Matyunin,https://fbref.com/en/matches/97c5303b/Zenit-Rubin-Kazan-September-19-2016-Russian-Premier-League,1,1,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2016-09-24,CSKA Moscow,Krasnodar,1,1,NA,NA,14080,Sergey Ivanov,https://fbref.com/en/matches/9013a4f2/CSKA-Moscow-Krasnodar-September-24-2016-Russian-Premier-League,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
 2016-09-24,Rostov,Loko Moscow,1,0,NA,NA,12777,Kirill Levnikov,https://fbref.com/en/matches/007e9486/Rostov-Lokomotiv-Moscow-September-24-2016-Russian-Premier-League,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
@@ -88,7 +88,7 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-10-23,Krasnodar,Amkar Perm,1,0,NA,NA,14900,Kirill Levnikov,https://fbref.com/en/matches/5f611d60/Krasnodar-Amkar-Perm-October-23-2016-Russian-Premier-League,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
 2016-10-24,Zenit,Orenburg,1,0,NA,NA,17685,Alexey Nikolaev,https://fbref.com/en/matches/368d1894/Zenit-Orenburg-October-24-2016-Russian-Premier-League,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2016-10-29,Amkar Perm,Rostov,1,0,NA,NA,5150,Aleksey Matyunin,https://fbref.com/en/matches/c35286dd/Amkar-Perm-Rostov-October-29-2016-Russian-Premier-League,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
-2016-10-29,Spartak Moscow,CSKA Moscow,3,1,NA,NA,44884,Alexey Nikolaev,https://fbref.com/en/matches/bf85fe37/Spartak-Moscow-CSKA-Moscow-October-29-2016-Russian-Premier-League,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
+2016-10-29,Spartak Moscow,CSKA Moscow,3,1,NA,NA,44884,Alexey Nikolaev,https://fbref.com/en/matches/bf85fe37/Spartak-Moscow-CSKA-Moscow-October-29-2016-Russian-Premier-League,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016-2017
 2016-10-30,Ural,Terek Grozny,1,4,NA,NA,3050,Aleksey Eskov,https://fbref.com/en/matches/cbcfaf9f/Ural-Yekaterinburg-Terek-Grozny-October-30-2016-Russian-Premier-League,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
 2016-10-30,Arsenal Tula,Ufa,0,2,NA,NA,5000,Aleksandr Egorov,https://fbref.com/en/matches/07235e55/Arsenal-Tula-Ufa-October-30-2016-Russian-Premier-League,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
 2016-10-30,Zenit,Tom Tomsk,1,0,NA,NA,17000,Vitaly Meshkov,https://fbref.com/en/matches/74d2f2ae/Zenit-Tom-Tomsk-October-30-2016-Russian-Premier-League,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
@@ -122,7 +122,7 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-11-30,Ural,Rostov,1,0,NA,NA,2340,Aleksey Eskov,https://fbref.com/en/matches/a598bc92/Ural-Yekaterinburg-Rostov-November-30-2016-Russian-Premier-League,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2016-11-30,Rubin Kazan,Arsenal Tula,1,0,NA,NA,3289,Vladimir Moskalev,https://fbref.com/en/matches/91f0a12a/Rubin-Kazan-Arsenal-Tula-November-30-2016-Russian-Premier-League,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
 2016-11-30,Zenit,Ufa,2,0,NA,NA,15813,Mikhail Vilkov,https://fbref.com/en/matches/b01d54cf/Zenit-Ufa-November-30-2016-Russian-Premier-League,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
-2016-11-30,CSKA Moscow,Orenburg,2,0,NA,NA,5000,,https://fbref.com/en/matches/a70f7855/CSKA-Moscow-Orenburg-November-30-2016-Russian-Premier-League,1,1,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2016-2017
+2016-11-30,CSKA Moscow,Orenburg,2,0,NA,NA,5000,,https://fbref.com/en/matches/a70f7855/CSKA-Moscow-Orenburg-November-30-2016-Russian-Premier-League,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016-2017
 2016-12-01,Terek Grozny,Krasnodar,2,1,NA,NA,15235,Igor Fedotov,https://fbref.com/en/matches/48600f71/Terek-Grozny-Krasnodar-December-1-2016-Russian-Premier-League,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
 2016-12-01,Samara,Spartak Moscow,4,0,NA,NA,7370,Kirill Levnikov,https://fbref.com/en/matches/9cf09208/Krylia-Sovetov-Samara-Spartak-Moscow-December-1-2016-Russian-Premier-League,1,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2016-12-01,Tom Tomsk,Loko Moscow,1,6,NA,NA,5218,Roman,https://fbref.com/en/matches/5b65cddc/Tom-Tomsk-Lokomotiv-Moscow-December-1-2016-Russian-Premier-League,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
@@ -156,7 +156,7 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-03-18,Ural,Rubin Kazan,1,0,NA,NA,4813,Vitaly Meshkov,https://fbref.com/en/matches/6db29f07/Ural-Yekaterinburg-Rubin-Kazan-March-18-2017-Russian-Premier-League,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
 2017-03-18,Loko Moscow,Spartak Moscow,1,1,NA,NA,27402,,https://fbref.com/en/matches/ab9cf768/Lokomotiv-Moscow-Spartak-Moscow-March-18-2017-Russian-Premier-League,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2017-03-19,Samara,Rostov,0,0,NA,NA,6572,Aleksandr Egorov,https://fbref.com/en/matches/8b9a2f94/Krylia-Sovetov-Samara-Rostov-March-19-2017-Russian-Premier-League,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
-2017-03-19,Terek Grozny,CSKA Moscow,0,1,NA,NA,18656,Sergey Ivanov,https://fbref.com/en/matches/27ead4d4/Terek-Grozny-CSKA-Moscow-March-19-2017-Russian-Premier-League,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-03-19,Terek Grozny,CSKA Moscow,0,1,NA,NA,18656,Sergey Ivanov,https://fbref.com/en/matches/27ead4d4/Terek-Grozny-CSKA-Moscow-March-19-2017-Russian-Premier-League,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016-2017
 2017-03-19,Krasnodar,Ufa,0,0,NA,NA,15365,Kirill Levnikov,https://fbref.com/en/matches/3fb059a9/Krasnodar-Ufa-March-19-2017-Russian-Premier-League,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
 2017-03-19,Zenit,Arsenal Tula,2,0,NA,NA,16903,Aleksey Eskov,https://fbref.com/en/matches/19ca91f6/Zenit-Arsenal-Tula-March-19-2017-Russian-Premier-League,1,1,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
 2017-03-31,Anzhi,Ural,2,3,NA,NA,3950,Sergey Ivanov,https://fbref.com/en/matches/51d27701/Anzhi-Makhachkala-Ural-Yekaterinburg-March-31-2017-Russian-Premier-League,0,0,1,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,2016-2017
@@ -192,7 +192,7 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-04-23,Samara,Rubin Kazan,0,0,NA,NA,7513,Vladimir Moskalev,https://fbref.com/en/matches/65593cb1/Krylia-Sovetov-Samara-Rubin-Kazan-April-23-2017-Russian-Premier-League,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2017-04-23,Krasnodar,Arsenal Tula,2,0,NA,NA,16214,Aleksey Matyunin,https://fbref.com/en/matches/2ac88c08/Krasnodar-Arsenal-Tula-April-23-2017-Russian-Premier-League,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2017-04-25,Rostov,Ufa,1,0,NA,NA,7834,Alexey Nikolaev,https://fbref.com/en/matches/801aa29c/Rostov-Ufa-April-25-2017-Russian-Premier-League,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
-2017-04-25,Spartak Moscow,Ural,1,0,NA,NA,30823,Vladimir Seldyakov,https://fbref.com/en/matches/ffdb9612/Spartak-Moscow-Ural-Yekaterinburg-April-25-2017-Russian-Premier-League,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-04-25,Spartak Moscow,Ural,1,0,NA,NA,30823,Vladimir Seldyakov,https://fbref.com/en/matches/ffdb9612/Spartak-Moscow-Ural-Yekaterinburg-April-25-2017-Russian-Premier-League,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016-2017
 2017-04-26,Orenburg,Zenit,0,1,NA,NA,5543,Mikhail Vilkov,https://fbref.com/en/matches/877ceb53/Orenburg-Zenit-April-26-2017-Russian-Premier-League,0,0,0,0,0,0,0,0,0,1,1,5,0,0,0,0,0,0,2016-2017
 2017-04-26,CSKA Moscow,Loko Moscow,4,0,NA,NA,16940,Sergey Karasev,https://fbref.com/en/matches/b968cd65/CSKA-Moscow-Lokomotiv-Moscow-April-26-2017-Russian-Premier-League,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
 2017-04-26,Rubin Kazan,Terek Grozny,0,1,NA,NA,15121,Evgeny Turbin,https://fbref.com/en/matches/7653cb45/Rubin-Kazan-Terek-Grozny-April-26-2017-Russian-Premier-League,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
@@ -227,7 +227,7 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-05-17,Ural,Loko Moscow,1,2,NA,NA,5570,Vladislav Bezborodov,https://fbref.com/en/matches/a8605624/Ural-Yekaterinburg-Lokomotiv-Moscow-May-17-2017-Russian-Premier-League,0,0,2,0,0,0,0,0,0,1,1,3,1,0,0,0,0,0,2016-2017
 2017-05-17,Orenburg,Ufa,1,1,NA,NA,5226,Aleksandr Egorov,https://fbref.com/en/matches/be623e3c/Orenburg-Ufa-May-17-2017-Russian-Premier-League,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2017-05-17,Arsenal Tula,Amkar Perm,0,0,NA,NA,8100,Vladimir Moskalev,https://fbref.com/en/matches/928dd21a/Arsenal-Tula-Amkar-Perm-May-17-2017-Russian-Premier-League,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
-2017-05-17,Zenit,Krasnodar,1,0,NA,NA,18098,Vladimir Seldyakov,https://fbref.com/en/matches/463ede10/Zenit-Krasnodar-May-17-2017-Russian-Premier-League,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-05-17,Zenit,Krasnodar,1,0,NA,NA,18098,Vladimir Seldyakov,https://fbref.com/en/matches/463ede10/Zenit-Krasnodar-May-17-2017-Russian-Premier-League,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016-2017
 2017-05-17,Rubin Kazan,CSKA Moscow,0,2,NA,NA,21405,Mikhail Vilkov,https://fbref.com/en/matches/f00bf535/Rubin-Kazan-CSKA-Moscow-May-17-2017-Russian-Premier-League,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
 2017-05-17,Spartak Moscow,Terek Grozny,3,0,NA,NA,43602,Kirill Levnikov,https://fbref.com/en/matches/d6e83726/Spartak-Moscow-Terek-Grozny-May-17-2017-Russian-Premier-League,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
 2017-05-17,Anzhi,Rostov,1,2,NA,NA,4500,Alexey Nikolaev,https://fbref.com/en/matches/5bdca86d/Anzhi-Makhachkala-Rostov-May-17-2017-Russian-Premier-League,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017

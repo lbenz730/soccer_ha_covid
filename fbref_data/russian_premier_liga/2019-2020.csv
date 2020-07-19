@@ -184,7 +184,7 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2020-06-21,Loko Moscow,Orenburg,1,0,NA,NA,1800,Stanislav Vasilyev,https://fbref.com/en/matches/b33fa7e7/Lokomotiv-Moscow-Orenburg-June-21-2020-Russian-Premier-League,0,1,4,1,23,6,7,13,9,0,0,9,2,10,2,6,5,20,2019-2020
 2020-06-26,Akhmat Grozny,Sochi,1,1,NA,NA,2807,Sergey Karasev,https://fbref.com/en/matches/32e826bb/Akhmat-Grozny-Sochi-June-26-2020-Russian-Premier-League,0,0,1,0,23,7,7,10,11,0,0,1,0,10,2,11,11,7,2019-2020
 2020-06-26,Zenit,Samara,2,1,NA,NA,6379,Pavel Kukuyan,https://fbref.com/en/matches/4be653e2/Zenit-Samara-June-26-2020-Russian-Premier-League,2,2,2,0,26,6,11,6,7,0,0,3,0,6,1,11,14,12,2019-2020
-2020-06-27,Orenburg,Krasnodar,NA,NA,NA,NA,NA,Sergey Lapochkin,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-06-27,Orenburg,Krasnodar,0,3,NA,NA,0,Sergey Lapochkin,https://fbref.com/en/matches/12247400/Orenburg-Krasnodar-June-27-2020-Russian-Premier-League,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
 2020-06-27,Spartak Moscow,Ufa,0,0,NA,NA,4179,Vladislav Bezborodov,https://fbref.com/en/matches/1848d72c/Spartak-Moscow-Ufa-June-27-2020-Russian-Premier-League,0,0,2,0,13,2,10,4,9,0,0,2,0,6,4,13,4,13,2019-2020
 2020-06-27,Rubin Kazan,Loko Moscow,0,2,NA,NA,4189,Nikolay Voloshin,https://fbref.com/en/matches/bb3ba355/Rubin-Kazan-Lokomotiv-Moscow-June-27-2020-Russian-Premier-League,0,0,3,0,11,2,12,8,10,1,1,4,0,11,3,10,4,13,2019-2020
 2020-06-27,Dynamo Mosc,CSKA Moscow,0,0,NA,NA,2432,Kirill Levnikov,https://fbref.com/en/matches/8f8477c7/Dynamo-Moscow-CSKA-Moscow-June-27-2020-Russian-Premier-League,0,0,2,0,11,1,6,13,10,0,0,3,1,9,3,8,13,15,2019-2020
@@ -192,7 +192,7 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2020-06-28,Ural,Tambov,2,1,NA,NA,3471,Aleksey Matyunin,https://fbref.com/en/matches/2406c0b0/Ural-Yekaterinburg-Tambov-June-28-2020-Russian-Premier-League,1,1,7,1,10,3,17,5,17,0,0,3,0,12,3,10,2,13,2019-2020
 2020-06-30,Loko Moscow,Samara,1,1,NA,NA,0,Aleksey Sukhoy,https://fbref.com/en/matches/64f40879/Lokomotiv-Moscow-Samara-June-30-2020-Russian-Premier-League,0,0,5,1,19,4,8,11,18,0,0,7,1,13,7,21,20,18,2019-2020
 2020-06-30,CSKA Moscow,Spartak Moscow,2,0,NA,NA,0,Aleksey Eskov,https://fbref.com/en/matches/30f8d6ac/CSKA-Moscow-Spartak-Moscow-June-30-2020-Russian-Premier-League,0,0,5,0,16,6,15,10,18,0,0,3,1,13,2,8,10,13,2019-2020
-2020-07-01,Orenburg,Ural,NA,NA,NA,NA,NA,Evgeny Kukulyak,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-01,Orenburg,Ural,0,3,NA,NA,0,Evgeny Kukulyak,https://fbref.com/en/matches/9fe681e4/Orenburg-Ural-Yekaterinburg-July-1-2020-Russian-Premier-League,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
 2020-07-01,Ufa,Rubin Kazan,0,0,NA,NA,0,Evgeny Turbin,https://fbref.com/en/matches/5cadcfca/Ufa-Rubin-Kazan-July-1-2020-Russian-Premier-League,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2019-2020
 2020-07-01,Tambov,Zenit,1,2,NA,NA,0,Mikhail Vilkov,https://fbref.com/en/matches/993dacaf/Tambov-Zenit-July-1-2020-Russian-Premier-League,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2019-2020
 2020-07-01,Arsenal Tula,Akhmat Grozny,1,3,NA,NA,0,Vasiliy Kazartsev,https://fbref.com/en/matches/ffdd60d4/Arsenal-Tula-Akhmat-Grozny-July-1-2020-Russian-Premier-League,0,0,2,0,0,0,0,0,0,1,1,4,0,0,0,0,0,0,2019-2020
@@ -206,29 +206,29 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2020-07-05,Ufa,Ural,1,1,NA,NA,1288,Sergey Lapochkin,https://fbref.com/en/matches/9530c1e8/Ufa-Ural-Yekaterinburg-July-5-2020-Russian-Premier-League,0,0,6,1,12,4,4,13,16,0,0,2,0,8,4,5,14,11,2019-2020
 2020-07-05,Rubin Kazan,Orenburg,1,0,NA,NA,2604,Kirill Levnikov,https://fbref.com/en/matches/d6add9da/Rubin-Kazan-Orenburg-July-5-2020-Russian-Premier-League,0,0,2,0,19,6,16,15,17,0,0,2,0,15,3,7,6,6,2019-2020
 2020-07-05,Krasnodar,Zenit,2,4,NA,NA,0,Sergey Karasev,https://fbref.com/en/matches/9a0b9171/Krasnodar-Zenit-July-5-2020-Russian-Premier-League,0,1,5,0,25,11,7,13,11,1,1,3,0,14,5,3,11,15,2019-2020
-2020-07-07,Tambov,Akhmat Grozny,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-07,Arsenal Tula,Samara,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-08,Orenburg,CSKA Moscow,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-08,Zenit,Sochi,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-08,Rostov,Ufa,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-08,Spartak Moscow,Loko Moscow,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-09,Ural,Dynamo Mosc,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-09,Rubin Kazan,Krasnodar,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-11,Arsenal Tula,Tambov,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-11,Akhmat Grozny,Zenit,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-11,Sochi,Spartak Moscow,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-12,Orenburg,Rostov,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-12,Loko Moscow,Ufa,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-12,Dynamo Mosc,Samara,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-12,CSKA Moscow,Rubin Kazan,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-12,Krasnodar,Ural,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-15,Samara,Krasnodar,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-15,Ural,Arsenal Tula,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-15,Spartak Moscow,Akhmat Grozny,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-15,Rubin Kazan,Rostov,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-15,Zenit,Orenburg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-15,Loko Moscow,CSKA Moscow,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-16,Ufa,Dynamo Mosc,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-07,Tambov,Akhmat Grozny,1,2,NA,NA,0,Sergey Ivanov,https://fbref.com/en/matches/2a14327b/Tambov-Akhmat-Grozny-July-7-2020-Russian-Premier-League,1,1,3,0,7,2,4,12,10,1,1,5,0,8,3,10,13,10,2019-2020
+2020-07-07,Arsenal Tula,Samara,2,4,NA,NA,0,Mikhail Vilkov,https://fbref.com/en/matches/1aaccaa9/Arsenal-Tula-Samara-July-7-2020-Russian-Premier-League,0,0,3,0,11,3,12,10,12,0,0,5,0,19,6,14,16,11,2019-2020
+2020-07-08,Zenit,Sochi,2,1,NA,NA,0,Evgeny Turbin,https://fbref.com/en/matches/1bd6f3e5/Zenit-Sochi-July-8-2020-Russian-Premier-League,0,0,2,0,10,3,6,11,17,0,0,3,0,18,5,9,17,9,2019-2020
+2020-07-08,Orenburg,CSKA Moscow,0,4,NA,NA,0,Aleksey Sukhoy,https://fbref.com/en/matches/af4e1259/Orenburg-CSKA-Moscow-July-8-2020-Russian-Premier-League,0,0,4,0,9,3,9,10,11,0,0,2,0,19,10,5,14,11,2019-2020
+2020-07-08,Rostov,Ufa,1,2,NA,NA,4541,Aleksey Eskov,https://fbref.com/en/matches/229dbdb2/Rostov-Ufa-July-8-2020-Russian-Premier-League,0,0,6,0,17,5,7,6,13,1,1,2,0,14,6,3,9,11,2019-2020
+2020-07-08,Spartak Moscow,Loko Moscow,1,1,NA,NA,3754,Sergey Lapochkin,https://fbref.com/en/matches/dcd463c1/Spartak-Moscow-Lokomotiv-Moscow-July-8-2020-Russian-Premier-League,0,0,3,0,11,5,13,13,9,1,1,3,0,14,1,12,16,11,2019-2020
+2020-07-09,Ural,Dynamo Mosc,2,1,NA,NA,0,Vladimir Moskalev,https://fbref.com/en/matches/da1d3050/Ural-Yekaterinburg-Dynamo-Moscow-July-9-2020-Russian-Premier-League,0,0,3,0,17,7,7,8,12,0,0,3,0,14,4,8,16,11,2019-2020
+2020-07-09,Rubin Kazan,Krasnodar,1,0,NA,NA,0,Stanislav Vasilyev,https://fbref.com/en/matches/30e4a41b/Rubin-Kazan-Krasnodar-July-9-2020-Russian-Premier-League,0,0,1,0,14,7,8,9,12,0,0,5,0,20,7,11,3,12,2019-2020
+2020-07-11,Arsenal Tula,Tambov,2,1,NA,NA,0,Pavel Kukuyan,https://fbref.com/en/matches/532fd5f1/Arsenal-Tula-Tambov-July-11-2020-Russian-Premier-League,1,1,2,0,8,2,9,2,14,0,0,1,0,7,3,12,7,7,2019-2020
+2020-07-11,Akhmat Grozny,Zenit,1,1,NA,NA,0,Mikhail Vilkov,https://fbref.com/en/matches/99a3552a/Akhmat-Grozny-Zenit-July-11-2020-Russian-Premier-League,0,0,1,0,15,4,3,5,9,0,0,2,1,9,3,12,5,11,2019-2020
+2020-07-11,Sochi,Spartak Moscow,1,0,NA,NA,0,Sergey Ivanov,https://fbref.com/en/matches/e918a682/Sochi-Spartak-Moscow-July-11-2020-Russian-Premier-League,0,0,5,0,2,1,16,12,13,0,0,4,0,15,3,9,5,11,2019-2020
+2020-07-12,Loko Moscow,Ufa,1,1,NA,NA,0,Vladislav Bezborodov,https://fbref.com/en/matches/d9f0d638/Lokomotiv-Moscow-Ufa-July-12-2020-Russian-Premier-League,0,0,3,0,22,7,9,4,13,1,1,3,0,11,6,9,9,11,2019-2020
+2020-07-12,Dynamo Mosc,Samara,2,0,NA,NA,0,Sergey Karasev,https://fbref.com/en/matches/9c5b2a8e/Dynamo-Moscow-Samara-July-12-2020-Russian-Premier-League,2,2,4,1,2,2,0,0,0,0,0,5,0,0,0,0,0,0,2019-2020
+2020-07-12,CSKA Moscow,Rubin Kazan,1,1,NA,NA,0,Aleksey Matyunin,https://fbref.com/en/matches/14860c1b/CSKA-Moscow-Rubin-Kazan-July-12-2020-Russian-Premier-League,0,0,6,0,19,5,9,14,11,1,1,4,0,13,6,12,10,7,2019-2020
+2020-07-12,Orenburg,Rostov,0,0,NA,NA,0,Igor Panin,https://fbref.com/en/matches/b3b5c35a/Orenburg-Rostov-July-12-2020-Russian-Premier-League,0,0,1,0,8,3,7,12,13,0,0,1,0,14,3,11,9,15,2019-2020
+2020-07-12,Krasnodar,Ural,3,0,NA,NA,2977,Kirill Levnikov,https://fbref.com/en/matches/4a150420/Krasnodar-Ural-Yekaterinburg-July-12-2020-Russian-Premier-League,1,1,2,0,27,9,9,7,11,0,0,2,0,12,3,16,18,14,2019-2020
+2020-07-15,Ural,Arsenal Tula,1,3,NA,NA,3372,Nikolay Voloshin,https://fbref.com/en/matches/6fda82b3/Ural-Yekaterinburg-Arsenal-Tula-July-15-2020-Russian-Premier-League,0,0,3,0,11,6,3,12,8,0,0,7,0,12,5,14,6,16,2019-2020
+2020-07-15,Spartak Moscow,Akhmat Grozny,3,0,NA,NA,3100,Aleksey Sukhoy,https://fbref.com/en/matches/281a1826/Spartak-Moscow-Akhmat-Grozny-July-15-2020-Russian-Premier-League,0,0,1,0,16,4,11,11,11,0,0,2,0,9,2,9,5,15,2019-2020
+2020-07-15,Samara,Krasnodar,0,0,NA,NA,0,Vladimir Moskalev,https://fbref.com/en/matches/9a851f71/Samara-Krasnodar-July-15-2020-Russian-Premier-League,0,0,2,0,14,6,26,20,13,0,0,6,1,18,6,8,13,12,2019-2020
+2020-07-15,Zenit,Orenburg,4,1,NA,NA,6395,Vitaly Meshkov,https://fbref.com/en/matches/97b15b7e/Zenit-Orenburg-July-15-2020-Russian-Premier-League,0,0,4,0,12,5,13,10,9,0,0,4,0,16,3,5,13,7,2019-2020
+2020-07-16,Rubin Kazan,Rostov,0,0,NA,NA,4202,Vasiliy Kazartsev,https://fbref.com/en/matches/2697932d/Rubin-Kazan-Rostov-July-16-2020-Russian-Premier-League,0,0,4,0,14,6,7,9,12,0,0,5,0,11,3,9,9,8,2019-2020
+2020-07-16,Ufa,Dynamo Mosc,0,1,NA,NA,1497,Pavel Kukuyan,https://fbref.com/en/matches/5984eda0/Ufa-Dynamo-Moscow-July-16-2020-Russian-Premier-League,0,0,2,0,6,1,9,16,5,1,1,0,0,14,4,9,9,8,2019-2020
+2020-07-16,Loko Moscow,CSKA Moscow,2,1,NA,NA,0,Evgeny Turbin,https://fbref.com/en/matches/c25856fb/Lokomotiv-Moscow-CSKA-Moscow-July-16-2020-Russian-Premier-League,2,2,4,0,13,3,15,18,7,0,0,3,0,16,2,7,9,17,2019-2020
 2020-07-16,Tambov,Sochi,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
 2020-07-19,Krasnodar,Dynamo Mosc,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
 2020-07-22,Dynamo Mosc,Orenburg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020

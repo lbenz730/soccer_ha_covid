@@ -135,8 +135,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2019-07-28,Djurgården,Häcken,2,0,NA,NA,10748,Andreas Ekberg,https://fbref.com/en/matches/03719c7d/Djurgarden-Hacken-July-28-2019-Allsvenskan,0,0,0,0,16,5,10,13,9,0,0,1,0,10,1,13,7,14,2019
 2019-07-28,Östersund,Malmö,0,0,NA,NA,5314,Martin Strömbergsson,https://fbref.com/en/matches/33b097ec/Ostersund-Malmo-July-28-2019-Allsvenskan,0,0,3,1,3,1,9,8,13,0,0,3,0,25,8,11,18,9,2019
 2019-07-28,Göteborg,Norrköping,0,0,NA,NA,14089,Kaspar Sjöberg,https://fbref.com/en/matches/aa52075b/Goteborg-Norrkoping-July-28-2019-Allsvenskan,0,0,3,0,15,4,6,17,10,0,0,0,0,8,2,7,2,11,2019
-2019-07-29,Helsingborg,Örebro,1,4,NA,NA,8182,Victor Wolf,https://fbref.com/en/matches/16c7f351/Helsingborg-Orebro-July-29-2019-Allsvenskan,0,0,3,0,18,3,15,2,15,1,1,1,0,8,4,11,4,13,2019
 2019-07-29,Elfsborg,Kalmar,2,1,NA,NA,4727,Bojan Pandzic,https://fbref.com/en/matches/25864b69/Elfsborg-Kalmar-July-29-2019-Allsvenskan,0,0,5,0,18,8,12,7,16,1,1,2,0,10,2,14,5,19,2019
+2019-07-29,Helsingborg,Örebro,1,4,NA,NA,8182,Victor Wolf,https://fbref.com/en/matches/16c7f351/Helsingborg-Orebro-July-29-2019-Allsvenskan,0,0,3,0,18,3,15,2,15,1,1,1,0,8,4,11,4,13,2019
 2019-08-03,Östersund,AFC Eskilstuna,1,2,NA,NA,4875,Magnus Lindgren,https://fbref.com/en/matches/1152deb0/Ostersund-AFC-Eskilstuna-August-3-2019-Allsvenskan,0,0,1,0,12,6,13,8,16,0,0,4,0,15,3,13,12,13,2019
 2019-08-03,Falkenberg,Helsingborg,1,1,NA,NA,4093,Granit Maqedonci,https://fbref.com/en/matches/5a796ccf/Falkenberg-Helsingborg-August-3-2019-Allsvenskan,0,0,0,0,8,4,7,5,11,0,0,1,0,12,5,8,3,16,2019
 2019-08-04,Kalmar,Hammarby,2,2,NA,NA,9116,Victor Wolf,https://fbref.com/en/matches/47f71962/Kalmar-Hammarby-August-4-2019-Allsvenskan,1,1,3,0,17,7,7,10,18,0,0,2,1,8,3,15,8,14,2019
@@ -170,8 +170,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2019-08-30,Helsingborg,Östersund,2,0,NA,NA,7028,Kristoffer Karlsson,https://fbref.com/en/matches/24dd4a33/Helsingborg-Ostersund-August-30-2019-Allsvenskan,0,0,1,0,13,7,8,6,19,0,0,1,0,15,3,9,9,12,2019
 2019-08-31,Elfsborg,Sirius,1,1,NA,NA,4272,Patrik Eriksson,https://fbref.com/en/matches/79660d28/Elfsborg-Sirius-August-31-2019-Allsvenskan,0,0,2,0,18,7,6,9,12,0,0,2,0,5,1,10,11,14,2019
 2019-08-31,Örebro,AFC Eskilstuna,3,1,NA,NA,4029,Kaspar Sjöberg,https://fbref.com/en/matches/79e56597/Orebro-AFC-Eskilstuna-August-31-2019-Allsvenskan,1,1,0,0,15,6,10,9,10,0,0,2,0,7,1,13,2,12,2019
-2019-09-01,AIK Stockholm,Djurgården,1,0,NA,NA,45367,Andreas Ekberg,https://fbref.com/en/matches/82270be2/AIK-Stockholm-Djurgarden-September-1-2019-Allsvenskan,1,1,4,1,7,4,6,11,22,0,0,2,0,15,2,3,7,16,2019
 2019-09-01,Sundsvall,Göteborg,0,2,NA,NA,3580,Fredrik Klitte,https://fbref.com/en/matches/3785f285/Sundsvall-Goteborg-September-1-2019-Allsvenskan,0,0,1,0,23,7,5,8,10,0,0,0,0,9,4,4,2,9,2019
+2019-09-01,AIK Stockholm,Djurgården,1,0,NA,NA,45367,Andreas Ekberg,https://fbref.com/en/matches/82270be2/AIK-Stockholm-Djurgarden-September-1-2019-Allsvenskan,1,1,4,1,7,4,6,11,22,0,0,2,0,15,2,3,7,16,2019
 2019-09-01,Kalmar,Malmö,0,5,NA,NA,6457,Mohammed Al Hakim,https://fbref.com/en/matches/6953cc75/Kalmar-Malmo-September-1-2019-Allsvenskan,0,0,2,1,4,1,11,15,12,1,1,0,0,25,10,6,9,5,2019
 2019-09-01,Norrköping,Hammarby,2,0,NA,NA,13125,Glenn Nyberg,https://fbref.com/en/matches/28fc75ec/Norrkoping-Hammarby-September-1-2019-Allsvenskan,0,0,1,0,11,5,7,11,16,0,0,2,1,9,3,11,5,11,2019
 2019-09-01,Häcken,Falkenberg,4,1,NA,NA,2452,Magnus Lindgren,https://fbref.com/en/matches/dada8484/Hacken-Falkenberg-September-1-2019-Allsvenskan,0,0,0,0,19,7,8,3,12,0,0,2,0,7,3,10,9,10,2019
@@ -204,8 +204,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2019-09-29,Sundsvall,Sirius,2,1,NA,NA,5724,Kristoffer Karlsson,https://fbref.com/en/matches/349d1d91/Sundsvall-Sirius-September-29-2019-Allsvenskan,1,1,1,0,12,6,2,2,13,0,0,3,0,5,3,6,8,8,2019
 2019-09-29,AFC Eskilstuna,Malmö,0,1,NA,NA,2137,Patrik Eriksson,https://fbref.com/en/matches/47dd2a01/AFC-Eskilstuna-Malmo-September-29-2019-Allsvenskan,0,0,2,0,2,0,12,18,13,0,0,0,0,17,6,6,12,9,2019
 2019-09-29,Falkenberg,Norrköping,0,2,NA,NA,3828,Fredrik Klitte,https://fbref.com/en/matches/3bf8e594/Falkenberg-Norrkoping-September-29-2019-Allsvenskan,0,0,1,0,5,1,8,11,12,1,1,0,0,23,6,3,9,9,2019
-2019-09-30,Helsingborg,Kalmar,2,0,NA,NA,6353,Victor Wolf,https://fbref.com/en/matches/af292c6b/Helsingborg-Kalmar-September-30-2019-Allsvenskan,0,0,1,0,7,5,7,10,19,0,0,2,0,12,4,13,2,13,2019
 2019-09-30,Östersund,Djurgården,1,2,NA,NA,4262,Glenn Nyberg,https://fbref.com/en/matches/01f2c887/Ostersund-Djurgarden-September-30-2019-Allsvenskan,0,0,2,0,17,3,9,10,12,0,0,1,0,19,5,9,20,11,2019
+2019-09-30,Helsingborg,Kalmar,2,0,NA,NA,6353,Victor Wolf,https://fbref.com/en/matches/af292c6b/Helsingborg-Kalmar-September-30-2019-Allsvenskan,0,0,1,0,7,5,7,10,19,0,0,2,0,12,4,13,2,13,2019
 2019-09-30,Hammarby,Örebro,5,1,NA,NA,23193,Martin Strömbergsson,https://fbref.com/en/matches/5075a97a/Hammarby-Orebro-September-30-2019-Allsvenskan,0,0,1,0,21,11,15,6,5,0,0,0,0,9,4,8,7,8,2019
 2019-10-05,Sundsvall,Norrköping,4,4,NA,NA,4733,Magnus Lindgren,https://fbref.com/en/matches/2bda392b/Sundsvall-Norrkoping-October-5-2019-Allsvenskan,0,0,2,0,11,9,8,8,6,0,0,3,0,15,9,2,4,13,2019
 2019-10-05,AIK Stockholm,Örebro,2,0,NA,NA,12427,Glenn Nyberg,https://fbref.com/en/matches/1b8b1ef3/AIK-Stockholm-Orebro-October-5-2019-Allsvenskan,0,0,1,0,18,5,15,5,15,0,0,1,0,11,0,6,14,8,2019
@@ -232,12 +232,12 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2019-10-28,Djurgården,Örebro,3,0,NA,NA,28258,Stefan Johannesson,https://fbref.com/en/matches/30cc8ff1/Djurgarden-Orebro-October-28-2019-Allsvenskan,1,1,0,0,21,9,8,9,9,0,0,1,0,6,3,8,10,8,2019
 2019-10-28,Elfsborg,Göteborg,2,0,NA,NA,10167,Kaspar Sjöberg,https://fbref.com/en/matches/d2970c96/Elfsborg-Goteborg-October-28-2019-Allsvenskan,0,0,5,0,10,4,9,15,24,0,0,3,0,14,4,15,8,10,2019
 2019-11-02,Örebro,Malmö,0,5,NA,NA,7153,Victor Wolf,https://fbref.com/en/matches/9bf2da5a/Orebro-Malmo-November-2-2019-Allsvenskan,0,0,1,0,8,2,8,19,11,0,0,0,0,31,8,8,10,8,2019
-2019-11-02,Falkenberg,AFC Eskilstuna,1,0,NA,NA,4266,Bojan Pandzic,https://fbref.com/en/matches/2d110900/Falkenberg-AFC-Eskilstuna-November-2-2019-Allsvenskan,0,0,2,0,21,7,9,12,14,0,0,1,0,8,1,16,8,13,2019
 2019-11-02,Hammarby,Häcken,4,1,NA,NA,31037,Mohammed Al Hakim,https://fbref.com/en/matches/6538000e/Hammarby-Hacken-November-2-2019-Allsvenskan,0,0,2,0,22,6,10,9,9,0,0,2,0,17,4,8,7,13,2019
+2019-11-02,Falkenberg,AFC Eskilstuna,1,0,NA,NA,4266,Bojan Pandzic,https://fbref.com/en/matches/2d110900/Falkenberg-AFC-Eskilstuna-November-2-2019-Allsvenskan,0,0,2,0,21,7,9,12,14,0,0,1,0,8,1,16,8,13,2019
 2019-11-02,Göteborg,Östersund,7,1,NA,NA,9629,Stefan Johannesson,https://fbref.com/en/matches/f81d4dab/Goteborg-Ostersund-November-2-2019-Allsvenskan,0,0,0,0,27,14,13,6,10,0,0,3,0,11,4,5,4,11,2019
 2019-11-02,Helsingborg,Elfsborg,1,2,NA,NA,5556,Joakim Östling,https://fbref.com/en/matches/62ae6861/Helsingborg-Elfsborg-November-2-2019-Allsvenskan,0,0,0,0,19,6,17,8,9,0,0,3,0,13,5,9,14,16,2019
 2019-11-02,AIK Stockholm,Sundsvall,2,1,NA,NA,14355,Kaspar Sjöberg,https://fbref.com/en/matches/b0e8832c/AIK-Stockholm-Sundsvall-November-2-2019-Allsvenskan,0,0,1,0,11,3,6,14,12,0,0,2,0,6,1,6,7,13,2019
 2019-11-02,Sirius,Kalmar,3,0,NA,NA,3903,Kristoffer Karlsson,https://fbref.com/en/matches/3d013b43/Sirius-Kalmar-November-2-2019-Allsvenskan,0,0,2,2,18,6,5,8,10,0,0,0,0,18,5,10,14,10,2019
 2019-11-02,Norrköping,Djurgården,2,2,NA,NA,15150,Glenn Nyberg,https://fbref.com/en/matches/6055cf1a/Norrkoping-Djurgarden-November-2-2019-Allsvenskan,0,0,4,2,5,2,11,8,15,0,0,3,0,25,4,11,8,12,2019
-2019-11-06,Brage,Kalmar,0,2,NA,NA,3554,Martin Strömbergsson,https://fbref.com/en/matches/f44e0974/Brage-Kalmar-November-6-2019-Swedish-12-RelegationPromotion-Playoffs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019
-2019-11-10,Kalmar,Brage,2,2,NA,NA,6218,Mohammed Al Hakim,https://fbref.com/en/matches/55bf829e/Kalmar-Brage-November-10-2019-Swedish-12-RelegationPromotion-Playoffs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019
+2019-11-06,Brage,Kalmar,0,2,NA,NA,3554,Martin Strömbergsson,https://fbref.com/en/matches/f44e0974/Brage-Kalmar-November-6-2019-Swedish-12-RelegationPromotion-Play-offs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019
+2019-11-10,Kalmar,Brage,2,2,NA,NA,6218,Mohammed Al Hakim,https://fbref.com/en/matches/55bf829e/Kalmar-Brage-November-10-2019-Swedish-12-RelegationPromotion-Play-offs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019

@@ -39,8 +39,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-09-17,Estoril,Moreirense,2,0,NA,NA,1243,Gonçalo Martins,https://fbref.com/en/matches/5c8149d3/Estoril-Moreirense-September-17-2016-Primeira-Liga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
 2016-09-17,Vitória Setúbal,Paços,1,4,NA,NA,2211,Manuel Mota,https://fbref.com/en/matches/25667a59/Vitoria-Setubal-Pacos-de-Ferreira-September-17-2016-Primeira-Liga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
 2016-09-17,Vitória,Belenenses,1,1,NA,NA,12953,Manuel Oliveira,https://fbref.com/en/matches/3e4112cb/Vitoria-Guimaraes-Belenenses-September-17-2016-Primeira-Liga,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
-2016-09-18,Boavista,Feirense,1,2,NA,NA,4756,Bruno Alexandre Da Silva Esteves,https://fbref.com/en/matches/52f83e0b/Boavista-Feirense-September-18-2016-Primeira-Liga,0,0,2,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
 2016-09-18,Arouca,Chaves,0,1,NA,NA,740,Luís Ferreira,https://fbref.com/en/matches/6663e31a/Arouca-Chaves-September-18-2016-Primeira-Liga,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2016-09-18,Boavista,Feirense,1,2,NA,NA,4756,Bruno Alexandre Da Silva Esteves,https://fbref.com/en/matches/52f83e0b/Boavista-Feirense-September-18-2016-Primeira-Liga,0,0,2,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
 2016-09-18,Tondela,Porto,0,0,NA,NA,3390,Hugo Miguel,https://fbref.com/en/matches/f2842391/Tondela-Porto-September-18-2016-Primeira-Liga,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
 2016-09-18,Rio Ave,Sporting CP,3,1,NA,NA,8315,João Pedro Pinheiro,https://fbref.com/en/matches/a3c09570/Rio-Ave-Sporting-CP-September-18-2016-Primeira-Liga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2016-09-19,Benfica,Braga,3,1,NA,NA,52181,Jorge de Sousa,https://fbref.com/en/matches/38908871/Benfica-Braga-September-19-2016-Primeira-Liga,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
@@ -296,8 +296,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-05-14,Porto,Paços,4,1,NA,NA,25416,Artur Soares Dias,https://fbref.com/en/matches/ab6e0d02/Porto-Pacos-de-Ferreira-May-14-2017-Primeira-Liga,2,2,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2017-05-14,Braga,Nacional,4,0,NA,NA,8732,João Pedro Mendes,https://fbref.com/en/matches/e22bd4ef/Braga-Nacional-May-14-2017-Primeira-Liga,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
 2017-05-15,Vitória Setúbal,Boavista,0,1,NA,NA,2304,Manuel Mota,https://fbref.com/en/matches/52c0f450/Vitoria-Setubal-Boavista-May-15-2017-Primeira-Liga,0,0,2,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2016-2017
-2017-05-20,Paços,Marítimo,0,0,NA,NA,2881,Hugo Miguel,https://fbref.com/en/matches/48c54cf0/Pacos-de-Ferreira-Maritimo-May-20-2017-Primeira-Liga,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2017-05-20,Rio Ave,Belenenses,2,0,NA,NA,4584,Carlos Taborda Xistra,https://fbref.com/en/matches/ac948f61/Rio-Ave-Belenenses-May-20-2017-Primeira-Liga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-05-20,Paços,Marítimo,0,0,NA,NA,2881,Hugo Miguel,https://fbref.com/en/matches/48c54cf0/Pacos-de-Ferreira-Maritimo-May-20-2017-Primeira-Liga,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2017-05-20,Nacional,Vitória Setúbal,1,2,NA,NA,1421,Bruno Alexandre Da Silva Esteves,https://fbref.com/en/matches/968251cf/Nacional-Vitoria-Setubal-May-20-2017-Primeira-Liga,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
 2017-05-20,Vitória,Feirense,0,1,NA,NA,16501,Tiago Antunes,https://fbref.com/en/matches/02f0838c/Vitoria-Guimaraes-Feirense-May-20-2017-Primeira-Liga,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
 2017-05-20,Boavista,Benfica,2,2,NA,NA,16157,Nuno Miguel Serrano Almeida,https://fbref.com/en/matches/75126b46/Boavista-Benfica-May-20-2017-Primeira-Liga,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017

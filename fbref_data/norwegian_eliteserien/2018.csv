@@ -13,8 +13,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2018-03-18,Vålerenga,Odd,2,1,NA,NA,6063,Svein Oddvar Moen,https://fbref.com/en/matches/ef3d1068/Valerenga-Odd-March-18-2018-Eliteserien,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018
 2018-04-02,Bodø/Glimt,Haugesund,0,3,NA,NA,2934,Dag Vidar Hafsås,https://fbref.com/en/matches/8b1d8e0c/BodoGlimt-Haugesund-April-2-2018-Eliteserien,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2018
 2018-04-02,Kristiansund,Lillestrøm,2,1,NA,NA,3959,Trygve Kjensli,https://fbref.com/en/matches/5b187357/Kristiansund-Lillestrom-April-2-2018-Eliteserien,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018
-2018-04-02,Sarpsborg 08,Vålerenga,3,0,NA,NA,6149,Kai Erik Steen,https://fbref.com/en/matches/5d624c59/Sarpsborg-08-Valerenga-April-2-2018-Eliteserien,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018
 2018-04-02,Ranheim,Stabæk,4,1,NA,NA,2125,Tom Hagen,https://fbref.com/en/matches/43bb3dbd/Ranheim-Stabaek-April-2-2018-Eliteserien,1,1,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018
+2018-04-02,Sarpsborg 08,Vålerenga,3,0,NA,NA,6149,Kai Erik Steen,https://fbref.com/en/matches/5d624c59/Sarpsborg-08-Valerenga-April-2-2018-Eliteserien,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018
 2018-04-02,Molde,Tromsø,2,1,NA,NA,6438,Trond Døvle,https://fbref.com/en/matches/8cf1e74b/Molde-Tromso-April-2-2018-Eliteserien,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018
 2018-04-02,Start,Sandefjord,1,4,NA,NA,4716,Kristoffer Hagenes,https://fbref.com/en/matches/e60b1c68/Start-Sandefjord-April-2-2018-Eliteserien,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018
 2018-04-02,Strømsgodset,Brann,1,1,NA,NA,5873,Svein Oddvar Moen,https://fbref.com/en/matches/f1f37b12/Stromsgodset-Brann-April-2-2018-Eliteserien,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018
@@ -76,8 +76,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2018-05-16,Vålerenga,Stabæk,1,0,NA,NA,11124,Svein Oddvar Moen,https://fbref.com/en/matches/e1f7a0b6/Valerenga-Stabaek-May-16-2018-Eliteserien,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018
 2018-05-16,Sarpsborg 08,Start,4,0,NA,NA,5630,Kai Erik Steen,https://fbref.com/en/matches/80b42ddd/Sarpsborg-08-Start-May-16-2018-Eliteserien,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018
 2018-05-16,Molde,Strømsgodset,2,0,NA,NA,6770,Trond Døvle,https://fbref.com/en/matches/48b6f110/Molde-Stromsgodset-May-16-2018-Eliteserien,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018
-2018-05-16,Kristiansund,Ranheim,1,3,NA,NA,4234,Rohit Saggi,https://fbref.com/en/matches/a2e69471/Kristiansund-Ranheim-May-16-2018-Eliteserien,0,0,2,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2018
 2018-05-16,Brann,Haugesund,1,1,NA,NA,12914,Espen Andreas Eskås,https://fbref.com/en/matches/1060a5d3/Brann-Haugesund-May-16-2018-Eliteserien,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018
+2018-05-16,Kristiansund,Ranheim,1,3,NA,NA,4234,Rohit Saggi,https://fbref.com/en/matches/a2e69471/Kristiansund-Ranheim-May-16-2018-Eliteserien,0,0,2,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2018
 2018-05-16,Odd,Sandefjord,5,0,NA,NA,6122,Tommy Skjerven,https://fbref.com/en/matches/f9892d43/Odd-Sandefjord-May-16-2018-Eliteserien,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018
 2018-05-21,Ranheim,Molde,3,1,NA,NA,2655,Kristoffer Hagenes,https://fbref.com/en/matches/c4a151b0/Ranheim-Molde-May-21-2018-Eliteserien,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018
 2018-05-21,Tromsø,Vålerenga,3,0,NA,NA,3914,Sigurd Kringstad,https://fbref.com/en/matches/76d06727/Tromso-Valerenga-May-21-2018-Eliteserien,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018
@@ -196,8 +196,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2018-10-07,Kristiansund,Tromsø,5,1,NA,NA,4251,Espen Andreas Eskås,https://fbref.com/en/matches/156eacdb/Kristiansund-Tromso-October-7-2018-Eliteserien,1,1,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018
 2018-10-07,Start,Sarpsborg 08,1,0,NA,NA,3837,Kai Erik Steen,https://fbref.com/en/matches/ded05927/Start-Sarpsborg-08-October-7-2018-Eliteserien,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018
 2018-10-07,Rosenborg,Sandefjord,1,1,NA,NA,13908,Trond Døvle,https://fbref.com/en/matches/be2de506/Rosenborg-Sandefjord-October-7-2018-Eliteserien,1,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018
-2018-10-07,Bodø/Glimt,Molde,0,1,NA,NA,2781,Kristoffer Hagenes,https://fbref.com/en/matches/cd2b4f67/BodoGlimt-Molde-October-7-2018-Eliteserien,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018
 2018-10-07,Odd,Ranheim,2,0,NA,NA,4762,Sigurd Kringstad,https://fbref.com/en/matches/7b15ef50/Odd-Ranheim-October-7-2018-Eliteserien,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018
+2018-10-07,Bodø/Glimt,Molde,0,1,NA,NA,2781,Kristoffer Hagenes,https://fbref.com/en/matches/cd2b4f67/BodoGlimt-Molde-October-7-2018-Eliteserien,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018
 2018-10-07,Brann,Lillestrøm,1,1,NA,NA,9282,Ola Nilsen,https://fbref.com/en/matches/2dfb31d8/Brann-Lillestrom-October-7-2018-Eliteserien,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018
 2018-10-20,Molde,Sarpsborg 08,2,2,NA,NA,8122,Dag Vidar Hafsås,https://fbref.com/en/matches/16a9cf64/Molde-Sarpsborg-08-October-20-2018-Eliteserien,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018
 2018-10-20,Sandefjord,Strømsgodset,2,1,NA,NA,2548,Ola Nilsen,https://fbref.com/en/matches/cfa194c0/Sandefjord-Stromsgodset-October-20-2018-Eliteserien,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018
@@ -229,8 +229,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2018-11-11,Kristiansund,Brann,3,1,NA,NA,4215,Rohit Saggi,https://fbref.com/en/matches/1f7c17b5/Kristiansund-Brann-November-11-2018-Eliteserien,0,0,2,0,NA,NA,NA,NA,NA,0,1,3,0,NA,NA,NA,NA,NA,2018
 2018-11-11,Start,Rosenborg,0,1,NA,NA,5481,Trygve Kjensli,https://fbref.com/en/matches/3aace74b/Start-Rosenborg-November-11-2018-Eliteserien,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018
 2018-11-11,Bodø/Glimt,Vålerenga,1,1,NA,NA,4023,Tore Hansen,https://fbref.com/en/matches/3f4312b8/BodoGlimt-Valerenga-November-11-2018-Eliteserien,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018
-2018-11-11,Odd,Stabæk,0,3,NA,NA,4823,Kai Erik Steen,https://fbref.com/en/matches/be3fe10e/Odd-Stabaek-November-11-2018-Eliteserien,0,0,2,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018
 2018-11-11,Ranheim,Tromsø,1,2,NA,NA,1729,Kristoffer Hagenes,https://fbref.com/en/matches/345fdede/Ranheim-Tromso-November-11-2018-Eliteserien,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018
+2018-11-11,Odd,Stabæk,0,3,NA,NA,4823,Kai Erik Steen,https://fbref.com/en/matches/be3fe10e/Odd-Stabaek-November-11-2018-Eliteserien,0,0,2,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018
 2018-11-24,Brann,Odd,1,0,NA,NA,11677,Trond Døvle,https://fbref.com/en/matches/fb0dfec4/Brann-Odd-November-24-2018-Eliteserien,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018
 2018-11-24,Lillestrøm,Kristiansund,2,0,NA,NA,6783,Svein Oddvar Moen,https://fbref.com/en/matches/849794ef/Lillestrom-Kristiansund-November-24-2018-Eliteserien,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018
 2018-11-24,Stabæk,Strømsgodset,2,2,NA,NA,4938,Tom Hagen,https://fbref.com/en/matches/89d76d41/Stabaek-Stromsgodset-November-24-2018-Eliteserien,1,1,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018
