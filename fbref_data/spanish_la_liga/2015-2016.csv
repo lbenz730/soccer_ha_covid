@@ -1,7 +1,7 @@
 date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_report_url,home_pk_goals,home_pk_attempts,home_yellow_cards,home_red_cards,home_shots,home_shots_on_target,home_tackles,home_interceptions,home_fouls_committed,away_pk_goals,away_pk_attempts,away_yellow_cards,away_red_cards,away_shots,away_shots_on_target,away_tackles,away_interceptions,away_fouls_committed,season
 2015-08-21,Málaga,Sevilla,0,0,NA,NA,30372,Alfonso Álvarez,https://fbref.com/en/matches/0f9ae2c4/Malaga-Sevilla-August-21-2015-La-Liga,0,0,3,0,25,5,9,14,19,0,0,5,1,10,2,13,15,11,2015-2016
-2015-08-22,La Coruña,Real Sociedad,0,0,NA,NA,23306,Antonio Matéu Lahoz,https://fbref.com/en/matches/2458a84c/Deportivo-La-Coruna-Real-Sociedad-August-22-2015-La-Liga,0,0,3,0,16,5,15,16,16,0,0,2,0,9,2,15,9,10,2015-2016
 2015-08-22,Espanyol,Getafe,1,0,NA,NA,16248,Jesús Gil,https://fbref.com/en/matches/a60d2345/Espanyol-Getafe-August-22-2015-La-Liga,0,0,2,0,5,2,24,14,19,0,0,5,1,13,3,12,13,14,2015-2016
+2015-08-22,La Coruña,Real Sociedad,0,0,NA,NA,23306,Antonio Matéu Lahoz,https://fbref.com/en/matches/2458a84c/Deportivo-La-Coruna-Real-Sociedad-August-22-2015-La-Liga,0,0,3,0,16,5,15,16,16,0,0,2,0,9,2,15,9,10,2015-2016
 2015-08-22,Atlético Madrid,Las Palmas,1,0,NA,NA,45107,Eduardo Prieto ,https://fbref.com/en/matches/09121e16/Atletico-Madrid-Las-Palmas-August-22-2015-La-Liga,0,0,2,0,14,3,11,19,11,0,0,0,0,8,1,15,16,16,2015-2016
 2015-08-22,Rayo Vallecano,Valencia,0,0,NA,NA,9608,Alberto Undiano,https://fbref.com/en/matches/5e4fb554/Rayo-Vallecano-Valencia-August-22-2015-La-Liga,0,0,3,0,8,3,19,17,19,0,0,1,0,10,4,17,17,11,2015-2016
 2015-08-23,Athletic Club,Barcelona,0,1,NA,NA,44737,Carlos del Cerro,https://fbref.com/en/matches/ee599dc6/Athletic-Club-Barcelona-August-23-2015-La-Liga,0,0,3,0,8,2,13,16,16,0,1,3,0,10,4,14,17,11,2015-2016
@@ -15,8 +15,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2015-08-29,Celta Vigo,Rayo Vallecano,3,0,NA,NA,17606,Juan Martínez,https://fbref.com/en/matches/d64ca8fc/Celta-Vigo-Rayo-Vallecano-August-29-2015-La-Liga,1,1,3,0,11,7,14,14,7,0,0,2,1,3,0,12,26,11,2015-2016
 2015-08-29,Real Madrid,Betis,5,0,NA,NA,70876,Alejandro Hernández,https://fbref.com/en/matches/51ba6d2b/Real-Madrid-Real-Betis-August-29-2015-La-Liga,0,0,3,0,21,11,11,10,12,0,1,3,0,7,1,9,12,14,2015-2016
 2015-08-30,Eibar,Athletic Club,2,0,NA,NA,5509,David Fernández,https://fbref.com/en/matches/e40309b9/Eibar-Athletic-Club-August-30-2015-La-Liga,1,1,2,0,9,8,22,20,14,0,0,2,0,9,1,18,11,13,2015-2016
-2015-08-30,Valencia,La Coruña,1,1,NA,NA,42000,José González,https://fbref.com/en/matches/1682c07a/Valencia-Deportivo-La-Coruna-August-30-2015-La-Liga,0,0,4,1,12,6,12,17,13,0,0,1,0,12,3,14,28,16,2015-2016
 2015-08-30,Sevilla,Atlético Madrid,0,3,NA,NA,38976,Carlos Clos Gómez,https://fbref.com/en/matches/b8fab154/Sevilla-Atletico-Madrid-August-30-2015-La-Liga,0,0,3,0,25,7,11,6,17,0,0,4,0,17,7,16,16,13,2015-2016
+2015-08-30,Valencia,La Coruña,1,1,NA,NA,42000,José González,https://fbref.com/en/matches/1682c07a/Valencia-Deportivo-La-Coruna-August-30-2015-La-Liga,0,0,4,1,12,6,12,17,13,0,0,1,0,12,3,14,28,16,2015-2016
 2015-08-30,Las Palmas,Levante,0,0,NA,NA,19057,Pedro Pérez,https://fbref.com/en/matches/3d405df5/Las-Palmas-Levante-August-30-2015-La-Liga,0,0,2,0,16,2,14,15,14,0,0,4,0,3,2,18,22,21,2015-2016
 2015-08-30,Getafe,Granada,1,2,NA,NA,6000,Eduardo Prieto ,https://fbref.com/en/matches/c1fd0569/Getafe-Granada-August-30-2015-La-Liga,0,0,5,0,16,4,17,11,16,1,1,3,0,9,4,22,13,15,2015-2016
 2015-09-11,Levante,Sevilla,1,1,NA,NA,16568,Ignacio Iglesias,https://fbref.com/en/matches/c8e56dd5/Levante-Sevilla-September-11-2015-La-Liga,0,0,3,0,14,4,8,18,12,0,0,3,0,8,3,10,13,8,2015-2016
@@ -36,14 +36,14 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2015-09-19,Real Sociedad,Espanyol,2,3,NA,NA,17481,Pedro Pérez,https://fbref.com/en/matches/eb51ab41/Real-Sociedad-Espanyol-September-19-2015-La-Liga,0,0,2,1,10,3,15,23,15,1,1,3,0,18,6,15,15,16,2015-2016
 2015-09-20,Sevilla,Celta Vigo,1,2,NA,NA,35744,Santiago Jaime,https://fbref.com/en/matches/9ffe633c/Sevilla-Celta-Vigo-September-20-2015-La-Liga,0,0,3,0,13,5,18,18,16,0,0,6,1,15,5,20,17,16,2015-2016
 2015-09-20,La Coruña,Sporting Gijón,2,3,NA,NA,25801,Eduardo Prieto ,https://fbref.com/en/matches/c7421a10/Deportivo-La-Coruna-Sporting-Gijon-September-20-2015-La-Liga,0,0,3,0,19,9,17,18,11,0,0,3,0,4,4,12,29,16,2015-2016
-2015-09-20,Villarreal,Athletic Club,3,1,NA,NA,19832,Carlos Clos Gómez,https://fbref.com/en/matches/306cde56/Villarreal-Athletic-Club-September-20-2015-La-Liga,1,1,4,0,14,7,17,25,17,0,0,4,0,10,2,17,20,6,2015-2016
+2015-09-20,Villarreal,Athletic Club,3,1,NA,NA,19832,Carlos Clos Gómez,https://fbref.com/en/matches/306cde56/Villarreal-Athletic-Club-September-20-2015-La-Liga,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2015-2016
 2015-09-20,Las Palmas,Rayo Vallecano,0,1,NA,NA,19324,José González,https://fbref.com/en/matches/583ec8cd/Las-Palmas-Rayo-Vallecano-September-20-2015-La-Liga,0,0,3,0,8,2,18,23,13,0,0,5,0,17,6,22,28,19,2015-2016
 2015-09-20,Barcelona,Levante,4,1,NA,NA,76013,David Fernández,https://fbref.com/en/matches/c6a86c14/Barcelona-Levante-September-20-2015-La-Liga,1,2,0,0,21,8,12,19,8,0,0,1,0,11,4,16,18,15,2015-2016
 2015-09-22,Espanyol,Valencia,1,0,NA,NA,18231,Ignacio Iglesias,https://fbref.com/en/matches/2ce37cc2/Espanyol-Valencia-September-22-2015-La-Liga,0,0,5,0,17,5,21,17,22,0,0,7,0,10,4,24,17,14,2015-2016
 2015-09-22,Atlético Madrid,Getafe,2,0,NA,NA,41152,Alfonso Álvarez,https://fbref.com/en/matches/4a0e3166/Atletico-Madrid-Getafe-September-22-2015-La-Liga,0,0,3,0,12,3,22,17,14,0,0,2,0,6,2,21,14,10,2015-2016
 2015-09-22,Granada,Real Sociedad,0,3,NA,NA,12668,Javier Estrada,https://fbref.com/en/matches/851f7a7c/Granada-Real-Sociedad-September-22-2015-La-Liga,0,0,5,0,11,1,17,9,20,0,0,4,0,8,5,18,16,18,2015-2016
-2015-09-23,Rayo Vallecano,Sporting Gijón,2,1,NA,NA,11067,Iñaki Bikandi,https://fbref.com/en/matches/b99bbbee/Rayo-Vallecano-Sporting-Gijon-September-23-2015-La-Liga,1,1,2,0,18,6,13,18,14,0,0,3,1,6,2,19,22,18,2015-2016
 2015-09-23,Celta Vigo,Barcelona,4,1,NA,NA,23311,Alberto Undiano,https://fbref.com/en/matches/de53479f/Celta-Vigo-Barcelona-September-23-2015-La-Liga,0,0,2,0,18,5,23,24,19,0,0,2,0,18,7,11,19,4,2015-2016
+2015-09-23,Rayo Vallecano,Sporting Gijón,2,1,NA,NA,11067,Iñaki Bikandi,https://fbref.com/en/matches/b99bbbee/Rayo-Vallecano-Sporting-Gijon-September-23-2015-La-Liga,1,1,2,0,18,6,13,18,14,0,0,3,1,6,2,19,22,18,2015-2016
 2015-09-23,Levante,Eibar,2,2,NA,NA,10929,Carlos Velasco,https://fbref.com/en/matches/029d8a56/Levante-Eibar-September-23-2015-La-Liga,0,0,2,0,12,2,11,15,13,0,0,5,0,10,4,22,22,23,2015-2016
 2015-09-23,Athletic Club,Real Madrid,1,2,NA,NA,43387,Antonio Matéu Lahoz,https://fbref.com/en/matches/c5ad43ad/Athletic-Club-Real-Madrid-September-23-2015-La-Liga,0,0,4,0,12,5,11,17,16,0,0,3,0,22,6,16,30,9,2015-2016
 2015-09-23,Las Palmas,Sevilla,2,0,NA,NA,19733,Carlos del Cerro,https://fbref.com/en/matches/30ac5017/Las-Palmas-Sevilla-September-23-2015-La-Liga,0,0,3,0,12,4,22,23,9,0,0,4,0,17,3,14,29,13,2015-2016
@@ -91,10 +91,10 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2015-10-26,Athletic Club,Sporting Gijón,3,0,NA,NA,40477,Ignacio Iglesias,https://fbref.com/en/matches/b34ef965/Athletic-Club-Sporting-Gijon-October-26-2015-La-Liga,0,1,1,0,20,6,13,16,8,0,0,3,0,6,0,9,10,15,2015-2016
 2015-10-30,La Coruña,Atlético Madrid,1,1,NA,NA,24608,Pedro Pérez,https://fbref.com/en/matches/434b6d47/Deportivo-La-Coruna-Atletico-Madrid-October-30-2015-La-Liga,0,0,2,0,7,3,17,28,4,0,0,0,0,12,3,17,20,9,2015-2016
 2015-10-31,Real Madrid,Las Palmas,3,1,NA,NA,72387,Santiago Jaime,https://fbref.com/en/matches/aa76376f/Real-Madrid-Las-Palmas-October-31-2015-La-Liga,0,0,0,0,17,11,21,19,12,0,0,3,0,8,5,10,21,9,2015-2016
-2015-10-31,Villarreal,Sevilla,2,1,NA,NA,16730,José Sánchez,https://fbref.com/en/matches/fa08c47c/Villarreal-Sevilla-October-31-2015-La-Liga,0,0,5,0,11,5,8,22,17,0,0,3,0,6,3,9,24,14,2015-2016
 2015-10-31,Valencia,Levante,3,0,NA,NA,39069,Ricardo de Burgos,https://fbref.com/en/matches/05f93364/Valencia-Levante-October-31-2015-La-Liga,1,1,2,0,14,6,16,15,19,0,0,2,0,10,5,17,14,21,2015-2016
+2015-10-31,Villarreal,Sevilla,2,1,NA,NA,16730,José Sánchez,https://fbref.com/en/matches/fa08c47c/Villarreal-Sevilla-October-31-2015-La-Liga,0,0,5,0,11,5,8,22,17,0,0,3,0,6,3,9,24,14,2015-2016
 2015-10-31,Getafe,Barcelona,0,2,NA,NA,10089,Juan Martínez,https://fbref.com/en/matches/1feb6608/Getafe-Barcelona-October-31-2015-La-Liga,0,0,3,0,6,0,16,20,10,0,0,0,0,14,6,12,18,3,2015-2016
-2015-10-31,Real Sociedad,Celta Vigo,2,3,NA,NA,19927,David Fernández,https://fbref.com/en/matches/37ced4d6/Real-Sociedad-Celta-Vigo-October-31-2015-La-Liga,0,0,2,0,20,5,16,27,10,0,0,4,0,16,8,13,33,13,2015-2016
+2015-10-31,Real Sociedad,Celta Vigo,2,3,NA,NA,19927,David Fernández,https://fbref.com/en/matches/37ced4d6/Real-Sociedad-Celta-Vigo-October-31-2015-La-Liga,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2015-2016
 2015-11-01,Eibar,Rayo Vallecano,1,0,NA,NA,5353,Alfonso Álvarez,https://fbref.com/en/matches/02ca4bc9/Eibar-Rayo-Vallecano-November-1-2015-La-Liga,0,0,2,0,12,1,15,26,17,0,0,3,0,6,2,14,22,11,2015-2016
 2015-11-01,Espanyol,Granada,1,1,NA,NA,18890,Alejandro Hernández,https://fbref.com/en/matches/00b3d0ba/Espanyol-Granada-November-1-2015-La-Liga,0,0,3,1,10,4,14,17,16,0,0,6,0,9,5,16,22,19,2015-2016
 2015-11-01,Sporting Gijón,Málaga,1,0,NA,NA,22506,Antonio Matéu Lahoz,https://fbref.com/en/matches/4d1bf704/Sporting-Gijon-Malaga-November-1-2015-La-Liga,0,0,1,0,9,6,21,20,11,0,0,3,0,13,5,13,19,8,2015-2016
@@ -134,7 +134,7 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2015-12-05,Valencia,Barcelona,1,1,NA,NA,46799,Santiago Jaime,https://fbref.com/en/matches/f5158c36/Valencia-Barcelona-December-5-2015-La-Liga,0,0,3,0,10,3,21,20,13,0,0,1,0,16,5,7,16,15,2015-2016
 2015-12-05,La Coruña,Sevilla,1,1,NA,NA,25013,Ricardo de Burgos,https://fbref.com/en/matches/05688841/Deportivo-La-Coruna-Sevilla-December-5-2015-La-Liga,0,0,2,0,8,4,15,23,10,0,0,3,0,8,2,17,19,9,2015-2016
 2015-12-05,Betis,Celta Vigo,1,1,NA,NA,33762,Alejandro Hernández,https://fbref.com/en/matches/c2703e8c/Real-Betis-Celta-Vigo-December-5-2015-La-Liga,0,0,5,0,28,6,15,21,9,0,0,4,1,5,1,17,21,16,2015-2016
-2015-12-06,Real Sociedad,Eibar,2,1,NA,NA,23461,Mario Melero,https://fbref.com/en/matches/837dd05d/Real-Sociedad-Eibar-December-6-2015-La-Liga,0,0,3,0,10,7,16,10,12,0,0,3,0,5,1,14,15,16,2015-2016
+2015-12-06,Real Sociedad,Eibar,2,1,NA,NA,23461,Mario Melero,https://fbref.com/en/matches/837dd05d/Real-Sociedad-Eibar-December-6-2015-La-Liga,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2015-2016
 2015-12-06,Villarreal,Rayo Vallecano,2,1,NA,NA,16101,Javier Estrada,https://fbref.com/en/matches/37d711cb/Villarreal-Rayo-Vallecano-December-6-2015-La-Liga,0,0,1,0,14,5,15,24,16,0,0,4,0,8,4,16,16,14,2015-2016
 2015-12-06,Sporting Gijón,Las Palmas,3,1,NA,NA,22665,Alberto Undiano,https://fbref.com/en/matches/05c53633/Sporting-Gijon-Las-Palmas-December-6-2015-La-Liga,0,0,2,0,21,9,13,21,9,0,0,3,1,12,7,11,14,10,2015-2016
 2015-12-06,Athletic Club,Málaga,0,0,NA,NA,41835,Alfonso Álvarez,https://fbref.com/en/matches/f1c3f7e7/Athletic-Club-Malaga-December-6-2015-La-Liga,0,0,2,1,11,2,17,21,7,0,0,3,0,7,2,15,23,21,2015-2016
@@ -150,12 +150,12 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2015-12-13,Atlético Madrid,Athletic Club,2,1,NA,NA,50137,Juan Martínez,https://fbref.com/en/matches/614ba9df/Atletico-Madrid-Athletic-Club-December-13-2015-La-Liga,0,0,1,0,8,4,15,20,13,0,0,1,0,10,5,21,21,10,2015-2016
 2015-12-13,Villarreal,Real Madrid,1,0,NA,NA,20468,Alberto Undiano,https://fbref.com/en/matches/890ffeea/Villarreal-Real-Madrid-December-13-2015-La-Liga,0,0,2,0,7,3,10,19,11,0,0,2,0,20,1,7,19,9,2015-2016
 2015-12-19,Valencia,Getafe,2,2,NA,NA,31598,David Fernández,https://fbref.com/en/matches/4630f537/Valencia-Getafe-December-19-2015-La-Liga,0,0,2,0,12,7,21,17,13,0,0,6,0,9,3,15,23,20,2015-2016
-2015-12-19,Espanyol,Las Palmas,1,0,NA,NA,17121,Mario Melero,https://fbref.com/en/matches/61cf23f2/Espanyol-Las-Palmas-December-19-2015-La-Liga,0,0,4,0,12,2,14,19,29,0,0,4,0,9,4,10,27,21,2015-2016
+2015-12-19,Espanyol,Las Palmas,1,0,NA,NA,17121,Mario Melero,https://fbref.com/en/matches/61cf23f2/Espanyol-Las-Palmas-December-19-2015-La-Liga,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2015-2016
 2015-12-19,Betis,Sevilla,0,0,NA,NA,50073,Carlos Clos Gómez,https://fbref.com/en/matches/1c7a2352/Real-Betis-Sevilla-December-19-2015-La-Liga,0,0,7,0,12,0,14,11,23,0,0,5,0,8,2,16,23,19,2015-2016
 2015-12-19,La Coruña,Eibar,2,0,NA,NA,19281,Javier Estrada,https://fbref.com/en/matches/9240871f/Deportivo-La-Coruna-Eibar-December-19-2015-La-Liga,1,1,2,1,13,3,17,24,10,0,0,2,0,13,1,14,33,11,2015-2016
 2015-12-20,Real Madrid,Rayo Vallecano,10,2,NA,NA,61564,Ignacio Iglesias,https://fbref.com/en/matches/213132ff/Real-Madrid-Rayo-Vallecano-December-20-2015-La-Liga,1,1,1,0,30,15,15,19,12,0,0,4,2,9,4,8,12,12,2015-2016
-2015-12-20,Athletic Club,Levante,2,0,NA,NA,39380,Alejandro Hernández,https://fbref.com/en/matches/2c7a12bb/Athletic-Club-Levante-December-20-2015-La-Liga,0,0,0,0,18,7,14,18,15,0,0,5,0,6,1,10,25,17,2015-2016
 2015-12-20,Real Sociedad,Villarreal,0,2,NA,NA,21949,Carlos del Cerro,https://fbref.com/en/matches/d44e6595/Real-Sociedad-Villarreal-December-20-2015-La-Liga,0,0,2,0,16,2,11,8,12,0,0,1,0,7,5,15,28,21,2015-2016
+2015-12-20,Athletic Club,Levante,2,0,NA,NA,39380,Alejandro Hernández,https://fbref.com/en/matches/2c7a12bb/Athletic-Club-Levante-December-20-2015-La-Liga,0,0,0,0,18,7,14,18,15,0,0,5,0,6,1,10,25,17,2015-2016
 2015-12-20,Granada,Celta Vigo,0,2,NA,NA,14537,Juan Martínez,https://fbref.com/en/matches/5f2d4ff6/Granada-Celta-Vigo-December-20-2015-La-Liga,0,0,4,0,11,1,17,15,17,0,0,2,0,10,4,19,28,11,2015-2016
 2015-12-20,Málaga,Atlético Madrid,1,0,NA,NA,19086,Antonio Matéu Lahoz,https://fbref.com/en/matches/0c260304/Malaga-Atletico-Madrid-December-20-2015-La-Liga,0,0,3,0,17,4,19,21,9,0,0,6,1,6,3,24,24,13,2015-2016
 2015-12-30,Real Madrid,Real Sociedad,3,1,NA,NA,69896,José González,https://fbref.com/en/matches/ae3b87b8/Real-Madrid-Real-Sociedad-December-30-2015-La-Liga,1,2,1,0,23,13,9,18,12,0,0,3,0,13,2,13,13,9,2015-2016
@@ -163,9 +163,9 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2015-12-30,Sevilla,Espanyol,2,0,NA,NA,35544,Ignacio Iglesias,https://fbref.com/en/matches/fe965930/Sevilla-Espanyol-December-30-2015-La-Liga,0,0,3,0,15,10,23,19,15,0,0,3,0,12,1,13,18,16,2015-2016
 2015-12-30,Rayo Vallecano,Atlético Madrid,0,2,NA,NA,12315,José Sánchez,https://fbref.com/en/matches/ff5ecac4/Rayo-Vallecano-Atletico-Madrid-December-30-2015-La-Liga,0,0,2,0,10,3,11,26,12,0,0,3,0,17,6,15,16,15,2015-2016
 2015-12-30,Eibar,Sporting Gijón,2,0,NA,NA,5471,Carlos Velasco,https://fbref.com/en/matches/346c7520/Eibar-Sporting-Gijon-December-30-2015-La-Liga,0,0,3,0,15,5,17,33,16,0,0,3,0,6,0,12,17,17,2015-2016
-2015-12-30,Barcelona,Betis,4,0,NA,NA,83630,Iñaki Bikandi,https://fbref.com/en/matches/04b8dac0/Barcelona-Real-Betis-December-30-2015-La-Liga,0,1,1,0,16,7,16,13,16,0,0,3,0,11,4,8,20,20,2015-2016
-2015-12-30,Celta Vigo,Athletic Club,0,1,NA,NA,19092,Pedro Pérez,https://fbref.com/en/matches/34075e35/Celta-Vigo-Athletic-Club-December-30-2015-La-Liga,0,0,3,0,7,3,18,15,11,0,0,4,0,13,5,24,30,11,2015-2016
 2015-12-30,Getafe,La Coruña,0,0,NA,NA,5667,Alberto Undiano,https://fbref.com/en/matches/a0dc232d/Getafe-Deportivo-La-Coruna-December-30-2015-La-Liga,0,0,3,0,15,5,11,20,9,0,0,1,0,10,3,17,24,8,2015-2016
+2015-12-30,Celta Vigo,Athletic Club,0,1,NA,NA,19092,Pedro Pérez,https://fbref.com/en/matches/34075e35/Celta-Vigo-Athletic-Club-December-30-2015-La-Liga,0,0,3,0,7,3,18,15,11,0,0,4,0,13,5,24,30,11,2015-2016
+2015-12-30,Barcelona,Betis,4,0,NA,NA,83630,Iñaki Bikandi,https://fbref.com/en/matches/04b8dac0/Barcelona-Real-Betis-December-30-2015-La-Liga,0,1,1,0,16,7,16,13,16,0,0,3,0,11,4,8,20,20,2015-2016
 2015-12-30,Las Palmas,Granada,4,1,NA,NA,18973,Santiago Jaime,https://fbref.com/en/matches/f18df3bf/Las-Palmas-Granada-December-30-2015-La-Liga,1,1,3,0,7,4,17,20,5,0,0,6,1,12,5,15,17,21,2015-2016
 2015-12-31,Villarreal,Valencia,1,0,NA,NA,18526,Alfonso Álvarez,https://fbref.com/en/matches/992bd40c/Villarreal-Valencia-December-31-2015-La-Liga,0,0,1,0,9,3,16,13,21,0,0,3,0,6,2,9,26,19,2015-2016
 2016-01-02,Espanyol,Barcelona,0,0,NA,NA,28975,José González,https://fbref.com/en/matches/c2fa507e/Espanyol-Barcelona-January-2-2016-La-Liga,0,0,5,0,4,1,19,24,22,0,0,3,0,10,2,19,15,10,2015-2016
@@ -189,7 +189,7 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-01-10,Eibar,Espanyol,2,1,NA,NA,4587,Santiago Jaime,https://fbref.com/en/matches/399cfa08/Eibar-Espanyol-January-10-2016-La-Liga,1,1,3,0,20,6,15,18,13,0,0,2,0,7,4,21,16,15,2015-2016
 2016-01-10,Celta Vigo,Atlético Madrid,0,2,NA,NA,13550,Ricardo de Burgos,https://fbref.com/en/matches/a536bfbd/Celta-Vigo-Atletico-Madrid-January-10-2016-La-Liga,0,0,2,0,6,1,17,26,14,0,0,1,0,10,3,25,29,14,2015-2016
 2016-01-16,Sevilla,Málaga,2,1,NA,NA,34371,Javier Estrada,https://fbref.com/en/matches/4c1a7fcf/Sevilla-Malaga-January-16-2016-La-Liga,0,0,4,1,8,4,19,27,21,0,0,4,1,14,3,17,13,21,2015-2016
-2016-01-16,Celta Vigo,Levante,4,3,NA,NA,16943,Carlos del Cerro,https://fbref.com/en/matches/7abb9fa9/Celta-Vigo-Levante-January-16-2016-La-Liga,0,0,1,0,14,6,14,19,14,0,0,4,0,17,7,16,28,16,2015-2016
+2016-01-16,Celta Vigo,Levante,4,3,NA,NA,16943,Carlos del Cerro,https://fbref.com/en/matches/7abb9fa9/Celta-Vigo-Levante-January-16-2016-La-Liga,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2015-2016
 2016-01-16,Villarreal,Betis,0,0,NA,NA,16405,José González,https://fbref.com/en/matches/92bb4148/Villarreal-Real-Betis-January-16-2016-La-Liga,0,0,2,0,9,2,19,14,12,0,0,1,0,15,2,16,14,11,2015-2016
 2016-01-16,Real Sociedad,La Coruña,1,1,NA,NA,16783,Juan Martínez,https://fbref.com/en/matches/c5c1ff30/Real-Sociedad-Deportivo-La-Coruna-January-16-2016-La-Liga,1,1,1,0,16,6,18,26,9,0,0,3,0,7,4,13,19,11,2015-2016
 2016-01-17,Valencia,Rayo Vallecano,2,2,NA,NA,35042,Eduardo Prieto ,https://fbref.com/en/matches/5990725c/Valencia-Rayo-Vallecano-January-17-2016-La-Liga,0,0,1,0,13,5,15,19,17,0,0,3,0,18,8,22,17,20,2015-2016
@@ -205,7 +205,7 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-01-23,Rayo Vallecano,Celta Vigo,3,0,NA,NA,10780,Santiago Jaime,https://fbref.com/en/matches/cc2935c6/Rayo-Vallecano-Celta-Vigo-January-23-2016-La-Liga,0,0,3,0,26,10,19,11,20,0,0,4,0,3,1,17,27,13,2015-2016
 2016-01-24,Athletic Club,Eibar,5,2,NA,NA,43557,Jesús Gil,https://fbref.com/en/matches/173c9634/Athletic-Club-Eibar-January-24-2016-La-Liga,0,0,2,0,10,5,18,29,13,1,1,2,0,9,2,13,27,14,2015-2016
 2016-01-24,Atlético Madrid,Sevilla,0,0,NA,NA,52793,Ignacio Iglesias,https://fbref.com/en/matches/2c0f360c/Atletico-Madrid-Sevilla-January-24-2016-La-Liga,0,0,5,0,20,3,13,5,13,0,0,5,1,7,1,12,24,13,2015-2016
-2016-01-24,La Coruña,Valencia,1,1,NA,NA,23782,Mario Melero,https://fbref.com/en/matches/93a468f6/Deportivo-La-Coruna-Valencia-January-24-2016-La-Liga,0,0,3,0,10,2,22,12,13,0,0,2,0,10,3,13,17,9,2015-2016
+2016-01-24,La Coruña,Valencia,1,1,NA,NA,23782,Mario Melero,https://fbref.com/en/matches/93a468f6/Deportivo-La-Coruna-Valencia-January-24-2016-La-Liga,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2015-2016
 2016-01-24,Betis,Real Madrid,1,1,NA,NA,48111,Juan Martínez,https://fbref.com/en/matches/74eaed10/Real-Betis-Real-Madrid-January-24-2016-La-Liga,0,0,3,0,4,2,17,18,17,0,0,2,0,18,8,20,11,13,2015-2016
 2016-01-25,Levante,Las Palmas,3,2,NA,NA,13155,Carlos Velasco,https://fbref.com/en/matches/27d59858/Levante-Las-Palmas-January-25-2016-La-Liga,0,0,4,1,12,8,10,24,22,0,0,4,0,13,4,12,11,11,2015-2016
 2016-01-30,Barcelona,Atlético Madrid,2,1,NA,NA,94990,Alberto Undiano,https://fbref.com/en/matches/6b2e6e56/Barcelona-Atletico-Madrid-January-30-2016-La-Liga,0,0,0,0,10,4,24,15,7,0,0,5,2,7,4,23,29,18,2015-2016
@@ -259,12 +259,12 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-02-28,Valencia,Athletic Club,0,3,NA,NA,36576,Jesús Gil,https://fbref.com/en/matches/5eed064d/Valencia-Athletic-Club-February-28-2016-La-Liga,0,0,2,0,9,3,13,10,9,0,0,0,0,13,4,26,27,13,2015-2016
 2016-02-28,La Coruña,Granada,0,1,NA,NA,23616,Juan Martínez,https://fbref.com/en/matches/9d3e72fc/Deportivo-La-Coruna-Granada-February-28-2016-La-Liga,0,0,2,1,14,2,12,25,12,1,1,3,0,10,3,12,16,12,2015-2016
 2016-02-28,Barcelona,Sevilla,2,1,NA,NA,79684,Santiago Jaime,https://fbref.com/en/matches/ad5f6823/Barcelona-Sevilla-February-28-2016-La-Liga,0,0,3,0,17,8,12,12,13,0,0,2,0,11,4,17,18,10,2015-2016
-2016-03-01,Atlético Madrid,Real Sociedad,3,0,NA,NA,35621,Alejandro Hernández,https://fbref.com/en/matches/8d4583b5/Atletico-Madrid-Real-Sociedad-March-1-2016-La-Liga,1,1,1,0,12,5,19,20,19,0,0,2,0,7,1,18,32,10,2015-2016
+2016-03-01,Atlético Madrid,Real Sociedad,3,0,NA,NA,35621,Alejandro Hernández,https://fbref.com/en/matches/8d4583b5/Atletico-Madrid-Real-Sociedad-March-1-2016-La-Liga,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2015-2016
 2016-03-01,Las Palmas,Getafe,4,0,NA,NA,15819,Mario Melero,https://fbref.com/en/matches/9df3fe48/Las-Palmas-Getafe-March-1-2016-La-Liga,1,1,5,0,11,5,14,22,20,0,0,4,1,10,2,12,24,12,2015-2016
-2016-03-02,Celta Vigo,Villarreal,0,0,NA,NA,15372,Santiago Jaime,https://fbref.com/en/matches/5c2339e4/Celta-Vigo-Villarreal-March-2-2016-La-Liga,0,0,2,0,11,4,17,16,8,0,0,5,0,6,3,7,26,18,2015-2016
-2016-03-02,Sevilla,Eibar,1,0,NA,NA,29627,Juan Martínez,https://fbref.com/en/matches/b7ea43e0/Sevilla-Eibar-March-2-2016-La-Liga,0,0,1,0,14,4,10,19,12,0,0,4,1,11,6,12,24,13,2015-2016
-2016-03-02,Athletic Club,La Coruña,4,1,NA,NA,37292,Antonio Matéu Lahoz,https://fbref.com/en/matches/682d3757/Athletic-Club-Deportivo-La-Coruna-March-2-2016-La-Liga,0,0,1,0,13,6,13,16,5,0,0,3,0,8,4,15,33,14,2015-2016
 2016-03-02,Málaga,Valencia,1,2,NA,NA,20556,José González,https://fbref.com/en/matches/661786dd/Malaga-Valencia-March-2-2016-La-Liga,0,0,6,0,11,1,11,22,19,0,0,5,0,12,2,14,16,16,2015-2016
+2016-03-02,Sevilla,Eibar,1,0,NA,NA,29627,Juan Martínez,https://fbref.com/en/matches/b7ea43e0/Sevilla-Eibar-March-2-2016-La-Liga,0,0,1,0,14,4,10,19,12,0,0,4,1,11,6,12,24,13,2015-2016
+2016-03-02,Celta Vigo,Villarreal,0,0,NA,NA,15372,Santiago Jaime,https://fbref.com/en/matches/5c2339e4/Celta-Vigo-Villarreal-March-2-2016-La-Liga,0,0,2,0,11,4,17,16,8,0,0,5,0,6,3,7,26,18,2015-2016
+2016-03-02,Athletic Club,La Coruña,4,1,NA,NA,37292,Antonio Matéu Lahoz,https://fbref.com/en/matches/682d3757/Athletic-Club-Deportivo-La-Coruna-March-2-2016-La-Liga,0,0,1,0,13,6,13,16,5,0,0,3,0,8,4,15,33,14,2015-2016
 2016-03-02,Levante,Real Madrid,1,3,NA,NA,19725,Ricardo de Burgos,https://fbref.com/en/matches/78e89fd0/Levante-Real-Madrid-March-2-2016-La-Liga,0,0,2,0,12,4,9,12,12,1,1,1,0,21,8,19,16,11,2015-2016
 2016-03-03,Granada,Sporting Gijón,2,0,NA,NA,15441,Javier Estrada,https://fbref.com/en/matches/5edba4ce/Granada-Sporting-Gijon-March-3-2016-La-Liga,1,1,7,0,13,8,15,19,25,0,0,5,1,4,0,11,23,13,2015-2016
 2016-03-03,Espanyol,Betis,0,3,NA,NA,23714,José Sánchez,https://fbref.com/en/matches/5c5782b0/Espanyol-Real-Betis-March-3-2016-La-Liga,0,0,4,0,15,3,17,12,20,0,0,2,0,9,6,12,22,13,2015-2016
@@ -275,8 +275,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-03-05,La Coruña,Málaga,3,3,NA,NA,18446,Carlos Velasco,https://fbref.com/en/matches/1f7e0faa/Deportivo-La-Coruna-Malaga-March-5-2016-La-Liga,0,0,5,0,14,7,9,18,11,0,0,4,1,5,2,6,15,13,2015-2016
 2016-03-06,Betis,Granada,2,0,NA,NA,43174,Ignacio Iglesias,https://fbref.com/en/matches/bb0a9f24/Real-Betis-Granada-March-6-2016-La-Liga,0,0,5,1,11,4,6,17,9,0,0,7,1,10,4,12,11,19,2015-2016
 2016-03-06,Eibar,Barcelona,0,4,NA,NA,6100,Alberto Undiano,https://fbref.com/en/matches/c1d583c3/Eibar-Barcelona-March-6-2016-La-Liga,0,0,3,0,7,0,10,18,18,1,1,2,0,10,7,12,18,10,2015-2016
-2016-03-06,Real Sociedad,Levante,1,1,NA,NA,18620,Pedro Pérez,https://fbref.com/en/matches/36ad4805/Real-Sociedad-Levante-March-6-2016-La-Liga,0,0,4,0,15,3,18,19,12,0,0,3,0,10,3,16,21,16,2015-2016
 2016-03-06,Sporting Gijón,Athletic Club,0,2,NA,NA,23605,Carlos del Cerro,https://fbref.com/en/matches/9f59fe13/Sporting-Gijon-Athletic-Club-March-6-2016-La-Liga,0,0,1,0,5,1,18,22,17,0,0,3,1,10,6,24,21,14,2015-2016
+2016-03-06,Real Sociedad,Levante,1,1,NA,NA,18620,Pedro Pérez,https://fbref.com/en/matches/36ad4805/Real-Sociedad-Levante-March-6-2016-La-Liga,0,0,4,0,15,3,18,19,12,0,0,3,0,10,3,16,21,16,2015-2016
 2016-03-06,Valencia,Atlético Madrid,1,3,NA,NA,40819,Alfonso Álvarez,https://fbref.com/en/matches/ec55aca5/Valencia-Atletico-Madrid-March-6-2016-La-Liga,0,0,3,1,11,4,15,32,13,0,0,1,0,20,5,20,14,11,2015-2016
 2016-03-07,Espanyol,Rayo Vallecano,2,1,NA,NA,22638,David Fernández,https://fbref.com/en/matches/ff26aaf2/Espanyol-Rayo-Vallecano-March-7-2016-La-Liga,0,0,5,1,9,8,12,20,16,0,0,4,0,7,1,12,18,15,2015-2016
 2016-03-11,Málaga,Sporting Gijón,1,0,NA,NA,19297,Ricardo de Burgos,https://fbref.com/en/matches/f4ed9073/Malaga-Sporting-Gijon-March-11-2016-La-Liga,0,0,2,0,13,3,16,29,8,0,0,4,0,9,4,12,23,13,2015-2016
@@ -291,8 +291,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-03-14,Granada,Espanyol,1,1,NA,NA,16231,José González,https://fbref.com/en/matches/77bcad08/Granada-Espanyol-March-14-2016-La-Liga,0,0,7,1,8,1,13,11,12,0,0,3,0,10,2,16,19,20,2015-2016
 2016-03-18,Getafe,Eibar,1,1,NA,NA,6557,Ignacio Iglesias,https://fbref.com/en/matches/4708c5e5/Getafe-Eibar-March-18-2016-La-Liga,0,0,1,0,8,4,22,18,12,0,0,2,0,20,6,12,19,13,2015-2016
 2016-03-19,Sporting Gijón,Atlético Madrid,2,1,NA,NA,24860,Jesús Gil,https://fbref.com/en/matches/db6abecc/Sporting-Gijon-Atletico-Madrid-March-19-2016-La-Liga,0,0,6,0,12,3,17,17,14,0,0,2,0,4,1,17,24,11,2015-2016
-2016-03-19,Granada,Rayo Vallecano,2,2,NA,NA,18848,Alejandro Hernández,https://fbref.com/en/matches/c1de37d7/Granada-Rayo-Vallecano-March-19-2016-La-Liga,1,1,3,1,11,2,22,21,8,0,0,5,0,22,6,11,19,10,2015-2016
 2016-03-19,Real Sociedad,Las Palmas,0,1,NA,NA,18952,Antonio Matéu Lahoz,https://fbref.com/en/matches/28e3cc9b/Real-Sociedad-Las-Palmas-March-19-2016-La-Liga,0,0,4,0,13,3,13,17,16,0,1,5,0,12,7,13,20,17,2015-2016
+2016-03-19,Granada,Rayo Vallecano,2,2,NA,NA,18848,Alejandro Hernández,https://fbref.com/en/matches/c1de37d7/Granada-Rayo-Vallecano-March-19-2016-La-Liga,1,1,3,1,11,2,22,21,8,0,0,5,0,22,6,11,19,10,2015-2016
 2016-03-19,La Coruña,Levante,2,1,NA,NA,24920,Iñaki Bikandi,https://fbref.com/en/matches/d24c563a/Deportivo-La-Coruna-Levante-March-19-2016-La-Liga,0,0,2,0,15,6,5,20,8,0,0,3,0,7,1,10,13,12,2015-2016
 2016-03-19,Betis,Málaga,0,1,NA,NA,31371,Carlos Clos Gómez,https://fbref.com/en/matches/78cc013c/Real-Betis-Malaga-March-19-2016-La-Liga,0,0,3,0,16,5,20,16,15,0,0,2,0,14,5,19,12,9,2015-2016
 2016-03-20,Espanyol,Athletic Club,2,1,NA,NA,20753,Eduardo Prieto ,https://fbref.com/en/matches/182edf3e/Espanyol-Athletic-Club-March-20-2016-La-Liga,0,0,3,0,17,7,19,17,7,0,0,3,0,14,4,11,15,14,2015-2016
@@ -314,7 +314,7 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-04-09,Espanyol,Atlético Madrid,1,3,NA,NA,26338,Ricardo de Burgos,https://fbref.com/en/matches/b3cea746/Espanyol-Atletico-Madrid-April-9-2016-La-Liga,0,0,2,0,11,5,20,22,13,0,0,2,0,14,5,13,30,14,2015-2016
 2016-04-09,Real Sociedad,Barcelona,1,0,NA,NA,27895,Ignacio Iglesias,https://fbref.com/en/matches/d88ae3a2/Real-Sociedad-Barcelona-April-9-2016-La-Liga,0,0,1,0,5,1,20,23,14,0,0,3,0,13,6,13,18,13,2015-2016
 2016-04-09,Betis,Levante,1,0,NA,NA,37091,Eduardo Prieto ,https://fbref.com/en/matches/37df8836/Real-Betis-Levante-April-9-2016-La-Liga,0,0,4,0,7,2,25,23,13,0,0,3,0,12,3,12,18,18,2015-2016
-2016-04-10,Sporting Gijón,Celta Vigo,0,1,NA,NA,24163,Antonio Matéu Lahoz,https://fbref.com/en/matches/ecbfbd06/Sporting-Gijon-Celta-Vigo-April-10-2016-La-Liga,0,0,2,0,10,2,17,24,7,0,0,5,0,17,5,11,23,11,2015-2016
+2016-04-10,Sporting Gijón,Celta Vigo,0,1,NA,NA,24163,Antonio Matéu Lahoz,https://fbref.com/en/matches/ecbfbd06/Sporting-Gijon-Celta-Vigo-April-10-2016-La-Liga,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2015-2016
 2016-04-10,Valencia,Sevilla,2,1,NA,NA,41569,Iñaki Bikandi,https://fbref.com/en/matches/5bcadd85/Valencia-Sevilla-April-10-2016-La-Liga,0,0,2,0,23,8,10,19,16,0,0,2,0,7,4,15,20,18,2015-2016
 2016-04-10,Villarreal,Getafe,2,0,NA,NA,17570,Alberto Undiano,https://fbref.com/en/matches/04f08c01/Villarreal-Getafe-April-10-2016-La-Liga,0,0,2,0,13,3,16,33,9,0,0,2,0,17,3,16,31,12,2015-2016
 2016-04-10,Athletic Club,Rayo Vallecano,1,0,NA,NA,37597,Jesús Gil,https://fbref.com/en/matches/5a3795b1/Athletic-Club-Rayo-Vallecano-April-10-2016-La-Liga,0,0,1,0,14,7,19,17,8,0,0,3,0,12,4,13,22,14,2015-2016
@@ -326,16 +326,16 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-04-16,Celta Vigo,Betis,1,1,NA,NA,14934,Ricardo de Burgos,https://fbref.com/en/matches/751b9571/Celta-Vigo-Real-Betis-April-16-2016-La-Liga,0,0,4,0,18,5,16,11,14,0,0,3,0,9,4,21,21,18,2015-2016
 2016-04-17,Málaga,Athletic Club,0,1,NA,NA,25052,José Sánchez,https://fbref.com/en/matches/47d1d0d9/Malaga-Athletic-Club-April-17-2016-La-Liga,0,0,3,0,17,7,10,17,13,0,0,5,0,6,3,16,34,14,2015-2016
 2016-04-17,Sevilla,La Coruña,1,1,NA,NA,30390,Santiago Jaime,https://fbref.com/en/matches/85b01b9a/Sevilla-Deportivo-La-Coruna-April-17-2016-La-Liga,0,0,2,0,11,3,6,13,15,0,0,2,0,5,4,13,24,8,2015-2016
-2016-04-17,Atlético Madrid,Granada,3,0,NA,NA,51136,Eduardo Prieto ,https://fbref.com/en/matches/ff03ec5f/Atletico-Madrid-Granada-April-17-2016-La-Liga,0,0,3,0,8,3,21,17,16,0,0,5,0,11,0,12,22,14,2015-2016
 2016-04-17,Rayo Vallecano,Villarreal,2,1,NA,NA,12628,Ignacio Iglesias,https://fbref.com/en/matches/a9cea6f7/Rayo-Vallecano-Villarreal-April-17-2016-La-Liga,0,0,2,0,14,6,16,25,14,0,0,4,0,6,2,18,16,15,2015-2016
+2016-04-17,Atlético Madrid,Granada,3,0,NA,NA,51136,Eduardo Prieto ,https://fbref.com/en/matches/ff03ec5f/Atletico-Madrid-Granada-April-17-2016-La-Liga,0,0,3,0,8,3,21,17,16,0,0,5,0,11,0,12,22,14,2015-2016
 2016-04-17,Barcelona,Valencia,1,2,NA,NA,88667,David Fernández,https://fbref.com/en/matches/deb6b433/Barcelona-Valencia-April-17-2016-La-Liga,0,0,3,0,22,7,16,13,12,0,0,3,0,7,2,14,25,15,2015-2016
 2016-04-19,Espanyol,Celta Vigo,1,1,NA,NA,14227,Eduardo Prieto ,https://fbref.com/en/matches/5d2c566d/Espanyol-Celta-Vigo-April-19-2016-La-Liga,0,0,1,0,8,3,20,40,15,0,0,1,0,3,1,20,25,13,2015-2016
 2016-04-19,Betis,Las Palmas,1,0,NA,NA,30634,Iñaki Bikandi,https://fbref.com/en/matches/512959e1/Real-Betis-Las-Palmas-April-19-2016-La-Liga,0,0,2,0,20,6,18,17,14,0,0,3,1,3,0,8,18,12,2015-2016
 2016-04-20,La Coruña,Barcelona,0,8,NA,NA,28956,Ricardo de Burgos,https://fbref.com/en/matches/7412ec7a/Deportivo-La-Coruna-Barcelona-April-20-2016-La-Liga,0,0,1,0,16,6,10,14,11,0,0,0,0,19,10,7,17,8,2015-2016
-2016-04-20,Málaga,Rayo Vallecano,1,1,NA,NA,13759,Alberto Undiano,https://fbref.com/en/matches/debe0c30/Malaga-Rayo-Vallecano-April-20-2016-La-Liga,0,0,1,0,12,4,18,18,19,0,0,3,0,11,4,16,16,13,2015-2016
-2016-04-20,Valencia,Eibar,4,0,NA,NA,34309,Javier Estrada,https://fbref.com/en/matches/42fb875f/Valencia-Eibar-April-20-2016-La-Liga,0,1,1,0,9,6,13,22,11,0,0,2,0,10,3,18,16,8,2015-2016
 2016-04-20,Sporting Gijón,Sevilla,2,1,NA,NA,22985,José González,https://fbref.com/en/matches/daa3b26c/Sporting-Gijon-Sevilla-April-20-2016-La-Liga,0,0,2,0,14,2,16,37,9,0,0,1,0,18,8,12,29,16,2015-2016
+2016-04-20,Málaga,Rayo Vallecano,1,1,NA,NA,13759,Alberto Undiano,https://fbref.com/en/matches/debe0c30/Malaga-Rayo-Vallecano-April-20-2016-La-Liga,0,0,1,0,12,4,18,18,19,0,0,3,0,11,4,16,16,13,2015-2016
 2016-04-20,Athletic Club,Atlético Madrid,0,1,NA,NA,44474,Juan Martínez,https://fbref.com/en/matches/73dcdb16/Athletic-Club-Atletico-Madrid-April-20-2016-La-Liga,0,0,0,0,12,6,21,24,9,0,0,0,0,8,2,16,39,7,2015-2016
+2016-04-20,Valencia,Eibar,4,0,NA,NA,34309,Javier Estrada,https://fbref.com/en/matches/42fb875f/Valencia-Eibar-April-20-2016-La-Liga,0,1,1,0,9,6,13,22,11,0,0,2,0,10,3,18,16,8,2015-2016
 2016-04-20,Real Madrid,Villarreal,3,0,NA,NA,62678,Carlos Clos Gómez,https://fbref.com/en/matches/2a2d5dad/Real-Madrid-Villarreal-April-20-2016-La-Liga,0,0,2,0,20,6,10,18,9,0,0,1,0,5,2,11,17,8,2015-2016
 2016-04-21,Real Sociedad,Getafe,1,2,NA,NA,14334,José Sánchez,https://fbref.com/en/matches/b38bb4f6/Real-Sociedad-Getafe-April-21-2016-La-Liga,0,0,2,0,14,5,20,26,10,1,1,4,0,7,3,21,27,17,2015-2016
 2016-04-21,Granada,Levante,5,1,NA,NA,21131,Santiago Jaime,https://fbref.com/en/matches/4fd96bff/Granada-Levante-April-21-2016-La-Liga,2,2,6,0,13,6,16,17,16,0,0,8,1,15,5,8,14,11,2015-2016
@@ -352,7 +352,7 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-04-29,Sporting Gijón,Eibar,2,0,NA,NA,26035,Alejandro Hernández,https://fbref.com/en/matches/84578a22/Sporting-Gijon-Eibar-April-29-2016-La-Liga,0,0,2,0,3,3,14,24,16,0,0,2,0,12,6,13,25,17,2015-2016
 2016-04-30,Real Sociedad,Real Madrid,0,1,NA,NA,26426,Alberto Undiano,https://fbref.com/en/matches/b3a2c82d/Real-Sociedad-Real-Madrid-April-30-2016-La-Liga,0,0,4,0,11,4,19,23,15,0,0,4,0,18,6,14,10,17,2015-2016
 2016-04-30,Atlético Madrid,Rayo Vallecano,1,0,NA,NA,49263,José Sánchez,https://fbref.com/en/matches/6dca6e67/Atletico-Madrid-Rayo-Vallecano-April-30-2016-La-Liga,0,0,1,0,12,6,19,28,14,0,0,1,0,13,2,17,16,12,2015-2016
-2016-04-30,Betis,Barcelona,0,2,NA,NA,40467,Antonio Matéu Lahoz,https://fbref.com/en/matches/b5e9cec0/Real-Betis-Barcelona-April-30-2016-La-Liga,0,0,5,1,2,1,15,15,9,0,0,3,0,11,4,13,9,11,2015-2016
+2016-04-30,Betis,Barcelona,0,2,NA,NA,40467,Antonio Matéu Lahoz,https://fbref.com/en/matches/b5e9cec0/Real-Betis-Barcelona-April-30-2016-La-Liga,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2015-2016
 2016-04-30,Granada,Las Palmas,3,2,NA,NA,21291,José González,https://fbref.com/en/matches/dc734a6d/Granada-Las-Palmas-April-30-2016-La-Liga,0,0,3,0,14,5,12,26,11,0,0,2,0,12,6,12,14,9,2015-2016
 2016-05-01,Athletic Club,Celta Vigo,2,1,NA,NA,42362,Javier Estrada,https://fbref.com/en/matches/03c3b700/Athletic-Club-Celta-Vigo-May-1-2016-La-Liga,1,1,1,0,10,2,12,13,12,0,0,5,2,5,2,5,21,19,2015-2016
 2016-05-01,Espanyol,Sevilla,1,0,NA,NA,27654,Juan Martínez,https://fbref.com/en/matches/f18a763c/Espanyol-Sevilla-May-1-2016-La-Liga,0,0,3,0,11,7,17,22,20,0,0,2,0,7,0,13,12,15,2015-2016
@@ -360,18 +360,18 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-05-01,Valencia,Villarreal,0,2,NA,NA,38283,Carlos del Cerro,https://fbref.com/en/matches/481e0989/Valencia-Villarreal-May-1-2016-La-Liga,0,0,1,0,7,1,12,23,15,0,0,2,0,8,3,20,15,11,2015-2016
 2016-05-02,Málaga,Levante,3,1,NA,NA,17562,Iñaki Bikandi,https://fbref.com/en/matches/4d382252/Malaga-Levante-May-2-2016-La-Liga,0,0,2,0,22,11,15,21,18,0,0,4,0,11,5,14,14,10,2015-2016
 2016-05-08,Las Palmas,Athletic Club,0,0,NA,NA,27410,Pedro Pérez,https://fbref.com/en/matches/62b3f42a/Las-Palmas-Athletic-Club-May-8-2016-La-Liga,0,0,1,0,4,2,14,22,9,0,0,1,0,9,3,21,22,18,2015-2016
-2016-05-08,Villarreal,La Coruña,0,2,NA,NA,13247,Javier Estrada,https://fbref.com/en/matches/e09d8954/Villarreal-Deportivo-La-Coruna-May-8-2016-La-Liga,0,0,3,0,10,4,7,9,14,0,0,1,0,8,4,15,11,4,2015-2016
-2016-05-08,Real Madrid,Valencia,3,2,NA,NA,72987,David Fernández,https://fbref.com/en/matches/18ddba6d/Real-Madrid-Valencia-May-8-2016-La-Liga,0,0,1,0,15,8,21,15,10,0,0,4,1,17,8,8,20,11,2015-2016
-2016-05-08,Getafe,Sporting Gijón,1,1,NA,NA,13028,Alfonso Álvarez,https://fbref.com/en/matches/995e719a/Getafe-Sporting-Gijon-May-8-2016-La-Liga,0,0,3,0,19,9,9,10,15,0,0,3,1,9,3,16,8,13,2015-2016
-2016-05-08,Barcelona,Espanyol,5,0,NA,NA,91610,Jesús Gil,https://fbref.com/en/matches/7363a1b9/Barcelona-Espanyol-May-8-2016-La-Liga,0,0,3,0,13,7,11,12,15,0,0,7,0,4,2,24,13,25,2015-2016
-2016-05-08,Celta Vigo,Málaga,1,0,NA,NA,20040,Carlos del Cerro,https://fbref.com/en/matches/c69bf983/Celta-Vigo-Malaga-May-8-2016-La-Liga,0,0,0,0,12,3,15,24,11,0,0,2,0,13,5,14,26,10,2015-2016
-2016-05-08,Eibar,Betis,1,1,NA,NA,5165,Juan Martínez,https://fbref.com/en/matches/b997c5dd/Eibar-Real-Betis-May-8-2016-La-Liga,0,0,1,0,21,10,18,13,15,0,0,3,0,6,3,8,35,9,2015-2016
 2016-05-08,Sevilla,Granada,1,4,NA,NA,21915,Alberto Undiano,https://fbref.com/en/matches/ec07c33b/Sevilla-Granada-May-8-2016-La-Liga,0,0,4,0,12,6,16,12,18,1,1,1,0,11,7,17,16,11,2015-2016
-2016-05-08,Real Sociedad,Rayo Vallecano,2,1,NA,NA,18873,Santiago Jaime,https://fbref.com/en/matches/db5c6522/Real-Sociedad-Rayo-Vallecano-May-8-2016-La-Liga,0,0,2,1,12,6,14,21,7,0,0,1,0,18,5,21,11,12,2015-2016
+2016-05-08,Celta Vigo,Málaga,1,0,NA,NA,20040,Carlos del Cerro,https://fbref.com/en/matches/c69bf983/Celta-Vigo-Malaga-May-8-2016-La-Liga,0,0,0,0,12,3,15,24,11,0,0,2,0,13,5,14,26,10,2015-2016
 2016-05-08,Levante,Atlético Madrid,2,1,NA,NA,12054,José González,https://fbref.com/en/matches/f122a7e1/Levante-Atletico-Madrid-May-8-2016-La-Liga,0,0,1,0,11,5,11,20,8,0,0,1,0,17,5,19,14,11,2015-2016
-2016-05-13,Valencia,Real Sociedad,0,1,NA,NA,27732,Carlos Velasco,https://fbref.com/en/matches/f123594e/Valencia-Real-Sociedad-May-13-2016-La-Liga,0,0,2,0,8,0,14,18,18,0,0,2,0,14,7,16,36,12,2015-2016
-2016-05-14,Granada,Barcelona,0,3,NA,NA,21692,Alejandro Hernández,https://fbref.com/en/matches/2de83512/Granada-Barcelona-May-14-2016-La-Liga,0,0,5,0,8,2,14,16,12,0,0,2,0,12,10,15,9,10,2015-2016
+2016-05-08,Getafe,Sporting Gijón,1,1,NA,NA,13028,Alfonso Álvarez,https://fbref.com/en/matches/995e719a/Getafe-Sporting-Gijon-May-8-2016-La-Liga,0,0,3,0,19,9,9,10,15,0,0,3,1,9,3,16,8,13,2015-2016
+2016-05-08,Real Sociedad,Rayo Vallecano,2,1,NA,NA,18873,Santiago Jaime,https://fbref.com/en/matches/db5c6522/Real-Sociedad-Rayo-Vallecano-May-8-2016-La-Liga,0,0,2,1,12,6,14,21,7,0,0,1,0,18,5,21,11,12,2015-2016
+2016-05-08,Real Madrid,Valencia,3,2,NA,NA,72987,David Fernández,https://fbref.com/en/matches/18ddba6d/Real-Madrid-Valencia-May-8-2016-La-Liga,0,0,1,0,15,8,21,15,10,0,0,4,1,17,8,8,20,11,2015-2016
+2016-05-08,Eibar,Betis,1,1,NA,NA,5165,Juan Martínez,https://fbref.com/en/matches/b997c5dd/Eibar-Real-Betis-May-8-2016-La-Liga,0,0,1,0,21,10,18,13,15,0,0,3,0,6,3,8,35,9,2015-2016
+2016-05-08,Barcelona,Espanyol,5,0,NA,NA,91610,Jesús Gil,https://fbref.com/en/matches/7363a1b9/Barcelona-Espanyol-May-8-2016-La-Liga,0,0,3,0,13,7,11,12,15,0,0,7,0,4,2,24,13,25,2015-2016
+2016-05-08,Villarreal,La Coruña,0,2,NA,NA,13247,Javier Estrada,https://fbref.com/en/matches/e09d8954/Villarreal-Deportivo-La-Coruna-May-8-2016-La-Liga,0,0,3,0,10,4,7,9,14,0,0,1,0,8,4,15,11,4,2015-2016
+2016-05-13,Valencia,Real Sociedad,0,1,NA,NA,27732,Carlos Velasco,https://fbref.com/en/matches/f123594e/Valencia-Real-Sociedad-May-13-2016-La-Liga,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2015-2016
 2016-05-14,La Coruña,Real Madrid,0,2,NA,NA,29017,Antonio Matéu Lahoz,https://fbref.com/en/matches/79261158/Deportivo-La-Coruna-Real-Madrid-May-14-2016-La-Liga,0,0,1,0,10,2,10,15,6,0,0,4,0,17,5,10,16,9,2015-2016
+2016-05-14,Granada,Barcelona,0,3,NA,NA,21692,Alejandro Hernández,https://fbref.com/en/matches/2de83512/Granada-Barcelona-May-14-2016-La-Liga,0,0,5,0,8,2,14,16,12,0,0,2,0,12,10,15,9,10,2015-2016
 2016-05-14,Athletic Club,Sevilla,3,1,NA,NA,43876,Alfonso Álvarez,https://fbref.com/en/matches/777dce5e/Athletic-Club-Sevilla-May-14-2016-La-Liga,0,0,1,1,13,6,14,10,13,0,0,3,2,9,5,17,14,11,2015-2016
 2016-05-14,Atlético Madrid,Celta Vigo,2,0,NA,NA,42139,David Fernández,https://fbref.com/en/matches/54d76272/Atletico-Madrid-Celta-Vigo-May-14-2016-La-Liga,0,0,4,0,12,5,24,15,16,0,0,5,0,7,4,16,26,17,2015-2016
 2016-05-15,Málaga,Las Palmas,4,1,NA,NA,17913,Ricardo de Burgos,https://fbref.com/en/matches/2fed3b31/Malaga-Las-Palmas-May-15-2016-La-Liga,1,1,1,0,14,8,9,11,16,0,0,1,0,12,7,10,22,10,2015-2016

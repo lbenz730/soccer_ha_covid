@@ -2,8 +2,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-03-11,Aalesund,Stabæk,1,0,NA,NA,5941,Tore Hansen,https://fbref.com/en/matches/3d9fcfc0/Aalesund-Stabaek-March-11-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-03-12,Odd,Rosenborg,1,0,NA,NA,9144,Tom Hagen,https://fbref.com/en/matches/3281d66a/Odd-Rosenborg-March-12-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-03-13,Molde,Tromsø,1,1,NA,NA,7745,Ola Nilsen,https://fbref.com/en/matches/011d4f5e/Molde-Tromso-March-13-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
-2016-03-13,Bodø/Glimt,Sogndal,2,0,NA,NA,2398,Dag Vidar Hafsås,https://fbref.com/en/matches/c46acb3f/BodoGlimt-Sogndal-March-13-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-03-13,Sarpsborg 08,Haugesund,0,1,NA,NA,3535,Martin Lundby,https://fbref.com/en/matches/819f655e/Sarpsborg-08-Haugesund-March-13-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
+2016-03-13,Bodø/Glimt,Sogndal,2,0,NA,NA,2398,Dag Vidar Hafsås,https://fbref.com/en/matches/c46acb3f/BodoGlimt-Sogndal-March-13-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-03-13,Strømsgodset,Brann,2,2,NA,NA,7394,Svein Oddvar Moen,https://fbref.com/en/matches/a58c9d67/Stromsgodset-Brann-March-13-2016-Tippeligaen,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-03-13,Start,Lillestrøm,1,1,NA,NA,3623,Svein Erik Edvartsen,https://fbref.com/en/matches/0278fbf3/Start-Lillestrom-March-13-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-03-14,Vålerenga,Viking,0,2,NA,NA,7573,Kim Andre Johnsen,https://fbref.com/en/matches/20ffb2ff/Valerenga-Viking-March-14-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
@@ -11,94 +11,94 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-03-19,Haugesund,Aalesund,3,0,NA,NA,5168,Trond Døvle,https://fbref.com/en/matches/ad5e4386/Haugesund-Aalesund-March-19-2016-Tippeligaen,0,0,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-03-19,Rosenborg,Strømsgodset,1,0,NA,NA,16663,Tommy Skjerven,https://fbref.com/en/matches/d0faf5b7/Rosenborg-Stromsgodset-March-19-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-03-20,Sogndal,Vålerenga,1,0,NA,NA,3453,Kai Erik Steen,https://fbref.com/en/matches/a262119e/Sogndal-Valerenga-March-20-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
-2016-03-20,Viking,Sarpsborg 08,0,0,NA,NA,8536,Ola Nilsen,https://fbref.com/en/matches/086eab3a/Viking-Sarpsborg-08-March-20-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-03-20,Lillestrøm,Bodø/Glimt,1,1,NA,NA,4761,Martin Lundby,https://fbref.com/en/matches/79d73c29/Lillestrom-BodoGlimt-March-20-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-03-20,Brann,Odd,0,0,NA,NA,11495,Tore Hansen,https://fbref.com/en/matches/e925a56f/Brann-Odd-March-20-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
+2016-03-20,Viking,Sarpsborg 08,0,0,NA,NA,8536,Ola Nilsen,https://fbref.com/en/matches/086eab3a/Viking-Sarpsborg-08-March-20-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-03-20,Stabæk,Molde,1,2,NA,NA,3289,Svein Oddvar Moen,https://fbref.com/en/matches/651f7046/Stabaek-Molde-March-20-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-04-01,Molde,Lillestrøm,4,2,NA,NA,7693,Dag Vidar Hafsås,https://fbref.com/en/matches/bfd87965/Molde-Lillestrom-April-1-2016-Tippeligaen,1,1,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
 2016-04-02,Start,Viking,0,1,NA,NA,6112,Trygve Kjensli,https://fbref.com/en/matches/3e31e521/Start-Viking-April-2-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-04-02,Vålerenga,Rosenborg,0,2,NA,NA,15146,Svein Oddvar Moen,https://fbref.com/en/matches/d4c223dd/Valerenga-Rosenborg-April-2-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-04-03,Odd,Tromsø,0,0,NA,NA,7002,Trond Døvle,https://fbref.com/en/matches/fd58c125/Odd-Tromso-April-3-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-04-03,Sarpsborg 08,Sogndal,0,0,NA,NA,3308,Svein Erik Edvartsen,https://fbref.com/en/matches/2708378b/Sarpsborg-08-Sogndal-April-3-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
-2016-04-03,Aalesund,Brann,1,2,NA,NA,10013,Tom Hagen,https://fbref.com/en/matches/8b83ba2a/Aalesund-Brann-April-3-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
 2016-04-03,Bodø/Glimt,Stabæk,3,1,NA,NA,2980,Tommy Skjerven,https://fbref.com/en/matches/d07a6032/BodoGlimt-Stabaek-April-3-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
+2016-04-03,Aalesund,Brann,1,2,NA,NA,10013,Tom Hagen,https://fbref.com/en/matches/8b83ba2a/Aalesund-Brann-April-3-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
 2016-04-03,Strømsgodset,Haugesund,2,0,NA,NA,6095,Kim Andre Johnsen,https://fbref.com/en/matches/6c321d4b/Stromsgodset-Haugesund-April-3-2016-Tippeligaen,0,1,3,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,2016
 2016-04-08,Sogndal,Haugesund,1,0,NA,NA,2753,Tore Hansen,https://fbref.com/en/matches/8af46d1c/Sogndal-Haugesund-April-8-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-04-09,Lillestrøm,Sarpsborg 08,4,0,NA,NA,6073,Svein Oddvar Moen,https://fbref.com/en/matches/fce550b4/Lillestrom-Sarpsborg-08-April-9-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-04-09,Stabæk,Vålerenga,2,1,NA,NA,4151,Svein Erik Edvartsen,https://fbref.com/en/matches/0280054a/Stabaek-Valerenga-April-9-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-04-10,Brann,Bodø/Glimt,1,0,NA,NA,11886,Ola Nilsen,https://fbref.com/en/matches/c7873d17/Brann-BodoGlimt-April-10-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
-2016-04-10,Tromsø,Strømsgodset,2,0,NA,NA,3423,Martin Lundby,https://fbref.com/en/matches/f56c29a7/Tromso-Stromsgodset-April-10-2016-Tippeligaen,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
-2016-04-10,Rosenborg,Aalesund,1,0,NA,NA,16996,Kim Andre Johnsen,https://fbref.com/en/matches/e9176787/Rosenborg-Aalesund-April-10-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
 2016-04-10,Start,Molde,1,1,NA,NA,4209,Espen Andreas Eskås,https://fbref.com/en/matches/bb28c284/Start-Molde-April-10-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016
+2016-04-10,Rosenborg,Aalesund,1,0,NA,NA,16996,Kim Andre Johnsen,https://fbref.com/en/matches/e9176787/Rosenborg-Aalesund-April-10-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
+2016-04-10,Tromsø,Strømsgodset,2,0,NA,NA,3423,Martin Lundby,https://fbref.com/en/matches/f56c29a7/Tromso-Stromsgodset-April-10-2016-Tippeligaen,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-04-10,Viking,Odd,0,2,NA,NA,7995,Tommy Skjerven,https://fbref.com/en/matches/d7ef2b25/Viking-Odd-April-10-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-04-15,Haugesund,Lillestrøm,2,2,NA,NA,4475,Ola Nilsen,https://fbref.com/en/matches/df08b4a6/Haugesund-Lillestrom-April-15-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-04-16,Strømsgodset,Sogndal,2,1,NA,NA,6947,Espen Andreas Eskås,https://fbref.com/en/matches/a5ad8c85/Stromsgodset-Sogndal-April-16-2016-Tippeligaen,0,1,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2016
 2016-04-16,Rosenborg,Brann,3,0,NA,NA,6947,Trygve Kjensli,https://fbref.com/en/matches/27e83c63/Rosenborg-Brann-April-16-2016-Tippeligaen,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-04-17,Bodø/Glimt,Molde,1,2,NA,NA,3407,Tore Hansen,https://fbref.com/en/matches/1f144d1a/BodoGlimt-Molde-April-17-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2016
-2016-04-17,Vålerenga,Tromsø,4,0,NA,NA,7047,Tom Hagen,https://fbref.com/en/matches/b151aac0/Valerenga-Tromso-April-17-2016-Tippeligaen,1,1,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
 2016-04-17,Sarpsborg 08,Stabæk,1,1,NA,NA,3296,Dag Vidar Hafsås,https://fbref.com/en/matches/7f43d2a2/Sarpsborg-08-Stabaek-April-17-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-04-17,Aalesund,Viking,1,2,NA,NA,5798,Trond Døvle,https://fbref.com/en/matches/31d09f71/Aalesund-Viking-April-17-2016-Tippeligaen,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
+2016-04-17,Vålerenga,Tromsø,4,0,NA,NA,7047,Tom Hagen,https://fbref.com/en/matches/b151aac0/Valerenga-Tromso-April-17-2016-Tippeligaen,1,1,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
 2016-04-17,Odd,Start,3,0,NA,NA,6440,Kai Erik Steen,https://fbref.com/en/matches/50925d58/Odd-Start-April-17-2016-Tippeligaen,0,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
-2016-04-20,Stabæk,Strømsgodset,0,1,NA,NA,3807,Tom Hagen,https://fbref.com/en/matches/fb8ce563/Stabaek-Stromsgodset-April-20-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2016
-2016-04-20,Bodø/Glimt,Haugesund,3,4,NA,NA,2867,Trygve Kjensli,https://fbref.com/en/matches/03677b86/BodoGlimt-Haugesund-April-20-2016-Tippeligaen,1,2,1,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2016
 2016-04-20,Sogndal,Odd,0,1,NA,NA,2688,Martin Lundby,https://fbref.com/en/matches/c1dd7fa7/Sogndal-Odd-April-20-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2016
+2016-04-20,Stabæk,Strømsgodset,0,1,NA,NA,3807,Tom Hagen,https://fbref.com/en/matches/fb8ce563/Stabaek-Stromsgodset-April-20-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2016
 2016-04-20,Viking,Brann,0,1,NA,NA,11089,Dag Vidar Hafsås,https://fbref.com/en/matches/cb2634d2/Viking-Brann-April-20-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
-2016-04-21,Molde,Vålerenga,4,0,NA,NA,7775,Tommy Skjerven,https://fbref.com/en/matches/bf0b2798/Molde-Valerenga-April-21-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
+2016-04-20,Bodø/Glimt,Haugesund,3,4,NA,NA,2867,Trygve Kjensli,https://fbref.com/en/matches/03677b86/BodoGlimt-Haugesund-April-20-2016-Tippeligaen,1,2,1,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2016
 2016-04-21,Lillestrøm,Aalesund,1,1,NA,NA,4774,Kai Erik Steen,https://fbref.com/en/matches/1b74da47/Lillestrom-Aalesund-April-21-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
-2016-04-21,Tromsø,Rosenborg,1,2,NA,NA,5518,Tore Hansen,https://fbref.com/en/matches/c6a4db78/Tromso-Rosenborg-April-21-2016-Tippeligaen,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
+2016-04-21,Molde,Vålerenga,4,0,NA,NA,7775,Tommy Skjerven,https://fbref.com/en/matches/bf0b2798/Molde-Valerenga-April-21-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
 2016-04-21,Start,Sarpsborg 08,1,4,NA,NA,3692,Trond Døvle,https://fbref.com/en/matches/aa029ebb/Start-Sarpsborg-08-April-21-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
+2016-04-21,Tromsø,Rosenborg,1,2,NA,NA,5518,Tore Hansen,https://fbref.com/en/matches/c6a4db78/Tromso-Rosenborg-April-21-2016-Tippeligaen,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-04-23,Strømsgodset,Bodø/Glimt,2,0,NA,NA,6816,Svein Erik Edvartsen,https://fbref.com/en/matches/c8f21a7b/Stromsgodset-BodoGlimt-April-23-2016-Tippeligaen,1,1,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-04-23,Brann,Sogndal,2,0,NA,NA,11628,Trond Døvle,https://fbref.com/en/matches/2a0e971b/Brann-Sogndal-April-23-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-04-24,Sarpsborg 08,Molde,4,0,NA,NA,3400,Kim Andre Johnsen,https://fbref.com/en/matches/2df9d2ab/Sarpsborg-08-Molde-April-24-2016-Tippeligaen,1,1,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-04-24,Rosenborg,Viking,4,0,NA,NA,15985,Ola Nilsen,https://fbref.com/en/matches/1cbe666f/Rosenborg-Viking-April-24-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
-2016-04-24,Aalesund,Tromsø,6,0,NA,NA,5215,Espen Andreas Eskås,https://fbref.com/en/matches/b70e923c/Aalesund-Tromso-April-24-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-04-24,Odd,Lillestrøm,1,3,NA,NA,7322,Trygve Kjensli,https://fbref.com/en/matches/82b61f67/Odd-Lillestrom-April-24-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
+2016-04-24,Aalesund,Tromsø,6,0,NA,NA,5215,Espen Andreas Eskås,https://fbref.com/en/matches/b70e923c/Aalesund-Tromso-April-24-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-04-24,Vålerenga,Start,2,0,NA,NA,6379,Svein Oddvar Moen,https://fbref.com/en/matches/fb0b6630/Valerenga-Start-April-24-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-04-25,Haugesund,Stabæk,3,1,NA,NA,4438,Tommy Skjerven,https://fbref.com/en/matches/5579deb3/Haugesund-Stabaek-April-25-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-04-30,Lillestrøm,Vålerenga,2,0,NA,NA,9085,Svein Erik Edvartsen,https://fbref.com/en/matches/241a50d0/Lillestrom-Valerenga-April-30-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-04-30,Molde,Aalesund,1,0,NA,NA,9661,Svein Oddvar Moen,https://fbref.com/en/matches/efaaefba/Molde-Aalesund-April-30-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-05-01,Viking,Haugesund,3,2,NA,NA,9032,Tore Hansen,https://fbref.com/en/matches/2df658e3/Viking-Haugesund-May-1-2016-Tippeligaen,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016
-2016-05-01,Start,Strømsgodset,2,2,NA,NA,4248,Trygve Kjensli,https://fbref.com/en/matches/89ea6d80/Start-Stromsgodset-May-1-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-05-01,Sogndal,Rosenborg,1,1,NA,NA,4082,Tom Hagen,https://fbref.com/en/matches/47d797fa/Sogndal-Rosenborg-May-1-2016-Tippeligaen,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-05-01,Tromsø,Brann,1,0,NA,NA,4030,Tommy Skjerven,https://fbref.com/en/matches/df9610e8/Tromso-Brann-May-1-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
+2016-05-01,Start,Strømsgodset,2,2,NA,NA,4248,Trygve Kjensli,https://fbref.com/en/matches/89ea6d80/Start-Stromsgodset-May-1-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-05-01,Stabæk,Odd,1,2,NA,NA,3301,Kim Andre Johnsen,https://fbref.com/en/matches/3ed8d242/Stabaek-Odd-May-1-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-05-02,Bodø/Glimt,Sarpsborg 08,0,2,NA,NA,2905,Kai Erik Steen,https://fbref.com/en/matches/c94a6f49/BodoGlimt-Sarpsborg-08-May-2-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-05-07,Viking,Tromsø,2,0,NA,NA,7302,Kai Erik Steen,https://fbref.com/en/matches/93ca0b27/Viking-Tromso-May-7-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-05-07,Strømsgodset,Lillestrøm,3,1,NA,NA,6637,Tom Hagen,https://fbref.com/en/matches/6f35f557/Stromsgodset-Lillestrom-May-7-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-05-07,Brann,Start,1,0,NA,NA,9767,Espen Andreas Eskås,https://fbref.com/en/matches/76482ad4/Brann-Start-May-7-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-05-08,Odd,Bodø/Glimt,2,1,NA,NA,7221,Svein Oddvar Moen,https://fbref.com/en/matches/8fdf17e4/Odd-BodoGlimt-May-8-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
-2016-05-08,Vålerenga,Sarpsborg 08,3,0,NA,NA,6916,Tore Hansen,https://fbref.com/en/matches/d362538d/Valerenga-Sarpsborg-08-May-8-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-05-08,Rosenborg,Stabæk,3,1,NA,NA,17133,Trond Døvle,https://fbref.com/en/matches/3133aaee/Rosenborg-Stabaek-May-8-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
 2016-05-08,Aalesund,Sogndal,1,4,NA,NA,5408,Ola Nilsen,https://fbref.com/en/matches/2819ab26/Aalesund-Sogndal-May-8-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
+2016-05-08,Vålerenga,Sarpsborg 08,3,0,NA,NA,6916,Tore Hansen,https://fbref.com/en/matches/d362538d/Valerenga-Sarpsborg-08-May-8-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-05-08,Haugesund,Molde,3,3,NA,NA,4784,Martin Lundby,https://fbref.com/en/matches/1749c237/Haugesund-Molde-May-8-2016-Tippeligaen,1,1,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2016
-2016-05-11,Molde,Strømsgodset,4,2,NA,NA,7947,Trygve Kjensli,https://fbref.com/en/matches/05caf21e/Molde-Stromsgodset-May-11-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
-2016-05-11,Bodø/Glimt,Vålerenga,0,0,NA,NA,2898,Tommy Skjerven,https://fbref.com/en/matches/6958e958/BodoGlimt-Valerenga-May-11-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-05-11,Lillestrøm,Brann,1,0,NA,NA,5317,Kim Andre Johnsen,https://fbref.com/en/matches/d189f4aa/Lillestrom-Brann-May-11-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
+2016-05-11,Bodø/Glimt,Vålerenga,0,0,NA,NA,2898,Tommy Skjerven,https://fbref.com/en/matches/6958e958/BodoGlimt-Valerenga-May-11-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
+2016-05-11,Molde,Strømsgodset,4,2,NA,NA,7947,Trygve Kjensli,https://fbref.com/en/matches/05caf21e/Molde-Stromsgodset-May-11-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-05-11,Haugesund,Odd,3,1,NA,NA,4081,Kai Erik Steen,https://fbref.com/en/matches/40be81a4/Haugesund-Odd-May-11-2016-Tippeligaen,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
-2016-05-12,Stabæk,Viking,1,0,NA,NA,3289,Tore Hansen,https://fbref.com/en/matches/932e6d33/Stabaek-Viking-May-12-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-05-12,Sarpsborg 08,Aalesund,1,0,NA,NA,3540,Tom Hagen,https://fbref.com/en/matches/7e81492f/Sarpsborg-08-Aalesund-May-12-2016-Tippeligaen,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
+2016-05-12,Stabæk,Viking,1,0,NA,NA,3289,Tore Hansen,https://fbref.com/en/matches/932e6d33/Stabaek-Viking-May-12-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-05-12,Start,Rosenborg,0,2,NA,NA,5006,Ola Nilsen,https://fbref.com/en/matches/4781a0d8/Start-Rosenborg-May-12-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-05-12,Sogndal,Tromsø,0,0,NA,NA,2639,Svein Oddvar Moen,https://fbref.com/en/matches/6f83de11/Sogndal-Tromso-May-12-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-05-16,Tromsø,Bodø/Glimt,1,2,NA,NA,6343,Trond Døvle,https://fbref.com/en/matches/4a9dff4e/Tromso-BodoGlimt-May-16-2016-Tippeligaen,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-05-16,Aalesund,Start,1,1,NA,NA,6751,Tommy Skjerven,https://fbref.com/en/matches/77ffd137/Aalesund-Start-May-16-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
-2016-05-16,Vålerenga,Haugesund,0,1,NA,NA,9164,Kim Andre Johnsen,https://fbref.com/en/matches/6f3a8114/Valerenga-Haugesund-May-16-2016-Tippeligaen,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
-2016-05-16,Rosenborg,Lillestrøm,2,1,NA,NA,21130,Tore Hansen,https://fbref.com/en/matches/3ce8939c/Rosenborg-Lillestrom-May-16-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-05-16,Odd,Molde,2,0,NA,NA,10678,Ola Nilsen,https://fbref.com/en/matches/60fe357d/Odd-Molde-May-16-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-05-16,Brann,Stabæk,1,0,NA,NA,17686,Svein Oddvar Moen,https://fbref.com/en/matches/d3a5f810/Brann-Stabaek-May-16-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
+2016-05-16,Rosenborg,Lillestrøm,2,1,NA,NA,21130,Tore Hansen,https://fbref.com/en/matches/3ce8939c/Rosenborg-Lillestrom-May-16-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
+2016-05-16,Vålerenga,Haugesund,0,1,NA,NA,9164,Kim Andre Johnsen,https://fbref.com/en/matches/6f3a8114/Valerenga-Haugesund-May-16-2016-Tippeligaen,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-05-16,Viking,Sogndal,0,0,NA,NA,11321,Trygve Kjensli,https://fbref.com/en/matches/fbdabfae/Viking-Sogndal-May-16-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-05-16,Strømsgodset,Sarpsborg 08,4,0,NA,NA,7132,Martin Lundby,https://fbref.com/en/matches/5a7f71bd/Stromsgodset-Sarpsborg-08-May-16-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2016
 2016-05-20,Sarpsborg 08,Odd,0,0,NA,NA,3450,Svein Erik Edvartsen,https://fbref.com/en/matches/28a3e103/Sarpsborg-08-Odd-May-20-2016-Tippeligaen,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-05-21,Stabæk,Tromsø,0,3,NA,NA,3289,Kim Andre Johnsen,https://fbref.com/en/matches/f8ce13fc/Stabaek-Tromso-May-21-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2016
 2016-05-21,Molde,Brann,2,0,NA,NA,9026,Dag Vidar Hafsås,https://fbref.com/en/matches/01f0bac4/Molde-Brann-May-21-2016-Tippeligaen,1,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-05-22,Bodø/Glimt,Aalesund,0,1,NA,NA,7513,Espen Andreas Eskås,https://fbref.com/en/matches/1dcf3695/BodoGlimt-Aalesund-May-22-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2016
-2016-05-22,Sogndal,Start,2,2,NA,NA,2770,Kai Erik Steen,https://fbref.com/en/matches/98c0f610/Sogndal-Start-May-22-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-05-22,Haugesund,Rosenborg,1,1,NA,NA,7722,Trygve Kjensli,https://fbref.com/en/matches/f93ddb9b/Haugesund-Rosenborg-May-22-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-05-22,Strømsgodset,Vålerenga,3,2,NA,NA,7258,Svein Oddvar Moen,https://fbref.com/en/matches/672e4ff9/Stromsgodset-Valerenga-May-22-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
+2016-05-22,Sogndal,Start,2,2,NA,NA,2770,Kai Erik Steen,https://fbref.com/en/matches/98c0f610/Sogndal-Start-May-22-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-05-22,Lillestrøm,Viking,1,2,NA,NA,4081,Tommy Skjerven,https://fbref.com/en/matches/57664f84/Lillestrom-Viking-May-22-2016-Tippeligaen,1,1,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-05-28,Tromsø,Sarpsborg 08,1,2,NA,NA,3340,Espen Andreas Eskås,https://fbref.com/en/matches/8055ecf3/Tromso-Sarpsborg-08-May-28-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,2,2,3,0,0,0,0,0,0,2016
 2016-05-28,Rosenborg,Molde,3,1,NA,NA,21298,Svein Oddvar Moen,https://fbref.com/en/matches/2b7bf392/Rosenborg-Molde-May-28-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
-2016-05-29,Sogndal,Lillestrøm,2,2,NA,NA,2869,Ola Nilsen,https://fbref.com/en/matches/1724af06/Sogndal-Lillestrom-May-29-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-05-29,Odd,Strømsgodset,2,1,NA,NA,8656,Dag Vidar Hafsås,https://fbref.com/en/matches/ca53607d/Odd-Stromsgodset-May-29-2016-Tippeligaen,1,1,2,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2016
+2016-05-29,Sogndal,Lillestrøm,2,2,NA,NA,2869,Ola Nilsen,https://fbref.com/en/matches/1724af06/Sogndal-Lillestrom-May-29-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-05-29,Viking,Bodø/Glimt,2,0,NA,NA,10165,Kim Andre Johnsen,https://fbref.com/en/matches/deba94c4/Viking-BodoGlimt-May-29-2016-Tippeligaen,0,1,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
 2016-05-29,Brann,Haugesund,1,0,NA,NA,11011,Svein Erik Edvartsen,https://fbref.com/en/matches/895a509b/Brann-Haugesund-May-29-2016-Tippeligaen,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-05-29,Start,Stabæk,0,5,NA,NA,7273,Trond Døvle,https://fbref.com/en/matches/24771197/Start-Stabaek-May-29-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
@@ -107,14 +107,14 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-07-02,Haugesund,Start,2,1,NA,NA,5106,Ola Nilsen,https://fbref.com/en/matches/db35fc41/Haugesund-Start-July-2-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-07-02,Bodø/Glimt,Rosenborg,0,0,NA,NA,3325,Trond Døvle,https://fbref.com/en/matches/d503a3ca/BodoGlimt-Rosenborg-July-2-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-07-03,Vålerenga,Odd,0,1,NA,NA,7667,Tore Hansen,https://fbref.com/en/matches/9c73593c/Valerenga-Odd-July-3-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
-2016-07-03,Molde,Viking,0,1,NA,NA,8211,Dag Vidar Hafsås,https://fbref.com/en/matches/28e9d827/Molde-Viking-July-3-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-07-03,Stabæk,Sogndal,0,1,NA,NA,3052,Tom Hagen,https://fbref.com/en/matches/ceaf7f9c/Stabaek-Sogndal-July-3-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016
 2016-07-03,Sarpsborg 08,Brann,1,0,NA,NA,4370,Kim Andre Johnsen,https://fbref.com/en/matches/c7d6e469/Sarpsborg-08-Brann-July-3-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,2016
+2016-07-03,Molde,Viking,0,1,NA,NA,8211,Dag Vidar Hafsås,https://fbref.com/en/matches/28e9d827/Molde-Viking-July-3-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-07-04,Strømsgodset,Aalesund,4,2,NA,NA,6467,Kai Erik Steen,https://fbref.com/en/matches/0420fb2c/Stromsgodset-Aalesund-July-4-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-07-08,Start,Bodø/Glimt,1,4,NA,NA,4318,Martin Lundby,https://fbref.com/en/matches/4b583e3a/Start-BodoGlimt-July-8-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2016
 2016-07-09,Viking,Strømsgodset,0,1,NA,NA,7419,Trond Døvle,https://fbref.com/en/matches/d506f0d4/Viking-Stromsgodset-July-9-2016-Tippeligaen,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
-2016-07-09,Brann,Vålerenga,4,1,NA,NA,10482,Tom Hagen,https://fbref.com/en/matches/7f5b7c75/Brann-Valerenga-July-9-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-07-09,Rosenborg,Sarpsborg 08,5,2,NA,NA,15770,Tommy Skjerven,https://fbref.com/en/matches/86e981b9/Rosenborg-Sarpsborg-08-July-9-2016-Tippeligaen,1,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
+2016-07-09,Brann,Vålerenga,4,1,NA,NA,10482,Tom Hagen,https://fbref.com/en/matches/7f5b7c75/Brann-Valerenga-July-9-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-07-09,Tromsø,Haugesund,2,2,NA,NA,3118,Trygve Kjensli,https://fbref.com/en/matches/e3cbec09/Tromso-Haugesund-July-9-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-07-09,Sogndal,Molde,4,3,NA,NA,3217,Tore Hansen,https://fbref.com/en/matches/757dcfc5/Sogndal-Molde-July-9-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-07-10,Odd,Aalesund,4,1,NA,NA,7067,Espen Andreas Eskås,https://fbref.com/en/matches/dbc397f2/Odd-Aalesund-July-10-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
@@ -123,41 +123,41 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-07-16,Haugesund,Viking,4,1,NA,NA,6077,Tore Hansen,https://fbref.com/en/matches/990ea65a/Haugesund-Viking-July-16-2016-Tippeligaen,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
 2016-07-16,Aalesund,Rosenborg,1,1,NA,NA,6525,Kai Erik Steen,https://fbref.com/en/matches/70ef0324/Aalesund-Rosenborg-July-16-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2016
 2016-07-17,Strømsgodset,Tromsø,1,0,NA,NA,7123,Martin Lundby,https://fbref.com/en/matches/81e4ad3e/Stromsgodset-Tromso-July-17-2016-Tippeligaen,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
-2016-07-17,Stabæk,Brann,1,1,NA,NA,3894,Dag Vidar Hafsås,https://fbref.com/en/matches/1d884f23/Stabaek-Brann-July-17-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-07-17,Bodø/Glimt,Odd,2,1,NA,NA,2935,Tom Hagen,https://fbref.com/en/matches/ecfb2e82/BodoGlimt-Odd-July-17-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-07-17,Molde,Start,2,2,NA,NA,8300,Espen Andreas Eskås,https://fbref.com/en/matches/8a15ce81/Molde-Start-July-17-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016
+2016-07-17,Stabæk,Brann,1,1,NA,NA,3894,Dag Vidar Hafsås,https://fbref.com/en/matches/1d884f23/Stabaek-Brann-July-17-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-07-17,Sarpsborg 08,Lillestrøm,3,0,NA,NA,3514,Ola Nilsen,https://fbref.com/en/matches/2ef3342a/Sarpsborg-08-Lillestrom-July-17-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-07-22,Brann,Aalesund,6,0,NA,NA,10348,Svein Erik Edvartsen,https://fbref.com/en/matches/b7d59ed2/Brann-Aalesund-July-22-2016-Tippeligaen,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2016
 2016-07-23,Rosenborg,Haugesund,6,0,NA,NA,16901,Martin Lundby,https://fbref.com/en/matches/dec421a4/Rosenborg-Haugesund-July-23-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-07-23,Molde,Sarpsborg 08,0,1,NA,NA,8832,Kai Erik Steen,https://fbref.com/en/matches/50bc2864/Molde-Sarpsborg-08-July-23-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-07-24,Start,Vålerenga,2,4,NA,NA,5022,Svein Oddvar Moen,https://fbref.com/en/matches/cb42b246/Start-Valerenga-July-24-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
-2016-07-24,Sogndal,Bodø/Glimt,2,2,NA,NA,3219,Dag Vidar Hafsås,https://fbref.com/en/matches/e2c618cd/Sogndal-BodoGlimt-July-24-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-07-24,Odd,Viking,2,2,NA,NA,6991,Trygve Kjensli,https://fbref.com/en/matches/54e71ce5/Odd-Viking-July-24-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
+2016-07-24,Sogndal,Bodø/Glimt,2,2,NA,NA,3219,Dag Vidar Hafsås,https://fbref.com/en/matches/e2c618cd/Sogndal-BodoGlimt-July-24-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-07-24,Tromsø,Stabæk,2,2,NA,NA,3441,Trond Døvle,https://fbref.com/en/matches/3be29b66/Tromso-Stabaek-July-24-2016-Tippeligaen,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-07-24,Lillestrøm,Strømsgodset,2,0,NA,NA,4351,Tore Hansen,https://fbref.com/en/matches/b5ab0be3/Lillestrom-Stromsgodset-July-24-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-07-29,Sarpsborg 08,Start,1,0,NA,NA,3757,Trygve Kjensli,https://fbref.com/en/matches/a93ded7a/Sarpsborg-08-Start-July-29-2016-Tippeligaen,0,1,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
 2016-07-31,Aalesund,Lillestrøm,2,0,NA,NA,5652,Tommy Skjerven,https://fbref.com/en/matches/0235af83/Aalesund-Lillestrom-July-31-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
-2016-07-31,Haugesund,Sogndal,0,1,NA,NA,4432,Tom Hagen,https://fbref.com/en/matches/a36036e1/Haugesund-Sogndal-July-31-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-07-31,Odd,Brann,1,3,NA,NA,8025,Ola Nilsen,https://fbref.com/en/matches/42c34988/Odd-Brann-July-31-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
 2016-07-31,Bodø/Glimt,Tromsø,0,3,NA,NA,4382,Espen Andreas Eskås,https://fbref.com/en/matches/b5282374/BodoGlimt-Tromso-July-31-2016-Tippeligaen,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
+2016-07-31,Haugesund,Sogndal,0,1,NA,NA,4432,Tom Hagen,https://fbref.com/en/matches/a36036e1/Haugesund-Sogndal-July-31-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-07-31,Strømsgodset,Stabæk,2,2,NA,NA,6179,Svein Oddvar Moen,https://fbref.com/en/matches/88c3419a/Stromsgodset-Stabaek-July-31-2016-Tippeligaen,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-08-01,Vålerenga,Molde,3,0,NA,NA,10434,Svein Erik Edvartsen,https://fbref.com/en/matches/62c107d2/Valerenga-Molde-August-1-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-08-05,Tromsø,Aalesund,1,2,NA,NA,3335,Dag Vidar Hafsås,https://fbref.com/en/matches/3d40c4ae/Tromso-Aalesund-August-5-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-08-06,Molde,Bodø/Glimt,3,2,NA,NA,7929,Ola Nilsen,https://fbref.com/en/matches/8a140e13/Molde-BodoGlimt-August-6-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
 2016-08-06,Lillestrøm,Rosenborg,3,4,NA,NA,8371,Svein Oddvar Moen,https://fbref.com/en/matches/ccec79cb/Lillestrom-Rosenborg-August-6-2016-Tippeligaen,0,0,3,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-08-07,Stabæk,Haugesund,0,1,NA,NA,3344,Kai Erik Steen,https://fbref.com/en/matches/d4a241b0/Stabaek-Haugesund-August-7-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
-2016-08-07,Sarpsborg 08,Vålerenga,0,2,NA,NA,5107,Tommy Skjerven,https://fbref.com/en/matches/476d4182/Sarpsborg-08-Valerenga-August-7-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-08-07,Start,Odd,1,2,NA,NA,3810,Trond Døvle,https://fbref.com/en/matches/cc6a7d53/Start-Odd-August-7-2016-Tippeligaen,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-08-07,Brann,Strømsgodset,1,0,NA,NA,11886,Kim Andre Johnsen,https://fbref.com/en/matches/74d15328/Brann-Stromsgodset-August-7-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
+2016-08-07,Sarpsborg 08,Vålerenga,0,2,NA,NA,5107,Tommy Skjerven,https://fbref.com/en/matches/476d4182/Sarpsborg-08-Valerenga-August-7-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-08-07,Sogndal,Viking,1,2,NA,NA,2906,Espen Andreas Eskås,https://fbref.com/en/matches/16dff14a/Sogndal-Viking-August-7-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-08-11,Viking,Rosenborg,0,2,NA,NA,7843,Tommy Skjerven,https://fbref.com/en/matches/3e1689ac/Viking-Rosenborg-August-11-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-08-13,Bodø/Glimt,Lillestrøm,1,1,NA,NA,2938,Tore Hansen,https://fbref.com/en/matches/5bcd3faf/BodoGlimt-Lillestrom-August-13-2016-Tippeligaen,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-08-13,Vålerenga,Brann,3,2,NA,NA,9866,Svein Oddvar Moen,https://fbref.com/en/matches/51c91de0/Valerenga-Brann-August-13-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-08-14,Aalesund,Molde,0,2,NA,NA,8323,Tom Hagen,https://fbref.com/en/matches/a3e4d064/Aalesund-Molde-August-14-2016-Tippeligaen,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
-2016-08-14,Rosenborg,Sogndal,3,1,NA,NA,15328,Trond Døvle,https://fbref.com/en/matches/72760972/Rosenborg-Sogndal-August-14-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
-2016-08-14,Odd,Sarpsborg 08,0,0,NA,NA,7008,Martin Lundby,https://fbref.com/en/matches/1898ce55/Odd-Sarpsborg-08-August-14-2016-Tippeligaen,0,0,2,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
-2016-08-14,Haugesund,Tromsø,2,1,NA,NA,4347,Trygve Kjensli,https://fbref.com/en/matches/39e1efcd/Haugesund-Tromso-August-14-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2016
 2016-08-14,Strømsgodset,Start,1,1,NA,NA,6552,Kai Erik Steen,https://fbref.com/en/matches/24b11584/Stromsgodset-Start-August-14-2016-Tippeligaen,1,1,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016
+2016-08-14,Odd,Sarpsborg 08,0,0,NA,NA,7008,Martin Lundby,https://fbref.com/en/matches/1898ce55/Odd-Sarpsborg-08-August-14-2016-Tippeligaen,0,0,2,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
+2016-08-14,Rosenborg,Sogndal,3,1,NA,NA,15328,Trond Døvle,https://fbref.com/en/matches/72760972/Rosenborg-Sogndal-August-14-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
+2016-08-14,Haugesund,Tromsø,2,1,NA,NA,4347,Trygve Kjensli,https://fbref.com/en/matches/39e1efcd/Haugesund-Tromso-August-14-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2016
 2016-08-14,Viking,Stabæk,2,2,NA,NA,7269,Kim Andre Johnsen,https://fbref.com/en/matches/a30922ad/Viking-Stabaek-August-14-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
 2016-08-19,Vålerenga,Bodø/Glimt,1,1,NA,NA,7447,Tommy Skjerven,https://fbref.com/en/matches/ba4969f8/Valerenga-BodoGlimt-August-19-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-08-20,Lillestrøm,Haugesund,1,1,NA,NA,4756,Tom Hagen,https://fbref.com/en/matches/06309726/Lillestrom-Haugesund-August-20-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
@@ -171,24 +171,24 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-08-27,Strømsgodset,Molde,0,2,NA,NA,6783,Ola Nilsen,https://fbref.com/en/matches/9e659361/Stromsgodset-Molde-August-27-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2016
 2016-08-27,Haugesund,Brann,3,2,NA,NA,7130,Trond Døvle,https://fbref.com/en/matches/b1f86e35/Haugesund-Brann-August-27-2016-Tippeligaen,1,1,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016
 2016-08-28,Sogndal,Stabæk,1,1,NA,NA,3004,Kai Erik Steen,https://fbref.com/en/matches/53902bc4/Sogndal-Stabaek-August-28-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
-2016-08-28,Rosenborg,Tromsø,3,1,NA,NA,17401,Svein Oddvar Moen,https://fbref.com/en/matches/9080ee72/Rosenborg-Tromso-August-28-2016-Tippeligaen,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2016
-2016-08-28,Viking,Lillestrøm,2,2,NA,NA,1800,Trygve Kjensli,https://fbref.com/en/matches/0c743003/Viking-Lillestrom-August-28-2016-Tippeligaen,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-08-28,Bodø/Glimt,Start,2,0,NA,NA,3087,Martin Lundby,https://fbref.com/en/matches/b1de4239/BodoGlimt-Start-August-28-2016-Tippeligaen,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
+2016-08-28,Viking,Lillestrøm,2,2,NA,NA,1800,Trygve Kjensli,https://fbref.com/en/matches/0c743003/Viking-Lillestrom-August-28-2016-Tippeligaen,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
+2016-08-28,Rosenborg,Tromsø,3,1,NA,NA,17401,Svein Oddvar Moen,https://fbref.com/en/matches/9080ee72/Rosenborg-Tromso-August-28-2016-Tippeligaen,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2016
 2016-08-28,Odd,Vålerenga,1,2,NA,NA,9135,Svein Erik Edvartsen,https://fbref.com/en/matches/98fb0353/Odd-Valerenga-August-28-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-09-09,Start,Aalesund,1,4,NA,NA,3401,Tommy Skjerven,https://fbref.com/en/matches/075cca23/Start-Aalesund-September-9-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-09-10,Vålerenga,Strømsgodset,1,1,NA,NA,8422,Svein Oddvar Moen,https://fbref.com/en/matches/6f129314/Valerenga-Stromsgodset-September-10-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-09-10,Brann,Viking,0,0,NA,NA,11674,Tom Hagen,https://fbref.com/en/matches/6ad59502/Brann-Viking-September-10-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-09-11,Tromsø,Sogndal,2,0,NA,NA,3135,Espen Andreas Eskås,https://fbref.com/en/matches/f57a6e9d/Tromso-Sogndal-September-11-2016-Tippeligaen,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
+2016-09-11,Stabæk,Rosenborg,0,2,NA,NA,4938,Svein Erik Edvartsen,https://fbref.com/en/matches/0191e313/Stabaek-Rosenborg-September-11-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-09-11,Sarpsborg 08,Bodø/Glimt,1,2,NA,NA,4023,Dag Vidar Hafsås,https://fbref.com/en/matches/6267495a/Sarpsborg-08-BodoGlimt-September-11-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-09-11,Lillestrøm,Odd,2,4,NA,NA,5613,Ola Nilsen,https://fbref.com/en/matches/326348d9/Lillestrom-Odd-September-11-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
-2016-09-11,Stabæk,Rosenborg,0,2,NA,NA,4938,Svein Erik Edvartsen,https://fbref.com/en/matches/0191e313/Stabaek-Rosenborg-September-11-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-09-11,Molde,Haugesund,0,0,NA,NA,7459,Tore Hansen,https://fbref.com/en/matches/a5d933b7/Molde-Haugesund-September-11-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2016
 2016-09-16,Haugesund,Vålerenga,1,1,NA,NA,5330,Tommy Skjerven,https://fbref.com/en/matches/ed247ee0/Haugesund-Valerenga-September-16-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-09-17,Tromsø,Lillestrøm,2,1,NA,NA,3674,Tore Hansen,https://fbref.com/en/matches/92987096/Tromso-Lillestrom-September-17-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-09-17,Viking,Molde,1,0,NA,NA,9681,Martin Lundby,https://fbref.com/en/matches/28e8fada/Viking-Molde-September-17-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-09-18,Sogndal,Sarpsborg 08,3,0,NA,NA,2713,Trygve Kjensli,https://fbref.com/en/matches/68d961a9/Sogndal-Sarpsborg-08-September-18-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
-2016-09-18,Bodø/Glimt,Brann,1,3,NA,NA,7564,Espen Andreas Eskås,https://fbref.com/en/matches/3e650e8d/BodoGlimt-Brann-September-18-2016-Tippeligaen,0,0,4,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,2016
 2016-09-18,Odd,Stabæk,0,1,NA,NA,8530,Tom Hagen,https://fbref.com/en/matches/0c125a92/Odd-Stabaek-September-18-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
+2016-09-18,Bodø/Glimt,Brann,1,3,NA,NA,7564,Espen Andreas Eskås,https://fbref.com/en/matches/3e650e8d/BodoGlimt-Brann-September-18-2016-Tippeligaen,0,0,4,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,2016
 2016-09-18,Aalesund,Strømsgodset,4,2,NA,NA,5634,Dag Vidar Hafsås,https://fbref.com/en/matches/10799b59/Aalesund-Stromsgodset-September-18-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,1,2,3,0,0,0,0,0,0,2016
 2016-09-18,Rosenborg,Start,2,0,NA,NA,14142,Kai Erik Steen,https://fbref.com/en/matches/3a7060c1/Rosenborg-Start-September-18-2016-Tippeligaen,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-09-24,Sarpsborg 08,Viking,1,0,NA,NA,4027,Ola Nilsen,https://fbref.com/en/matches/3aa299d4/Sarpsborg-08-Viking-September-24-2016-Tippeligaen,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
@@ -204,38 +204,38 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-10-01,Sogndal,Brann,0,0,NA,NA,5600,Martin Lundby,https://fbref.com/en/matches/d0167160/Sogndal-Brann-October-1-2016-Tippeligaen,0,0,3,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2016
 2016-10-02,Haugesund,Sarpsborg 08,1,1,NA,NA,4411,Espen Andreas Eskås,https://fbref.com/en/matches/203c3d75/Haugesund-Sarpsborg-08-October-2-2016-Tippeligaen,1,1,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-10-02,Aalesund,Odd,1,0,NA,NA,5832,Kai Erik Steen,https://fbref.com/en/matches/65bc4f21/Aalesund-Odd-October-2-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
-2016-10-02,Tromsø,Molde,0,2,NA,NA,3348,Kristoffer Hagenes,https://fbref.com/en/matches/71c89af5/Tromso-Molde-October-2-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-10-02,Rosenborg,Vålerenga,3,1,NA,NA,19518,Svein Oddvar Moen,https://fbref.com/en/matches/33bfe0a1/Rosenborg-Valerenga-October-2-2016-Tippeligaen,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
+2016-10-02,Tromsø,Molde,0,2,NA,NA,3348,Kristoffer Hagenes,https://fbref.com/en/matches/71c89af5/Tromso-Molde-October-2-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-10-02,Viking,Start,2,0,NA,NA,8371,Trond Døvle,https://fbref.com/en/matches/16594aaa/Viking-Start-October-2-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-10-14,Strømsgodset,Viking,1,1,NA,NA,6645,Espen Andreas Eskås,https://fbref.com/en/matches/63becaff/Stromsgodset-Viking-October-14-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-10-15,Aalesund,Bodø/Glimt,1,0,NA,NA,6007,Svein Erik Edvartsen,https://fbref.com/en/matches/4f7bd979/Aalesund-BodoGlimt-October-15-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-10-15,Sarpsborg 08,Rosenborg,2,2,NA,NA,4523,Tore Hansen,https://fbref.com/en/matches/35228e84/Sarpsborg-08-Rosenborg-October-15-2016-Tippeligaen,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-10-16,Start,Tromsø,2,1,NA,NA,3440,Rohit Saggi,https://fbref.com/en/matches/c6b2dbc9/Start-Tromso-October-16-2016-Tippeligaen,0,0,2,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
-2016-10-16,Odd,Haugesund,2,1,NA,NA,7512,Dag Vidar Hafsås,https://fbref.com/en/matches/f7619a21/Odd-Haugesund-October-16-2016-Tippeligaen,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-10-16,Brann,Lillestrøm,1,2,NA,NA,11876,Ola Nilsen,https://fbref.com/en/matches/72230dd3/Brann-Lillestrom-October-16-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
 2016-10-16,Molde,Sogndal,0,0,NA,NA,7745,Trygve Kjensli,https://fbref.com/en/matches/5a2947ef/Molde-Sogndal-October-16-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
+2016-10-16,Odd,Haugesund,2,1,NA,NA,7512,Dag Vidar Hafsås,https://fbref.com/en/matches/f7619a21/Odd-Haugesund-October-16-2016-Tippeligaen,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-10-16,Vålerenga,Stabæk,1,1,NA,NA,7088,Svein Oddvar Moen,https://fbref.com/en/matches/b844d44a/Valerenga-Stabaek-October-16-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2016
 2016-10-21,Viking,Aalesund,2,3,NA,NA,7069,Kai Erik Steen,https://fbref.com/en/matches/2a8d60b7/Viking-Aalesund-October-21-2016-Tippeligaen,0,0,4,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2016
 2016-10-22,Stabæk,Sarpsborg 08,1,2,NA,NA,3593,Tommy Skjerven,https://fbref.com/en/matches/10ac480d/Stabaek-Sarpsborg-08-October-22-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-10-22,Brann,Molde,2,1,NA,NA,11581,Svein Oddvar Moen,https://fbref.com/en/matches/fc7e14b2/Brann-Molde-October-22-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-10-23,Tromsø,Vålerenga,0,3,NA,NA,6429,Tom Hagen,https://fbref.com/en/matches/1a16a906/Tromso-Valerenga-October-23-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
-2016-10-23,Haugesund,Bodø/Glimt,2,1,NA,NA,4302,Ola Nilsen,https://fbref.com/en/matches/e705a94c/Haugesund-BodoGlimt-October-23-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
-2016-10-23,Lillestrøm,Start,1,1,NA,NA,8796,Espen Andreas Eskås,https://fbref.com/en/matches/61813703/Lillestrom-Start-October-23-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-10-23,Rosenborg,Odd,1,2,NA,NA,18415,Martin Lundby,https://fbref.com/en/matches/89aea4b1/Rosenborg-Odd-October-23-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
+2016-10-23,Lillestrøm,Start,1,1,NA,NA,8796,Espen Andreas Eskås,https://fbref.com/en/matches/61813703/Lillestrom-Start-October-23-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
+2016-10-23,Haugesund,Bodø/Glimt,2,1,NA,NA,4302,Ola Nilsen,https://fbref.com/en/matches/e705a94c/Haugesund-BodoGlimt-October-23-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-10-23,Sogndal,Strømsgodset,0,1,NA,NA,2375,Trond Døvle,https://fbref.com/en/matches/f4c9ae0c/Sogndal-Stromsgodset-October-23-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
-2016-10-30,Bodø/Glimt,Viking,0,2,NA,NA,2984,Trond Døvle,https://fbref.com/en/matches/7b8dce92/BodoGlimt-Viking-October-30-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2016
-2016-10-30,Odd,Sogndal,3,1,NA,NA,9851,Ola Nilsen,https://fbref.com/en/matches/41a7ee6c/Odd-Sogndal-October-30-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
-2016-10-30,Molde,Stabæk,3,0,NA,NA,8140,Tore Hansen,https://fbref.com/en/matches/0e69ab17/Molde-Stabaek-October-30-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
-2016-10-30,Strømsgodset,Rosenborg,2,0,NA,NA,7661,Trygve Kjensli,https://fbref.com/en/matches/93c4cf94/Stromsgodset-Rosenborg-October-30-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-10-30,Start,Brann,1,2,NA,NA,4524,Tom Hagen,https://fbref.com/en/matches/72cc6cc7/Start-Brann-October-30-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
-2016-10-30,Sarpsborg 08,Tromsø,2,2,NA,NA,3962,Svein Erik Edvartsen,https://fbref.com/en/matches/10e22278/Sarpsborg-08-Tromso-October-30-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
 2016-10-30,Vålerenga,Lillestrøm,1,1,NA,NA,19038,Dag Vidar Hafsås,https://fbref.com/en/matches/45dc1576/Valerenga-Lillestrom-October-30-2016-Tippeligaen,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
+2016-10-30,Odd,Sogndal,3,1,NA,NA,9851,Ola Nilsen,https://fbref.com/en/matches/41a7ee6c/Odd-Sogndal-October-30-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
+2016-10-30,Sarpsborg 08,Tromsø,2,2,NA,NA,3962,Svein Erik Edvartsen,https://fbref.com/en/matches/10e22278/Sarpsborg-08-Tromso-October-30-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
 2016-10-30,Aalesund,Haugesund,3,3,NA,NA,7095,Martin Lundby,https://fbref.com/en/matches/4f593df3/Aalesund-Haugesund-October-30-2016-Tippeligaen,1,2,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
+2016-10-30,Bodø/Glimt,Viking,0,2,NA,NA,2984,Trond Døvle,https://fbref.com/en/matches/7b8dce92/BodoGlimt-Viking-October-30-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2016
+2016-10-30,Strømsgodset,Rosenborg,2,0,NA,NA,7661,Trygve Kjensli,https://fbref.com/en/matches/93c4cf94/Stromsgodset-Rosenborg-October-30-2016-Tippeligaen,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
+2016-10-30,Molde,Stabæk,3,0,NA,NA,8140,Tore Hansen,https://fbref.com/en/matches/0e69ab17/Molde-Stabaek-October-30-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-11-06,Viking,Vålerenga,0,2,NA,NA,11347,Tore Hansen,https://fbref.com/en/matches/2e546a59/Viking-Valerenga-November-6-2016-Tippeligaen,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-11-06,Lillestrøm,Molde,1,0,NA,NA,6233,Ola Nilsen,https://fbref.com/en/matches/9c7084cf/Lillestrom-Molde-November-6-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
-2016-11-06,Haugesund,Strømsgodset,1,1,NA,NA,6380,Kai Erik Steen,https://fbref.com/en/matches/1ba465f4/Haugesund-Stromsgodset-November-6-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
 2016-11-06,Tromsø,Odd,3,1,NA,NA,3678,Svein Oddvar Moen,https://fbref.com/en/matches/2a6e6362/Tromso-Odd-November-6-2016-Tippeligaen,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
-2016-11-06,Brann,Sarpsborg 08,2,1,NA,NA,17686,Dag Vidar Hafsås,https://fbref.com/en/matches/1741dd44/Brann-Sarpsborg-08-November-6-2016-Tippeligaen,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
-2016-11-06,Rosenborg,Bodø/Glimt,2,1,NA,NA,17732,Tommy Skjerven,https://fbref.com/en/matches/01a1a252/Rosenborg-BodoGlimt-November-6-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
-2016-11-06,Stabæk,Start,3,0,NA,NA,4350,Svein Erik Edvartsen,https://fbref.com/en/matches/1bdc1fa7/Stabaek-Start-November-6-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-11-06,Sogndal,Aalesund,2,4,NA,NA,2864,Tom Hagen,https://fbref.com/en/matches/e52a4d9d/Sogndal-Aalesund-November-6-2016-Tippeligaen,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
+2016-11-06,Haugesund,Strømsgodset,1,1,NA,NA,6380,Kai Erik Steen,https://fbref.com/en/matches/1ba465f4/Haugesund-Stromsgodset-November-6-2016-Tippeligaen,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
+2016-11-06,Brann,Sarpsborg 08,2,1,NA,NA,17686,Dag Vidar Hafsås,https://fbref.com/en/matches/1741dd44/Brann-Sarpsborg-08-November-6-2016-Tippeligaen,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
+2016-11-06,Stabæk,Start,3,0,NA,NA,4350,Svein Erik Edvartsen,https://fbref.com/en/matches/1bdc1fa7/Stabaek-Start-November-6-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
+2016-11-06,Rosenborg,Bodø/Glimt,2,1,NA,NA,17732,Tommy Skjerven,https://fbref.com/en/matches/01a1a252/Rosenborg-BodoGlimt-November-6-2016-Tippeligaen,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016

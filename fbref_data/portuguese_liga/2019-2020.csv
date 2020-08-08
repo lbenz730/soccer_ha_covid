@@ -11,8 +11,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2019-08-17,Moreirense,Gil Vicente FC,3,0,NA,NA,1792,Manuel Oliveira,https://fbref.com/en/matches/8e8398a8/Moreirense-Gil-Vicente-FC-August-17-2019-Primeira-Liga,0,0,0,0,12,4,11,19,17,0,0,3,0,16,2,12,14,16,2019-2020
 2019-08-17,Belenenses,Benfica,0,2,NA,NA,17821,Fábio Costa,https://fbref.com/en/matches/56fb9ca9/Belenenses-Benfica-August-17-2019-Primeira-Liga,0,0,7,0,7,1,15,13,11,0,0,1,0,21,5,8,17,10,2019-2020
 2019-08-17,Porto,Vitória Setúbal,4,0,NA,NA,38820,Manuel Mota,https://fbref.com/en/matches/e991a703/Porto-Vitoria-Setubal-August-17-2019-Primeira-Liga,0,0,0,0,23,10,14,5,17,0,0,2,0,6,5,9,12,15,2019-2020
-2019-08-18,Paços,Santa Clara,0,1,NA,NA,3153,André Narciso,https://fbref.com/en/matches/331cc413/Pacos-de-Ferreira-Santa-Clara-August-18-2019-Primeira-Liga,0,0,3,0,19,3,3,5,24,0,0,1,0,6,3,4,12,19,2019-2020
 2019-08-18,Aves,Marítimo,3,1,NA,NA,1511,Jorge de Sousa,https://fbref.com/en/matches/61698767/Aves-Maritimo-August-18-2019-Primeira-Liga,1,1,2,0,11,4,13,15,25,0,0,4,0,10,1,6,8,14,2019-2020
+2019-08-18,Paços,Santa Clara,0,1,NA,NA,3153,André Narciso,https://fbref.com/en/matches/331cc413/Pacos-de-Ferreira-Santa-Clara-August-18-2019-Primeira-Liga,0,0,3,0,19,3,3,5,24,0,0,1,0,6,3,4,12,19,2019-2020
 2019-08-18,Vitória,Boavista,1,1,NA,NA,16765,Artur Soares Dias,https://fbref.com/en/matches/e978927c/Vitoria-Guimaraes-Boavista-August-18-2019-Primeira-Liga,0,0,2,0,17,4,8,11,16,0,0,4,0,5,2,15,15,14,2019-2020
 2019-08-18,Sporting CP,Braga,2,1,NA,NA,35692,Luís Godinho,https://fbref.com/en/matches/f6156e2a/Sporting-CP-Braga-August-18-2019-Primeira-Liga,0,0,3,0,11,6,16,12,14,0,0,5,0,21,7,14,7,16,2019-2020
 2019-08-19,Tondela,Portimonense,1,2,NA,NA,2955,Hugo Miguel,https://fbref.com/en/matches/dc1cb25f/Tondela-Portimonense-August-19-2019-Primeira-Liga,0,0,1,0,8,3,10,7,11,0,0,1,0,14,6,7,11,15,2019-2020
@@ -40,8 +40,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2019-09-14,Benfica,Gil Vicente FC,2,0,NA,NA,54706,João Pinheiro,https://fbref.com/en/matches/ae7cc300/Benfica-Gil-Vicente-FC-September-14-2019-Primeira-Liga,0,1,1,0,13,4,18,8,13,0,0,4,0,8,1,16,20,13,2019-2020
 2019-09-14,Vitória,Aves,5,1,NA,NA,14529,Nuno Almeida,https://fbref.com/en/matches/1cd680c9/Vitoria-Guimaraes-Aves-September-14-2019-Primeira-Liga,0,0,3,0,18,8,5,9,12,0,0,2,0,13,2,7,11,15,2019-2020
 2019-09-15,Santa Clara,Moreirense,2,0,NA,NA,2248,Hélder Malheiro,https://fbref.com/en/matches/629dd50d/Santa-Clara-Moreirense-September-15-2019-Primeira-Liga,0,0,3,0,18,5,7,14,13,0,0,2,0,12,2,6,9,19,2019-2020
-2019-09-15,Rio Ave,Tondela,2,4,NA,NA,2103,Rui Oliveira,https://fbref.com/en/matches/1e26d54f/Rio-Ave-Tondela-September-15-2019-Primeira-Liga,0,0,2,0,24,6,14,15,15,0,0,3,0,5,4,8,21,18,2019-2020
 2019-09-15,Marítimo,Belenenses,1,3,NA,NA,5551,João Bento,https://fbref.com/en/matches/76891b7e/Maritimo-Belenenses-September-15-2019-Primeira-Liga,0,0,2,0,12,4,8,11,12,0,0,3,0,13,7,15,12,24,2019-2020
+2019-09-15,Rio Ave,Tondela,2,4,NA,NA,2103,Rui Oliveira,https://fbref.com/en/matches/1e26d54f/Rio-Ave-Tondela-September-15-2019-Primeira-Liga,0,0,2,0,24,6,14,15,15,0,0,3,0,5,4,8,21,18,2019-2020
 2019-09-15,Portimonense,Porto,2,3,NA,NA,5499,Rui Costa,https://fbref.com/en/matches/a9afefc6/Portimonense-Porto-September-15-2019-Primeira-Liga,0,0,1,0,8,4,11,7,8,1,1,1,1,21,6,10,12,16,2019-2020
 2019-09-15,Boavista,Sporting CP,1,1,NA,NA,12314,Jorge de Sousa,https://fbref.com/en/matches/b07770d2/Boavista-Sporting-CP-September-15-2019-Primeira-Liga,0,0,2,0,11,4,12,18,22,0,0,6,1,13,3,10,10,17,2019-2020
 2019-09-20,Paços,Aves,2,1,NA,NA,2239,Cláudio Ruivo Pereira,https://fbref.com/en/matches/e7f07d32/Pacos-de-Ferreira-Aves-September-20-2019-Primeira-Liga,0,0,5,1,15,2,16,16,24,0,0,3,0,8,3,14,12,13,2019-2020
@@ -87,8 +87,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2019-11-03,Porto,Aves,1,0,NA,NA,29205,Hélder Malheiro,https://fbref.com/en/matches/e0d05a8c/Porto-Aves-November-3-2019-Primeira-Liga,0,0,1,0,12,4,5,10,21,0,0,1,0,9,0,17,12,16,2019-2020
 2019-11-03,Braga,Famalicão,2,2,NA,NA,9285,Jorge de Sousa,https://fbref.com/en/matches/b67d9b3f/Braga-Famalicao-November-3-2019-Primeira-Liga,0,0,5,0,18,5,12,12,11,0,0,4,1,6,4,15,12,15,2019-2020
 2019-11-04,Belenenses,Paços,1,0,NA,NA,1070,João Bento,https://fbref.com/en/matches/a66b9518/Belenenses-Pacos-de-Ferreira-November-4-2019-Primeira-Liga,0,0,1,0,8,2,7,7,23,0,0,4,0,15,5,10,5,24,2019-2020
-2019-11-04,Portimonense,Santa Clara,1,1,NA,NA,2266,Manuel Oliveira,https://fbref.com/en/matches/d3ce3d49/Portimonense-Santa-Clara-November-4-2019-Primeira-Liga,0,0,4,0,14,4,8,16,11,0,0,2,0,15,4,14,5,15,2019-2020
 2019-11-04,Vitória Setúbal,Boavista,1,0,NA,NA,2681,Artur Soares Dias,https://fbref.com/en/matches/dc4fd554/Vitoria-Setubal-Boavista-November-4-2019-Primeira-Liga,0,0,3,0,7,2,5,7,9,0,0,4,0,27,5,14,10,10,2019-2020
+2019-11-04,Portimonense,Santa Clara,1,1,NA,NA,2266,Manuel Oliveira,https://fbref.com/en/matches/d3ce3d49/Portimonense-Santa-Clara-November-4-2019-Primeira-Liga,0,0,4,0,14,4,8,16,11,0,0,2,0,15,4,14,5,15,2019-2020
 2019-11-08,Aves,Gil Vicente FC,1,2,NA,NA,1281,Rui Costa,https://fbref.com/en/matches/5fa15744/Aves-Gil-Vicente-FC-November-8-2019-Primeira-Liga,0,0,2,0,8,4,12,9,20,0,0,3,0,6,4,12,18,25,2019-2020
 2019-11-09,Rio Ave,Vitória Setúbal,1,0,NA,NA,1740,João Pinheiro,https://fbref.com/en/matches/9fc9c4dd/Rio-Ave-Vitoria-Setubal-November-9-2019-Primeira-Liga,0,1,0,0,10,3,13,8,14,0,0,1,0,12,3,11,22,10,2019-2020
 2019-11-09,Santa Clara,Benfica,1,2,NA,NA,8309,Artur Soares Dias,https://fbref.com/en/matches/214c0e72/Santa-Clara-Benfica-November-9-2019-Primeira-Liga,0,0,3,0,12,3,11,10,13,0,0,3,0,12,6,7,8,10,2019-2020
@@ -111,8 +111,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2019-12-07,Marítimo,Santa Clara,2,2,NA,NA,3757,André Narciso,https://fbref.com/en/matches/45522b8e/Maritimo-Santa-Clara-December-7-2019-Primeira-Liga,1,1,3,0,12,6,7,8,12,0,0,4,0,6,2,11,5,19,2019-2020
 2019-12-07,Famalicão,Tondela,2,3,NA,NA,4021,João Bento,https://fbref.com/en/matches/e57e4693/Famalicao-Tondela-December-7-2019-Primeira-Liga,1,1,2,0,27,10,8,4,16,0,0,7,0,8,5,6,9,18,2019-2020
 2019-12-07,Aves,Braga,1,0,NA,NA,1632,Rui Costa,https://fbref.com/en/matches/5bf22e9a/Aves-Braga-December-7-2019-Primeira-Liga,0,0,4,0,6,1,10,11,23,0,0,5,0,13,2,10,14,16,2019-2020
-2019-12-08,Paços,Vitória Setúbal,2,3,NA,NA,1757,António Nobre,https://fbref.com/en/matches/4bbc93c5/Pacos-de-Ferreira-Vitoria-Setubal-December-8-2019-Primeira-Liga,0,0,5,0,21,4,14,8,24,0,0,5,0,9,4,9,18,17,2019-2020
 2019-12-08,Vitória,Portimonense,2,0,NA,NA,14913,Nuno Almeida,https://fbref.com/en/matches/b0633c3a/Vitoria-Guimaraes-Portimonense-December-8-2019-Primeira-Liga,0,0,1,0,10,5,16,9,15,0,0,1,0,13,2,8,12,9,2019-2020
+2019-12-08,Paços,Vitória Setúbal,2,3,NA,NA,1757,António Nobre,https://fbref.com/en/matches/4bbc93c5/Pacos-de-Ferreira-Vitoria-Setubal-December-8-2019-Primeira-Liga,0,0,5,0,21,4,14,8,24,0,0,5,0,9,4,9,18,17,2019-2020
 2019-12-08,Sporting CP,Moreirense,1,0,NA,NA,26093,Artur Soares Dias,https://fbref.com/en/matches/ed34e319/Sporting-CP-Moreirense-December-8-2019-Primeira-Liga,0,0,3,0,28,9,14,5,16,0,0,4,1,9,1,9,16,11,2019-2020
 2019-12-08,Belenenses,Porto,1,1,NA,NA,5153,João Pinheiro,https://fbref.com/en/matches/97b47be5/Belenenses-Porto-December-8-2019-Primeira-Liga,0,0,7,0,5,3,14,15,21,1,1,2,0,16,7,8,8,17,2019-2020
 2019-12-09,Rio Ave,Gil Vicente FC,1,0,NA,NA,2350,Manuel Oliveira,https://fbref.com/en/matches/fc276e31/Rio-Ave-Gil-Vicente-FC-December-9-2019-Primeira-Liga,1,1,3,1,8,2,12,10,18,0,0,2,0,8,3,10,12,19,2019-2020
@@ -125,8 +125,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2019-12-15,Braga,Paços,0,1,NA,NA,5909,Fábio Veríssimo,https://fbref.com/en/matches/bf210759/Braga-Pacos-de-Ferreira-December-15-2019-Primeira-Liga,0,0,1,0,23,5,3,9,14,0,0,5,0,3,1,12,10,22,2019-2020
 2019-12-16,Santa Clara,Sporting CP,0,4,NA,NA,5282,Manuel Mota,https://fbref.com/en/matches/681da563/Santa-Clara-Sporting-CP-December-16-2019-Primeira-Liga,0,0,1,0,13,2,14,8,12,1,1,1,0,20,7,10,3,6,2019-2020
 2019-12-16,Porto,Tondela,3,0,NA,NA,19829,Manuel Oliveira,https://fbref.com/en/matches/74402e12/Porto-Tondela-December-16-2019-Primeira-Liga,0,0,0,0,14,6,10,15,17,0,0,0,0,2,0,9,12,8,2019-2020
-2020-01-04,Aves,Santa Clara,0,1,NA,NA,1257,Iancu Vasilica,https://fbref.com/en/matches/b8b12eb2/Aves-Santa-Clara-January-4-2020-Primeira-Liga,0,0,4,0,11,3,9,4,16,0,0,2,0,7,3,6,12,10,2019-2020
 2020-01-04,Boavista,Portimonense,1,1,NA,NA,9366,Manuel Mota,https://fbref.com/en/matches/91043d1e/Boavista-Portimonense-January-4-2020-Primeira-Liga,0,0,1,0,9,4,10,11,16,0,0,2,0,12,5,12,8,15,2019-2020
+2020-01-04,Aves,Santa Clara,0,1,NA,NA,1257,Iancu Vasilica,https://fbref.com/en/matches/b8b12eb2/Aves-Santa-Clara-January-4-2020-Primeira-Liga,0,0,4,0,11,3,9,4,16,0,0,2,0,7,3,6,12,10,2019-2020
 2020-01-04,Belenenses,Braga,1,7,NA,NA,3190,Tiago Martins,https://fbref.com/en/matches/eefdd5e0/Belenenses-Braga-January-4-2020-Primeira-Liga,0,0,4,1,8,4,8,12,10,0,0,1,0,19,13,11,14,14,2019-2020
 2020-01-04,Vitória,Benfica,0,1,NA,NA,27291,Nuno Almeida,https://fbref.com/en/matches/d68dbe60/Vitoria-Guimaraes-Benfica-January-4-2020-Primeira-Liga,0,0,4,1,12,4,14,10,12,0,0,3,0,6,4,14,10,15,2019-2020
 2020-01-05,Tondela,Gil Vicente FC,1,1,NA,NA,1802,António Nobre,https://fbref.com/en/matches/20c7c543/Tondela-Gil-Vicente-FC-January-5-2020-Primeira-Liga,0,1,2,0,10,2,17,13,19,0,0,2,0,17,9,20,9,21,2019-2020
@@ -152,8 +152,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2020-01-19,Paços,Gil Vicente FC,0,0,NA,NA,3711,Manuel Mota,https://fbref.com/en/matches/c3df48b9/Pacos-de-Ferreira-Gil-Vicente-FC-January-19-2020-Primeira-Liga,0,0,1,0,11,3,12,17,17,0,0,1,0,10,4,17,8,13,2019-2020
 2020-01-19,Famalicão,Marítimo,1,1,NA,NA,4687,Rui Oliveira,https://fbref.com/en/matches/aef28430/Famalicao-Maritimo-January-19-2020-Primeira-Liga,0,0,3,0,24,4,7,14,20,0,0,5,0,4,2,14,19,14,2019-2020
 2020-01-19,Rio Ave,Boavista,2,0,NA,NA,2830,Luís Godinho,https://fbref.com/en/matches/4d87fab0/Rio-Ave-Boavista-January-19-2020-Primeira-Liga,0,0,1,0,6,2,12,8,15,0,0,4,0,6,2,10,21,20,2019-2020
-2020-01-26,Tondela,Vitória Setúbal,0,3,NA,NA,1744,Iancu Vasilica,https://fbref.com/en/matches/dd2fa3f3/Tondela-Vitoria-Setubal-January-26-2020-Primeira-Liga,0,0,1,0,16,4,5,6,17,0,0,2,0,7,5,7,12,16,2019-2020
 2020-01-26,Famalicão,Santa Clara,0,1,NA,NA,4213,Nuno Almeida,https://fbref.com/en/matches/ef8700ca/Famalicao-Santa-Clara-January-26-2020-Primeira-Liga,0,0,2,0,12,1,13,14,15,1,1,4,0,7,2,14,25,14,2019-2020
+2020-01-26,Tondela,Vitória Setúbal,0,3,NA,NA,1744,Iancu Vasilica,https://fbref.com/en/matches/dd2fa3f3/Tondela-Vitoria-Setubal-January-26-2020-Primeira-Liga,0,0,1,0,16,4,5,6,17,0,0,2,0,7,5,7,12,16,2019-2020
 2020-01-26,Belenenses,Portimonense,2,1,NA,NA,3280,Carlos Xistra,https://fbref.com/en/matches/ed3f0455/Belenenses-Portimonense-January-26-2020-Primeira-Liga,0,0,1,0,11,4,18,3,13,0,0,2,0,19,6,12,11,13,2019-2020
 2020-01-26,Paços,Benfica,0,2,NA,NA,9146,Manuel Oliveira,https://fbref.com/en/matches/c2163a6b/Pacos-de-Ferreira-Benfica-January-26-2020-Primeira-Liga,0,0,3,0,11,2,13,12,17,0,0,2,0,17,6,13,11,14,2019-2020
 2020-01-26,Aves,Boavista,0,1,NA,NA,1526,Hugo Miguel,https://fbref.com/en/matches/000ff916/Aves-Boavista-January-26-2020-Primeira-Liga,0,0,4,0,5,1,7,5,15,0,0,5,0,10,3,17,13,24,2019-2020
@@ -175,8 +175,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2020-02-08,Famalicão,Vitória,0,7,NA,NA,4296,Fábio Veríssimo,https://fbref.com/en/matches/3a7fcfe1/Famalicao-Vitoria-Guimaraes-February-8-2020-Primeira-Liga,0,0,2,1,6,3,14,9,11,0,0,3,0,19,10,15,17,14,2019-2020
 2020-02-08,Braga,Gil Vicente FC,2,2,NA,NA,13633,Rui Costa,https://fbref.com/en/matches/ed5cebd1/Braga-Gil-Vicente-FC-February-8-2020-Primeira-Liga,0,0,2,1,10,7,7,17,8,0,0,4,0,13,7,9,15,18,2019-2020
 2020-02-08,Porto,Benfica,3,2,NA,NA,49227,Artur Soares Dias,https://fbref.com/en/matches/6070e7b9/Porto-Benfica-February-8-2020-Primeira-Liga,1,1,4,0,17,4,8,13,12,0,0,5,0,9,3,8,7,19,2019-2020
-2020-02-09,Tondela,Marítimo,0,0,NA,NA,1574,André Narciso,https://fbref.com/en/matches/1e2c05cb/Tondela-Maritimo-February-9-2020-Primeira-Liga,0,0,1,0,10,1,14,10,21,0,0,3,0,10,5,16,7,29,2019-2020
 2020-02-09,Moreirense,Vitória Setúbal,1,1,NA,NA,2100,Nuno Almeida,https://fbref.com/en/matches/38c36a3c/Moreirense-Vitoria-Setubal-February-9-2020-Primeira-Liga,0,0,2,0,19,6,10,11,16,0,0,4,0,8,1,8,14,21,2019-2020
+2020-02-09,Tondela,Marítimo,0,0,NA,NA,1574,André Narciso,https://fbref.com/en/matches/1e2c05cb/Tondela-Maritimo-February-9-2020-Primeira-Liga,0,0,1,0,10,1,14,10,21,0,0,3,0,10,5,16,7,29,2019-2020
 2020-02-09,Sporting CP,Portimonense,2,1,NA,NA,28763,Hugo Miguel,https://fbref.com/en/matches/a6f49c58/Sporting-CP-Portimonense-February-9-2020-Primeira-Liga,0,0,1,0,21,4,14,6,9,0,0,1,0,10,3,12,10,18,2019-2020
 2020-02-09,Aves,Rio Ave,0,4,NA,NA,1289,Manuel Oliveira,https://fbref.com/en/matches/08f5de5f/Aves-Rio-Ave-February-9-2020-Primeira-Liga,0,0,5,1,7,2,2,12,15,2,2,1,0,12,6,10,8,17,2019-2020
 2020-02-14,Vitória Setúbal,Gil Vicente FC,1,2,NA,NA,2979,Gustavo Correia,https://fbref.com/en/matches/ccabd96c/Vitoria-Setubal-Gil-Vicente-FC-February-14-2020-Primeira-Liga,0,0,1,0,7,2,7,8,19,0,0,3,0,7,3,14,4,17,2019-2020
@@ -184,8 +184,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2020-02-15,Portimonense,Moreirense,1,1,NA,NA,2493,André Narciso,https://fbref.com/en/matches/bd3a64d8/Portimonense-Moreirense-February-15-2020-Primeira-Liga,0,0,1,0,12,3,13,10,20,0,0,1,0,9,2,12,12,17,2019-2020
 2020-02-15,Benfica,Braga,0,1,NA,NA,59371,Hugo Miguel,https://fbref.com/en/matches/1f4cc0b4/Benfica-Braga-February-15-2020-Primeira-Liga,0,0,2,0,10,3,16,8,21,0,0,6,1,12,7,13,11,16,2019-2020
 2020-02-15,Rio Ave,Sporting CP,1,1,NA,NA,4434,Fábio Veríssimo,https://fbref.com/en/matches/6c405dcd/Rio-Ave-Sporting-CP-February-15-2020-Primeira-Liga,0,0,3,0,15,6,19,7,16,1,1,3,1,7,2,9,13,14,2019-2020
-2020-02-16,Marítimo,Paços,3,0,NA,NA,5390,Manuel Mota,https://fbref.com/en/matches/b44db845/Maritimo-Pacos-de-Ferreira-February-16-2020-Primeira-Liga,0,0,2,0,8,5,13,2,16,0,0,3,0,16,3,12,5,16,2019-2020
 2020-02-16,Boavista,Belenenses,1,2,NA,NA,16900,Vitor Ferreira Fernandes,https://fbref.com/en/matches/40fcece1/Boavista-Belenenses-February-16-2020-Primeira-Liga,0,0,1,0,19,4,13,5,16,0,0,2,1,11,4,15,5,13,2019-2020
+2020-02-16,Marítimo,Paços,3,0,NA,NA,5390,Manuel Mota,https://fbref.com/en/matches/b44db845/Maritimo-Pacos-de-Ferreira-February-16-2020-Primeira-Liga,0,0,2,0,8,5,13,2,16,0,0,3,0,16,3,12,5,16,2019-2020
 2020-02-16,Vitória,Porto,1,2,NA,NA,23896,Luís Godinho,https://fbref.com/en/matches/ea421811/Vitoria-Guimaraes-Porto-February-16-2020-Primeira-Liga,0,0,0,0,13,3,16,14,15,0,0,2,0,8,1,11,16,15,2019-2020
 2020-02-16,Famalicão,Aves,1,1,NA,NA,2926,Artur Soares Dias,https://fbref.com/en/matches/e0c60185/Famalicao-Aves-February-16-2020-Primeira-Liga,0,0,6,1,17,7,8,6,19,1,1,1,0,12,4,13,13,11,2019-2020
 2020-02-21,Aves,Vitória,0,2,NA,NA,3818,Rui Costa,https://fbref.com/en/matches/db7c4999/Aves-Vitoria-Guimaraes-February-21-2020-Primeira-Liga,0,1,2,0,9,3,16,10,18,0,0,1,0,11,4,14,7,21,2019-2020
@@ -282,26 +282,26 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2020-07-13,Vitória Setúbal,Famalicão,1,2,NA,NA,0,Hélder Malheiro,https://fbref.com/en/matches/6d72cf52/Vitoria-Setubal-Famalicao-July-13-2020-Primeira-Liga,0,0,4,0,8,1,15,13,15,0,0,4,0,11,3,11,8,14,2019-2020
 2020-07-14,Santa Clara,Aves,3,0,NA,NA,0,Gustavo Correia,https://fbref.com/en/matches/29f59e03/Santa-Clara-Aves-July-14-2020-Primeira-Liga,0,0,0,0,12,4,9,25,14,0,0,1,0,9,3,15,13,19,2019-2020
 2020-07-14,Portimonense,Boavista,2,1,NA,NA,0,Manuel Mota,https://fbref.com/en/matches/5fc80bea/Portimonense-Boavista-July-14-2020-Primeira-Liga,1,1,1,0,15,6,4,13,18,0,0,5,1,16,5,6,13,21,2019-2020
-2020-07-14,Benfica,Vitória,2,0,NA,NA,0,Hugo Miguel,https://fbref.com/en/matches/8a49e42c/Benfica-Vitoria-Guimaraes-July-14-2020-Primeira-Liga,0,0,2,0,12,5,11,11,23,0,0,0,0,12,3,5,18,12,2019-2020
 2020-07-14,Gil Vicente FC,Tondela,3,2,NA,NA,0,Jorge de Sousa,https://fbref.com/en/matches/5fee24c6/Gil-Vicente-FC-Tondela-July-14-2020-Primeira-Liga,0,0,2,0,11,6,9,13,13,0,0,4,0,15,6,10,13,19,2019-2020
+2020-07-14,Benfica,Vitória,2,0,NA,NA,0,Hugo Miguel,https://fbref.com/en/matches/8a49e42c/Benfica-Vitoria-Guimaraes-July-14-2020-Primeira-Liga,0,0,2,0,12,5,11,11,23,0,0,0,0,12,3,5,18,12,2019-2020
 2020-07-15,Moreirense,Paços,1,1,NA,NA,0,Rui Costa,https://fbref.com/en/matches/0cb28952/Moreirense-Pacos-de-Ferreira-July-15-2020-Primeira-Liga,1,1,2,0,12,3,5,6,16,0,0,5,0,6,2,8,6,12,2019-2020
 2020-07-15,Braga,Belenenses,1,1,NA,NA,0,André Narciso,https://fbref.com/en/matches/b87e3adf/Braga-Belenenses-July-15-2020-Primeira-Liga,0,0,2,0,32,7,5,7,17,0,0,2,0,7,1,3,19,17,2019-2020
 2020-07-15,Porto,Sporting CP,2,0,NA,NA,0,João Pinheiro,https://fbref.com/en/matches/f7120464/Porto-Sporting-CP-July-15-2020-Primeira-Liga,0,0,4,0,8,4,13,24,16,0,0,2,0,8,2,11,14,20,2019-2020
-2020-07-18,Rio Ave,Santa Clara,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-18,Famalicão,Boavista,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-19,Belenenses,Gil Vicente FC,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-19,Vitória,Marítimo,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-20,Paços,Portimonense,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-20,Tondela,Braga,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-20,Porto,Moreirense,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-21,Sporting CP,Vitória Setúbal,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-21,Aves,Benfica,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-26,Braga,Porto,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-26,Marítimo,Famalicão,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-26,Boavista,Rio Ave,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-26,Portimonense,Aves,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-26,Benfica,Sporting CP,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-26,Santa Clara,Vitória,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-26,Vitória Setúbal,Belenenses,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-26,Gil Vicente FC,Paços,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-07-26,Moreirense,Tondela,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
+2020-07-18,Rio Ave,Santa Clara,2,2,NA,NA,0,Rui Oliveira,https://fbref.com/en/matches/42fde18b/Rio-Ave-Santa-Clara-July-18-2020-Primeira-Liga,1,1,3,0,18,6,12,3,23,0,0,2,0,11,7,11,9,15,2019-2020
+2020-07-18,Famalicão,Boavista,2,2,NA,NA,0,Cláudio Ruivo Pereira,https://fbref.com/en/matches/7107be06/Famalicao-Boavista-July-18-2020-Primeira-Liga,1,1,2,0,13,6,15,7,13,1,1,3,0,13,5,8,4,20,2019-2020
+2020-07-19,Belenenses,Gil Vicente FC,1,0,NA,NA,0,Manuel Oliveira,https://fbref.com/en/matches/a6a22517/Belenenses-Gil-Vicente-FC-July-19-2020-Primeira-Liga,0,0,4,0,7,2,11,13,18,0,0,4,0,8,3,10,12,23,2019-2020
+2020-07-19,Vitória,Marítimo,1,0,NA,NA,0,Luís Godinho,https://fbref.com/en/matches/be6d3e4a/Vitoria-Guimaraes-Maritimo-July-19-2020-Primeira-Liga,0,0,2,0,20,3,10,15,25,0,0,4,0,11,2,9,11,14,2019-2020
+2020-07-20,Paços,Portimonense,2,1,NA,NA,0,João Pinheiro,https://fbref.com/en/matches/18f90b58/Pacos-de-Ferreira-Portimonense-July-20-2020-Primeira-Liga,0,0,2,0,10,2,6,14,14,0,0,3,0,9,3,9,10,22,2019-2020
+2020-07-20,Tondela,Braga,1,0,NA,NA,0,Artur Soares Dias,https://fbref.com/en/matches/7bf7585b/Tondela-Braga-July-20-2020-Primeira-Liga,0,0,5,1,8,2,6,17,21,0,0,0,0,7,1,8,14,18,2019-2020
+2020-07-20,Porto,Moreirense,6,1,NA,NA,0,Carlos Xistra,https://fbref.com/en/matches/e321787e/Porto-Moreirense-July-20-2020-Primeira-Liga,1,1,1,0,14,9,6,9,13,0,0,1,0,8,4,4,9,10,2019-2020
+2020-07-21,Sporting CP,Vitória Setúbal,0,0,NA,NA,0,Nuno Almeida,https://fbref.com/en/matches/f2b161d4/Sporting-CP-Vitoria-Setubal-July-21-2020-Primeira-Liga,0,0,1,0,13,3,11,10,15,0,0,3,0,3,1,8,18,19,2019-2020
+2020-07-21,Aves,Benfica,0,4,NA,NA,0,António Nobre,https://fbref.com/en/matches/8a277c9f/Aves-Benfica-July-21-2020-Primeira-Liga,0,0,1,0,8,2,12,16,12,1,1,0,0,21,11,10,13,22,2019-2020
+2020-07-24,Santa Clara,Vitória,2,2,NA,NA,0,João Bento,https://fbref.com/en/matches/04659a20/Santa-Clara-Vitoria-Guimaraes-July-24-2020-Primeira-Liga,1,1,4,1,7,3,11,15,21,1,1,3,0,10,4,7,6,12,2019-2020
+2020-07-24,Gil Vicente FC,Paços,3,3,NA,NA,0,Iancu Vasilica,https://fbref.com/en/matches/a39ab83d/Gil-Vicente-FC-Pacos-de-Ferreira-July-24-2020-Primeira-Liga,0,0,3,0,13,5,4,8,23,0,0,2,0,13,7,7,9,20,2019-2020
+2020-07-25,Boavista,Rio Ave,0,2,NA,NA,0,Manuel Oliveira,https://fbref.com/en/matches/808d6a94/Boavista-Rio-Ave-July-25-2020-Primeira-Liga,0,0,3,0,10,2,8,12,18,0,0,2,0,7,4,17,7,18,2019-2020
+2020-07-25,Marítimo,Famalicão,3,3,NA,NA,0,Tiago Martins,https://fbref.com/en/matches/16468399/Maritimo-Famalicao-July-25-2020-Primeira-Liga,0,0,4,2,8,5,18,18,19,1,1,3,2,17,5,12,4,17,2019-2020
+2020-07-25,Braga,Porto,2,1,NA,NA,0,Jorge de Sousa,https://fbref.com/en/matches/69eeae7c/Braga-Porto-July-25-2020-Primeira-Liga,0,0,5,0,11,5,12,11,17,0,0,3,0,10,5,3,11,13,2019-2020
+2020-07-25,Benfica,Sporting CP,2,1,NA,NA,0,Fábio Veríssimo,https://fbref.com/en/matches/6fdac583/Benfica-Sporting-CP-July-25-2020-Primeira-Liga,0,0,4,0,17,4,5,19,21,0,0,3,0,12,5,9,12,15,2019-2020
+2020-07-26,Portimonense,Aves,2,0,NA,NA,0,Hugo Miguel,https://fbref.com/en/matches/35030a81/Portimonense-Aves-July-26-2020-Primeira-Liga,0,0,2,0,13,5,13,6,19,0,0,3,0,10,3,11,9,21,2019-2020
+2020-07-26,Vitória Setúbal,Belenenses,2,0,NA,NA,0,Artur Soares Dias,https://fbref.com/en/matches/0f21b30c/Vitoria-Setubal-Belenenses-July-26-2020-Primeira-Liga,0,0,2,0,11,4,13,16,15,0,0,1,0,8,2,4,6,10,2019-2020
+2020-07-26,Moreirense,Tondela,1,2,NA,NA,0,Luís Godinho,https://fbref.com/en/matches/76cfdb6c/Moreirense-Tondela-July-26-2020-Primeira-Liga,0,0,3,0,10,3,14,6,19,2,2,2,0,15,4,11,16,21,2019-2020

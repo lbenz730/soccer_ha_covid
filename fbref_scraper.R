@@ -172,7 +172,7 @@ get_match_stats <- function(game_html) {
 
 ### Scrape Data
 league_info <- read_csv("league_info.csv")
-for(i in 16:nrow(league_info)) {
+for(i in 1:nrow(league_info)) {
   base_url <- league_info$fbref_url[i]
   league_id <- league_info$fbref_league_id[i]
   league <- gsub("https://fbref.com/en/comps/\\d+/history/", "", gsub("-Seasons", "", base_url))

@@ -19,8 +19,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-09-24,Panionios,Veria,1,2,NA,NA,1508,Giorgos Foukakis,https://fbref.com/en/matches/472fd705/Panionios-Veria-September-24-2016-Super-League-Greece,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
 2016-09-24,Panetolikos,Panathinaikos,0,0,NA,NA,4179,Georgios Kominis,https://fbref.com/en/matches/f19476c0/Panetolikos-Panathinaikos-September-24-2016-Super-League-Greece,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2016-09-25,PAOK,Xanthi,0,0,NA,NA,13132,Aristidis Vatsios,https://fbref.com/en/matches/d61953ee/PAOK-Xanthi-September-25-2016-Super-League-Greece,0,0,1,0,0,0,0,0,0,0,0,6,1,0,0,0,0,0,2016-2017
-2016-09-25,Levadiakos,Kerkyra,2,1,NA,NA,385,Triandafillos Tikas,https://fbref.com/en/matches/4421fd01/Levadiakos-Kerkyra-September-25-2016-Super-League-Greece,0,0,3,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,2016-2017
 2016-09-25,Atromitos,Asteras Tripoli,1,0,NA,NA,826,Stavros Mantalos,https://fbref.com/en/matches/f0e62fe9/Atromitos-Asteras-Tripoli-September-25-2016-Super-League-Greece,0,0,3,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2016-2017
+2016-09-25,Levadiakos,Kerkyra,2,1,NA,NA,385,Triandafillos Tikas,https://fbref.com/en/matches/4421fd01/Levadiakos-Kerkyra-September-25-2016-Super-League-Greece,0,0,3,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,2016-2017
 2016-09-25,Larissa,Olympiacos,1,0,NA,NA,5507,Ioannis Papadopoulos,https://fbref.com/en/matches/341a73c3/Larissa-Olympiacos-September-25-2016-Super-League-Greece,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
 2016-09-26,AEK Athens,Iraklis,0,0,NA,NA,9673,Giorgos Blanas,https://fbref.com/en/matches/bc74dcbb/AEK-Athens-Iraklis-Thessaloniki-September-26-2016-Super-League-Greece,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
 2016-10-01,Kerkyra,PAS Giannina,0,1,NA,NA,1030,Georgios Giannoulakis,https://fbref.com/en/matches/abec6434/Kerkyra-PAS-Giannina-October-1-2016-Super-League-Greece,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
@@ -67,8 +67,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-11-26,Asteras Tripoli,Larissa,1,1,NA,NA,1322,Georgios Kizas,https://fbref.com/en/matches/844a06fa/Asteras-Tripoli-Larissa-November-26-2016-Super-League-Greece,1,1,5,0,0,0,0,0,0,1,1,2,1,0,0,0,0,0,2016-2017
 2016-11-26,AEK Athens,Platanias,3,0,NA,NA,3822,Christos Granas,https://fbref.com/en/matches/df3110a8/AEK-Athens-Platanias-November-26-2016-Super-League-Greece,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
 2016-11-27,Olympiacos,Kerkyra,0,0,NA,NA,32115,Giorgos Blanas,https://fbref.com/en/matches/4c3697c4/Olympiacos-Kerkyra-November-27-2016-Super-League-Greece,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
-2016-11-27,Levadiakos,Iraklis,3,0,NA,NA,805,Nikolaos Anousos,https://fbref.com/en/matches/761e7f11/Levadiakos-Iraklis-Thessaloniki-November-27-2016-Super-League-Greece,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
 2016-11-27,Panetolikos,Xanthi,2,3,NA,NA,1901,Triandafillos Tikas,https://fbref.com/en/matches/f536dca3/Panetolikos-Xanthi-November-27-2016-Super-League-Greece,1,1,2,0,0,0,0,0,0,1,1,5,0,0,0,0,0,0,2016-2017
+2016-11-27,Levadiakos,Iraklis,3,0,NA,NA,805,Nikolaos Anousos,https://fbref.com/en/matches/761e7f11/Levadiakos-Iraklis-Thessaloniki-November-27-2016-Super-League-Greece,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
 2016-11-27,Panionios,Panathinaikos,1,1,NA,NA,1007,Georgios Kominis,https://fbref.com/en/matches/2d490a39/Panionios-Panathinaikos-November-27-2016-Super-League-Greece,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
 2016-11-28,PAOK,Atromitos,3,4,NA,NA,5581,Charalambos Kalogeropoulos,https://fbref.com/en/matches/d1d8a2ca/PAOK-Atromitos-November-28-2016-Super-League-Greece,0,0,2,1,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2016-2017
 2016-12-03,Platanias,Panionios,1,1,NA,NA,1453,Aristidis Vatsios,https://fbref.com/en/matches/18283f42/Platanias-Panionios-December-3-2016-Super-League-Greece,0,0,5,1,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2016-2017
@@ -83,8 +83,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-12-10,Xanthi,Larissa,1,0,NA,NA,935,Stavros Mantalos,https://fbref.com/en/matches/77823358/Xanthi-Larissa-December-10-2016-Super-League-Greece,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
 2016-12-10,AEK Athens,Levadiakos,4,0,NA,NA,3755,Giorgos Blanas,https://fbref.com/en/matches/423025d9/AEK-Athens-Levadiakos-December-10-2016-Super-League-Greece,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2016-2017
 2016-12-11,Panetolikos,Iraklis,2,0,NA,NA,2009,Evangelos Gratsanis,https://fbref.com/en/matches/0b620482/Panetolikos-Iraklis-Thessaloniki-December-11-2016-Super-League-Greece,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
-2016-12-11,PAOK,Platanias,3,0,NA,NA,10527,Christos Granas,https://fbref.com/en/matches/1e2262ea/PAOK-Platanias-December-11-2016-Super-League-Greece,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
 2016-12-11,Panionios,Kerkyra,1,0,NA,NA,525,Alexandros Katsikogiannis,https://fbref.com/en/matches/c7e9701a/Panionios-Kerkyra-December-11-2016-Super-League-Greece,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2016-12-11,PAOK,Platanias,3,0,NA,NA,10527,Christos Granas,https://fbref.com/en/matches/1e2262ea/PAOK-Platanias-December-11-2016-Super-League-Greece,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
 2016-12-11,Atromitos,Panathinaikos,0,1,NA,NA,0,Tasos Sidiropoulos,https://fbref.com/en/matches/3fb6301f/Atromitos-Panathinaikos-December-11-2016-Super-League-Greece,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
 2016-12-12,PAS Giannina,Olympiacos,0,2,NA,NA,4009,Anastasios Papapetrou,https://fbref.com/en/matches/c51f203a/PAS-Giannina-Olympiacos-December-12-2016-Super-League-Greece,0,0,2,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
 2016-12-17,Veria,Xanthi,0,4,NA,NA,245,Dimitros Thanos,https://fbref.com/en/matches/45f08532/Veria-Xanthi-December-17-2016-Super-League-Greece,0,0,1,0,0,0,0,0,0,2,2,3,0,0,0,0,0,0,2016-2017
@@ -98,8 +98,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-01-03,Iraklis,Xanthi,0,1,NA,NA,521,Georgios Kyzas,https://fbref.com/en/matches/b24cb756/Iraklis-Thessaloniki-Xanthi-January-3-2017-Super-League-Greece,0,0,2,1,0,0,0,0,0,0,1,3,0,0,0,0,0,0,2016-2017
 2017-01-03,Levadiakos,PAOK,0,1,NA,NA,1074,Thanasis Tzilos,https://fbref.com/en/matches/297cac6e/Levadiakos-PAOK-January-3-2017-Super-League-Greece,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
 2017-01-04,Kerkyra,Atromitos,1,1,NA,NA,776,Alexandros Aretopoulos,https://fbref.com/en/matches/3d777836/Kerkyra-Atromitos-January-4-2017-Super-League-Greece,0,0,3,1,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
-2017-01-04,AEK Athens,Panetolikos,0,0,NA,NA,5221,Stavros Mantalos,https://fbref.com/en/matches/14f09b9a/AEK-Athens-Panetolikos-January-4-2017-Super-League-Greece,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
 2017-01-04,Larissa,Veria,2,1,NA,NA,1852,Ananias Fotiadis,https://fbref.com/en/matches/9717a9a5/Larissa-Veria-January-4-2017-Super-League-Greece,1,1,3,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2017-01-04,AEK Athens,Panetolikos,0,0,NA,NA,5221,Stavros Mantalos,https://fbref.com/en/matches/14f09b9a/AEK-Athens-Panetolikos-January-4-2017-Super-League-Greece,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
 2017-01-04,Olympiacos,Asteras Tripoli,2,1,NA,NA,15532,Aristidis Vatsios,https://fbref.com/en/matches/9764fb1b/Olympiacos-Asteras-Tripoli-January-4-2017-Super-League-Greece,0,0,2,0,0,0,0,0,0,1,1,6,0,0,0,0,0,0,2016-2017
 2017-01-05,Panionios,PAS Giannina,1,1,NA,NA,880,Manolis Skoulas,https://fbref.com/en/matches/61c7ce08/Panionios-PAS-Giannina-January-5-2017-Super-League-Greece,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
 2017-01-05,Platanias,Panathinaikos,1,0,NA,NA,2196,Praxiteles Zachariadis,https://fbref.com/en/matches/4de3c86f/Platanias-Panathinaikos-January-5-2017-Super-League-Greece,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
@@ -113,13 +113,13 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-01-14,Veria,Levadiakos,2,0,NA,NA,256,Georgios Giannoulakis,https://fbref.com/en/matches/bccec9dc/Veria-Levadiakos-January-14-2017-Super-League-Greece,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
 2017-01-14,Platanias,Olympiacos,2,2,NA,NA,2456,Giorgos Foukakis,https://fbref.com/en/matches/1df2dbd7/Platanias-Olympiacos-January-14-2017-Super-League-Greece,1,1,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
 2017-01-15,Xanthi,PAS Giannina,2,0,NA,NA,795,Triandafillos Tikas,https://fbref.com/en/matches/0fbd42be/Xanthi-PAS-Giannina-January-15-2017-Super-League-Greece,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
-2017-01-15,Atromitos,Panionios,1,2,NA,NA,827,Thanasis Tzilos,https://fbref.com/en/matches/e58b38b9/Atromitos-Panionios-January-15-2017-Super-League-Greece,1,1,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
 2017-01-15,Asteras Tripoli,Panetolikos,4,1,NA,NA,1193,Charalambos Kalogeropoulos,https://fbref.com/en/matches/34f83737/Asteras-Tripoli-Panetolikos-January-15-2017-Super-League-Greece,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-01-15,Atromitos,Panionios,1,2,NA,NA,827,Thanasis Tzilos,https://fbref.com/en/matches/e58b38b9/Atromitos-Panionios-January-15-2017-Super-League-Greece,1,1,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
 2017-01-15,Panathinaikos,AEK Athens,0,0,NA,NA,6955,Georgios Kominis,https://fbref.com/en/matches/8d085972/Panathinaikos-AEK-Athens-January-15-2017-Super-League-Greece,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
-2017-01-18,PAS Giannina,Panionios,1,0,NA,NA,1502,Praxiteles Zachariadis,https://fbref.com/en/matches/a9267ea7/PAS-Giannina-Panionios-January-18-2017-Super-League-Greece,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2017-01-18,Atromitos,Kerkyra,1,4,NA,NA,294,Alexandros Tsamouris,https://fbref.com/en/matches/58509726/Atromitos-Kerkyra-January-18-2017-Super-League-Greece,0,0,2,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
-2017-01-18,Xanthi,Iraklis,3,1,NA,NA,548,Alexandros Aretopoulos,https://fbref.com/en/matches/c60a70d4/Xanthi-Iraklis-Thessaloniki-January-18-2017-Super-League-Greece,1,1,3,1,0,0,0,0,0,0,1,3,0,0,0,0,0,0,2016-2017
+2017-01-18,PAS Giannina,Panionios,1,0,NA,NA,1502,Praxiteles Zachariadis,https://fbref.com/en/matches/a9267ea7/PAS-Giannina-Panionios-January-18-2017-Super-League-Greece,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2017-01-18,Veria,Larissa,1,1,NA,NA,408,Tasos Sidiropoulos,https://fbref.com/en/matches/6d36e8ea/Veria-Larissa-January-18-2017-Super-League-Greece,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2017-01-18,Xanthi,Iraklis,3,1,NA,NA,548,Alexandros Aretopoulos,https://fbref.com/en/matches/c60a70d4/Xanthi-Iraklis-Thessaloniki-January-18-2017-Super-League-Greece,1,1,3,1,0,0,0,0,0,0,1,3,0,0,0,0,0,0,2016-2017
 2017-01-18,Panetolikos,AEK Athens,3,2,NA,NA,2006,Anastasios Papapetrou,https://fbref.com/en/matches/0c50e7cd/Panetolikos-AEK-Athens-January-18-2017-Super-League-Greece,1,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2017-01-18,Asteras Tripoli,Olympiacos,0,0,NA,NA,1772,Georgios Kizas,https://fbref.com/en/matches/bcde027e/Asteras-Tripoli-Olympiacos-January-18-2017-Super-League-Greece,0,0,2,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2017-01-19,PAOK,Levadiakos,3,0,NA,NA,4179,Nikos Poulimas,https://fbref.com/en/matches/123aaff8/PAOK-Levadiakos-January-19-2017-Super-League-Greece,0,0,2,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2016-2017
@@ -137,9 +137,9 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-01-28,Asteras Tripoli,Panionios,1,1,NA,NA,1740,Alexandros Katsikogiannis,https://fbref.com/en/matches/225046f8/Asteras-Tripoli-Panionios-January-28-2017-Super-League-Greece,1,1,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
 2017-01-28,Xanthi,AEK Athens,0,0,NA,NA,1890,Ioannis Papadopoulos,https://fbref.com/en/matches/1fd0b1a5/Xanthi-AEK-Athens-January-28-2017-Super-League-Greece,0,0,2,1,0,0,0,0,0,0,0,5,1,0,0,0,0,0,2016-2017
 2017-01-29,Panathinaikos,Levadiakos,0,0,NA,NA,3978,Praxiteles Zachariadis,https://fbref.com/en/matches/5de5d4f1/Panathinaikos-Levadiakos-January-29-2017-Super-League-Greece,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-01-29,Atromitos,PAS Giannina,1,1,NA,NA,693,Angelos Evangelo u,https://fbref.com/en/matches/2686c9c5/Atromitos-PAS-Giannina-January-29-2017-Super-League-Greece,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
 2017-01-29,Platanias,Kerkyra,2,1,NA,NA,2339,Manolis Skoulas,https://fbref.com/en/matches/325a848e/Platanias-Kerkyra-January-29-2017-Super-League-Greece,1,1,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2017-01-29,Panetolikos,PAOK,0,1,NA,NA,1464,Charalambos Kalogeropoulos,https://fbref.com/en/matches/401c620c/Panetolikos-PAOK-January-29-2017-Super-League-Greece,0,0,3,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2016-2017
-2017-01-29,Atromitos,PAS Giannina,1,1,NA,NA,693,Angelos Evangelo u,https://fbref.com/en/matches/2686c9c5/Atromitos-PAS-Giannina-January-29-2017-Super-League-Greece,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
 2017-01-29,Veria,Olympiacos,1,2,NA,NA,1425,Thanasis Tzilos,https://fbref.com/en/matches/cdd49525/Veria-Olympiacos-January-29-2017-Super-League-Greece,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2017-02-01,Iraklis,Kerkyra,0,0,NA,NA,754,Giorgos Blanas,https://fbref.com/en/matches/b84aaa11/Iraklis-Thessaloniki-Kerkyra-February-1-2017-Super-League-Greece,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
 2017-02-01,Larissa,PAOK,0,2,NA,NA,2559,Stavros Mantalos,https://fbref.com/en/matches/4be74fde/Larissa-PAOK-February-1-2017-Super-League-Greece,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
@@ -155,8 +155,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-02-11,Asteras Tripoli,Atromitos,0,1,NA,NA,1137,Aristidis Vatsios,https://fbref.com/en/matches/14c86f45/Asteras-Tripoli-Atromitos-February-11-2017-Super-League-Greece,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
 2017-02-11,Olympiacos,Larissa,2,0,NA,NA,13258,Christos Granas,https://fbref.com/en/matches/c80ee7ba/Olympiacos-Larissa-February-11-2017-Super-League-Greece,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
 2017-02-12,Kerkyra,Levadiakos,1,0,NA,NA,1072,Georgios Kominis,https://fbref.com/en/matches/7c7538af/Kerkyra-Levadiakos-February-12-2017-Super-League-Greece,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
-2017-02-12,Xanthi,PAOK,0,0,NA,NA,1959,Georgios Kyzas,https://fbref.com/en/matches/22c993e9/Xanthi-PAOK-February-12-2017-Super-League-Greece,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
 2017-02-12,Platanias,PAS Giannina,3,3,NA,NA,1458,Alexandros Tsamouris,https://fbref.com/en/matches/7f763004/Platanias-PAS-Giannina-February-12-2017-Super-League-Greece,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-02-12,Xanthi,PAOK,0,0,NA,NA,1959,Georgios Kyzas,https://fbref.com/en/matches/22c993e9/Xanthi-PAOK-February-12-2017-Super-League-Greece,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
 2017-02-12,Panathinaikos,Panetolikos,4,0,NA,NA,4049,Spyros Selimos,https://fbref.com/en/matches/e8ec8df5/Panathinaikos-Panetolikos-February-12-2017-Super-League-Greece,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
 2017-02-13,Iraklis,AEK Athens,2,2,NA,NA,1118,Giorgos Foukakis,https://fbref.com/en/matches/38c5238e/Iraklis-Thessaloniki-AEK-Athens-February-13-2017-Super-League-Greece,0,0,6,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2016-2017
 2017-02-18,Atromitos,Xanthi,2,1,NA,NA,545,Anastasios Papapetrou,https://fbref.com/en/matches/5c369f66/Atromitos-Xanthi-February-18-2017-Super-League-Greece,0,0,2,0,0,0,0,0,0,1,1,3,1,0,0,0,0,0,2016-2017
@@ -171,8 +171,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-02-25,Kerkyra,Panetolikos,0,0,NA,NA,1039,Praxiteles Zachariadis,https://fbref.com/en/matches/a8130fea/Kerkyra-Panetolikos-February-25-2017-Super-League-Greece,0,1,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2017-02-25,Xanthi,Panathinaikos,1,0,NA,NA,1730,Dimitros Thanos,https://fbref.com/en/matches/dfc13983/Xanthi-Panathinaikos-February-25-2017-Super-League-Greece,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
 2017-02-26,AEK Athens,Larissa,3,0,NA,NA,5504,Aristomenis Koutsiaftis,https://fbref.com/en/matches/1c99070f/AEK-Athens-Larissa-February-26-2017-Super-League-Greece,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
-2017-02-26,Iraklis,PAOK,1,1,NA,NA,3382,Christos Granas,https://fbref.com/en/matches/a1eddc4c/Iraklis-Thessaloniki-PAOK-February-26-2017-Super-League-Greece,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2017-02-26,Levadiakos,PAS Giannina,2,1,NA,NA,820,Tasos Sidiropoulos,https://fbref.com/en/matches/ffaa328c/Levadiakos-PAS-Giannina-February-26-2017-Super-League-Greece,1,1,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-02-26,Iraklis,PAOK,1,1,NA,NA,3382,Christos Granas,https://fbref.com/en/matches/a1eddc4c/Iraklis-Thessaloniki-PAOK-February-26-2017-Super-League-Greece,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2017-02-26,Olympiacos,Panionios,0,1,NA,NA,17843,Georgios Kominis,https://fbref.com/en/matches/4a9ec15c/Olympiacos-Panionios-February-26-2017-Super-League-Greece,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
 2017-02-27,Veria,Atromitos,0,1,NA,NA,421,Aristidis Vatsios,https://fbref.com/en/matches/cdce36bf/Veria-Atromitos-February-27-2017-Super-League-Greece,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
 2017-03-04,Larissa,PAS Giannina,1,1,NA,NA,1536,Christos Granas,https://fbref.com/en/matches/5c0d2d7f/Larissa-PAS-Giannina-March-4-2017-Super-League-Greece,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
@@ -195,8 +195,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-03-18,Larissa,Panetolikos,1,0,NA,NA,1641,Giorgos Foukakis,https://fbref.com/en/matches/27e69f9c/Larissa-Panetolikos-March-18-2017-Super-League-Greece,0,0,4,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
 2017-03-18,Atromitos,AEK Athens,0,1,NA,NA,1265,Dimitros Thanos,https://fbref.com/en/matches/d7aa1b73/Atromitos-AEK-Athens-March-18-2017-Super-League-Greece,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
 2017-03-19,PAOK,Panionios,1,0,NA,NA,13094,Dimitros Styliaras,https://fbref.com/en/matches/6caf7926/PAOK-Panionios-March-19-2017-Super-League-Greece,0,0,3,1,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2016-2017
-2017-03-19,Asteras Tripoli,PAS Giannina,1,1,NA,NA,1416,Angelos Evangelo u,https://fbref.com/en/matches/78c1f399/Asteras-Tripoli-PAS-Giannina-March-19-2017-Super-League-Greece,0,0,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
 2017-03-19,Xanthi,Levadiakos,2,2,NA,NA,749,Aristidis Vatsios,https://fbref.com/en/matches/141a5851/Xanthi-Levadiakos-March-19-2017-Super-League-Greece,1,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-03-19,Asteras Tripoli,PAS Giannina,1,1,NA,NA,1416,Angelos Evangelo u,https://fbref.com/en/matches/78c1f399/Asteras-Tripoli-PAS-Giannina-March-19-2017-Super-League-Greece,0,0,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
 2017-03-19,Panathinaikos,Olympiacos,1,0,NA,NA,13666,Georgios Kominis,https://fbref.com/en/matches/1b7f9d3f/Panathinaikos-Olympiacos-March-19-2017-Super-League-Greece,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2017-03-20,Platanias,Iraklis,1,0,NA,NA,1652,Christos Granas,https://fbref.com/en/matches/1890b4bc/Platanias-Iraklis-Thessaloniki-March-20-2017-Super-League-Greece,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2017-04-01,PAS Giannina,Xanthi,1,1,NA,NA,1553,Dimitros Styliaras,https://fbref.com/en/matches/d55b1964/PAS-Giannina-Xanthi-April-1-2017-Super-League-Greece,0,0,1,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,2016-2017
@@ -208,37 +208,37 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-04-02,Panetolikos,Asteras Tripoli,1,1,NA,NA,2225,Giorgos Blanas,https://fbref.com/en/matches/ec3a6880/Panetolikos-Asteras-Tripoli-April-2-2017-Super-League-Greece,0,0,5,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,2016-2017
 2017-04-02,AEK Athens,Panathinaikos,2,3,NA,NA,18526,Ioannis Papadopoulos,https://fbref.com/en/matches/fce8793c/AEK-Athens-Panathinaikos-April-2-2017-Super-League-Greece,1,1,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
 2017-04-05,Xanthi,Panetolikos,3,0,NA,NA,515,Alexandros Aretopoulos,https://fbref.com/en/matches/a162af22/Xanthi-Panetolikos-April-5-2017-Super-League-Greece,1,1,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
-2017-04-05,Atromitos,PAOK,0,2,NA,NA,726,Georgios Kyzas,https://fbref.com/en/matches/40112618/Atromitos-PAOK-April-5-2017-Super-League-Greece,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
 2017-04-05,Veria,PAS Giannina,3,0,NA,NA,366,Triandafillos Tikas,https://fbref.com/en/matches/82b7f901/Veria-PAS-Giannina-April-5-2017-Super-League-Greece,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-04-05,Atromitos,PAOK,0,2,NA,NA,726,Georgios Kyzas,https://fbref.com/en/matches/40112618/Atromitos-PAOK-April-5-2017-Super-League-Greece,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
 2017-04-05,Iraklis,Levadiakos,1,0,NA,NA,2009,Georgios Kominis,https://fbref.com/en/matches/fd2ba708/Iraklis-Thessaloniki-Levadiakos-April-5-2017-Super-League-Greece,0,0,3,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
 2017-04-05,Larissa,Asteras Tripoli,1,4,NA,NA,1266,Dimitros Thanos,https://fbref.com/en/matches/07f489ac/Larissa-Asteras-Tripoli-April-5-2017-Super-League-Greece,0,1,1,0,0,0,0,0,0,2,2,3,0,0,0,0,0,0,2016-2017
 2017-04-05,Kerkyra,Olympiacos,0,2,NA,NA,2042,Angelos Evangelo u,https://fbref.com/en/matches/ffb23ced/Kerkyra-Olympiacos-April-5-2017-Super-League-Greece,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
 2017-04-06,Panathinaikos,Panionios,1,0,NA,NA,6605,Christos Granas,https://fbref.com/en/matches/aab1927c/Panathinaikos-Panionios-April-6-2017-Super-League-Greece,1,1,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
 2017-04-06,Platanias,AEK Athens,0,2,NA,NA,2463,Charalambos Kalogeropoulos,https://fbref.com/en/matches/c6a545d6/Platanias-AEK-Athens-April-6-2017-Super-League-Greece,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
-2017-04-09,Panetolikos,Veria,1,0,NA,NA,2304,Manolis Skoulas,https://fbref.com/en/matches/a6126a8a/Panetolikos-Veria-April-9-2017-Super-League-Greece,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
-2017-04-09,PAOK,Panathinaikos,3,0,NA,NA,17209,Marios Stamatis,https://fbref.com/en/matches/e0ae1922/PAOK-Panathinaikos-April-9-2017-Super-League-Greece,0,0,4,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
-2017-04-09,AEK Athens,Kerkyra,5,0,NA,NA,5112,Aristotelis Diamantopoulos,https://fbref.com/en/matches/c9238fc0/AEK-Athens-Kerkyra-April-9-2017-Super-League-Greece,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
-2017-04-09,Atromitos,Larissa,0,0,NA,NA,468,Giorgos Blanas,https://fbref.com/en/matches/ba5c4800/Atromitos-Larissa-April-9-2017-Super-League-Greece,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
 2017-04-09,Asteras Tripoli,Xanthi,0,0,NA,NA,1829,Dimitrios Karantonis,https://fbref.com/en/matches/86a16234/Asteras-Tripoli-Xanthi-April-9-2017-Super-League-Greece,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-04-09,Panionios,Platanias,1,1,NA,NA,1514,Spyros Selimos,https://fbref.com/en/matches/6ffca028/Panionios-Platanias-April-9-2017-Super-League-Greece,1,1,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-04-09,PAOK,Panathinaikos,3,0,NA,NA,17209,Marios Stamatis,https://fbref.com/en/matches/e0ae1922/PAOK-Panathinaikos-April-9-2017-Super-League-Greece,0,0,4,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
+2017-04-09,Atromitos,Larissa,0,0,NA,NA,468,Giorgos Blanas,https://fbref.com/en/matches/ba5c4800/Atromitos-Larissa-April-9-2017-Super-League-Greece,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-04-09,AEK Athens,Kerkyra,5,0,NA,NA,5112,Aristotelis Diamantopoulos,https://fbref.com/en/matches/c9238fc0/AEK-Athens-Kerkyra-April-9-2017-Super-League-Greece,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
+2017-04-09,Panetolikos,Veria,1,0,NA,NA,2304,Manolis Skoulas,https://fbref.com/en/matches/a6126a8a/Panetolikos-Veria-April-9-2017-Super-League-Greece,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
 2017-04-09,Levadiakos,Olympiacos,1,1,NA,NA,2446,Evangelos Kiotzenis,https://fbref.com/en/matches/265b60c7/Levadiakos-Olympiacos-April-9-2017-Super-League-Greece,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2017-04-09,PAS Giannina,Iraklis,1,2,NA,NA,1664,Aristidis Vatsios,https://fbref.com/en/matches/4b6f31e9/PAS-Giannina-Iraklis-Thessaloniki-April-9-2017-Super-League-Greece,0,0,3,0,0,0,0,0,0,0,0,6,1,0,0,0,0,0,2016-2017
-2017-04-09,Panionios,Platanias,1,1,NA,NA,1514,Spyros Selimos,https://fbref.com/en/matches/6ffca028/Panionios-Platanias-April-9-2017-Super-League-Greece,1,1,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
-2017-04-23,Veria,Asteras Tripoli,4,3,NA,NA,426,Athanasios Sezos,https://fbref.com/en/matches/f28a4df2/Veria-Asteras-Tripoli-April-23-2017-Super-League-Greece,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
-2017-04-23,Iraklis,Panetolikos,2,1,NA,NA,2871,Dimitros Thanos,https://fbref.com/en/matches/00bcd85e/Iraklis-Thessaloniki-Panetolikos-April-23-2017-Super-League-Greece,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
-2017-04-23,Kerkyra,Panionios,1,0,NA,NA,771,Georgios Giannoulakis,https://fbref.com/en/matches/e992659f/Kerkyra-Panionios-April-23-2017-Super-League-Greece,0,0,8,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
-2017-04-23,Platanias,PAOK,1,3,NA,NA,1989,Aristidis Vatsios,https://fbref.com/en/matches/ed7ddce0/Platanias-PAOK-April-23-2017-Super-League-Greece,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
 2017-04-23,Panathinaikos,Atromitos,1,0,NA,NA,4146,Dimitrios Karantonis,https://fbref.com/en/matches/3878f5e1/Panathinaikos-Atromitos-April-23-2017-Super-League-Greece,0,0,3,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2016-2017
 2017-04-23,Levadiakos,AEK Athens,0,2,NA,NA,1153,Praxiteles Zachariadis,https://fbref.com/en/matches/edf9557d/Levadiakos-AEK-Athens-April-23-2017-Super-League-Greece,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
-2017-04-23,Olympiacos,PAS Giannina,5,0,NA,NA,20818,Thanasis Tzilos,https://fbref.com/en/matches/6e9b2401/Olympiacos-PAS-Giannina-April-23-2017-Super-League-Greece,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-04-23,Iraklis,Panetolikos,2,1,NA,NA,2871,Dimitros Thanos,https://fbref.com/en/matches/00bcd85e/Iraklis-Thessaloniki-Panetolikos-April-23-2017-Super-League-Greece,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-04-23,Kerkyra,Panionios,1,0,NA,NA,771,Georgios Giannoulakis,https://fbref.com/en/matches/e992659f/Kerkyra-Panionios-April-23-2017-Super-League-Greece,0,0,8,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
+2017-04-23,Veria,Asteras Tripoli,4,3,NA,NA,426,Athanasios Sezos,https://fbref.com/en/matches/f28a4df2/Veria-Asteras-Tripoli-April-23-2017-Super-League-Greece,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
+2017-04-23,Platanias,PAOK,1,3,NA,NA,1989,Aristidis Vatsios,https://fbref.com/en/matches/ed7ddce0/Platanias-PAOK-April-23-2017-Super-League-Greece,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
 2017-04-23,Larissa,Xanthi,1,0,NA,NA,3468,Charalambos Kalogeropoulos,https://fbref.com/en/matches/5edd73b6/Larissa-Xanthi-April-23-2017-Super-League-Greece,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
-2017-04-30,PAS Giannina,AEK Athens,1,1,NA,NA,3019,Konstantinos Kotsanis,https://fbref.com/en/matches/476d8c05/PAS-Giannina-AEK-Athens-April-30-2017-Super-League-Greece,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
-2017-04-30,Asteras Tripoli,Iraklis,2,2,NA,NA,1131,Ioannis Neofitiadis,https://fbref.com/en/matches/3325dd91/Asteras-Tripoli-Iraklis-Thessaloniki-April-30-2017-Super-League-Greece,1,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
-2017-04-30,PAOK,Kerkyra,5,1,NA,NA,8206,Stefanos Koubarakis,https://fbref.com/en/matches/0853c16f/PAOK-Kerkyra-April-30-2017-Super-League-Greece,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
-2017-04-30,Xanthi,Veria,3,0,NA,NA,530,Aggelos Aggelakis,https://fbref.com/en/matches/a9498a30/Xanthi-Veria-April-30-2017-Super-League-Greece,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
+2017-04-23,Olympiacos,PAS Giannina,5,0,NA,NA,20818,Thanasis Tzilos,https://fbref.com/en/matches/6e9b2401/Olympiacos-PAS-Giannina-April-23-2017-Super-League-Greece,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
 2017-04-30,Panionios,Levadiakos,1,3,NA,NA,1440,Manolis Skoulas,https://fbref.com/en/matches/b7d0da0a/Panionios-Levadiakos-April-30-2017-Super-League-Greece,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2016-2017
+2017-04-30,PAS Giannina,AEK Athens,1,1,NA,NA,3019,Konstantinos Kotsanis,https://fbref.com/en/matches/476d8c05/PAS-Giannina-AEK-Athens-April-30-2017-Super-League-Greece,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-04-30,PAOK,Kerkyra,5,1,NA,NA,8206,Stefanos Koubarakis,https://fbref.com/en/matches/0853c16f/PAOK-Kerkyra-April-30-2017-Super-League-Greece,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-04-30,Atromitos,Platanias,4,1,NA,NA,371,Georgios Tzovaras,https://fbref.com/en/matches/2bf64ace/Atromitos-Platanias-April-30-2017-Super-League-Greece,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-04-30,Asteras Tripoli,Iraklis,2,2,NA,NA,1131,Ioannis Neofitiadis,https://fbref.com/en/matches/3325dd91/Asteras-Tripoli-Iraklis-Thessaloniki-April-30-2017-Super-League-Greece,1,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2017-04-30,Panathinaikos,Larissa,2,0,NA,NA,3236,Nikos Poulimas,https://fbref.com/en/matches/4b84f38e/Panathinaikos-Larissa-April-30-2017-Super-League-Greece,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
 2017-04-30,Panetolikos,Olympiacos,0,2,NA,NA,3272,Alexandros Katsikogiannis,https://fbref.com/en/matches/b3aadfb5/Panetolikos-Olympiacos-April-30-2017-Super-League-Greece,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
-2017-04-30,Atromitos,Platanias,4,1,NA,NA,371,Georgios Tzovaras,https://fbref.com/en/matches/2bf64ace/Atromitos-Platanias-April-30-2017-Super-League-Greece,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
+2017-04-30,Xanthi,Veria,3,0,NA,NA,530,Aggelos Aggelakis,https://fbref.com/en/matches/a9498a30/Xanthi-Veria-April-30-2017-Super-League-Greece,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
 2017-05-14,Panionios,Panathinaikos,1,1,NA,NA,1917,Dimitros Styliaras,https://fbref.com/en/matches/5df47f16/Panionios-Panathinaikos-May-14-2017-Super-League-Greece,0,0,3,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2016-2017
 2017-05-14,PAOK,AEK Athens,0,1,NA,NA,15413,Charalambos Kalogeropoulos,https://fbref.com/en/matches/2263a4ec/PAOK-AEK-Athens-May-14-2017-Super-League-Greece,0,0,4,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,2016-2017
 2017-05-17,AEK Athens,Panionios,0,1,NA,NA,3509,Athanassios Tzilos,https://fbref.com/en/matches/d0b7f928/AEK-Athens-Panionios-May-17-2017-Super-League-Greece,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017

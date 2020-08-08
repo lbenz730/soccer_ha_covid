@@ -1,9 +1,9 @@
 date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_report_url,home_pk_goals,home_pk_attempts,home_yellow_cards,home_red_cards,home_shots,home_shots_on_target,home_tackles,home_interceptions,home_fouls_committed,away_pk_goals,away_pk_attempts,away_yellow_cards,away_red_cards,away_shots,away_shots_on_target,away_tackles,away_interceptions,away_fouls_committed,season
-2020-06-16,Rosenborg,Kristiansund,0,0,NA,NA,0,Espen Andreas Eskås,https://fbref.com/en/matches/e12699a8/Rosenborg-Kristiansund-June-16-2020-Eliteserien,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2020
-2020-06-16,Aalesund,Molde,1,4,NA,NA,0,Tommy Skjerven,https://fbref.com/en/matches/c0b4aab2/Aalesund-Molde-June-16-2020-Eliteserien,0,1,0,0,9,2,13,4,12,0,0,3,1,14,6,12,4,15,2020
 2020-06-16,Odd,Sandefjord,1,2,NA,NA,0,Ola Nilsen,https://fbref.com/en/matches/e960c3f6/Odd-Sandefjord-June-16-2020-Eliteserien,1,1,1,0,12,3,11,11,18,0,0,2,0,10,3,5,7,19,2020
-2020-06-16,Stabæk,Mjøndalen,0,0,NA,NA,0,Tore Hansen,https://fbref.com/en/matches/261fa2d7/Stabaek-Mjondalen-June-16-2020-Eliteserien,0,0,1,0,9,3,10,7,12,0,0,4,1,9,1,19,0,15,2020
 2020-06-16,Viking,Bodø/Glimt,2,4,NA,NA,0,Kristoffer Hagenes,https://fbref.com/en/matches/60972524/Viking-BodoGlimt-June-16-2020-Eliteserien,0,0,1,0,9,5,14,9,12,0,0,2,0,18,5,14,5,10,2020
+2020-06-16,Aalesund,Molde,1,4,NA,NA,0,Tommy Skjerven,https://fbref.com/en/matches/c0b4aab2/Aalesund-Molde-June-16-2020-Eliteserien,0,1,0,0,9,2,13,4,12,0,0,3,1,14,6,12,4,15,2020
+2020-06-16,Rosenborg,Kristiansund,0,0,NA,NA,0,Espen Andreas Eskås,https://fbref.com/en/matches/e12699a8/Rosenborg-Kristiansund-June-16-2020-Eliteserien,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2020
+2020-06-16,Stabæk,Mjøndalen,0,0,NA,NA,0,Tore Hansen,https://fbref.com/en/matches/261fa2d7/Stabaek-Mjondalen-June-16-2020-Eliteserien,0,0,1,0,9,3,10,7,12,0,0,4,1,9,1,19,0,15,2020
 2020-06-16,Sarpsborg 08,Vålerenga,0,1,NA,NA,0,Tom Hagen,https://fbref.com/en/matches/2a3dc0db/Sarpsborg-08-Valerenga-June-16-2020-Eliteserien,0,0,3,0,20,4,7,6,20,0,0,5,0,6,1,6,4,15,2020
 2020-06-17,Start,Strømsgodset,2,2,NA,NA,0,Svein Oddvar Moen,https://fbref.com/en/matches/d0721bb1/Start-Stromsgodset-June-17-2020-Eliteserien,0,0,0,0,22,7,15,5,14,0,0,1,0,12,5,12,8,14,2020
 2020-06-17,Haugesund,Brann,1,2,NA,NA,0,Rohit Saggi,https://fbref.com/en/matches/c75f14eb/Haugesund-Brann-June-17-2020-Eliteserien,1,1,1,0,4,1,22,9,8,0,0,4,0,13,5,17,9,15,2020
@@ -11,104 +11,104 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2020-06-20,Molde,Rosenborg,1,0,NA,NA,0,Svein Oddvar Moen,https://fbref.com/en/matches/effb9629/Molde-Rosenborg-June-20-2020-Eliteserien,0,0,1,0,9,3,7,8,18,0,0,2,0,8,3,9,8,16,2020
 2020-06-21,Strømsgodset,Odd,1,0,NA,NA,200,Tore Hansen,https://fbref.com/en/matches/fca39ed3/Stromsgodset-Odd-June-21-2020-Eliteserien,0,0,3,0,14,3,13,12,20,0,0,1,0,14,3,8,3,14,2020
 2020-06-21,Vålerenga,Stabæk,2,2,NA,NA,200,Rohit Saggi,https://fbref.com/en/matches/b077ff77/Valerenga-Stabaek-June-21-2020-Eliteserien,1,1,5,1,7,2,9,9,15,0,0,3,0,12,3,11,5,15,2020
-2020-06-21,Bodø/Glimt,Haugesund,6,1,NA,NA,200,Marius Grøtta,https://fbref.com/en/matches/e7d9f978/BodoGlimt-Haugesund-June-21-2020-Eliteserien,0,0,1,0,16,6,10,10,15,1,1,1,0,6,3,13,4,14,2020
 2020-06-21,Sandefjord,Start,2,2,NA,NA,0,Mohammad Aslam,https://fbref.com/en/matches/229a1ff0/Sandefjord-Start-June-21-2020-Eliteserien,0,0,3,0,11,2,8,5,20,0,0,2,0,12,2,13,13,16,2020
 2020-06-21,Kristiansund,Aalesund,7,2,NA,NA,0,Kai Erik Steen,https://fbref.com/en/matches/d1d862ab/Kristiansund-Aalesund-June-21-2020-Eliteserien,0,0,1,0,27,13,13,10,18,0,0,5,0,12,5,9,8,14,2020
+2020-06-21,Bodø/Glimt,Haugesund,6,1,NA,NA,200,Marius Grøtta,https://fbref.com/en/matches/e7d9f978/BodoGlimt-Haugesund-June-21-2020-Eliteserien,0,0,1,0,16,6,10,10,15,1,1,1,0,6,3,13,4,14,2020
 2020-06-21,Brann,Viking,3,0,NA,NA,200,Tommy Skjerven,https://fbref.com/en/matches/a50307a7/Brann-Viking-June-21-2020-Eliteserien,0,0,3,0,16,8,10,6,10,0,1,2,0,6,1,11,7,14,2020
-2020-06-24,Viking,Mjøndalen,1,1,NA,NA,200,Kai Erik Steen,https://fbref.com/en/matches/ec00eb62/Viking-Mjondalen-June-24-2020-Eliteserien,1,1,3,0,13,5,11,6,14,0,0,2,0,8,4,10,8,14,2020
-2020-06-24,Start,Molde,2,3,NA,NA,200,Tore Hansen,https://fbref.com/en/matches/5314d7c9/Start-Molde-June-24-2020-Eliteserien,0,0,3,0,9,2,9,5,12,0,0,3,0,17,5,8,5,11,2020
 2020-06-24,Stabæk,Sandefjord,2,0,NA,NA,200,Tommy Skjerven,https://fbref.com/en/matches/7277f9c8/Stabaek-Sandefjord-June-24-2020-Eliteserien,0,0,1,0,11,4,10,4,10,0,0,4,1,5,1,16,5,15,2020
-2020-06-24,Haugesund,Kristiansund,2,2,NA,NA,200,Sivert Amland,https://fbref.com/en/matches/fef0ea46/Haugesund-Kristiansund-June-24-2020-Eliteserien,0,0,1,0,14,7,10,7,11,0,0,3,0,11,4,14,4,13,2020
 2020-06-24,Aalesund,Brann,2,2,NA,NA,200,Espen Andreas Eskås,https://fbref.com/en/matches/a380f1f4/Aalesund-Brann-June-24-2020-Eliteserien,0,0,3,0,9,5,10,8,18,0,0,1,0,14,4,3,4,9,2020
+2020-06-24,Start,Molde,2,3,NA,NA,200,Tore Hansen,https://fbref.com/en/matches/5314d7c9/Start-Molde-June-24-2020-Eliteserien,0,0,3,0,9,2,9,5,12,0,0,3,0,17,5,8,5,11,2020
+2020-06-24,Viking,Mjøndalen,1,1,NA,NA,200,Kai Erik Steen,https://fbref.com/en/matches/ec00eb62/Viking-Mjondalen-June-24-2020-Eliteserien,1,1,3,0,13,5,11,6,14,0,0,2,0,8,4,10,8,14,2020
+2020-06-24,Haugesund,Kristiansund,2,2,NA,NA,200,Sivert Amland,https://fbref.com/en/matches/fef0ea46/Haugesund-Kristiansund-June-24-2020-Eliteserien,0,0,1,0,14,7,10,7,11,0,0,3,0,11,4,14,4,13,2020
 2020-06-24,Odd,Vålerenga,4,1,NA,NA,0,Svein Oddvar Moen,https://fbref.com/en/matches/47fe9336/Odd-Valerenga-June-24-2020-Eliteserien,1,1,2,0,16,7,18,15,13,1,1,3,0,15,4,6,4,9,2020
 2020-06-25,Sarpsborg 08,Strømsgodset,2,3,NA,NA,0,Ola Nilsen,https://fbref.com/en/matches/69f7bd67/Sarpsborg-08-Stromsgodset-June-25-2020-Eliteserien,1,2,2,0,25,10,12,1,15,2,2,3,0,13,6,11,3,20,2020
 2020-06-25,Rosenborg,Bodø/Glimt,2,3,NA,NA,0,Tom Hagen,https://fbref.com/en/matches/09c8bd0e/Rosenborg-BodoGlimt-June-25-2020-Eliteserien,0,0,2,1,11,4,12,6,15,1,1,2,0,19,5,9,9,14,2020
 2020-06-27,Start,Odd,0,5,NA,NA,200,Sigurd Kringstad,https://fbref.com/en/matches/d69cf535/Start-Odd-June-27-2020-Eliteserien,0,0,2,0,10,3,9,14,14,1,1,1,0,17,9,13,17,8,2020
 2020-06-27,Vålerenga,Viking,2,1,NA,NA,200,Espen Andreas Eskås,https://fbref.com/en/matches/6d86d4cf/Valerenga-Viking-June-27-2020-Eliteserien,0,1,2,0,13,9,7,4,13,0,0,2,0,13,5,7,7,13,2020
-2020-06-28,Molde,Stabæk,4,1,NA,NA,200,Rohit Saggi,https://fbref.com/en/matches/cb127e9b/Molde-Stabaek-June-28-2020-Eliteserien,1,1,5,0,18,10,14,6,17,0,0,3,0,10,2,11,4,3,2020
 2020-06-28,Mjøndalen,Kristiansund,1,2,NA,NA,200,Ola Nilsen,https://fbref.com/en/matches/9adc55bd/Mjondalen-Kristiansund-June-28-2020-Eliteserien,0,0,0,0,11,6,14,2,13,0,0,0,0,12,4,8,15,11,2020
+2020-06-28,Strømsgodset,Aalesund,1,1,NA,NA,200,Marius Grøtta,https://fbref.com/en/matches/0f7d70b6/Stromsgodset-Aalesund-June-28-2020-Eliteserien,1,1,1,1,8,2,12,6,15,0,0,4,0,10,3,15,9,14,2020
+2020-06-28,Molde,Stabæk,4,1,NA,NA,200,Rohit Saggi,https://fbref.com/en/matches/cb127e9b/Molde-Stabaek-June-28-2020-Eliteserien,1,1,5,0,18,10,14,6,17,0,0,3,0,10,2,11,4,3,2020
 2020-06-28,Bodø/Glimt,Sarpsborg 08,2,1,NA,NA,200,Mohammad Aslam,https://fbref.com/en/matches/a41b5edd/BodoGlimt-Sarpsborg-08-June-28-2020-Eliteserien,0,0,0,0,11,4,9,10,20,0,0,2,0,9,1,9,9,13,2020
 2020-06-28,Sandefjord,Haugesund,0,1,NA,NA,200,Tom Hagen,https://fbref.com/en/matches/aedca625/Sandefjord-Haugesund-June-28-2020-Eliteserien,0,0,1,0,7,2,16,8,13,0,0,0,0,10,4,7,7,10,2020
-2020-06-28,Strømsgodset,Aalesund,1,1,NA,NA,200,Marius Grøtta,https://fbref.com/en/matches/0f7d70b6/Stromsgodset-Aalesund-June-28-2020-Eliteserien,1,1,1,1,8,2,12,6,15,0,0,4,0,10,3,15,9,14,2020
 2020-06-28,Brann,Rosenborg,1,2,NA,NA,200,Tore Hansen,https://fbref.com/en/matches/805433ba/Brann-Rosenborg-June-28-2020-Eliteserien,0,0,2,0,7,4,11,14,10,0,0,1,0,9,4,6,6,14,2020
-2020-07-01,Odd,Bodø/Glimt,0,4,NA,NA,200,Marius Grøtta,https://fbref.com/en/matches/082e5d2d/Odd-BodoGlimt-July-1-2020-Eliteserien,0,0,0,1,3,1,8,12,11,1,1,1,0,27,10,10,5,11,2020
-2020-07-01,Stabæk,Strømsgodset,2,0,NA,NA,200,Ola Nilsen,https://fbref.com/en/matches/b54348a9/Stabaek-Stromsgodset-July-1-2020-Eliteserien,0,0,0,0,9,6,12,9,9,0,0,1,0,11,1,10,10,12,2020
-2020-07-01,Haugesund,Start,1,0,NA,NA,200,Mohammad Aslam,https://fbref.com/en/matches/eb07e179/Haugesund-Start-July-1-2020-Eliteserien,0,0,1,0,10,4,12,4,13,0,0,2,0,14,1,13,2,19,2020
-2020-07-01,Viking,Sandefjord,2,0,NA,NA,200,Rohit Saggi,https://fbref.com/en/matches/0c84e5b2/Viking-Sandefjord-July-1-2020-Eliteserien,0,0,1,0,7,3,9,22,12,0,0,2,0,16,3,8,8,14,2020
 2020-07-01,Aalesund,Mjøndalen,1,3,NA,NA,200,Sivert Amland,https://fbref.com/en/matches/b765b9c4/Aalesund-Mjondalen-July-1-2020-Eliteserien,1,1,4,1,14,3,13,9,15,0,0,3,0,12,4,9,7,16,2020
+2020-07-01,Viking,Sandefjord,2,0,NA,NA,200,Rohit Saggi,https://fbref.com/en/matches/0c84e5b2/Viking-Sandefjord-July-1-2020-Eliteserien,0,0,1,0,7,3,9,22,12,0,0,2,0,16,3,8,8,14,2020
+2020-07-01,Stabæk,Strømsgodset,2,0,NA,NA,200,Ola Nilsen,https://fbref.com/en/matches/b54348a9/Stabaek-Stromsgodset-July-1-2020-Eliteserien,0,0,0,0,9,6,12,9,9,0,0,1,0,11,1,10,10,12,2020
+2020-07-01,Odd,Bodø/Glimt,0,4,NA,NA,200,Marius Grøtta,https://fbref.com/en/matches/082e5d2d/Odd-BodoGlimt-July-1-2020-Eliteserien,0,0,0,1,3,1,8,12,11,1,1,1,0,27,10,10,5,11,2020
+2020-07-01,Haugesund,Start,1,0,NA,NA,200,Mohammad Aslam,https://fbref.com/en/matches/eb07e179/Haugesund-Start-July-1-2020-Eliteserien,0,0,1,0,10,4,12,4,13,0,0,2,0,14,1,13,2,19,2020
 2020-07-01,Rosenborg,Vålerenga,1,1,NA,NA,200,Kai Erik Steen,https://fbref.com/en/matches/62de3137/Rosenborg-Valerenga-July-1-2020-Eliteserien,0,0,3,0,9,3,8,8,16,0,0,2,0,10,2,8,10,11,2020
 2020-07-02,Kristiansund,Molde,2,2,NA,NA,0,Tommy Skjerven,https://fbref.com/en/matches/58dd10a9/Kristiansund-Molde-July-2-2020-Eliteserien,1,1,1,0,11,3,10,6,9,0,0,1,0,9,2,6,1,8,2020
 2020-07-02,Sarpsborg 08,Brann,0,1,NA,NA,0,Svein Oddvar Moen,https://fbref.com/en/matches/1d452da6/Sarpsborg-08-Brann-July-2-2020-Eliteserien,0,0,1,0,19,6,9,1,13,0,0,1,0,8,2,6,3,11,2020
 2020-07-04,Start,Viking,1,1,NA,NA,200,Ola Nilsen,https://fbref.com/en/matches/95055d9f/Start-Viking-July-4-2020-Eliteserien,0,0,2,0,10,4,12,10,20,0,0,0,0,13,3,10,4,9,2020
 2020-07-04,Vålerenga,Aalesund,2,2,NA,NA,200,Tom Hagen,https://fbref.com/en/matches/a79468c8/Valerenga-Aalesund-July-4-2020-Eliteserien,0,0,3,1,9,6,11,10,12,0,0,2,0,6,3,8,7,17,2020
-2020-07-05,Strømsgodset,Kristiansund,2,2,NA,NA,200,Tore Hansen,https://fbref.com/en/matches/f4e46c6d/Stromsgodset-Kristiansund-July-5-2020-Eliteserien,0,0,0,0,19,9,19,7,12,0,0,2,0,26,10,16,8,12,2020
-2020-07-05,Odd,Haugesund,0,0,NA,NA,200,Rohit Saggi,https://fbref.com/en/matches/37299b1d/Odd-Haugesund-July-5-2020-Eliteserien,0,0,0,0,7,2,8,9,12,0,0,1,0,10,5,19,7,12,2020
-2020-07-05,Sandefjord,Sarpsborg 08,0,3,NA,NA,0,Kai Erik Steen,https://fbref.com/en/matches/7b7ee588/Sandefjord-Sarpsborg-08-July-5-2020-Eliteserien,0,0,2,0,6,1,10,3,10,0,0,3,0,7,3,16,3,19,2020
-2020-07-05,Bodø/Glimt,Brann,5,0,NA,NA,200,Espen Andreas Eskås,https://fbref.com/en/matches/9e431f9c/BodoGlimt-Brann-July-5-2020-Eliteserien,1,1,0,0,27,13,8,7,7,0,0,1,0,4,1,13,14,5,2020
 2020-07-05,Molde,Mjøndalen,2,1,NA,NA,200,Sigurd Kringstad,https://fbref.com/en/matches/487c3d10/Molde-Mjondalen-July-5-2020-Eliteserien,0,0,2,0,13,6,8,3,18,0,1,2,0,13,6,12,9,10,2020
+2020-07-05,Odd,Haugesund,0,0,NA,NA,200,Rohit Saggi,https://fbref.com/en/matches/37299b1d/Odd-Haugesund-July-5-2020-Eliteserien,0,0,0,0,7,2,8,9,12,0,0,1,0,10,5,19,7,12,2020
+2020-07-05,Bodø/Glimt,Brann,5,0,NA,NA,200,Espen Andreas Eskås,https://fbref.com/en/matches/9e431f9c/BodoGlimt-Brann-July-5-2020-Eliteserien,1,1,0,0,27,13,8,7,7,0,0,1,0,4,1,13,14,5,2020
+2020-07-05,Sandefjord,Sarpsborg 08,0,3,NA,NA,0,Kai Erik Steen,https://fbref.com/en/matches/7b7ee588/Sandefjord-Sarpsborg-08-July-5-2020-Eliteserien,0,0,2,0,6,1,10,3,10,0,0,3,0,7,3,16,3,19,2020
+2020-07-05,Strømsgodset,Kristiansund,2,2,NA,NA,200,Tore Hansen,https://fbref.com/en/matches/f4e46c6d/Stromsgodset-Kristiansund-July-5-2020-Eliteserien,0,0,0,0,19,9,19,7,12,0,0,2,0,26,10,16,8,12,2020
 2020-07-05,Stabæk,Rosenborg,0,3,NA,NA,200,Svein Oddvar Moen,https://fbref.com/en/matches/4d07c9fc/Stabaek-Rosenborg-July-5-2020-Eliteserien,0,0,0,0,7,1,11,6,11,0,0,2,0,19,6,9,7,8,2020
 2020-07-11,Haugesund,Molde,0,3,NA,NA,200,Espen Andreas Eskås,https://fbref.com/en/matches/d0f3e6e1/Haugesund-Molde-July-11-2020-Eliteserien,0,0,1,0,15,3,15,8,7,0,0,2,0,14,4,11,5,19,2020
 2020-07-11,Rosenborg,Strømsgodset,3,0,NA,NA,200,Ola Nilsen,https://fbref.com/en/matches/c631bda8/Rosenborg-Stromsgodset-July-11-2020-Eliteserien,0,0,1,0,20,7,15,8,14,0,0,2,0,10,2,9,8,18,2020
 2020-07-12,Kristiansund,Stabæk,1,2,NA,NA,0,Mohammad Aslam,https://fbref.com/en/matches/931f9e01/Kristiansund-Stabaek-July-12-2020-Eliteserien,0,0,1,0,12,3,12,5,12,1,1,1,0,12,7,11,10,10,2020
 2020-07-12,Mjøndalen,Vålerenga,0,1,NA,NA,200,Marius Grøtta,https://fbref.com/en/matches/24f660ed/Mjondalen-Valerenga-July-12-2020-Eliteserien,0,0,1,0,27,7,11,1,18,0,0,2,1,3,1,4,9,10,2020
-2020-07-12,Sarpsborg 08,Start,1,0,NA,NA,0,Sivert Amland,https://fbref.com/en/matches/a32fdc5c/Sarpsborg-08-Start-July-12-2020-Eliteserien,0,0,3,0,14,4,5,4,15,0,0,1,0,13,2,10,10,13,2020
 2020-07-12,Aalesund,Bodø/Glimt,1,6,NA,NA,200,Tore Hansen,https://fbref.com/en/matches/bf25719f/Aalesund-BodoGlimt-July-12-2020-Eliteserien,0,0,2,0,10,3,18,15,11,0,0,1,0,13,9,9,9,15,2020
 2020-07-12,Viking,Odd,1,2,NA,NA,200,Tommy Skjerven,https://fbref.com/en/matches/db09aaa4/Viking-Odd-July-12-2020-Eliteserien,0,0,0,0,13,4,16,10,17,0,0,1,0,10,4,8,11,11,2020
+2020-07-12,Sarpsborg 08,Start,1,0,NA,NA,0,Sivert Amland,https://fbref.com/en/matches/a32fdc5c/Sarpsborg-08-Start-July-12-2020-Eliteserien,0,0,3,0,14,4,5,4,15,0,0,1,0,13,2,10,10,13,2020
 2020-07-12,Brann,Sandefjord,3,1,NA,NA,200,Rohit Saggi,https://fbref.com/en/matches/e5280242/Brann-Sandefjord-July-12-2020-Eliteserien,0,0,4,0,19,4,11,10,15,1,1,2,0,9,3,10,6,11,2020
 2020-07-15,Bodø/Glimt,Kristiansund,2,1,NA,NA,200,Kai Erik Steen,https://fbref.com/en/matches/2aa3c067/BodoGlimt-Kristiansund-July-15-2020-Eliteserien,0,0,2,0,17,5,20,7,10,0,0,1,0,9,2,18,13,12,2020
 2020-07-15,Strømsgodset,Mjøndalen,2,1,NA,NA,200,Svein Oddvar Moen,https://fbref.com/en/matches/6b1a24f9/Stromsgodset-Mjondalen-July-15-2020-Eliteserien,0,1,0,0,19,6,19,13,10,0,0,2,0,7,2,17,2,11,2020
-2020-07-15,Vålerenga,Haugesund,1,0,NA,NA,200,Sigurd Kringstad,https://fbref.com/en/matches/e2c529dd/Valerenga-Haugesund-July-15-2020-Eliteserien,0,0,1,0,9,5,14,2,13,0,0,1,0,9,3,13,11,14,2020
-2020-07-15,Sandefjord,Aalesund,1,0,NA,NA,0,Sivert Amland,https://fbref.com/en/matches/7c72b5d7/Sandefjord-Aalesund-July-15-2020-Eliteserien,0,0,3,0,8,2,8,8,20,0,0,1,0,6,0,14,9,17,2020
 2020-07-15,Molde,Viking,5,0,NA,NA,200,Tom Hagen,https://fbref.com/en/matches/68a527ac/Molde-Viking-July-15-2020-Eliteserien,1,1,0,0,17,10,11,4,12,0,1,2,0,9,3,19,15,13,2020
+2020-07-15,Sandefjord,Aalesund,1,0,NA,NA,0,Sivert Amland,https://fbref.com/en/matches/7c72b5d7/Sandefjord-Aalesund-July-15-2020-Eliteserien,0,0,3,0,8,2,8,8,20,0,0,1,0,6,0,14,9,17,2020
+2020-07-15,Vålerenga,Haugesund,1,0,NA,NA,200,Sigurd Kringstad,https://fbref.com/en/matches/e2c529dd/Valerenga-Haugesund-July-15-2020-Eliteserien,0,0,1,0,9,5,14,2,13,0,0,1,0,9,3,13,11,14,2020
 2020-07-15,Odd,Brann,1,0,NA,NA,0,Mohammad Aslam,https://fbref.com/en/matches/ea246df1/Odd-Brann-July-15-2020-Eliteserien,0,0,1,0,12,7,9,12,13,0,0,2,0,5,2,11,20,13,2020
 2020-07-16,Stabæk,Sarpsborg 08,1,1,NA,NA,200,Tore Hansen,https://fbref.com/en/matches/7f1c7718/Stabaek-Sarpsborg-08-July-16-2020-Eliteserien,0,0,2,0,12,5,4,6,8,0,0,2,0,15,4,12,1,10,2020
 2020-07-16,Start,Rosenborg,0,0,NA,NA,200,Kristoffer Hagenes,https://fbref.com/en/matches/4fc31dfb/Start-Rosenborg-July-16-2020-Eliteserien,0,0,3,0,16,5,5,9,19,0,0,1,0,9,1,6,5,11,2020
 2020-07-18,Mjøndalen,Bodø/Glimt,2,3,NA,NA,200,Tom Hagen,https://fbref.com/en/matches/036f4d1a/Mjondalen-BodoGlimt-July-18-2020-Eliteserien,0,0,1,0,12,3,16,7,11,0,1,3,0,15,9,12,8,11,2020
 2020-07-18,Haugesund,Viking,0,2,NA,NA,200,Kristoffer Hagenes,https://fbref.com/en/matches/24e57530/Haugesund-Viking-July-18-2020-Eliteserien,0,0,3,0,17,2,12,10,12,0,0,1,0,13,6,16,11,11,2020
-2020-07-19,Sarpsborg 08,Odd,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-07-19,Aalesund,Stabæk,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-07-19,Strømsgodset,Molde,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-07-19,Rosenborg,Sandefjord,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-07-19,Kristiansund,Vålerenga,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-07-19,Brann,Start,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-07-25,Odd,Aalesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-07-25,Brann,Kristiansund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-07-26,Viking,Sarpsborg 08,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-07-26,Vålerenga,Strømsgodset,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-07-26,Bodø/Glimt,Molde,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-07-26,Start,Stabæk,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-07-26,Sandefjord,Mjøndalen,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-07-26,Haugesund,Rosenborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-07-29,Kristiansund,Sandefjord,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-07-29,Mjøndalen,Odd,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-07-29,Sarpsborg 08,Haugesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-07-29,Aalesund,Start,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-07-29,Strømsgodset,Brann,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-07-29,Molde,Vålerenga,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-07-30,Stabæk,Bodø/Glimt,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-07-30,Rosenborg,Viking,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-08-01,Sandefjord,Molde,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-08-01,Brann,Vålerenga,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-08-02,Start,Mjøndalen,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-08-02,Haugesund,Stabæk,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-08-02,Bodø/Glimt,Strømsgodset,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-08-02,Sarpsborg 08,Aalesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-08-02,Viking,Kristiansund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-08-02,Odd,Rosenborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-07-19,Rosenborg,Sandefjord,2,1,NA,NA,200,Tore Hansen,https://fbref.com/en/matches/cca4b98d/Rosenborg-Sandefjord-July-19-2020-Eliteserien,0,0,3,0,5,2,17,8,13,0,0,2,0,9,2,13,15,11,2020
+2020-07-19,Aalesund,Stabæk,1,3,NA,NA,200,Rohit Saggi,https://fbref.com/en/matches/8bab071d/Aalesund-Stabaek-July-19-2020-Eliteserien,0,0,2,0,16,4,16,3,19,1,1,1,0,12,4,8,11,16,2020
+2020-07-19,Kristiansund,Vålerenga,0,0,NA,NA,200,Mohammad Aslam,https://fbref.com/en/matches/a85d4a64/Kristiansund-Valerenga-July-19-2020-Eliteserien,0,0,1,0,11,3,8,7,17,0,0,3,0,9,4,5,9,13,2020
+2020-07-19,Sarpsborg 08,Odd,2,0,NA,NA,200,Espen Andreas Eskås,https://fbref.com/en/matches/32e2b762/Sarpsborg-08-Odd-July-19-2020-Eliteserien,0,0,1,0,9,3,8,4,11,0,0,1,0,13,4,7,6,12,2020
+2020-07-19,Strømsgodset,Molde,0,4,NA,NA,200,Ola Nilsen,https://fbref.com/en/matches/a61e7462/Stromsgodset-Molde-July-19-2020-Eliteserien,0,0,1,0,15,4,10,14,13,0,0,2,0,9,5,7,7,8,2020
+2020-07-19,Brann,Start,1,1,NA,NA,200,Tommy Skjerven,https://fbref.com/en/matches/dd56a766/Brann-Start-July-19-2020-Eliteserien,0,0,1,0,17,7,7,8,9,0,0,4,0,9,4,14,12,13,2020
+2020-07-25,Odd,Aalesund,3,2,NA,NA,200,Kai Erik Steen,https://fbref.com/en/matches/3a9904b2/Odd-Aalesund-July-25-2020-Eliteserien,2,2,3,0,30,8,11,4,15,0,0,6,1,6,2,10,10,14,2020
+2020-07-25,Brann,Kristiansund,1,1,NA,NA,200,Espen Andreas Eskås,https://fbref.com/en/matches/95fcb0d3/Brann-Kristiansund-July-25-2020-Eliteserien,0,0,5,0,15,6,17,3,14,0,0,0,0,13,7,13,12,8,2020
+2020-07-26,Start,Stabæk,0,0,NA,NA,0,Tom Hagen,https://fbref.com/en/matches/89e41137/Start-Stabaek-July-26-2020-Eliteserien,0,0,3,0,18,5,14,10,19,0,0,0,0,14,3,5,5,6,2020
+2020-07-26,Viking,Sarpsborg 08,3,0,NA,NA,0,Sivert Amland,https://fbref.com/en/matches/c4cd7ef7/Viking-Sarpsborg-08-July-26-2020-Eliteserien,0,1,0,0,23,9,11,8,8,0,0,4,0,6,1,2,13,16,2020
+2020-07-26,Vålerenga,Strømsgodset,2,0,NA,NA,0,Tommy Skjerven,https://fbref.com/en/matches/48c096cf/Valerenga-Stromsgodset-July-26-2020-Eliteserien,0,0,2,0,15,5,9,8,5,0,0,0,0,9,2,10,10,14,2020
+2020-07-26,Bodø/Glimt,Molde,3,1,NA,NA,0,Tore Hansen,https://fbref.com/en/matches/0248a0fd/BodoGlimt-Molde-July-26-2020-Eliteserien,0,0,1,0,10,3,12,7,11,0,0,1,0,9,2,9,10,8,2020
+2020-07-26,Sandefjord,Mjøndalen,1,0,NA,NA,0,Ola Nilsen,https://fbref.com/en/matches/66555789/Sandefjord-Mjondalen-July-26-2020-Eliteserien,0,0,2,0,14,7,10,6,17,0,0,1,0,8,2,16,9,13,2020
+2020-07-26,Haugesund,Rosenborg,1,0,NA,NA,200,Rohit Saggi,https://fbref.com/en/matches/a7ba9fdf/Haugesund-Rosenborg-July-26-2020-Eliteserien,1,1,1,0,13,3,11,10,14,0,0,5,0,13,5,10,5,17,2020
+2020-07-29,Aalesund,Start,3,2,NA,NA,200,Ola Nilsen,https://fbref.com/en/matches/57a2f1ac/Aalesund-Start-July-29-2020-Eliteserien,1,1,3,0,25,7,3,9,13,0,0,3,0,14,5,6,10,14,2020
+2020-07-29,Kristiansund,Sandefjord,3,1,NA,NA,200,Svein Oddvar Moen,https://fbref.com/en/matches/c33b26d6/Kristiansund-Sandefjord-July-29-2020-Eliteserien,0,0,0,0,24,5,9,10,10,0,0,3,0,9,3,11,10,12,2020
+2020-07-29,Sarpsborg 08,Haugesund,0,0,NA,NA,200,Mohammad Aslam,https://fbref.com/en/matches/09836359/Sarpsborg-08-Haugesund-July-29-2020-Eliteserien,0,0,1,0,16,3,6,11,13,0,0,2,0,3,0,11,7,12,2020
+2020-07-29,Mjøndalen,Odd,0,2,NA,NA,200,Tore Hansen,https://fbref.com/en/matches/35428c56/Mjondalen-Odd-July-29-2020-Eliteserien,0,0,0,1,6,1,6,5,12,0,0,0,0,17,5,5,6,7,2020
+2020-07-29,Strømsgodset,Brann,3,1,NA,NA,200,Tom Hagen,https://fbref.com/en/matches/b31a83aa/Stromsgodset-Brann-July-29-2020-Eliteserien,0,0,1,0,10,2,8,13,9,0,0,0,0,22,7,10,7,8,2020
+2020-07-29,Molde,Vålerenga,4,1,NA,NA,200,Kristoffer Hagenes,https://fbref.com/en/matches/d52db73a/Molde-Valerenga-July-29-2020-Eliteserien,0,0,2,0,21,11,12,3,11,0,0,1,0,8,5,6,5,9,2020
+2020-07-30,Stabæk,Bodø/Glimt,2,2,NA,NA,200,Sigurd Kringstad,https://fbref.com/en/matches/4faeb9d2/Stabaek-BodoGlimt-July-30-2020-Eliteserien,0,0,2,0,10,3,14,4,11,0,0,3,0,21,7,8,4,14,2020
+2020-07-30,Rosenborg,Viking,3,0,NA,NA,200,Espen Andreas Eskås,https://fbref.com/en/matches/93d25da1/Rosenborg-Viking-July-30-2020-Eliteserien,0,0,0,0,13,5,13,15,6,0,0,2,0,19,5,14,13,12,2020
+2020-08-01,Sandefjord,Molde,2,1,NA,NA,200,Mohammad Aslam,https://fbref.com/en/matches/285601e6/Sandefjord-Molde-August-1-2020-Eliteserien,1,1,4,0,14,4,14,6,19,0,0,4,1,11,3,13,4,11,2020
+2020-08-01,Brann,Vålerenga,1,2,NA,NA,200,Svein Oddvar Moen,https://fbref.com/en/matches/c9ca7789/Brann-Valerenga-August-1-2020-Eliteserien,1,1,1,0,11,3,18,14,20,2,2,3,0,12,2,11,13,9,2020
+2020-08-02,Start,Mjøndalen,3,0,NA,NA,200,Kristoffer Hagenes,https://fbref.com/en/matches/49f525d0/Start-Mjondalen-August-2-2020-Eliteserien,0,0,1,0,13,6,9,7,16,0,0,0,0,15,4,6,1,16,2020
+2020-08-02,Bodø/Glimt,Strømsgodset,3,2,NA,NA,200,Marius Grøtta,https://fbref.com/en/matches/d8bdebfc/BodoGlimt-Stromsgodset-August-2-2020-Eliteserien,0,0,1,0,11,6,19,4,10,0,0,3,0,21,9,17,14,15,2020
+2020-08-02,Viking,Kristiansund,1,2,NA,NA,200,Rohit Saggi,https://fbref.com/en/matches/8e4f1ef1/Viking-Kristiansund-August-2-2020-Eliteserien,0,0,1,0,18,4,11,13,8,0,0,3,0,16,6,9,6,15,2020
+2020-08-02,Sarpsborg 08,Aalesund,4,0,NA,NA,200,Tom Hagen,https://fbref.com/en/matches/11d79f35/Sarpsborg-08-Aalesund-August-2-2020-Eliteserien,2,2,0,0,29,7,13,4,11,0,0,1,0,9,4,16,7,7,2020
+2020-08-02,Haugesund,Stabæk,3,1,NA,NA,200,Kai Erik Steen,https://fbref.com/en/matches/92dbc83c/Haugesund-Stabaek-August-2-2020-Eliteserien,1,1,3,0,20,6,21,14,13,1,1,1,0,10,3,17,7,12,2020
+2020-08-02,Odd,Rosenborg,2,1,NA,NA,200,Tommy Skjerven,https://fbref.com/en/matches/a79c0692/Odd-Rosenborg-August-2-2020-Eliteserien,0,0,0,0,11,2,14,12,14,0,0,2,0,7,2,9,9,15,2020
 2020-08-05,Molde,Start,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-08-08,Vålerenga,Bodø/Glimt,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-08-09,Kristiansund,Start,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-08-09,Strømsgodset,Sandefjord,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-08-09,Aalesund,Viking,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-08-09,Mjøndalen,Haugesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-08-09,Stabæk,Odd,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-09,Aalesund,Viking,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-09,Kristiansund,Start,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-09,Mjøndalen,Haugesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-08-09,Rosenborg,Sarpsborg 08,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-08-10,Molde,Brann,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-08-15,Sarpsborg 08,Molde,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-08-16,Viking,Stabæk,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-08-16,Brann,Mjøndalen,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-08-16,Sandefjord,Bodø/Glimt,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-08-16,Haugesund,Strømsgodset,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-16,Viking,Stabæk,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-16,Sandefjord,Bodø/Glimt,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-08-16,Odd,Kristiansund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-08-16,Rosenborg,Aalesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-08-17,Start,Vålerenga,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
@@ -116,126 +116,126 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2020-08-22,Bodø/Glimt,Start,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-08-22,Strømsgodset,Viking,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-08-22,Aalesund,Haugesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-08-22,Vålerenga,Sandefjord,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-08-22,Kristiansund,Sarpsborg 08,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-22,Vålerenga,Sandefjord,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-08-22,Mjøndalen,Rosenborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-08-24,Stabæk,Brann,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-08-29,Haugesund,Vålerenga,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-08-29,Brann,Strømsgodset,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-08-30,Rosenborg,Stabæk,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-08-30,Odd,Mjøndalen,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-30,Start,Aalesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-08-30,Sarpsborg 08,Bodø/Glimt,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-08-30,Sandefjord,Kristiansund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-08-30,Start,Aalesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-30,Odd,Mjøndalen,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-08-30,Rosenborg,Stabæk,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-08-30,Viking,Molde,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-09-21,Bodø/Glimt,Odd,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-21,Vålerenga,Brann,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-09-21,Kristiansund,Viking,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-21,Strømsgodset,Rosenborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-09-21,Aalesund,Sarpsborg 08,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-09-21,Stabæk,Haugesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-09-21,Mjøndalen,Sandefjord,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-09-21,Vålerenga,Brann,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-09-21,Strømsgodset,Rosenborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-09-27,Brann,Bodø/Glimt,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-09-27,Odd,Stabæk,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-09-27,Sandefjord,Strømsgodset,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-09-27,Sarpsborg 08,Mjøndalen,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-09-27,Vålerenga,Molde,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-21,Bodø/Glimt,Odd,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-09-27,Rosenborg,Haugesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-27,Sandefjord,Strømsgodset,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-09-27,Start,Kristiansund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-27,Odd,Stabæk,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-09-27,Viking,Aalesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-27,Brann,Bodø/Glimt,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-27,Vålerenga,Molde,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-09-27,Sarpsborg 08,Mjøndalen,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-10-04,Kristiansund,Brann,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-10-04,Strømsgodset,Sarpsborg 08,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-10-04,Haugesund,Odd,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-10-04,Mjøndalen,Viking,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-10-04,Molde,Sandefjord,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-10-04,Stabæk,Start,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-10-04,Bodø/Glimt,Vålerenga,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-04,Mjøndalen,Viking,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-10-04,Aalesund,Rosenborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-10-10,Viking,Strømsgodset,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-10-10,Aalesund,Kristiansund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-10-10,Sarpsborg 08,Stabæk,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-10-10,Vålerenga,Mjøndalen,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-04,Bodø/Glimt,Vålerenga,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-04,Stabæk,Start,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-04,Haugesund,Odd,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-04,Strømsgodset,Sarpsborg 08,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-10-10,Start,Haugesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-10-10,Brann,Molde,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-10-10,Rosenborg,Odd,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-10-10,Bodø/Glimt,Sandefjord,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-10-17,Molde,Bodø/Glimt,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-10-17,Sandefjord,Vålerenga,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-10,Sarpsborg 08,Stabæk,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-10,Aalesund,Kristiansund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-10,Brann,Molde,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-10,Viking,Strømsgodset,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-10,Vålerenga,Mjøndalen,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-10,Rosenborg,Odd,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-10-17,Odd,Viking,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-10-17,Strømsgodset,Start,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-17,Kristiansund,Rosenborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-10-17,Haugesund,Sarpsborg 08,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-10-17,Mjøndalen,Brann,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-10-17,Kristiansund,Rosenborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-10-17,Stabæk,Aalesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-10-24,Sarpsborg 08,Rosenborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-10-24,Aalesund,Odd,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-10-24,Viking,Haugesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-10-24,Molde,Strømsgodset,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-10-24,Brann,Stabæk,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-10-24,Start,Sandefjord,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-10-24,Bodø/Glimt,Mjøndalen,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-17,Strømsgodset,Start,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-17,Molde,Bodø/Glimt,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-17,Sandefjord,Vålerenga,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-10-24,Vålerenga,Kristiansund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-10-31,Kristiansund,Bodø/Glimt,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-24,Molde,Strømsgodset,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-24,Start,Sandefjord,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-24,Brann,Stabæk,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-24,Viking,Haugesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-24,Sarpsborg 08,Rosenborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-24,Bodø/Glimt,Mjøndalen,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-24,Aalesund,Odd,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-10-31,Mjøndalen,Molde,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-10-31,Stabæk,Viking,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-10-31,Rosenborg,Start,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-10-31,Strømsgodset,Vålerenga,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-10-31,Sandefjord,Brann,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-31,Stabæk,Viking,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-31,Kristiansund,Bodø/Glimt,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-10-31,Strømsgodset,Vålerenga,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-10-31,Haugesund,Aalesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-10-31,Odd,Sarpsborg 08,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-11-07,Viking,Rosenborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-11-07,Vålerenga,Odd,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-11-07,Sandefjord,Stabæk,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-11-07,Brann,Haugesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-11-07,Mjøndalen,Strømsgodset,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-11-07,Start,Sarpsborg 08,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-07,Vålerenga,Odd,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-11-07,Molde,Kristiansund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-07,Start,Sarpsborg 08,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-07,Viking,Rosenborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-07,Brann,Haugesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-11-07,Bodø/Glimt,Aalesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-11-14,Rosenborg,Brann,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-11-14,Odd,Start,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-11-14,Stabæk,Molde,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-11-14,Strømsgodset,Bodø/Glimt,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-11-14,Sarpsborg 08,Viking,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-11-14,Kristiansund,Mjøndalen,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-07,Mjøndalen,Strømsgodset,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-11-14,Haugesund,Sandefjord,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-11-14,Aalesund,Vålerenga,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-11-21,Sandefjord,Odd,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-11-21,Mjøndalen,Stabæk,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-11-21,Kristiansund,Strømsgodset,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-11-21,Molde,Haugesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-11-21,Brann,Aalesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-11-21,Vålerenga,Sarpsborg 08,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-14,Rosenborg,Brann,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-14,Kristiansund,Mjøndalen,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-14,Sarpsborg 08,Viking,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-14,Stabæk,Molde,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-14,Odd,Start,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-14,Strømsgodset,Bodø/Glimt,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-11-21,Bodø/Glimt,Rosenborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-11-21,Viking,Start,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-21,Molde,Haugesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-21,Kristiansund,Strømsgodset,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-21,Vålerenga,Sarpsborg 08,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-21,Mjøndalen,Stabæk,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-21,Brann,Aalesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-21,Sandefjord,Odd,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-28,Odd,Strømsgodset,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-28,Viking,Brann,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-28,Stabæk,Vålerenga,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-28,Sarpsborg 08,Kristiansund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-11-28,Start,Bodø/Glimt,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-11-28,Haugesund,Mjøndalen,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-11-28,Rosenborg,Molde,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-11-28,Aalesund,Sandefjord,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-11-28,Stabæk,Vålerenga,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-11-28,Viking,Brann,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-11-28,Odd,Strømsgodset,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-11-28,Sarpsborg 08,Kristiansund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-11-28,Start,Bodø/Glimt,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-12-05,Mjøndalen,Start,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-12-05,Sandefjord,Viking,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-12-05,Kristiansund,Odd,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-12-05,Brann,Sarpsborg 08,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-12-05,Molde,Aalesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-12-05,Mjøndalen,Start,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-12-05,Strømsgodset,Haugesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-12-05,Bodø/Glimt,Stabæk,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-12-05,Vålerenga,Rosenborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-12-05,Molde,Aalesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-12-05,Kristiansund,Odd,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-12-05,Strømsgodset,Haugesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-12-12,Odd,Molde,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-12-12,Viking,Vålerenga,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-12-12,Sarpsborg 08,Sandefjord,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-12-12,Start,Brann,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-12-12,Rosenborg,Mjøndalen,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-12-12,Haugesund,Bodø/Glimt,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-12-12,Aalesund,Strømsgodset,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-12-12,Viking,Vålerenga,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-12-12,Stabæk,Kristiansund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-12-19,Kristiansund,Haugesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-12-12,Rosenborg,Mjøndalen,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-12-12,Sarpsborg 08,Sandefjord,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-12-12,Aalesund,Strømsgodset,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-12-12,Start,Brann,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-12-12,Odd,Molde,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-12-19,Molde,Sarpsborg 08,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-12-19,Mjøndalen,Aalesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-12-19,Sandefjord,Rosenborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-12-19,Brann,Odd,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-12-19,Kristiansund,Haugesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-12-19,Vålerenga,Start,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-12-19,Bodø/Glimt,Viking,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
 2020-12-19,Strømsgodset,Stabæk,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-12-19,Sandefjord,Rosenborg,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
-2020-12-19,Vålerenga,Start,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
+2020-12-19,Mjøndalen,Aalesund,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020
