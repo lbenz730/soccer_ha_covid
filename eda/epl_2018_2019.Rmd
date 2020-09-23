@@ -1,0 +1,99 @@
+---
+title: "2018-19 EPL Case Study"
+author: "Luke Benz"
+date: "9/22/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = T, warning = F, message = F)
+```
+
+I'm going to look at just the 2018-19 EPL season and see if I can replicate the results [here](https://rpubs.com/mikemiller442/564326).
+
+```{r}
+library(tidyverse)
+library(rstan)
+library(here)
+source(here('helpers.R'))
+options(mc.cores=parallel::detectCores())
+
+### Read in Data for EPL 2018-19 Season
+df <- 
+  read_leage_csvs("English Premier League") %>% 
+  filter(season == '2018-2019')
+
+### For Stan I have to create team_id as a numeric
+### Normally I have a helper function team_codes() that 
+### handles this. The student report creates id's based on
+### table finish that season so let's do that to be consistent
+home_pts <- 
+  group_by(df, home) %>% 
+  summarise('home_pts' = sum(3 * (home_score > away_score) + (home_score == away_score)),
+            'home_gd' = sum(home_score - away_score),
+            'home_wins' = sum(home_score > away_score),
+            'home_draws' = sum(home_score == away_score))
+away_pts <- 
+  group_by(df, away) %>% 
+  summarise('away_pts' = sum(3 * (home_score < away_score) + (home_score == away_score)),
+            'away_gd' = sum(away_score - home_score),
+            'away_wins' = sum(home_score < away_score),
+            'away_draws' = sum(home_score == away_score))
+
+epl_table <- 
+  inner_join(home_pts, away_pts, by = c('home' = 'away')) %>% 
+  mutate('pts' = home_pts + away_pts,
+         'wins' = home_wins + away_wins,
+         'draws' = home_draws + away_draws,
+         'gd' = home_gd + away_gd) %>% 
+  select('team' = home, wins, draws, gd, pts) %>% 
+  arrange(desc(pts))
+
+### Printing to confirm this matches
+epl_table
+
+team_ids <- 1:nrow(epl_table)
+names(team_ids) <- epl_table$team
+team_ids
+
+### Add IDs to data set and prepare it for stan
+df <- 
+  select(df, home, away, home_score, away_score, season, date) %>% 
+  mutate('home_id' = team_ids[home],
+         'away_id' = team_ids[away])
+
+head(df)
+
+### List of Stan Params
+stan_data <- list(
+  num_clubs = length(team_ids),
+  num_games = nrow(df),
+  home_team_code = df$home_id,
+  away_team_code = df$away_id,
+  h_goals = df$home_score,
+  a_goals = df$away_score
+)
+```
+
+```{r}
+### Fit Model (model 3 w/ fixed intercept in covariance model)
+set.seed(73097)
+model <- stan(file = here('stan/bvp_goals.stan'), data = stan_data, chains = 3, 
+              iter = 7000, warmup = 2000, control = list(adapt_delta = 0.95))
+
+```
+### Plots
+```{r}
+### Attacking Coefficients
+plot(model, pars = 'alpha')
+
+### Defensive Coefficients
+plot(model, pars = 'delta')
+
+### Covariance Components
+plot(model, pars = 'rho')
+
+### Other parameters
+pairs(model, pars = c('mu', 'home_field', 'fixed_cov'), las = 1)
+
+```
