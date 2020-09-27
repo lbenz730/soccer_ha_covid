@@ -41,8 +41,13 @@ for(i in 1:nrow(league_info)) {
   )
   
   ### Fit Model
-  model <- stan(file = here('stan/bvp_goals.stan'), data = stan_data, chains = 3, 
-                iter = 7000, warmup = 2000, control = list(adapt_delta = 0.95))
+  model <- stan(file = here('stan/bvp_goals.stan'), 
+                data = stan_data, 
+                seed = 73097,
+                chains = 3, 
+                iter = 7000, 
+                warmup = 2000, 
+                control = list(adapt_delta = 0.95))
   
   ### Save Model and Posterior
   write_rds(model, here(paste0('model_objects/bvp_goals/', gsub("\\s", "_", tolower(league)), '.rds')))
