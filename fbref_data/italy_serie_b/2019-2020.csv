@@ -16,8 +16,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2019-08-31,Livorno,Perugia,0,1,NA,NA,4922,Valerio Marini,https://fbref.com/en/matches/43b98c96/Livorno-Perugia-August-31-2019-Serie-B,0,1,1,0,12,4,10,9,15,0,0,4,1,6,1,8,9,14,2019-2020
 2019-08-31,Cosenza,Salernitana,0,1,NA,NA,9964,Daniele Minelli,https://fbref.com/en/matches/d83266b6/Cosenza-Salernitana-August-31-2019-Serie-B,0,0,3,0,10,1,11,11,20,0,0,4,0,8,3,11,15,16,2019-2020
 2019-08-31,Cremonese,Virtus Entella,0,1,NA,NA,6744,Niccolò Baroni,https://fbref.com/en/matches/8d19090d/Cremonese-Virtus-Entella-August-31-2019-Serie-B,0,0,1,0,23,8,7,6,10,0,0,2,0,14,3,7,12,10,2019-2020
-2019-09-01,Pescara,Pordenone,4,2,NA,NA,5942,Giovanni Ayroldi,https://fbref.com/en/matches/7008985a/Pescara-Pordenone-September-1-2019-Serie-B,1,1,3,0,23,4,9,7,16,1,1,2,0,15,3,9,6,20,2019-2020
 2019-09-01,Juve Stabia,AC Pisa,0,2,NA,NA,3900,Marco Serra,https://fbref.com/en/matches/72b4a85b/Juve-Stabia-AC-Pisa-September-1-2019-Serie-B,0,0,4,0,16,0,5,3,22,0,0,2,1,11,3,13,7,14,2019-2020
+2019-09-01,Pescara,Pordenone,4,2,NA,NA,5942,Giovanni Ayroldi,https://fbref.com/en/matches/7008985a/Pescara-Pordenone-September-1-2019-Serie-B,1,1,3,0,23,4,9,7,16,1,1,2,0,15,3,9,6,20,2019-2020
 2019-09-01,Frosinone,Ascoli,2,1,NA,NA,10712,Antonio Di Martino,https://fbref.com/en/matches/517995fe/Frosinone-Ascoli-September-1-2019-Serie-B,1,1,5,1,21,7,7,6,19,0,0,4,0,12,5,6,6,29,2019-2020
 2019-09-13,Pordenone,Spezia,1,0,NA,NA,3175,Ivan Robilotta,https://fbref.com/en/matches/21d09c12/Pordenone-Spezia-September-13-2019-Serie-B,0,0,1,0,11,3,12,12,18,0,0,3,0,11,1,9,9,23,2019-2020
 2019-09-14,Virtus Entella,Frosinone,1,0,NA,NA,1830,Lorenzo Maggioni,https://fbref.com/en/matches/e29abbcc/Virtus-Entella-Frosinone-September-14-2019-Serie-B,1,1,3,0,9,5,6,5,17,0,1,3,0,18,7,6,6,14,2019-2020
@@ -31,16 +31,16 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2019-09-16,Salernitana,Benevento,0,2,NA,NA,18003,Eugenio Abbattista,https://fbref.com/en/matches/1f5e0c70/Salernitana-Benevento-September-16-2019-Serie-B,0,0,3,0,11,0,9,13,18,0,0,0,0,13,2,10,10,14,2019-2020
 2019-09-20,Frosinone,Venezia,1,1,NA,NA,10589,Giovanni Ayroldi,https://fbref.com/en/matches/0f268170/Frosinone-Venezia-September-20-2019-Serie-B,0,0,2,0,15,5,12,10,16,0,0,4,0,5,4,8,10,23,2019-2020
 2019-09-21,Cremonese,Crotone,2,1,NA,NA,6528,Juan Sacchi,https://fbref.com/en/matches/aa79d0be/Cremonese-Crotone-September-21-2019-Serie-B,0,0,2,0,19,8,9,7,14,0,0,2,0,21,6,8,5,17,2019-2020
-2019-09-21,Juve Stabia,Ascoli,1,5,NA,NA,3500,Livio Marinelli,https://fbref.com/en/matches/a6f0538b/Juve-Stabia-Ascoli-September-21-2019-Serie-B,0,0,5,1,19,9,5,9,18,1,1,3,0,18,9,11,10,11,2019-2020
-2019-09-21,Empoli,Cittadella,1,0,NA,NA,5133,Giacomo Camplone,https://fbref.com/en/matches/f28d56c0/Empoli-Cittadella-September-21-2019-Serie-B,1,1,1,0,10,4,6,7,15,0,0,4,0,15,2,9,9,23,2019-2020
 2019-09-21,Livorno,Pordenone,2,1,NA,NA,4701,Antonio Di Martino,https://fbref.com/en/matches/e3b130f3/Livorno-Pordenone-September-21-2019-Serie-B,0,0,1,0,10,4,7,12,16,0,0,3,0,12,5,15,11,23,2019-2020
+2019-09-21,Empoli,Cittadella,1,0,NA,NA,5133,Giacomo Camplone,https://fbref.com/en/matches/f28d56c0/Empoli-Cittadella-September-21-2019-Serie-B,1,1,1,0,10,4,6,7,15,0,0,4,0,15,2,9,9,23,2019-2020
+2019-09-21,Juve Stabia,Ascoli,1,5,NA,NA,3500,Livio Marinelli,https://fbref.com/en/matches/a6f0538b/Juve-Stabia-Ascoli-September-21-2019-Serie-B,0,0,5,1,19,9,5,9,18,1,1,3,0,18,9,11,10,11,2019-2020
 2019-09-21,Benevento,Cosenza,1,0,NA,NA,9824,Federico Dionisi,https://fbref.com/en/matches/b8a4e33f/Benevento-Cosenza-September-21-2019-Serie-B,0,0,1,0,15,3,10,9,13,0,0,5,0,10,5,7,8,17,2019-2020
 2019-09-21,Pescara,Virtus Entella,1,1,NA,NA,6113,Valerio Marini,https://fbref.com/en/matches/7cf1f09f/Pescara-Virtus-Entella-September-21-2019-Serie-B,0,0,2,1,11,4,10,6,13,0,0,3,0,4,3,9,12,13,2019-2020
 2019-09-21,Spezia,Perugia,2,2,NA,NA,5176,Davide Ghersini,https://fbref.com/en/matches/28fbcee3/Spezia-Perugia-September-21-2019-Serie-B,1,1,1,0,15,7,15,12,20,0,0,4,0,11,5,13,12,15,2019-2020
 2019-09-21,Chievo,AC Pisa,2,2,NA,NA,3700,Daniel Amabile,https://fbref.com/en/matches/97931d89/Chievo-AC-Pisa-September-21-2019-Serie-B,0,0,1,0,18,7,13,6,13,0,0,2,0,14,4,8,13,12,2019-2020
 2019-09-22,Trapani,Salernitana,0,1,NA,NA,4337,Luca Massimi,https://fbref.com/en/matches/911dd0b7/Trapani-Salernitana-September-22-2019-Serie-B,0,0,5,0,14,6,12,2,22,1,1,2,0,6,3,10,9,19,2019-2020
-2019-09-24,Perugia,Frosinone,3,1,NA,NA,8641,Eugenio Abbattista,https://fbref.com/en/matches/6e6a5af5/Perugia-Frosinone-September-24-2019-Serie-B,2,2,1,0,17,6,5,11,19,0,0,3,0,8,4,3,14,16,2019-2020
 2019-09-24,Cittadella,Pescara,2,1,NA,NA,3746,Lorenzo Maggioni,https://fbref.com/en/matches/c5ff7671/Cittadella-Pescara-September-24-2019-Serie-B,0,0,5,0,15,5,9,16,15,0,0,2,0,14,2,10,6,10,2019-2020
+2019-09-24,Perugia,Frosinone,3,1,NA,NA,8641,Eugenio Abbattista,https://fbref.com/en/matches/6e6a5af5/Perugia-Frosinone-September-24-2019-Serie-B,2,2,1,0,17,6,5,11,19,0,0,3,0,8,4,3,14,16,2019-2020
 2019-09-24,Pordenone,Benevento,1,1,NA,NA,2847,Marco Serra,https://fbref.com/en/matches/e844e893/Pordenone-Benevento-September-24-2019-Serie-B,0,0,4,0,14,3,7,4,20,0,0,2,0,12,5,8,11,21,2019-2020
 2019-09-24,AC Pisa,Empoli,2,3,NA,NA,9133,Gianluca Aureliano,https://fbref.com/en/matches/c979784a/AC-Pisa-Empoli-September-24-2019-Serie-B,0,0,3,0,10,5,12,7,12,0,0,4,0,17,5,8,8,16,2019-2020
 2019-09-24,Crotone,Juve Stabia,2,0,NA,NA,5917,Niccolò Baroni,https://fbref.com/en/matches/d28af120/Crotone-Juve-Stabia-September-24-2019-Serie-B,0,0,3,0,30,8,7,8,13,0,0,3,0,5,0,12,13,14,2019-2020
@@ -63,8 +63,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2019-10-05,Crotone,Virtus Entella,3,1,NA,NA,5902,Giacomo Camplone,https://fbref.com/en/matches/06b8eafc/Crotone-Virtus-Entella-October-5-2019-Serie-B,0,0,2,0,21,7,9,13,21,0,0,2,0,11,2,16,8,15,2019-2020
 2019-10-05,Pordenone,Empoli,2,0,NA,NA,3280,Lorenzo Maggioni,https://fbref.com/en/matches/4064ee85/Pordenone-Empoli-October-5-2019-Serie-B,1,1,3,0,23,6,6,4,14,0,1,0,1,10,2,4,6,10,2019-2020
 2019-10-05,Cosenza,Venezia,1,1,NA,NA,5046,Niccolò Baroni,https://fbref.com/en/matches/6cc692da/Cosenza-Venezia-October-5-2019-Serie-B,0,0,1,0,14,2,7,6,12,1,1,3,0,10,3,10,5,11,2019-2020
-2019-10-05,Spezia,Benevento,0,1,NA,NA,5176,Valerio Marini,https://fbref.com/en/matches/bc747d0c/Spezia-Benevento-October-5-2019-Serie-B,0,0,3,0,8,2,7,15,22,0,0,2,1,5,1,9,12,17,2019-2020
 2019-10-05,Livorno,Chievo,3,4,NA,NA,4945,Lorenzo Illuzzi,https://fbref.com/en/matches/80fde56a/Livorno-Chievo-October-5-2019-Serie-B,0,0,2,1,14,5,10,12,19,1,1,5,1,17,6,10,11,13,2019-2020
+2019-10-05,Spezia,Benevento,0,1,NA,NA,5176,Valerio Marini,https://fbref.com/en/matches/bc747d0c/Spezia-Benevento-October-5-2019-Serie-B,0,0,3,0,8,2,7,15,22,0,0,2,1,5,1,9,12,17,2019-2020
 2019-10-05,Trapani,Juve Stabia,1,2,NA,NA,4359,Juan Sacchi,https://fbref.com/en/matches/334d4f52/Trapani-Juve-Stabia-October-5-2019-Serie-B,0,0,2,0,10,3,10,4,31,0,0,3,0,11,7,14,8,11,2019-2020
 2019-10-06,Salernitana,Frosinone,1,1,NA,NA,9823,Riccardo Ros,https://fbref.com/en/matches/724e5d0a/Salernitana-Frosinone-October-6-2019-Serie-B,1,1,3,0,8,2,7,8,17,0,0,3,1,16,6,6,11,14,2019-2020
 2019-10-06,Cremonese,Cittadella,0,2,NA,NA,7257,Marco Serra,https://fbref.com/en/matches/e082f8d5/Cremonese-Cittadella-October-6-2019-Serie-B,0,0,4,1,7,1,6,9,9,0,0,3,0,23,5,3,7,16,2019-2020
@@ -80,12 +80,12 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2019-10-20,Empoli,Cremonese,1,1,NA,NA,5398,Manuel Volpi,https://fbref.com/en/matches/16af19fb/Empoli-Cremonese-October-20-2019-Serie-B,0,0,0,0,20,5,4,7,10,0,0,3,1,23,9,8,6,12,2019-2020
 2019-10-21,Frosinone,Livorno,1,0,NA,NA,10761,Ivan Pezzuto,https://fbref.com/en/matches/b816f01f/Frosinone-Livorno-October-21-2019-Serie-B,1,2,3,0,25,8,12,10,15,0,0,3,0,9,4,13,10,19,2019-2020
 2019-10-25,Ascoli,Virtus Entella,2,1,NA,NA,6102,Francesco Fourneau,https://fbref.com/en/matches/6676815d/Ascoli-Virtus-Entella-October-25-2019-Serie-B,0,0,4,1,11,4,7,10,12,0,0,7,1,15,2,5,12,12,2019-2020
-2019-10-26,Salernitana,Perugia,1,1,NA,NA,9786,Gianluca Aureliano,https://fbref.com/en/matches/7da606df/Salernitana-Perugia-October-26-2019-Serie-B,1,1,1,0,7,3,10,10,21,0,0,1,0,10,3,10,5,21,2019-2020
 2019-10-26,Pordenone,Cittadella,0,0,NA,NA,3184,Lorenzo Illuzzi,https://fbref.com/en/matches/8d16b629/Pordenone-Cittadella-October-26-2019-Serie-B,0,0,3,0,9,4,10,13,16,0,0,3,0,10,3,10,5,18,2019-2020
+2019-10-26,Salernitana,Perugia,1,1,NA,NA,9786,Gianluca Aureliano,https://fbref.com/en/matches/7da606df/Salernitana-Perugia-October-26-2019-Serie-B,1,1,1,0,7,3,10,10,21,0,0,1,0,10,3,10,5,21,2019-2020
 2019-10-26,Cosenza,Chievo,1,1,NA,NA,6754,Valerio Marini,https://fbref.com/en/matches/9f06e13d/Cosenza-Chievo-October-26-2019-Serie-B,0,0,2,0,12,2,1,14,19,0,0,3,0,5,1,5,10,16,2019-2020
 2019-10-26,Pescara,Benevento,4,0,NA,NA,7339,Niccolò Baroni,https://fbref.com/en/matches/afacef31/Pescara-Benevento-October-26-2019-Serie-B,1,1,3,0,13,5,6,6,14,0,0,2,0,10,3,7,7,14,2019-2020
-2019-10-26,Crotone,Venezia,3,2,NA,NA,5912,Simone Sozza,https://fbref.com/en/matches/792ab5ef/Crotone-Venezia-October-26-2019-Serie-B,0,0,1,0,20,6,9,5,14,0,0,4,0,10,3,8,4,18,2019-2020
 2019-10-26,Spezia,Juve Stabia,2,0,NA,NA,4905,Antonio Di Martino,https://fbref.com/en/matches/5b069e50/Spezia-Juve-Stabia-October-26-2019-Serie-B,0,0,3,0,17,5,5,5,14,0,0,4,1,4,1,8,10,16,2019-2020
+2019-10-26,Crotone,Venezia,3,2,NA,NA,5912,Simone Sozza,https://fbref.com/en/matches/792ab5ef/Crotone-Venezia-October-26-2019-Serie-B,0,0,1,0,20,6,9,5,14,0,0,4,0,10,3,8,4,18,2019-2020
 2019-10-26,Trapani,Empoli,2,2,NA,NA,4130,Giovanni Ayroldi,https://fbref.com/en/matches/477973ad/Trapani-Empoli-October-26-2019-Serie-B,0,0,2,0,21,8,13,8,15,0,0,1,0,20,8,9,9,17,2019-2020
 2019-10-26,Livorno,AC Pisa,1,0,NA,NA,10664,Juan Sacchi,https://fbref.com/en/matches/937e13bd/Livorno-AC-Pisa-October-26-2019-Serie-B,0,0,5,1,9,2,11,18,18,0,0,2,1,21,1,8,11,16,2019-2020
 2019-10-27,Cremonese,Frosinone,1,1,NA,NA,6136,Davide Ghersini,https://fbref.com/en/matches/39093dac/Cremonese-Frosinone-October-27-2019-Serie-B,0,0,0,0,19,5,12,9,15,0,0,1,0,12,4,14,13,10,2019-2020
@@ -100,8 +100,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2019-10-30,Benevento,Cremonese,2,0,NA,NA,9019,Eugenio Abbattista,https://fbref.com/en/matches/6d72cee7/Benevento-Cremonese-October-30-2019-Serie-B,0,0,1,0,17,8,5,7,19,0,0,1,0,13,2,4,6,16,2019-2020
 2019-10-30,Frosinone,Trapani,3,0,NA,NA,10855,Ivan Robilotta,https://fbref.com/en/matches/47214392/Frosinone-Trapani-October-30-2019-Serie-B,0,1,2,0,19,9,10,7,9,0,0,4,0,20,6,4,3,18,2019-2020
 2019-11-01,Spezia,Chievo,0,0,NA,NA,5338,Francesco Fourneau,https://fbref.com/en/matches/bd0fe8ab/Spezia-Chievo-November-1-2019-Serie-B,0,0,3,0,10,2,4,10,19,0,0,1,0,19,7,10,11,19,2019-2020
-2019-11-02,Crotone,Perugia,2,3,NA,NA,6218,Ivan Pezzuto,https://fbref.com/en/matches/1f92250c/Crotone-Perugia-November-2-2019-Serie-B,0,0,0,0,18,8,5,8,7,0,0,0,0,6,5,9,11,15,2019-2020
 2019-11-02,Ascoli,Venezia,1,1,NA,NA,6546,Giovanni Ayroldi,https://fbref.com/en/matches/38da67f7/Ascoli-Venezia-November-2-2019-Serie-B,1,1,2,0,7,4,6,13,20,0,0,4,0,13,2,5,8,18,2019-2020
+2019-11-02,Crotone,Perugia,2,3,NA,NA,6218,Ivan Pezzuto,https://fbref.com/en/matches/1f92250c/Crotone-Perugia-November-2-2019-Serie-B,0,0,0,0,18,8,5,8,7,0,0,0,0,6,5,9,11,15,2019-2020
 2019-11-02,Livorno,Juve Stabia,2,1,NA,NA,4165,Valerio Marini,https://fbref.com/en/matches/3540ef45/Livorno-Juve-Stabia-November-2-2019-Serie-B,0,0,2,0,25,6,13,16,15,0,0,3,0,11,1,9,14,20,2019-2020
 2019-11-02,Pescara,AC Pisa,3,0,NA,NA,6052,Simone Sozza,https://fbref.com/en/matches/a41cbf7a/Pescara-AC-Pisa-November-2-2019-Serie-B,0,1,1,0,15,7,10,6,17,0,0,2,0,13,3,7,12,14,2019-2020
 2019-11-02,Salernitana,Virtus Entella,2,1,NA,NA,5432,Federico Dionisi,https://fbref.com/en/matches/c3dd44c6/Salernitana-Virtus-Entella-November-2-2019-Serie-B,0,0,2,0,19,8,8,14,11,0,0,3,0,5,4,14,16,14,2019-2020
@@ -110,8 +110,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2019-11-03,Benevento,Empoli,2,0,NA,NA,9222,Davide Ghersini,https://fbref.com/en/matches/9132346b/Benevento-Empoli-November-3-2019-Serie-B,0,0,1,0,11,5,14,16,11,0,0,0,0,11,3,9,10,13,2019-2020
 2019-11-04,Cosenza,Cremonese,2,0,NA,NA,4283,Antonio Di Martino,https://fbref.com/en/matches/dc4e71f6/Cosenza-Cremonese-November-4-2019-Serie-B,0,0,3,0,13,4,5,8,18,0,0,2,0,12,1,10,15,13,2019-2020
 2019-11-08,Crotone,Ascoli,3,1,NA,NA,5796,Marco Serra,https://fbref.com/en/matches/f9617fb0/Crotone-Ascoli-November-8-2019-Serie-B,0,0,1,0,25,6,6,13,17,0,0,3,0,8,4,6,11,18,2019-2020
-2019-11-09,Virtus Entella,Pordenone,1,1,NA,NA,4154,Niccolò Baroni,https://fbref.com/en/matches/a3c55ff1/Virtus-Entella-Pordenone-November-9-2019-Serie-B,0,0,1,0,16,3,8,11,12,0,0,4,1,14,3,9,9,16,2019-2020
 2019-11-09,AC Pisa,Spezia,3,2,NA,NA,7911,Manuel Volpi,https://fbref.com/en/matches/a84904ab/AC-Pisa-Spezia-November-9-2019-Serie-B,0,0,5,1,11,4,8,13,15,0,0,1,0,13,7,13,13,21,2019-2020
+2019-11-09,Virtus Entella,Pordenone,1,1,NA,NA,4154,Niccolò Baroni,https://fbref.com/en/matches/a3c55ff1/Virtus-Entella-Pordenone-November-9-2019-Serie-B,0,0,1,0,16,3,8,11,12,0,0,4,1,14,3,9,9,16,2019-2020
 2019-11-09,Juve Stabia,Benevento,1,1,NA,NA,3908,Lorenzo Illuzzi,https://fbref.com/en/matches/3eaf1c40/Juve-Stabia-Benevento-November-9-2019-Serie-B,0,0,3,0,8,2,9,10,15,0,0,4,1,10,4,10,8,18,2019-2020
 2019-11-09,Perugia,Cittadella,0,2,NA,NA,7346,Lorenzo Maggioni,https://fbref.com/en/matches/b440b1c3/Perugia-Cittadella-November-9-2019-Serie-B,0,0,2,0,15,5,5,7,16,0,0,3,0,19,9,14,6,13,2019-2020
 2019-11-09,Venezia,Livorno,1,0,NA,NA,3148,Giacomo Camplone,https://fbref.com/en/matches/03da8b95/Venezia-Livorno-November-9-2019-Serie-B,0,0,6,1,11,4,15,4,18,0,0,3,0,11,5,11,9,20,2019-2020
@@ -214,8 +214,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2020-02-01,Livorno,Ascoli,0,3,NA,NA,4009,Riccardo Ros,https://fbref.com/en/matches/e95b7679/Livorno-Ascoli-February-1-2020-Serie-B,0,0,2,0,17,7,12,8,18,0,0,2,0,15,5,14,9,19,2019-2020
 2020-02-01,Trapani,Cittadella,0,3,NA,NA,4632,Ivan Robilotta,https://fbref.com/en/matches/8fc0d829/Trapani-Cittadella-February-1-2020-Serie-B,0,0,3,0,9,1,9,5,20,0,0,3,0,9,3,8,2,16,2019-2020
 2020-02-01,Empoli,Crotone,3,1,NA,NA,5224,Livio Marinelli,https://fbref.com/en/matches/a6c82161/Empoli-Crotone-February-1-2020-Serie-B,0,0,3,0,14,7,17,5,18,0,0,3,0,10,4,6,11,13,2019-2020
-2020-02-02,Juve Stabia,Perugia,1,2,NA,NA,3000,Daniele Minelli,https://fbref.com/en/matches/134b163d/Juve-Stabia-Perugia-February-2-2020-Serie-B,0,0,2,0,13,2,11,7,16,2,2,5,0,20,8,9,14,24,2019-2020
 2020-02-02,Chievo,Venezia,0,1,NA,NA,3500,Giacomo Camplone,https://fbref.com/en/matches/a80658b9/Chievo-Venezia-February-2-2020-Serie-B,0,0,4,0,6,2,8,5,28,0,0,2,0,9,6,11,15,15,2019-2020
+2020-02-02,Juve Stabia,Perugia,1,2,NA,NA,3000,Daniele Minelli,https://fbref.com/en/matches/134b163d/Juve-Stabia-Perugia-February-2-2020-Serie-B,0,0,2,0,13,2,11,7,16,2,2,5,0,20,8,9,14,24,2019-2020
 2020-02-02,Benevento,Salernitana,1,1,NA,NA,11261,Lorenzo Illuzzi,https://fbref.com/en/matches/45a728d8/Benevento-Salernitana-February-2-2020-Serie-B,0,0,3,1,17,1,8,3,19,0,0,4,0,9,2,14,9,22,2019-2020
 2020-02-03,Pescara,Cosenza,2,1,NA,NA,5867,Antonio Rapuano,https://fbref.com/en/matches/4f459daa/Pescara-Cosenza-February-3-2020-Serie-B,0,0,5,1,12,4,11,6,15,0,0,4,2,14,3,8,8,17,2019-2020
 2020-02-07,Ascoli,Juve Stabia,2,2,NA,NA,5927,Ivan Pezzuto,https://fbref.com/en/matches/40bceeda/Ascoli-Juve-Stabia-February-7-2020-Serie-B,0,0,2,0,14,5,10,13,24,1,1,3,0,17,7,8,9,12,2019-2020
@@ -251,8 +251,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2020-02-28,Virtus Entella,Crotone,1,2,NA,NA,0,Gianluca Aureliano,https://fbref.com/en/matches/fa2d4778/Virtus-Entella-Crotone-February-28-2020-Serie-B,0,0,3,1,16,4,16,16,25,0,0,1,0,10,3,9,9,11,2019-2020
 2020-02-29,Juve Stabia,Trapani,2,2,NA,NA,3152,Niccolò Baroni,https://fbref.com/en/matches/3915474c/Juve-Stabia-Trapani-February-29-2020-Serie-B,1,1,2,0,16,6,10,4,9,1,1,5,0,15,6,7,8,18,2019-2020
 2020-02-29,AC Pisa,Perugia,1,0,NA,NA,7038,Marco Serra,https://fbref.com/en/matches/ff82e832/AC-Pisa-Perugia-February-29-2020-Serie-B,0,0,2,1,17,7,10,16,18,0,0,1,0,11,0,9,7,20,2019-2020
-2020-02-29,Benevento,Spezia,3,1,NA,NA,9406,Manuel Volpi,https://fbref.com/en/matches/876dc19b/Benevento-Spezia-February-29-2020-Serie-B,0,0,4,0,16,8,13,12,15,0,0,4,1,8,4,5,6,18,2019-2020
 2020-02-29,Cittadella,Cremonese,0,0,NA,NA,5328,Antonio Rapuano,https://fbref.com/en/matches/52f94485/Cittadella-Cremonese-February-29-2020-Serie-B,0,0,3,0,10,3,10,8,13,0,0,2,0,10,1,9,7,7,2019-2020
+2020-02-29,Benevento,Spezia,3,1,NA,NA,9406,Manuel Volpi,https://fbref.com/en/matches/876dc19b/Benevento-Spezia-February-29-2020-Serie-B,0,0,4,0,16,8,13,12,15,0,0,4,1,8,4,5,6,18,2019-2020
 2020-02-29,Empoli,Pordenone,0,1,NA,NA,5328,Luca Massimi,https://fbref.com/en/matches/616d4525/Empoli-Pordenone-February-29-2020-Serie-B,0,0,2,0,20,4,5,5,18,0,0,2,0,14,4,8,10,14,2019-2020
 2020-02-29,Venezia,Cosenza,1,1,NA,NA,0,Alessandro Prontera,https://fbref.com/en/matches/fe51aa7b/Venezia-Cosenza-February-29-2020-Serie-B,0,0,2,0,13,4,14,15,16,0,0,1,0,12,3,11,10,20,2019-2020
 2020-02-29,Chievo,Livorno,0,1,NA,NA,0,Daniel Amabile,https://fbref.com/en/matches/3698f19a/Chievo-Livorno-February-29-2020-Serie-B,0,0,1,0,15,4,9,10,13,0,0,4,0,9,3,8,12,22,2019-2020
@@ -279,11 +279,11 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2020-03-08,Benevento,Pescara,4,0,NA,NA,0,Antonio Rapuano,https://fbref.com/en/matches/91c858b1/Benevento-Pescara-March-8-2020-Serie-B,0,0,2,0,17,10,7,8,7,0,0,0,0,13,5,5,9,7,2019-2020
 2020-03-09,Chievo,Cosenza,2,0,NA,NA,0,Niccolò Baroni,https://fbref.com/en/matches/3a305060/Chievo-Cosenza-March-9-2020-Serie-B,0,0,3,0,15,5,15,10,17,0,0,2,0,11,0,12,13,20,2019-2020
 2020-06-17,Ascoli,Cremonese,1,3,NA,NA,0,Daniele Minelli,https://fbref.com/en/matches/a25d81a4/Ascoli-Cremonese-June-17-2020-Serie-B,0,0,3,0,11,5,6,5,14,0,0,3,0,14,5,12,10,15,2019-2020
-2020-06-19,Spezia,Empoli,1,0,NA,NA,29,Eugenio Abbattista,https://fbref.com/en/matches/3257f48e/Spezia-Empoli-June-19-2020-Serie-B,0,0,1,0,10,4,5,9,12,0,0,1,0,10,3,5,13,15,2019-2020
+2020-06-19,Spezia,Empoli,1,0,NA,NA,0,Eugenio Abbattista,https://fbref.com/en/matches/3257f48e/Spezia-Empoli-June-19-2020-Serie-B,0,0,1,0,10,4,5,9,12,0,0,1,0,10,3,5,13,15,2019-2020
 2020-06-20,Crotone,Chievo,1,1,NA,NA,0,Riccardo Ros,https://fbref.com/en/matches/e992ff74/Crotone-Chievo-June-20-2020-Serie-B,0,0,3,0,7,3,9,10,14,0,0,2,0,16,2,15,12,24,2019-2020
+2020-06-20,Cosenza,Virtus Entella,2,1,NA,NA,0,Manuel Volpi,https://fbref.com/en/matches/3d0863f6/Cosenza-Virtus-Entella-June-20-2020-Serie-B,0,0,3,1,16,5,15,6,25,0,0,2,0,19,6,14,10,13,2019-2020
 2020-06-20,Pescara,Juve Stabia,3,1,NA,NA,0,Daniel Amabile,https://fbref.com/en/matches/6553c03f/Pescara-Juve-Stabia-June-20-2020-Serie-B,0,0,2,0,18,5,13,14,15,0,0,2,0,7,3,18,9,9,2019-2020
 2020-06-20,Trapani,Frosinone,0,0,NA,NA,0,Lorenzo Illuzzi,https://fbref.com/en/matches/bf076cd2/Trapani-Frosinone-June-20-2020-Serie-B,0,0,3,0,6,0,9,16,24,0,0,2,0,5,2,16,13,11,2019-2020
-2020-06-20,Cosenza,Virtus Entella,2,1,NA,NA,0,Manuel Volpi,https://fbref.com/en/matches/3d0863f6/Cosenza-Virtus-Entella-June-20-2020-Serie-B,0,0,3,1,16,5,15,6,25,0,0,2,0,19,6,14,10,13,2019-2020
 2020-06-20,Salernitana,AC Pisa,1,1,NA,NA,0,Giovanni Ayroldi,https://fbref.com/en/matches/e7d7ed47/Salernitana-AC-Pisa-June-20-2020-Serie-B,0,0,5,0,9,1,8,9,23,0,0,2,0,15,3,9,13,12,2019-2020
 2020-06-20,Livorno,Cittadella,0,2,NA,NA,0,Davide Ghersini,https://fbref.com/en/matches/e3b995eb/Livorno-Cittadella-June-20-2020-Serie-B,0,0,0,0,8,3,16,18,8,1,1,2,0,16,5,17,10,17,2019-2020
 2020-06-20,Pordenone,Venezia,0,0,NA,NA,0,Valerio Marini,https://fbref.com/en/matches/21bd53a1/Pordenone-Venezia-June-20-2020-Serie-B,0,0,4,1,7,2,4,9,12,0,1,2,0,17,3,6,6,14,2019-2020
@@ -291,39 +291,39 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2020-06-21,Ascoli,Perugia,0,1,NA,NA,0,Juan Sacchi,https://fbref.com/en/matches/6397310a/Ascoli-Perugia-June-21-2020-Serie-B,0,0,4,0,12,2,10,7,20,0,0,2,0,14,2,3,10,17,2019-2020
 2020-06-26,Trapani,Pordenone,3,0,NA,NA,0,Alessandro Prontera,https://fbref.com/en/matches/72e6cbd4/Trapani-Pordenone-June-26-2020-Serie-B,1,1,2,0,16,7,9,10,19,0,0,3,0,10,1,13,7,17,2019-2020
 2020-06-26,Cremonese,Cosenza,0,2,NA,NA,0,Gianluca Aureliano,https://fbref.com/en/matches/9a5e18a4/Cremonese-Cosenza-June-26-2020-Serie-B,0,1,1,0,21,2,10,14,21,0,0,3,1,13,4,3,10,14,2019-2020
-2020-06-26,Juve Stabia,Livorno,2,3,NA,NA,0,Ivan Robilotta,https://fbref.com/en/matches/72a0a4ef/Juve-Stabia-Livorno-June-26-2020-Serie-B,0,0,6,2,19,3,6,7,22,0,0,2,1,11,3,12,5,27,2019-2020
 2020-06-26,Virtus Entella,Salernitana,1,0,NA,NA,0,Giacomo Camplone,https://fbref.com/en/matches/8fafd7b1/Virtus-Entella-Salernitana-June-26-2020-Serie-B,0,0,2,0,9,3,13,13,16,0,0,3,0,7,2,8,13,18,2019-2020
-2020-06-26,Empoli,Benevento,0,0,NA,NA,30,Ivan Pezzuto,https://fbref.com/en/matches/fa5efc3a/Empoli-Benevento-June-26-2020-Serie-B,0,0,2,0,11,4,4,8,17,0,0,1,0,13,4,12,19,15,2019-2020
+2020-06-26,Juve Stabia,Livorno,2,3,NA,NA,0,Ivan Robilotta,https://fbref.com/en/matches/72a0a4ef/Juve-Stabia-Livorno-June-26-2020-Serie-B,0,0,6,2,19,3,6,7,22,0,0,2,1,11,3,12,5,27,2019-2020
+2020-06-26,Empoli,Benevento,0,0,NA,NA,0,Ivan Pezzuto,https://fbref.com/en/matches/fa5efc3a/Empoli-Benevento-June-26-2020-Serie-B,0,0,2,0,11,4,4,8,17,0,0,1,0,13,4,12,19,15,2019-2020
 2020-06-26,Perugia,Crotone,0,0,NA,NA,0,Antonio Di Martino,https://fbref.com/en/matches/2295074c/Perugia-Crotone-June-26-2020-Serie-B,0,0,3,1,7,5,15,11,14,0,0,3,0,16,5,5,7,16,2019-2020
-2020-06-26,Frosinone,Cittadella,0,2,NA,NA,0,Lorenzo Maggioni,https://fbref.com/en/matches/ce5b351e/Frosinone-Cittadella-June-26-2020-Serie-B,0,0,2,0,21,9,14,9,17,1,1,7,0,10,3,7,9,24,2019-2020
 2020-06-26,AC Pisa,Pescara,2,1,NA,NA,0,Daniele Minelli,https://fbref.com/en/matches/b20c7aab/AC-Pisa-Pescara-June-26-2020-Serie-B,0,0,2,0,13,4,9,13,16,0,0,6,1,8,2,6,15,20,2019-2020
+2020-06-26,Frosinone,Cittadella,0,2,NA,NA,0,Lorenzo Maggioni,https://fbref.com/en/matches/ce5b351e/Frosinone-Cittadella-June-26-2020-Serie-B,0,0,2,0,21,9,14,9,17,1,1,7,0,10,3,7,9,24,2019-2020
 2020-06-26,Chievo,Spezia,1,3,NA,NA,0,Federico Dionisi,https://fbref.com/en/matches/c129ae39/Chievo-Spezia-June-26-2020-Serie-B,0,0,1,0,10,2,5,6,14,1,1,2,0,15,7,14,9,17,2019-2020
 2020-06-26,Venezia,Ascoli,2,1,NA,NA,0,Francesco Fourneau,https://fbref.com/en/matches/2dc59dbe/Venezia-Ascoli-June-26-2020-Serie-B,0,0,2,0,14,2,3,4,12,0,0,4,0,16,6,8,15,17,2019-2020
 2020-06-29,Salernitana,Cremonese,3,3,NA,NA,0,Niccolò Baroni,https://fbref.com/en/matches/29fc0764/Salernitana-Cremonese-June-29-2020-Serie-B,2,2,3,1,14,6,6,3,18,0,0,3,1,13,5,5,9,16,2019-2020
 2020-06-29,Chievo,Frosinone,2,0,NA,NA,0,Luca Massimi,https://fbref.com/en/matches/71a7fe40/Chievo-Frosinone-June-29-2020-Serie-B,0,0,3,0,17,7,9,19,13,0,0,1,0,8,1,9,19,17,2019-2020
 2020-06-29,Cosenza,Trapani,2,2,NA,NA,0,Marco Serra,https://fbref.com/en/matches/86860dc1/Cosenza-Trapani-June-29-2020-Serie-B,0,1,3,0,16,9,7,8,15,1,1,4,1,10,5,10,12,17,2019-2020
 2020-06-29,Cittadella,Perugia,2,0,NA,NA,0,Lorenzo Illuzzi,https://fbref.com/en/matches/3484bc84/Cittadella-Perugia-June-29-2020-Serie-B,2,2,3,0,11,2,8,8,17,0,0,2,0,11,3,13,5,16,2019-2020
-2020-06-29,Benevento,Juve Stabia,1,0,NA,NA,0,Livio Marinelli,https://fbref.com/en/matches/5be58dc1/Benevento-Juve-Stabia-June-29-2020-Serie-B,0,0,2,1,10,3,11,6,9,0,0,2,0,10,3,9,9,15,2019-2020
 2020-06-29,Ascoli,Crotone,1,1,NA,NA,0,Simone Sozza,https://fbref.com/en/matches/4b8a7a30/Ascoli-Crotone-June-29-2020-Serie-B,0,0,4,0,6,2,10,10,14,0,0,2,0,18,3,6,10,14,2019-2020
-2020-06-29,Pescara,Empoli,1,1,NA,NA,31,Giovanni Ayroldi,https://fbref.com/en/matches/5e98bdd5/Pescara-Empoli-June-29-2020-Serie-B,1,1,2,0,14,4,7,10,8,0,0,2,0,10,2,10,9,25,2019-2020
+2020-06-29,Benevento,Juve Stabia,1,0,NA,NA,0,Livio Marinelli,https://fbref.com/en/matches/5be58dc1/Benevento-Juve-Stabia-June-29-2020-Serie-B,0,0,2,1,10,3,11,6,9,0,0,2,0,10,3,9,9,15,2019-2020
+2020-06-29,Pescara,Empoli,1,1,NA,NA,0,Giovanni Ayroldi,https://fbref.com/en/matches/5e98bdd5/Pescara-Empoli-June-29-2020-Serie-B,1,1,2,0,14,4,7,10,8,0,0,2,0,10,2,10,9,25,2019-2020
 2020-06-29,Livorno,Venezia,0,2,NA,NA,0,Riccardo Ros,https://fbref.com/en/matches/71cb0d14/Livorno-Venezia-June-29-2020-Serie-B,0,0,1,0,13,2,16,10,16,0,0,1,0,13,5,17,9,16,2019-2020
 2020-06-29,Pordenone,Virtus Entella,2,0,NA,NA,0,Antonio Rapuano,https://fbref.com/en/matches/5d177626/Pordenone-Virtus-Entella-June-29-2020-Serie-B,0,0,3,0,13,4,4,15,14,0,0,3,0,17,3,10,7,16,2019-2020
 2020-06-29,Spezia,AC Pisa,1,2,NA,NA,0,Davide Ghersini,https://fbref.com/en/matches/197fd791/Spezia-AC-Pisa-June-29-2020-Serie-B,0,0,4,0,12,2,6,10,16,0,0,0,0,8,3,14,15,10,2019-2020
 2020-07-03,AC Pisa,Cittadella,2,0,NA,NA,0,Antonio Di Martino,https://fbref.com/en/matches/41b39441/AC-Pisa-Cittadella-July-3-2020-Serie-B,1,1,4,0,6,5,4,7,24,0,0,2,0,14,2,9,3,18,2019-2020
-2020-07-03,Salernitana,Juve Stabia,2,1,NA,NA,0,Francesco Fourneau,https://fbref.com/en/matches/b375df15/Salernitana-Juve-Stabia-July-3-2020-Serie-B,0,0,4,2,13,6,4,14,19,0,0,7,0,18,4,7,8,22,2019-2020
-2020-07-03,Trapani,Livorno,2,1,NA,NA,32,Daniel Amabile,https://fbref.com/en/matches/22940428/Trapani-Livorno-July-3-2020-Serie-B,0,0,3,0,20,5,9,10,19,0,0,5,0,6,2,12,7,20,2019-2020
+2020-07-03,Trapani,Livorno,2,1,NA,NA,0,Daniel Amabile,https://fbref.com/en/matches/22940428/Trapani-Livorno-July-3-2020-Serie-B,0,0,3,0,20,5,9,10,19,0,0,5,0,6,2,12,7,20,2019-2020
 2020-07-03,Virtus Entella,Chievo,1,1,NA,NA,0,Valerio Marini,https://fbref.com/en/matches/79a823ea/Virtus-Entella-Chievo-July-3-2020-Serie-B,0,0,3,0,13,3,11,6,16,0,0,2,0,21,8,7,7,15,2019-2020
+2020-07-03,Salernitana,Juve Stabia,2,1,NA,NA,0,Francesco Fourneau,https://fbref.com/en/matches/b375df15/Salernitana-Juve-Stabia-July-3-2020-Serie-B,0,0,4,2,13,6,4,14,19,0,0,7,0,18,4,7,8,22,2019-2020
 2020-07-03,Frosinone,Spezia,2,1,NA,NA,0,Ivan Pezzuto,https://fbref.com/en/matches/689b743b/Frosinone-Spezia-July-3-2020-Serie-B,0,0,1,0,12,2,7,11,15,1,1,2,0,6,1,6,13,15,2019-2020
-2020-07-03,Perugia,Pordenone,1,2,NA,NA,32,Giacomo Camplone,https://fbref.com/en/matches/d437829b/Perugia-Pordenone-July-3-2020-Serie-B,0,0,4,1,13,1,10,7,16,0,0,4,0,9,3,3,16,16,2019-2020
-2020-07-03,Cremonese,Pescara,1,0,NA,NA,32,Lorenzo Maggioni,https://fbref.com/en/matches/79d04b12/Cremonese-Pescara-July-3-2020-Serie-B,0,0,2,0,9,2,5,12,20,0,0,2,0,14,2,7,13,12,2019-2020
+2020-07-03,Perugia,Pordenone,1,2,NA,NA,0,Giacomo Camplone,https://fbref.com/en/matches/d437829b/Perugia-Pordenone-July-3-2020-Serie-B,0,0,4,1,13,1,10,7,16,0,0,4,0,9,3,3,16,16,2019-2020
+2020-07-03,Cremonese,Pescara,1,0,NA,NA,0,Lorenzo Maggioni,https://fbref.com/en/matches/79d04b12/Cremonese-Pescara-July-3-2020-Serie-B,0,0,2,0,9,2,5,12,20,0,0,2,0,14,2,7,13,12,2019-2020
 2020-07-03,Crotone,Benevento,3,0,NA,NA,0,Gianluca Aureliano,https://fbref.com/en/matches/3a2146f0/Crotone-Benevento-July-3-2020-Serie-B,0,0,3,0,7,4,7,11,10,0,0,5,0,11,0,4,6,14,2019-2020
-2020-07-03,Cosenza,Ascoli,0,1,NA,NA,32,Eugenio Abbattista,https://fbref.com/en/matches/d739d09c/Cosenza-Ascoli-July-3-2020-Serie-B,0,0,2,0,15,4,3,11,13,0,0,3,0,9,5,10,12,20,2019-2020
-2020-07-03,Venezia,Empoli,0,2,NA,NA,32,Manuel Volpi,https://fbref.com/en/matches/221bfdb6/Venezia-Empoli-July-3-2020-Serie-B,0,0,1,0,13,2,7,8,20,0,0,2,0,17,9,7,8,11,2019-2020
+2020-07-03,Cosenza,Ascoli,0,1,NA,NA,0,Eugenio Abbattista,https://fbref.com/en/matches/d739d09c/Cosenza-Ascoli-July-3-2020-Serie-B,0,0,2,0,15,4,3,11,13,0,0,3,0,9,5,10,12,20,2019-2020
+2020-07-03,Venezia,Empoli,0,2,NA,NA,0,Manuel Volpi,https://fbref.com/en/matches/221bfdb6/Venezia-Empoli-July-3-2020-Serie-B,0,0,1,0,13,2,7,8,20,0,0,2,0,17,9,7,8,11,2019-2020
 2020-07-10,Juve Stabia,Virtus Entella,1,1,NA,NA,0,Niccolò Baroni,https://fbref.com/en/matches/be3247fd/Juve-Stabia-Virtus-Entella-July-10-2020-Serie-B,1,1,1,1,8,1,4,9,11,0,0,1,2,13,5,14,8,10,2019-2020
-2020-07-10,Ascoli,Salernitana,3,2,NA,NA,0,Federico Dionisi,https://fbref.com/en/matches/149c39a3/Ascoli-Salernitana-July-10-2020-Serie-B,0,0,3,0,11,4,8,7,20,1,1,2,0,18,6,3,9,15,2019-2020
 2020-07-10,Empoli,Frosinone,2,0,NA,NA,0,Juan Sacchi,https://fbref.com/en/matches/3e885bdc/Empoli-Frosinone-July-10-2020-Serie-B,1,1,2,0,13,4,7,12,14,0,0,3,1,19,2,5,11,16,2019-2020
-2020-07-10,Pordenone,AC Pisa,1,0,NA,NA,0,Simone Sozza,https://fbref.com/en/matches/ad92e70b/Pordenone-AC-Pisa-July-10-2020-Serie-B,0,1,2,0,14,3,5,10,19,0,0,0,0,18,5,9,9,12,2019-2020
+2020-07-10,Ascoli,Salernitana,3,2,NA,NA,0,Federico Dionisi,https://fbref.com/en/matches/149c39a3/Ascoli-Salernitana-July-10-2020-Serie-B,0,0,3,0,11,4,8,7,20,1,1,2,0,18,6,3,9,15,2019-2020
 2020-07-10,Spezia,Cosenza,5,1,NA,NA,0,Livio Marinelli,https://fbref.com/en/matches/1294ad6a/Spezia-Cosenza-July-10-2020-Serie-B,0,0,2,0,15,6,12,14,10,0,0,3,0,6,2,8,6,13,2019-2020
+2020-07-10,Pordenone,AC Pisa,1,0,NA,NA,0,Simone Sozza,https://fbref.com/en/matches/ad92e70b/Pordenone-AC-Pisa-July-10-2020-Serie-B,0,1,2,0,14,3,5,10,19,0,0,0,0,18,5,9,9,12,2019-2020
 2020-07-10,Pescara,Perugia,2,2,NA,NA,0,Alessandro Prontera,https://fbref.com/en/matches/fe1be82c/Pescara-Perugia-July-10-2020-Serie-B,0,0,2,0,10,4,8,2,15,0,0,4,0,13,4,4,7,17,2019-2020
 2020-07-10,Benevento,Venezia,1,1,NA,NA,0,Ivan Robilotta,https://fbref.com/en/matches/27d312f5/Benevento-Venezia-July-10-2020-Serie-B,0,0,1,0,12,3,10,8,17,0,0,3,0,8,3,15,10,18,2019-2020
 2020-07-10,Chievo,Trapani,1,1,NA,NA,0,Daniele Minelli,https://fbref.com/en/matches/4ee8e4a1/Chievo-Trapani-July-10-2020-Serie-B,0,1,2,0,22,9,9,10,13,0,0,3,0,22,7,16,7,16,2019-2020
@@ -331,18 +331,18 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2020-07-10,Livorno,Cremonese,1,2,NA,NA,0,Antonio Rapuano,https://fbref.com/en/matches/07db47ca/Livorno-Cremonese-July-10-2020-Serie-B,0,0,1,0,3,1,7,9,10,0,0,2,0,19,7,9,5,12,2019-2020
 2020-07-13,Cosenza,Perugia,2,1,NA,NA,0,Davide Ghersini,https://fbref.com/en/matches/194414dc/Cosenza-Perugia-July-13-2020-Serie-B,0,0,2,0,16,3,5,9,15,0,0,1,0,15,3,5,10,16,2019-2020
 2020-07-13,Virtus Entella,AC Pisa,1,1,NA,NA,0,Lorenzo Illuzzi,https://fbref.com/en/matches/ccc0e7dc/Virtus-Entella-AC-Pisa-July-13-2020-Serie-B,0,0,2,0,14,5,7,8,13,0,0,3,0,11,4,8,10,20,2019-2020
-2020-07-13,Venezia,Pescara,1,1,NA,NA,34,Luca Massimi,https://fbref.com/en/matches/740aaaa4/Venezia-Pescara-July-13-2020-Serie-B,0,0,6,1,14,3,10,12,19,0,0,2,1,8,4,11,14,6,2019-2020
 2020-07-13,Crotone,Pordenone,1,0,NA,NA,0,Eugenio Abbattista,https://fbref.com/en/matches/a5a322ec/Crotone-Pordenone-July-13-2020-Serie-B,0,0,1,0,8,4,8,5,15,0,0,3,0,14,1,6,11,20,2019-2020
-2020-07-13,Salernitana,Cittadella,4,1,NA,NA,0,Manuel Volpi,https://fbref.com/en/matches/a2600d8b/Salernitana-Cittadella-July-13-2020-Serie-B,0,1,1,0,17,6,12,19,22,0,1,1,0,7,2,11,9,24,2019-2020
+2020-07-13,Venezia,Pescara,1,1,NA,NA,0,Luca Massimi,https://fbref.com/en/matches/740aaaa4/Venezia-Pescara-July-13-2020-Serie-B,0,0,6,1,14,3,10,12,19,0,0,2,1,8,4,11,14,6,2019-2020
 2020-07-13,Frosinone,Juve Stabia,2,2,NA,NA,0,Valerio Marini,https://fbref.com/en/matches/3b63a37a/Frosinone-Juve-Stabia-July-13-2020-Serie-B,1,1,3,1,13,4,7,7,16,0,0,5,0,13,6,4,7,21,2019-2020
+2020-07-13,Salernitana,Cittadella,4,1,NA,NA,0,Manuel Volpi,https://fbref.com/en/matches/a2600d8b/Salernitana-Cittadella-July-13-2020-Serie-B,0,1,1,0,17,6,12,19,22,0,1,1,0,7,2,11,9,24,2019-2020
 2020-07-13,Trapani,Benevento,2,0,NA,NA,0,Giacomo Camplone,https://fbref.com/en/matches/e400f643/Trapani-Benevento-July-13-2020-Serie-B,0,0,1,0,11,4,11,16,17,0,0,3,0,13,1,6,8,17,2019-2020
-2020-07-13,Cremonese,Chievo,1,0,NA,NA,34,Giovanni Ayroldi,https://fbref.com/en/matches/b0148d11/Cremonese-Chievo-July-13-2020-Serie-B,0,0,1,0,9,4,8,8,19,0,0,2,0,8,1,6,8,9,2019-2020
-2020-07-13,Ascoli,Empoli,1,0,NA,NA,34,Riccardo Ros,https://fbref.com/en/matches/11b59467/Ascoli-Empoli-July-13-2020-Serie-B,0,0,5,0,13,3,7,12,23,0,0,2,0,13,4,6,7,16,2019-2020
-2020-07-13,Livorno,Spezia,0,1,NA,NA,34,Daniel Amabile,https://fbref.com/en/matches/5563f66f/Livorno-Spezia-July-13-2020-Serie-B,0,0,1,1,4,1,11,14,15,0,0,1,0,16,6,4,10,10,2019-2020
+2020-07-13,Livorno,Spezia,0,1,NA,NA,0,Daniel Amabile,https://fbref.com/en/matches/5563f66f/Livorno-Spezia-July-13-2020-Serie-B,0,0,1,1,4,1,11,14,15,0,0,1,0,16,6,4,10,10,2019-2020
+2020-07-13,Ascoli,Empoli,1,0,NA,NA,0,Riccardo Ros,https://fbref.com/en/matches/11b59467/Ascoli-Empoli-July-13-2020-Serie-B,0,0,5,0,13,3,7,12,23,0,0,2,0,13,4,6,7,16,2019-2020
+2020-07-13,Cremonese,Chievo,1,0,NA,NA,0,Giovanni Ayroldi,https://fbref.com/en/matches/b0148d11/Cremonese-Chievo-July-13-2020-Serie-B,0,0,1,0,9,4,8,8,19,0,0,2,0,8,1,6,8,9,2019-2020
 2020-07-17,Pescara,Frosinone,1,1,NA,NA,0,Federico Dionisi,https://fbref.com/en/matches/485b17e1/Pescara-Frosinone-July-17-2020-Serie-B,0,0,2,0,14,8,8,19,18,0,0,2,0,13,3,3,11,31,2019-2020
 2020-07-17,Pordenone,Cosenza,1,2,NA,NA,0,Lorenzo Maggioni,https://fbref.com/en/matches/bc876059/Pordenone-Cosenza-July-17-2020-Serie-B,0,0,1,0,22,3,12,14,11,1,1,1,0,10,3,9,10,15,2019-2020
-2020-07-17,Empoli,Virtus Entella,2,4,NA,NA,0,Livio Marinelli,https://fbref.com/en/matches/23ab6e67/Empoli-Virtus-Entella-July-17-2020-Serie-B,1,1,2,2,15,4,4,10,12,0,1,3,0,19,9,4,5,17,2019-2020
 2020-07-17,Spezia,Venezia,0,1,NA,NA,0,Francesco Fourneau,https://fbref.com/en/matches/1b7a5d1e/Spezia-Venezia-July-17-2020-Serie-B,0,0,2,0,27,7,8,13,16,1,1,2,0,5,2,5,9,15,2019-2020
+2020-07-17,Empoli,Virtus Entella,2,4,NA,NA,0,Livio Marinelli,https://fbref.com/en/matches/23ab6e67/Empoli-Virtus-Entella-July-17-2020-Serie-B,1,1,2,2,15,4,4,10,12,0,1,3,0,19,9,4,5,17,2019-2020
 2020-07-17,Juve Stabia,Chievo,3,2,NA,NA,0,Ivan Pezzuto,https://fbref.com/en/matches/732ef52f/Juve-Stabia-Chievo-July-17-2020-Serie-B,1,1,3,1,15,5,7,5,13,1,1,3,0,11,3,14,3,20,2019-2020
 2020-07-17,Crotone,Salernitana,1,1,NA,NA,0,Alessandro Prontera,https://fbref.com/en/matches/8615d5a8/Crotone-Salernitana-July-17-2020-Serie-B,0,0,0,0,17,5,4,2,13,0,0,5,1,6,1,14,10,27,2019-2020
 2020-07-17,Perugia,Cremonese,0,0,NA,NA,0,Daniele Minelli,https://fbref.com/en/matches/19550f9e/Perugia-Cremonese-July-17-2020-Serie-B,0,0,1,0,9,5,8,3,11,0,0,2,0,12,6,6,7,12,2019-2020
@@ -350,50 +350,42 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2020-07-17,AC Pisa,Trapani,3,2,NA,NA,0,Ivan Robilotta,https://fbref.com/en/matches/4922a7c4/AC-Pisa-Trapani-July-17-2020-Serie-B,0,0,7,0,16,4,4,6,20,0,0,4,1,10,3,12,10,20,2019-2020
 2020-07-17,Benevento,Livorno,3,1,NA,NA,0,Antonio Di Martino,https://fbref.com/en/matches/d9f6536e/Benevento-Livorno-July-17-2020-Serie-B,0,0,2,0,27,6,5,8,13,1,1,1,0,14,8,10,14,16,2019-2020
 2020-07-24,Livorno,Crotone,1,5,NA,NA,0,Giacomo Camplone,https://fbref.com/en/matches/ee6b8bf4/Livorno-Crotone-July-24-2020-Serie-B,0,0,1,0,6,3,8,11,16,1,1,0,0,22,10,7,13,9,2019-2020
-2020-07-24,Frosinone,Benevento,2,3,NA,NA,0,Simone Sozza,https://fbref.com/en/matches/48ea0be9/Frosinone-Benevento-July-24-2020-Serie-B,0,0,2,0,15,4,5,9,19,0,0,3,0,18,5,5,8,17,2019-2020
 2020-07-24,Venezia,Juve Stabia,1,0,NA,NA,0,Juan Sacchi,https://fbref.com/en/matches/2a87ff93/Venezia-Juve-Stabia-July-24-2020-Serie-B,0,0,3,0,9,5,8,7,24,0,0,3,0,9,2,10,11,15,2019-2020
+2020-07-24,Frosinone,Benevento,2,3,NA,NA,0,Simone Sozza,https://fbref.com/en/matches/48ea0be9/Frosinone-Benevento-July-24-2020-Serie-B,0,0,2,0,15,4,5,9,19,0,0,3,0,18,5,5,8,17,2019-2020
 2020-07-24,Chievo,Cittadella,4,1,NA,NA,0,Valerio Marini,https://fbref.com/en/matches/ec1d7180/Chievo-Cittadella-July-24-2020-Serie-B,0,0,1,0,17,8,8,8,9,0,0,4,1,5,3,4,6,10,2019-2020
 2020-07-24,Virtus Entella,Perugia,0,2,NA,NA,0,Riccardo Ros,https://fbref.com/en/matches/0776c6f9/Virtus-Entella-Perugia-July-24-2020-Serie-B,0,0,2,0,20,3,7,9,20,0,0,2,0,8,3,3,10,14,2019-2020
-2020-07-24,Cosenza,AC Pisa,2,1,NA,NA,0,Antonio Rapuano,https://fbref.com/en/matches/6ce8acfd/Cosenza-AC-Pisa-July-24-2020-Serie-B,0,0,3,0,14,3,9,15,10,0,0,2,0,12,3,10,14,17,2019-2020
 2020-07-24,Salernitana,Empoli,2,4,NA,NA,0,Davide Ghersini,https://fbref.com/en/matches/474f36cc/Salernitana-Empoli-July-24-2020-Serie-B,1,1,1,1,16,4,6,10,18,0,0,2,0,16,8,3,7,17,2019-2020
 2020-07-24,Trapani,Pescara,1,0,NA,NA,0,Niccolò Baroni,https://fbref.com/en/matches/800a8b78/Trapani-Pescara-July-24-2020-Serie-B,0,0,3,0,14,6,14,13,21,0,0,2,1,20,7,9,10,15,2019-2020
+2020-07-24,Cosenza,AC Pisa,2,1,NA,NA,0,Antonio Rapuano,https://fbref.com/en/matches/6ce8acfd/Cosenza-AC-Pisa-July-24-2020-Serie-B,0,0,3,0,14,3,9,15,10,0,0,2,0,12,3,10,14,17,2019-2020
 2020-07-24,Cremonese,Spezia,0,0,NA,NA,0,Luca Massimi,https://fbref.com/en/matches/3283e884/Cremonese-Spezia-July-24-2020-Serie-B,0,0,3,0,6,1,4,11,16,0,0,0,0,11,6,10,14,9,2019-2020
 2020-07-24,Ascoli,Pordenone,2,2,NA,NA,0,Marco Serra,https://fbref.com/en/matches/6ca96d0e/Ascoli-Pordenone-July-24-2020-Serie-B,0,0,3,0,19,6,12,11,15,0,0,2,0,14,4,7,7,11,2019-2020
-2020-07-27,Pordenone,Salernitana,1,1,NA,NA,37,Ivan Pezzuto,https://fbref.com/en/matches/8e661ac0/Pordenone-Salernitana-July-27-2020-Serie-B,1,1,3,0,9,3,5,8,24,1,1,4,0,13,3,6,9,18,2019-2020
-2020-07-27,AC Pisa,Ascoli,1,0,NA,NA,37,Giovanni Ayroldi,https://fbref.com/en/matches/5b939191/AC-Pisa-Ascoli-July-27-2020-Serie-B,0,0,5,0,8,2,12,9,20,0,0,2,0,12,0,9,15,11,2019-2020
+2020-07-27,Pordenone,Salernitana,1,1,NA,NA,0,Ivan Pezzuto,https://fbref.com/en/matches/8e661ac0/Pordenone-Salernitana-July-27-2020-Serie-B,1,1,3,0,9,3,5,8,24,1,1,4,0,13,3,6,9,18,2019-2020
+2020-07-27,AC Pisa,Ascoli,1,0,NA,NA,0,Giovanni Ayroldi,https://fbref.com/en/matches/5b939191/AC-Pisa-Ascoli-July-27-2020-Serie-B,0,0,5,0,8,2,12,9,20,0,0,2,0,12,0,9,15,11,2019-2020
 2020-07-27,Perugia,Trapani,1,2,NA,NA,0,Federico Dionisi,https://fbref.com/en/matches/0f986927/Perugia-Trapani-July-27-2020-Serie-B,0,0,3,0,16,5,7,4,11,0,0,4,0,24,6,5,7,18,2019-2020
 2020-07-27,Cittadella,Venezia,1,0,NA,NA,0,Livio Marinelli,https://fbref.com/en/matches/c9ded30c/Cittadella-Venezia-July-27-2020-Serie-B,0,0,3,0,19,4,8,16,21,0,0,3,0,8,1,6,13,13,2019-2020
-2020-07-27,Pescara,Livorno,1,0,NA,NA,0,Ivan Robilotta,https://fbref.com/en/matches/6a1c1e9e/Pescara-Livorno-July-27-2020-Serie-B,0,0,7,0,19,4,8,5,14,0,0,1,0,6,1,11,11,10,2019-2020
-2020-07-27,Spezia,Virtus Entella,0,0,NA,NA,37,Daniele Minelli,https://fbref.com/en/matches/f14d1ee0/Spezia-Virtus-Entella-July-27-2020-Serie-B,0,0,2,0,11,3,7,15,17,0,0,1,0,7,1,10,9,13,2019-2020
 2020-07-27,Empoli,Cosenza,1,5,NA,NA,0,Lorenzo Illuzzi,https://fbref.com/en/matches/bccdcd2c/Empoli-Cosenza-July-27-2020-Serie-B,0,0,2,0,22,1,5,7,12,0,0,1,0,18,12,7,14,9,2019-2020
-2020-07-27,Benevento,Chievo,0,1,NA,NA,37,Daniel Amabile,https://fbref.com/en/matches/8c470b2f/Benevento-Chievo-July-27-2020-Serie-B,0,0,2,0,21,6,11,14,13,0,0,0,0,8,2,9,12,18,2019-2020
-2020-07-27,Juve Stabia,Cremonese,1,2,NA,NA,0,Eugenio Abbattista,https://fbref.com/en/matches/53374adb/Juve-Stabia-Cremonese-July-27-2020-Serie-B,0,0,1,0,14,4,11,8,12,0,0,4,0,9,6,15,10,21,2019-2020
+2020-07-27,Spezia,Virtus Entella,0,0,NA,NA,0,Daniele Minelli,https://fbref.com/en/matches/f14d1ee0/Spezia-Virtus-Entella-July-27-2020-Serie-B,0,0,2,0,11,3,7,15,17,0,0,1,0,7,1,10,9,13,2019-2020
+2020-07-27,Pescara,Livorno,1,0,NA,NA,0,Ivan Robilotta,https://fbref.com/en/matches/6a1c1e9e/Pescara-Livorno-July-27-2020-Serie-B,0,0,7,0,19,4,8,5,14,0,0,1,0,6,1,11,11,10,2019-2020
 2020-07-27,Crotone,Frosinone,1,0,NA,NA,0,Antonio Di Martino,https://fbref.com/en/matches/fc5a7cb1/Crotone-Frosinone-July-27-2020-Serie-B,0,0,5,0,9,2,6,10,20,0,0,2,0,7,1,13,16,17,2019-2020
-2020-07-31,Cosenza,Juve Stabia,3,1,NA,NA,0,Gianluca Aureliano,https://fbref.com/en/matches/24dee277/Cosenza-Juve-Stabia-July-31-2020-Serie-B,1,1,2,0,18,8,14,8,14,0,0,5,0,28,11,12,15,18,2019-2020
+2020-07-27,Benevento,Chievo,0,1,NA,NA,0,Daniel Amabile,https://fbref.com/en/matches/8c470b2f/Benevento-Chievo-July-27-2020-Serie-B,0,0,2,0,21,6,11,14,13,0,0,0,0,8,2,9,12,18,2019-2020
+2020-07-27,Juve Stabia,Cremonese,1,2,NA,NA,0,Eugenio Abbattista,https://fbref.com/en/matches/53374adb/Juve-Stabia-Cremonese-July-27-2020-Serie-B,0,0,1,0,14,4,11,8,12,0,0,4,0,9,6,15,10,21,2019-2020
 2020-07-31,Venezia,Perugia,3,1,NA,NA,0,Francesco Fourneau,https://fbref.com/en/matches/877a608d/Venezia-Perugia-July-31-2020-Serie-B,1,1,2,0,20,6,6,8,14,0,0,2,1,11,5,5,12,17,2019-2020
-2020-07-31,Ascoli,Benevento,2,4,NA,NA,0,Ivan Pezzuto,https://fbref.com/en/matches/e3e6f52e/Ascoli-Benevento-July-31-2020-Serie-B,0,0,1,0,18,4,10,10,17,0,0,1,0,16,7,6,8,13,2019-2020
+2020-07-31,Cosenza,Juve Stabia,3,1,NA,NA,0,Gianluca Aureliano,https://fbref.com/en/matches/24dee277/Cosenza-Juve-Stabia-July-31-2020-Serie-B,1,1,2,0,18,8,14,8,14,0,0,5,0,28,11,12,15,18,2019-2020
 2020-07-31,Salernitana,Spezia,1,2,NA,NA,0,Valerio Marini,https://fbref.com/en/matches/5df1f8b9/Salernitana-Spezia-July-31-2020-Serie-B,0,0,4,1,13,5,11,10,16,0,0,2,0,20,5,9,3,13,2019-2020
+2020-07-31,Ascoli,Benevento,2,4,NA,NA,0,Ivan Pezzuto,https://fbref.com/en/matches/e3e6f52e/Ascoli-Benevento-July-31-2020-Serie-B,0,0,1,0,18,4,10,10,17,0,0,1,0,16,7,6,8,13,2019-2020
 2020-07-31,Livorno,Empoli,0,2,NA,NA,0,Daniele Minelli,https://fbref.com/en/matches/027c4e57/Livorno-Empoli-July-31-2020-Serie-B,0,0,2,0,14,5,10,14,7,0,0,1,0,20,6,4,11,7,2019-2020
 2020-07-31,Chievo,Pescara,1,0,NA,NA,0,Juan Sacchi,https://fbref.com/en/matches/bd1fc86a/Chievo-Pescara-July-31-2020-Serie-B,0,0,1,0,17,6,9,9,15,0,0,2,0,3,1,8,8,16,2019-2020
 2020-07-31,Trapani,Crotone,2,0,NA,NA,0,Riccardo Ros,https://fbref.com/en/matches/a3cd6b88/Trapani-Crotone-July-31-2020-Serie-B,0,0,2,0,11,4,6,7,9,0,0,2,0,15,3,7,8,13,2019-2020
-2020-07-31,Frosinone,AC Pisa,1,1,NA,NA,0,Manuel Volpi,https://fbref.com/en/matches/82d41eaa/Frosinone-AC-Pisa-July-31-2020-Serie-B,1,1,1,0,16,2,9,9,15,0,0,3,0,13,3,7,13,27,2019-2020
 2020-07-31,Virtus Entella,Cittadella,2,3,NA,NA,0,Antonio Rapuano,https://fbref.com/en/matches/3def328d/Virtus-Entella-Cittadella-July-31-2020-Serie-B,0,1,2,0,15,7,5,10,17,0,0,4,0,15,5,5,9,26,2019-2020
+2020-07-31,Frosinone,AC Pisa,1,1,NA,NA,0,Manuel Volpi,https://fbref.com/en/matches/82d41eaa/Frosinone-AC-Pisa-July-31-2020-Serie-B,1,1,1,0,16,2,9,9,15,0,0,3,0,13,3,7,13,27,2019-2020
 2020-07-31,Cremonese,Pordenone,2,2,NA,NA,0,Niccolò Baroni,https://fbref.com/en/matches/d4e43eff/Cremonese-Pordenone-July-31-2020-Serie-B,0,0,2,0,18,8,6,6,5,1,1,1,0,4,3,4,18,5,2019-2020
-2020-08-04,Chievo,Empoli,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-08-05,Cittadella,Frosinone,NA,NA,NA,NA,NA,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-2020
-2020-06-19,Spezia,Empoli,1,0,NA,NA,0,Eugenio Abbattista,https://fbref.com/en/matches/3257f48e/Spezia-Empoli-June-19-2020-Serie-B,0,0,1,0,10,4,5,9,12,0,0,1,0,10,3,5,13,15,2019-2020
-2020-06-26,Empoli,Benevento,0,0,NA,NA,0,Ivan Pezzuto,https://fbref.com/en/matches/fa5efc3a/Empoli-Benevento-June-26-2020-Serie-B,0,0,2,0,11,4,4,8,17,0,0,1,0,13,4,12,19,15,2019-2020
-2020-06-29,Pescara,Empoli,1,1,NA,NA,0,Giovanni Ayroldi,https://fbref.com/en/matches/5e98bdd5/Pescara-Empoli-June-29-2020-Serie-B,1,1,2,0,14,4,7,10,8,0,0,2,0,10,2,10,9,25,2019-2020
-2020-07-03,Trapani,Livorno,2,1,NA,NA,0,Daniel Amabile,https://fbref.com/en/matches/22940428/Trapani-Livorno-July-3-2020-Serie-B,0,0,3,0,20,5,9,10,19,0,0,5,0,6,2,12,7,20,2019-2020
-2020-07-03,Perugia,Pordenone,1,2,NA,NA,0,Giacomo Camplone,https://fbref.com/en/matches/d437829b/Perugia-Pordenone-July-3-2020-Serie-B,0,0,4,1,13,1,10,7,16,0,0,4,0,9,3,3,16,16,2019-2020
-2020-07-03,Cremonese,Pescara,1,0,NA,NA,0,Lorenzo Maggioni,https://fbref.com/en/matches/79d04b12/Cremonese-Pescara-July-3-2020-Serie-B,0,0,2,0,9,2,5,12,20,0,0,2,0,14,2,7,13,12,2019-2020
-2020-07-03,Cosenza,Ascoli,0,1,NA,NA,0,Eugenio Abbattista,https://fbref.com/en/matches/d739d09c/Cosenza-Ascoli-July-3-2020-Serie-B,0,0,2,0,15,4,3,11,13,0,0,3,0,9,5,10,12,20,2019-2020
-2020-07-03,Venezia,Empoli,0,2,NA,NA,0,Manuel Volpi,https://fbref.com/en/matches/221bfdb6/Venezia-Empoli-July-3-2020-Serie-B,0,0,1,0,13,2,7,8,20,0,0,2,0,17,9,7,8,11,2019-2020
-2020-07-13,Venezia,Pescara,1,1,NA,NA,0,Luca Massimi,https://fbref.com/en/matches/740aaaa4/Venezia-Pescara-July-13-2020-Serie-B,0,0,6,1,14,3,10,12,19,0,0,2,1,8,4,11,14,6,2019-2020
-2020-07-13,Ascoli,Empoli,1,0,NA,NA,0,Riccardo Ros,https://fbref.com/en/matches/11b59467/Ascoli-Empoli-July-13-2020-Serie-B,0,0,5,0,13,3,7,12,23,0,0,2,0,13,4,6,7,16,2019-2020
-2020-07-13,Cremonese,Chievo,1,0,NA,NA,0,Giovanni Ayroldi,https://fbref.com/en/matches/b0148d11/Cremonese-Chievo-July-13-2020-Serie-B,0,0,1,0,9,4,8,8,19,0,0,2,0,8,1,6,8,9,2019-2020
-2020-07-13,Livorno,Spezia,0,1,NA,NA,0,Daniel Amabile,https://fbref.com/en/matches/5563f66f/Livorno-Spezia-July-13-2020-Serie-B,0,0,1,1,4,1,11,14,15,0,0,1,0,16,6,4,10,10,2019-2020
-2020-07-27,Pordenone,Salernitana,1,1,NA,NA,0,Ivan Pezzuto,https://fbref.com/en/matches/8e661ac0/Pordenone-Salernitana-July-27-2020-Serie-B,1,1,3,0,9,3,5,8,24,1,1,4,0,13,3,6,9,18,2019-2020
-2020-07-27,AC Pisa,Ascoli,1,0,NA,NA,0,Giovanni Ayroldi,https://fbref.com/en/matches/5b939191/AC-Pisa-Ascoli-July-27-2020-Serie-B,0,0,5,0,8,2,12,9,20,0,0,2,0,12,0,9,15,11,2019-2020
-2020-07-27,Spezia,Virtus Entella,0,0,NA,NA,0,Daniele Minelli,https://fbref.com/en/matches/f14d1ee0/Spezia-Virtus-Entella-July-27-2020-Serie-B,0,0,2,0,11,3,7,15,17,0,0,1,0,7,1,10,9,13,2019-2020
-2020-07-27,Benevento,Chievo,0,1,NA,NA,0,Daniel Amabile,https://fbref.com/en/matches/8c470b2f/Benevento-Chievo-July-27-2020-Serie-B,0,0,2,0,21,6,11,14,13,0,0,0,0,8,2,9,12,18,2019-2020
+2020-08-04,Chievo,Empoli,1,1,NA,NA,0,Davide Ghersini,https://fbref.com/en/matches/cddeac16/Chievo-Empoli-August-4-2020-Serie-B,0,1,1,0,24,7,5,14,15,0,2,1,0,20,8,13,5,19,2019-2020
+2020-08-05,Cittadella,Frosinone,2,3,NA,NA,0,Simone Sozza,https://fbref.com/en/matches/3b78b248/Cittadella-Frosinone-August-5-2020-Serie-B,1,1,5,0,15,5,14,13,33,0,0,3,0,14,7,11,14,23,2019-2020
+2020-08-08,Chievo,Spezia,2,0,NA,NA,0,Riccardo Ros,https://fbref.com/en/matches/eb607fd6/Chievo-Spezia-August-8-2020-Serie-B,0,0,2,0,9,2,9,13,20,0,1,4,0,14,5,6,9,14,2019-2020
+2020-08-09,Frosinone,Pordenone,0,1,NA,NA,0,Luca Massimi,https://fbref.com/en/matches/3f9c70d9/Frosinone-Pordenone-August-9-2020-Serie-B,0,0,1,0,10,1,8,7,10,0,0,2,0,17,6,8,7,18,2019-2020
+2020-08-10,Pescara,Perugia,2,1,NA,NA,0,Livio Marinelli,https://fbref.com/en/matches/4c6a03bc/Pescara-Perugia-August-10-2020-Serie-B,1,1,1,0,13,5,10,8,11,0,0,2,0,10,2,10,10,17,2019-2020
+2020-08-11,Spezia,Chievo,3,1,NA,NA,0,Eugenio Abbattista,https://fbref.com/en/matches/80c2c936/Spezia-Chievo-August-11-2020-Serie-B,0,0,2,0,13,5,1,9,18,1,1,2,0,9,1,7,8,11,2019-2020
+2020-08-12,Pordenone,Frosinone,0,2,NA,NA,0,Manuel Volpi,https://fbref.com/en/matches/907e0840/Pordenone-Frosinone-August-12-2020-Serie-B,0,0,2,0,13,1,11,9,26,0,0,1,0,8,2,10,16,21,2019-2020
+2020-08-14,Perugia,Pescara,2,1,NA,NA,0,Gianluca Aureliano,https://fbref.com/en/matches/097c9889/Perugia-Pescara-August-14-2020-Serie-B,0,0,5,0,8,2,13,14,29,0,0,4,0,15,3,8,9,13,2019-2020
+2020-08-16,Frosinone,Spezia,0,1,NA,NA,0,Francesco Fourneau,https://fbref.com/en/matches/f4a7879a/Frosinone-Spezia-August-16-2020-Serie-B,0,0,2,0,11,4,6,6,16,0,0,4,0,10,2,9,13,29,2019-2020
+2020-08-20,Spezia,Frosinone,0,1,NA,NA,0,Juan Sacchi,https://fbref.com/en/matches/88932f9c/Spezia-Frosinone-August-20-2020-Serie-B,0,0,3,0,10,0,7,12,24,0,0,2,0,17,3,6,8,18,2019-2020

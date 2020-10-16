@@ -5,8 +5,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2019-07-14,Horsens,Nordsjælland,0,3,NA,NA,1653,Morten Krogh,https://fbref.com/en/matches/89cae00e/Horsens-Nordsjaelland-July-14-2019-Superliga,0,0,2,0,10,2,10,18,13,0,0,0,0,18,10,10,6,10,2019-2020
 2019-07-14,Odense,FC Copenhagen,2,3,NA,NA,9067,Michael Tykgaard,https://fbref.com/en/matches/4508dbcd/Odense-FC-Copenhagen-July-14-2019-Superliga,0,0,2,0,19,9,5,12,11,0,0,2,0,16,6,5,6,11,2019-2020
 2019-07-14,Brøndby,Silkeborg,3,0,NA,NA,13056,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/0ec48ee7/Brondby-Silkeborg-July-14-2019-Superliga,0,0,0,0,19,7,8,14,9,0,0,1,0,4,2,12,9,5,2019-2020
-2019-07-15,Hobro,Aarhus,1,1,NA,NA,4236,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/c22e919c/Hobro-Aarhus-July-15-2019-Superliga,0,0,2,0,12,2,8,16,10,0,0,3,0,18,4,8,2,7,2019-2020
-2019-07-19,FC Copenhagen,Aarhus,2,1,NA,NA,16053,Anders Poulsen,https://fbref.com/en/matches/bc042e5a/FC-Copenhagen-Aarhus-July-19-2019-Superliga,0,0,2,0,11,5,6,10,13,0,0,2,0,11,2,5,5,20,2019-2020
+2019-07-15,Hobro,AGF,1,1,NA,NA,4236,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/c22e919c/Hobro-AGF-July-15-2019-Superliga,0,0,2,0,12,2,8,16,10,0,0,3,0,18,4,8,2,7,2019-2020
+2019-07-19,FC Copenhagen,AGF,2,1,NA,NA,16053,Anders Poulsen,https://fbref.com/en/matches/bc042e5a/FC-Copenhagen-AGF-July-19-2019-Superliga,0,0,2,0,11,5,6,10,13,0,0,2,0,11,2,5,5,20,2019-2020
 2019-07-21,Silkeborg,Horsens,0,3,NA,NA,3535,Sandi Putros,https://fbref.com/en/matches/1898bb4c/Silkeborg-Horsens-July-21-2019-Superliga,0,0,2,0,11,1,5,5,6,0,0,0,0,19,10,10,11,7,2019-2020
 2019-07-21,Aalborg,SønderjyskE,1,1,NA,NA,4355,Jakob Kehlet,https://fbref.com/en/matches/f1b9516d/Aalborg-SonderjyskE-July-21-2019-Superliga,0,0,3,0,25,6,14,7,11,0,0,2,0,12,3,11,11,14,2019-2020
 2019-07-21,Esbjerg,Hobro,1,1,NA,NA,4452,Jørgen Burchardt,https://fbref.com/en/matches/5339a6fd/Esbjerg-Hobro-July-21-2019-Superliga,0,0,2,0,14,9,12,19,13,0,0,3,0,6,3,12,19,17,2019-2020
@@ -17,7 +17,7 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2019-07-27,Horsens,FC Copenhagen,0,2,NA,NA,3565,Jakob Kehlet,https://fbref.com/en/matches/75f4e93f/Horsens-FC-Copenhagen-July-27-2019-Superliga,0,0,3,0,7,1,11,5,10,0,0,0,0,19,5,6,6,7,2019-2020
 2019-07-28,Hobro,Randers,2,2,NA,NA,2812,Jakob A. Sundberg,https://fbref.com/en/matches/8c470d47/Hobro-Randers-July-28-2019-Superliga,0,0,1,0,13,4,3,8,7,1,1,1,1,10,5,10,14,14,2019-2020
 2019-07-28,Nordsjælland,Esbjerg,2,0,NA,NA,1982,Sandi Putros,https://fbref.com/en/matches/085c286d/Nordsjaelland-Esbjerg-July-28-2019-Superliga,1,1,2,0,10,3,10,5,15,0,0,0,0,13,5,11,6,8,2019-2020
-2019-07-28,Aarhus,Midtjylland,0,1,NA,NA,11739,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/e39e1f3e/Aarhus-Midtjylland-July-28-2019-Superliga,0,0,3,0,16,4,11,14,11,1,1,5,0,9,3,15,9,16,2019-2020
+2019-07-28,AGF,Midtjylland,0,1,NA,NA,11739,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/e39e1f3e/AGF-Midtjylland-July-28-2019-Superliga,0,0,3,0,16,4,11,14,11,1,1,5,0,9,3,15,9,16,2019-2020
 2019-07-28,Brøndby,Odense,3,2,NA,NA,13689,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/a190c8b9/Brondby-Odense-July-28-2019-Superliga,0,0,2,0,16,8,9,15,8,1,1,2,0,10,5,11,14,7,2019-2020
 2019-07-29,Aalborg,Silkeborg,3,1,NA,NA,5885,Jens Maae,https://fbref.com/en/matches/06e4eff9/Aalborg-Silkeborg-July-29-2019-Superliga,0,0,1,0,15,6,8,7,7,0,0,2,0,6,3,11,12,12,2019-2020
 2019-08-02,Silkeborg,Hobro,2,3,NA,NA,3468,Mikkel Redder,https://fbref.com/en/matches/ac0117fb/Silkeborg-Hobro-August-2-2019-Superliga,0,0,0,0,22,5,8,10,10,1,1,3,0,9,4,12,9,5,2019-2020
@@ -26,43 +26,43 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2019-08-04,Esbjerg,Odense,0,1,NA,NA,4454,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/2ab30e1b/Esbjerg-Odense-August-4-2019-Superliga,0,0,5,0,2,1,2,6,2,0,0,4,0,0,0,0,0,0,2019-2020
 2019-08-04,Brøndby,Horsens,1,2,NA,NA,15148,Anders Poulsen,https://fbref.com/en/matches/eac85d7e/Brondby-Horsens-August-4-2019-Superliga,0,0,3,0,13,4,5,9,9,0,0,3,0,17,5,15,4,8,2019-2020
 2019-08-04,Midtjylland,Aalborg,1,0,NA,NA,7965,Morten Krogh,https://fbref.com/en/matches/52a23680/Midtjylland-Aalborg-August-4-2019-Superliga,0,0,3,1,11,2,16,14,12,0,1,1,0,10,5,15,4,11,2019-2020
-2019-08-05,Lyngby,Aarhus,2,1,NA,NA,5475,Jens Maae,https://fbref.com/en/matches/4ab1b7a8/Lyngby-Aarhus-August-5-2019-Superliga,0,0,2,0,12,5,3,12,12,0,0,2,0,12,3,11,16,13,2019-2020
+2019-08-05,Lyngby,AGF,2,1,NA,NA,5475,Jens Maae,https://fbref.com/en/matches/4ab1b7a8/Lyngby-AGF-August-5-2019-Superliga,0,0,2,0,12,5,3,12,12,0,0,2,0,12,3,11,16,13,2019-2020
 2019-08-09,FC Copenhagen,Lyngby,2,0,NA,NA,15747,Sandi Putros,https://fbref.com/en/matches/042b027d/FC-Copenhagen-Lyngby-August-9-2019-Superliga,0,0,1,0,18,7,3,11,9,0,0,5,0,7,1,5,5,11,2019-2020
 2019-08-09,Odense,Randers,1,0,NA,NA,6978,Jakob Kehlet,https://fbref.com/en/matches/53f7b84f/Odense-Randers-August-9-2019-Superliga,0,0,2,0,5,2,5,4,9,0,0,1,0,0,0,0,0,0,2019-2020
 2019-08-11,Nordsjælland,Silkeborg,2,2,NA,NA,2030,Jørgen Burchardt,https://fbref.com/en/matches/935d02e6/Nordsjaelland-Silkeborg-August-11-2019-Superliga,0,0,0,1,1,1,4,1,4,0,1,2,0,0,0,0,0,0,2019-2020
 2019-08-11,Aalborg,Esbjerg,4,0,NA,NA,4380,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/49984a09/Aalborg-Esbjerg-August-11-2019-Superliga,1,1,1,0,4,2,10,4,7,0,0,4,0,0,0,0,0,0,2019-2020
 2019-08-11,Horsens,Midtjylland,0,2,NA,NA,3179,Michael Tykgaard,https://fbref.com/en/matches/7bb38a79/Horsens-Midtjylland-August-11-2019-Superliga,0,0,1,0,5,1,2,12,5,1,1,3,0,0,0,0,0,0,2019-2020
 2019-08-11,Hobro,Brøndby,0,2,NA,NA,4186,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/25028b09/Hobro-Brondby-August-11-2019-Superliga,0,0,1,0,3,0,4,4,1,0,0,3,1,0,0,0,0,0,2019-2020
-2019-08-12,SønderjyskE,Aarhus,0,0,NA,NA,5160,Morten Krogh,https://fbref.com/en/matches/130bfb6d/SonderjyskE-Aarhus-August-12-2019-Superliga,0,0,0,0,1,0,2,2,0,0,0,3,1,0,0,0,0,0,2019-2020
+2019-08-12,SønderjyskE,AGF,0,0,NA,NA,5160,Morten Krogh,https://fbref.com/en/matches/130bfb6d/SonderjyskE-AGF-August-12-2019-Superliga,0,0,0,0,1,0,2,2,0,0,0,3,1,0,0,0,0,0,2019-2020
 2019-08-16,Randers,FC Copenhagen,0,1,NA,NA,5118,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/1779a48e/Randers-FC-Copenhagen-August-16-2019-Superliga,0,0,2,0,13,0,11,15,19,0,0,2,0,19,9,4,4,9,2019-2020
 2019-08-16,Nordsjælland,Odense,2,0,NA,NA,2107,Mikkel Redder,https://fbref.com/en/matches/b725a958/Nordsjaelland-Odense-August-16-2019-Superliga,0,0,3,0,6,2,8,9,5,0,1,1,0,24,5,12,9,4,2019-2020
 2019-08-18,Silkeborg,SønderjyskE,3,3,NA,NA,3277,Michael Tykgaard,https://fbref.com/en/matches/bfca4619/Silkeborg-SonderjyskE-August-18-2019-Superliga,0,0,1,0,11,4,5,6,9,0,0,2,0,17,5,5,23,7,2019-2020
 2019-08-18,Esbjerg,Lyngby,1,0,NA,NA,3396,Sandi Putros,https://fbref.com/en/matches/08dcbd22/Esbjerg-Lyngby-August-18-2019-Superliga,0,0,3,1,15,5,7,11,10,0,0,2,0,12,2,6,6,9,2019-2020
 2019-08-18,Midtjylland,Hobro,1,1,NA,NA,6978,Jakob Kehlet,https://fbref.com/en/matches/16d5030a/Midtjylland-Hobro-August-18-2019-Superliga,0,0,2,0,15,2,9,11,13,1,1,1,0,9,5,14,10,12,2019-2020
 2019-08-18,Brøndby,Aalborg,2,1,NA,NA,11349,Jens Maae,https://fbref.com/en/matches/f0bc40a2/Brondby-Aalborg-August-18-2019-Superliga,0,0,1,0,13,3,12,15,10,0,0,1,0,14,5,10,12,5,2019-2020
-2019-08-19,Aarhus,Horsens,2,0,NA,NA,7162,Jørgen Burchardt,https://fbref.com/en/matches/98a163a0/Aarhus-Horsens-August-19-2019-Superliga,0,0,2,0,14,9,8,8,10,0,0,1,0,11,1,6,12,11,2019-2020
+2019-08-19,AGF,Horsens,2,0,NA,NA,7162,Jørgen Burchardt,https://fbref.com/en/matches/98a163a0/AGF-Horsens-August-19-2019-Superliga,0,0,2,0,14,9,8,8,10,0,0,1,0,11,1,6,12,11,2019-2020
 2019-08-23,Hobro,Odense,0,0,NA,NA,2274,Morten Krogh,https://fbref.com/en/matches/e07b3525/Hobro-Odense-August-23-2019-Superliga,0,0,3,0,14,0,8,20,11,0,0,4,0,15,3,8,16,11,2019-2020
 2019-08-25,Lyngby,Randers,2,0,NA,NA,3226,Anders Poulsen,https://fbref.com/en/matches/244579e7/Lyngby-Randers-August-25-2019-Superliga,0,0,0,0,10,3,6,7,5,0,0,2,0,19,3,15,13,16,2019-2020
 2019-08-25,Esbjerg,Silkeborg,2,2,NA,NA,3849,Jakob A. Sundberg,https://fbref.com/en/matches/dfd0faf4/Esbjerg-Silkeborg-August-25-2019-Superliga,0,0,2,0,8,6,8,13,6,0,0,2,0,9,2,10,5,8,2019-2020
 2019-08-25,SønderjyskE,Midtjylland,0,2,NA,NA,5028,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/9e758272/SonderjyskE-Midtjylland-August-25-2019-Superliga,0,0,3,0,4,0,11,9,13,0,0,2,0,19,7,14,7,16,2019-2020
-2019-08-25,Brøndby,Aarhus,0,3,NA,NA,14145,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/23330e7f/Brondby-Aarhus-August-25-2019-Superliga,0,0,2,0,10,1,8,12,10,0,0,3,0,14,4,11,11,7,2019-2020
+2019-08-25,Brøndby,AGF,0,3,NA,NA,14145,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/23330e7f/Brondby-AGF-August-25-2019-Superliga,0,0,2,0,10,1,8,12,10,0,0,3,0,14,4,11,11,7,2019-2020
 2019-08-25,FC Copenhagen,Nordsjælland,3,1,NA,NA,11316,Jørgen Burchardt,https://fbref.com/en/matches/1eebe28e/FC-Copenhagen-Nordsjaelland-August-25-2019-Superliga,0,0,1,0,12,5,12,11,7,0,0,2,0,11,7,8,12,9,2019-2020
 2019-08-26,Horsens,Aalborg,0,5,NA,NA,2709,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/bafa4017/Horsens-Aalborg-August-26-2019-Superliga,0,0,2,0,5,3,9,8,11,0,0,3,0,12,6,8,8,9,2019-2020
 2019-08-30,Odense,SønderjyskE,0,0,NA,NA,7337,Sandi Putros,https://fbref.com/en/matches/227fda75/Odense-SonderjyskE-August-30-2019-Superliga,0,0,1,0,15,2,13,6,8,0,0,6,1,6,4,3,4,11,2019-2020
 2019-08-31,Nordsjælland,Hobro,2,1,NA,NA,2529,Michael Tykgaard,https://fbref.com/en/matches/e2785bbd/Nordsjaelland-Hobro-August-31-2019-Superliga,1,1,0,0,20,7,12,2,6,0,0,3,0,8,4,9,5,9,2019-2020
-2019-09-01,Aarhus,Esbjerg,1,0,NA,NA,10420,Jens Maae,https://fbref.com/en/matches/89307da7/Aarhus-Esbjerg-September-1-2019-Superliga,0,0,1,0,8,3,12,10,9,0,0,3,0,10,3,9,14,13,2019-2020
+2019-09-01,AGF,Esbjerg,1,0,NA,NA,10420,Jens Maae,https://fbref.com/en/matches/89307da7/AGF-Esbjerg-September-1-2019-Superliga,0,0,1,0,8,3,12,10,9,0,0,3,0,10,3,9,14,13,2019-2020
 2019-09-01,Randers,Silkeborg,2,0,NA,NA,4021,Mikkel Redder,https://fbref.com/en/matches/c520754d/Randers-Silkeborg-September-1-2019-Superliga,0,0,1,0,19,6,7,19,7,0,0,1,0,4,1,6,14,6,2019-2020
 2019-09-01,Horsens,Lyngby,2,1,NA,NA,1234,Aydin Uslu,https://fbref.com/en/matches/3dc115ac/Horsens-Lyngby-September-1-2019-Superliga,1,1,1,0,15,5,7,9,12,0,0,2,0,3,1,6,7,12,2019-2020
 2019-09-01,Aalborg,FC Copenhagen,1,0,NA,NA,11645,Jakob Kehlet,https://fbref.com/en/matches/4199e69e/Aalborg-FC-Copenhagen-September-1-2019-Superliga,0,0,4,0,10,5,9,16,16,0,0,1,0,11,3,13,8,13,2019-2020
 2019-09-01,Midtjylland,Brøndby,1,0,NA,NA,10944,Jørgen Burchardt,https://fbref.com/en/matches/cc1b7edc/Midtjylland-Brondby-September-1-2019-Superliga,0,0,2,0,13,3,13,7,10,0,0,1,0,6,3,14,16,8,2019-2020
 2019-09-13,SønderjyskE,Horsens,0,0,NA,NA,4743,Jens Maae,https://fbref.com/en/matches/7b79e943/SonderjyskE-Horsens-September-13-2019-Superliga,0,0,0,0,14,6,10,9,6,0,0,0,0,8,3,10,18,12,2019-2020
-2019-09-15,Aarhus,Aalborg,3,0,NA,NA,10235,Anders Poulsen,https://fbref.com/en/matches/00863905/Aarhus-Aalborg-September-15-2019-Superliga,1,1,2,0,19,7,6,16,13,0,0,1,0,10,6,6,3,11,2019-2020
+2019-09-15,AGF,Aalborg,3,0,NA,NA,10235,Anders Poulsen,https://fbref.com/en/matches/00863905/AGF-Aalborg-September-15-2019-Superliga,1,1,2,0,19,7,6,16,13,0,0,1,0,10,6,6,3,11,2019-2020
 2019-09-15,Esbjerg,Randers,0,3,NA,NA,3422,Morten Krogh,https://fbref.com/en/matches/19a2cbdd/Esbjerg-Randers-September-15-2019-Superliga,0,0,3,1,6,0,12,11,14,0,0,0,0,13,8,8,9,14,2019-2020
 2019-09-15,Lyngby,Midtjylland,0,3,NA,NA,4139,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/79934c4b/Lyngby-Midtjylland-September-15-2019-Superliga,0,0,1,0,5,4,10,5,7,0,0,1,0,13,6,11,10,11,2019-2020
 2019-09-15,Hobro,FC Copenhagen,2,1,NA,NA,5428,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/5f0dbbe7/Hobro-FC-Copenhagen-September-15-2019-Superliga,0,0,3,0,13,7,10,11,13,0,0,0,0,9,2,13,4,8,2019-2020
 2019-09-15,Brøndby,Nordsjælland,4,2,NA,NA,14648,Jakob Kehlet,https://fbref.com/en/matches/2d16f159/Brondby-Nordsjaelland-September-15-2019-Superliga,1,1,2,0,11,5,10,9,8,0,0,2,0,15,9,12,13,5,2019-2020
 2019-09-16,Silkeborg,Odense,0,3,NA,NA,3502,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/8d546db3/Silkeborg-Odense-September-16-2019-Superliga,0,0,3,0,6,2,8,9,12,0,0,1,0,22,8,6,11,7,2019-2020
-2019-09-20,Odense,Aarhus,1,2,NA,NA,10441,Mikkel Redder,https://fbref.com/en/matches/5b9b0095/Odense-Aarhus-September-20-2019-Superliga,0,0,0,0,12,1,7,13,5,0,0,4,0,10,3,15,11,12,2019-2020
+2019-09-20,Odense,AGF,1,2,NA,NA,10441,Mikkel Redder,https://fbref.com/en/matches/5b9b0095/Odense-AGF-September-20-2019-Superliga,0,0,0,0,12,1,7,13,5,0,0,4,0,10,3,15,11,12,2019-2020
 2019-09-22,Hobro,SønderjyskE,1,1,NA,NA,2453,Aydin Uslu,https://fbref.com/en/matches/6fc27e87/Hobro-SonderjyskE-September-22-2019-Superliga,0,0,3,0,16,2,4,9,18,0,1,3,0,15,6,8,7,16,2019-2020
 2019-09-22,Silkeborg,Lyngby,2,3,NA,NA,2452,Jørgen Burchardt,https://fbref.com/en/matches/5f0ac313/Silkeborg-Lyngby-September-22-2019-Superliga,0,0,1,0,12,3,6,8,16,0,0,0,0,19,9,9,8,8,2019-2020
 2019-09-22,Nordsjælland,Aalborg,2,1,NA,NA,3031,Morten Krogh,https://fbref.com/en/matches/7b38e636/Nordsjaelland-Aalborg-September-22-2019-Superliga,0,0,1,0,20,8,13,7,9,0,0,1,0,14,6,7,13,4,2019-2020
@@ -71,7 +71,7 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2019-09-23,Randers,Horsens,2,1,NA,NA,3379,Sandi Putros,https://fbref.com/en/matches/51dac226/Randers-Horsens-September-23-2019-Superliga,0,0,2,0,9,4,13,7,14,0,0,2,1,14,2,6,12,8,2019-2020
 2019-09-27,Lyngby,Hobro,2,1,NA,NA,3093,Jakob A. Sundberg,https://fbref.com/en/matches/31a77a4d/Lyngby-Hobro-September-27-2019-Superliga,0,0,2,0,13,4,3,9,12,0,0,3,0,11,4,7,12,10,2019-2020
 2019-09-28,FC Copenhagen,Silkeborg,4,2,NA,NA,18393,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/7d7b9856/FC-Copenhagen-Silkeborg-September-28-2019-Superliga,1,1,0,0,11,4,10,7,7,0,0,0,0,9,4,14,8,10,2019-2020
-2019-09-29,Aarhus,Nordsjælland,3,1,NA,NA,9149,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/3b0ecc04/Aarhus-Nordsjaelland-September-29-2019-Superliga,1,1,3,0,16,4,17,28,6,0,0,2,0,15,5,6,10,13,2019-2020
+2019-09-29,AGF,Nordsjælland,3,1,NA,NA,9149,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/3b0ecc04/AGF-Nordsjaelland-September-29-2019-Superliga,1,1,3,0,16,4,17,28,6,0,0,2,0,15,5,6,10,13,2019-2020
 2019-09-29,Aalborg,Randers,0,3,NA,NA,5083,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/cbc4de4f/Aalborg-Randers-September-29-2019-Superliga,0,1,3,0,12,3,4,4,12,0,0,3,0,15,6,14,6,18,2019-2020
 2019-09-29,Midtjylland,Odense,0,1,NA,NA,8618,Jens Maae,https://fbref.com/en/matches/2e912910/Midtjylland-Odense-September-29-2019-Superliga,0,0,2,0,17,5,12,15,8,0,0,3,0,5,1,16,15,9,2019-2020
 2019-09-29,SønderjyskE,Brøndby,2,1,NA,NA,6067,Anders Poulsen,https://fbref.com/en/matches/5ee19ccf/SonderjyskE-Brondby-September-29-2019-Superliga,0,0,3,0,22,6,9,13,9,0,0,1,0,13,3,7,9,9,2019-2020
@@ -81,34 +81,34 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2019-10-06,Esbjerg,SønderjyskE,1,2,NA,NA,3718,Sandi Putros,https://fbref.com/en/matches/148241c1/Esbjerg-SonderjyskE-October-6-2019-Superliga,0,1,4,0,11,2,6,10,11,0,0,1,0,12,2,4,10,11,2019-2020
 2019-10-06,Odense,Horsens,3,0,NA,NA,6442,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/832291fc/Odense-Horsens-October-6-2019-Superliga,0,0,0,1,15,6,9,9,6,0,0,3,0,17,6,10,10,9,2019-2020
 2019-10-06,Brøndby,FC Copenhagen,3,1,NA,NA,21746,Jørgen Burchardt,https://fbref.com/en/matches/e76211d4/Brondby-FC-Copenhagen-October-6-2019-Superliga,0,0,3,0,12,3,13,24,17,0,0,3,1,8,3,13,9,19,2019-2020
-2019-10-06,Randers,Aarhus,2,0,NA,NA,9748,Michael Svendsen,https://fbref.com/en/matches/31a73ee6/Randers-Aarhus-October-6-2019-Superliga,0,0,5,0,9,2,9,6,14,0,0,2,0,6,3,9,5,14,2019-2020
+2019-10-06,Randers,AGF,2,0,NA,NA,9748,Michael Svendsen,https://fbref.com/en/matches/31a73ee6/Randers-AGF-October-6-2019-Superliga,0,0,5,0,9,2,9,6,14,0,0,2,0,6,3,9,5,14,2019-2020
 2019-10-06,Silkeborg,Midtjylland,1,2,NA,NA,4773,Jakob Kehlet,https://fbref.com/en/matches/c04b0d3a/Silkeborg-Midtjylland-October-6-2019-Superliga,0,0,2,0,9,3,10,9,8,0,0,1,0,23,11,8,15,5,2019-2020
 2019-10-18,Aalborg,Odense,1,0,NA,NA,6086,Sandi Putros,https://fbref.com/en/matches/af3175df/Aalborg-Odense-October-18-2019-Superliga,1,1,3,0,13,2,11,9,14,0,0,2,0,18,5,11,16,13,2019-2020
 2019-10-20,Horsens,Hobro,1,0,NA,NA,2241,Jakob A. Sundberg,https://fbref.com/en/matches/71bcb6e3/Horsens-Hobro-October-20-2019-Superliga,0,0,0,1,16,2,12,7,7,0,0,0,0,7,3,6,9,6,2019-2020
-2019-10-20,Aarhus,Silkeborg,3,4,NA,NA,22175,Aydin Uslu,https://fbref.com/en/matches/0b26d057/Aarhus-Silkeborg-October-20-2019-Superliga,0,0,0,0,21,8,10,5,8,1,1,0,0,13,8,7,6,1,2019-2020
+2019-10-20,AGF,Silkeborg,3,4,NA,NA,22175,Aydin Uslu,https://fbref.com/en/matches/0b26d057/AGF-Silkeborg-October-20-2019-Superliga,0,0,0,0,21,8,10,5,8,1,1,0,0,13,8,7,6,1,2019-2020
 2019-10-20,SønderjyskE,Nordsjælland,1,4,NA,NA,4863,Jørgen Burchardt,https://fbref.com/en/matches/205c9000/SonderjyskE-Nordsjaelland-October-20-2019-Superliga,0,0,1,0,20,3,8,10,7,0,0,1,0,15,7,9,8,8,2019-2020
 2019-10-20,FC Copenhagen,Esbjerg,3,1,NA,NA,13872,Mikkel Redder,https://fbref.com/en/matches/2be9b61f/FC-Copenhagen-Esbjerg-October-20-2019-Superliga,0,0,1,0,8,4,8,10,8,0,0,1,0,15,1,13,14,5,2019-2020
 2019-10-20,Lyngby,Brøndby,0,3,NA,NA,8547,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/228899ac/Lyngby-Brondby-October-20-2019-Superliga,0,0,1,0,13,3,4,12,13,1,1,1,0,13,6,13,12,10,2019-2020
 2019-10-21,Midtjylland,Randers,2,1,NA,NA,7140,Jakob Kehlet,https://fbref.com/en/matches/e8c48550/Midtjylland-Randers-October-21-2019-Superliga,0,0,1,0,12,4,7,9,15,0,0,2,0,10,4,9,7,14,2019-2020
 2019-10-25,Esbjerg,Midtjylland,1,2,NA,NA,4637,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/22a6f53c/Esbjerg-Midtjylland-October-25-2019-Superliga,0,0,3,0,7,3,7,11,14,0,0,3,0,15,4,12,6,5,2019-2020
 2019-10-27,Hobro,Silkeborg,1,1,NA,NA,1970,Anders Poulsen,https://fbref.com/en/matches/c649fe65/Hobro-Silkeborg-October-27-2019-Superliga,0,0,2,0,11,3,8,8,9,0,0,2,0,12,6,13,19,8,2019-2020
-2019-10-27,Lyngby,Horsens,2,1,NA,NA,2907,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/e654f5d0/Lyngby-Horsens-October-27-2019-Superliga,0,0,3,0,22,7,14,9,10,0,0,2,1,10,3,6,16,12,2019-2020
 2019-10-27,Odense,Nordsjælland,3,1,NA,NA,5915,Jakob A. Sundberg,https://fbref.com/en/matches/1cd7f435/Odense-Nordsjaelland-October-27-2019-Superliga,0,0,1,0,14,7,14,9,6,0,0,2,1,13,2,5,5,11,2019-2020
+2019-10-27,Lyngby,Horsens,2,1,NA,NA,2907,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/e654f5d0/Lyngby-Horsens-October-27-2019-Superliga,0,0,3,0,22,7,14,9,10,0,0,2,1,10,3,6,16,12,2019-2020
 2019-10-27,Brøndby,Randers,5,2,NA,NA,17558,Jens Maae,https://fbref.com/en/matches/cbc55caa/Brondby-Randers-October-27-2019-Superliga,1,1,1,1,13,7,12,6,9,0,0,4,1,7,5,10,14,7,2019-2020
 2019-10-27,SønderjyskE,Aalborg,1,3,NA,NA,3843,Jørgen Burchardt,https://fbref.com/en/matches/65531cf0/SonderjyskE-Aalborg-October-27-2019-Superliga,0,0,3,0,18,5,12,12,13,1,1,2,0,14,6,8,9,11,2019-2020
-2019-10-28,Aarhus,FC Copenhagen,1,2,NA,NA,13884,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/147c7056/Aarhus-FC-Copenhagen-October-28-2019-Superliga,0,0,4,0,16,5,14,13,20,0,0,1,0,9,4,8,10,12,2019-2020
+2019-10-28,AGF,FC Copenhagen,1,2,NA,NA,13884,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/147c7056/AGF-FC-Copenhagen-October-28-2019-Superliga,0,0,4,0,16,5,14,13,20,0,0,1,0,9,4,8,10,12,2019-2020
 2019-11-01,Esbjerg,Horsens,1,1,NA,NA,3164,Aydin Uslu,https://fbref.com/en/matches/7e4444a2/Esbjerg-Horsens-November-1-2019-Superliga,0,0,0,0,10,3,17,9,14,0,0,0,0,17,2,11,8,11,2019-2020
 2019-11-03,Randers,Lyngby,2,1,NA,NA,2909,Mikkel Redder,https://fbref.com/en/matches/8b06fdcc/Randers-Lyngby-November-3-2019-Superliga,0,0,4,0,20,5,19,10,13,0,0,3,0,15,6,12,8,4,2019-2020
 2019-11-03,Odense,Hobro,2,1,NA,NA,6237,Jørgen Burchardt,https://fbref.com/en/matches/4f07a3a9/Odense-Hobro-November-3-2019-Superliga,0,0,1,0,4,3,15,13,14,0,0,2,0,11,3,10,12,12,2019-2020
-2019-11-03,Nordsjælland,Aarhus,0,1,NA,NA,3230,Sandi Putros,https://fbref.com/en/matches/f5a33ba2/Nordsjaelland-Aarhus-November-3-2019-Superliga,0,0,1,0,10,2,6,14,12,1,1,1,0,16,4,10,11,7,2019-2020
+2019-11-03,Nordsjælland,AGF,0,1,NA,NA,3230,Sandi Putros,https://fbref.com/en/matches/f5a33ba2/Nordsjaelland-AGF-November-3-2019-Superliga,0,0,1,0,10,2,6,14,12,1,1,1,0,16,4,10,11,7,2019-2020
 2019-11-03,Aalborg,Midtjylland,0,1,NA,NA,6305,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/8aeaf914/Aalborg-Midtjylland-November-3-2019-Superliga,0,0,0,0,8,2,7,9,12,0,0,0,0,19,7,20,5,18,2019-2020
 2019-11-03,FC Copenhagen,SønderjyskE,3,0,NA,NA,11394,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/14b69727/FC-Copenhagen-SonderjyskE-November-3-2019-Superliga,2,2,1,0,10,3,7,7,11,0,0,5,0,10,1,11,5,17,2019-2020
 2019-11-04,Silkeborg,Brøndby,0,1,NA,NA,5432,Jakob Kehlet,https://fbref.com/en/matches/80897dd6/Silkeborg-Brondby-November-4-2019-Superliga,0,0,3,0,11,3,3,8,9,0,0,0,0,15,7,12,11,8,2019-2020
 2019-11-08,Randers,Aalborg,3,3,NA,NA,4156,Morten Krogh,https://fbref.com/en/matches/08c816b8/Randers-Aalborg-November-8-2019-Superliga,0,0,1,0,16,7,14,13,13,0,0,0,0,17,6,8,5,3,2019-2020
 2019-11-09,Horsens,Silkeborg,2,1,NA,NA,1826,Jakob A. Sundberg,https://fbref.com/en/matches/c5113cde/Horsens-Silkeborg-November-9-2019-Superliga,0,0,1,0,16,6,6,13,10,0,0,2,0,14,8,5,7,9,2019-2020
 2019-11-10,Hobro,Nordsjælland,2,2,NA,NA,1733,Mikkel Redder,https://fbref.com/en/matches/ed25042d/Hobro-Nordsjaelland-November-10-2019-Superliga,1,1,3,0,11,2,11,14,8,1,1,3,0,13,5,15,5,7,2019-2020
-2019-11-10,Aarhus,SønderjyskE,4,2,NA,NA,6291,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/6eabe647/Aarhus-SonderjyskE-November-10-2019-Superliga,0,0,0,0,20,11,10,10,12,0,0,3,0,16,6,7,13,11,2019-2020
 2019-11-10,Lyngby,Odense,4,3,NA,NA,4046,Aydin Uslu,https://fbref.com/en/matches/b545e300/Lyngby-Odense-November-10-2019-Superliga,0,0,2,0,10,4,11,9,12,0,0,1,0,14,4,9,4,12,2019-2020
+2019-11-10,AGF,SønderjyskE,4,2,NA,NA,6291,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/6eabe647/AGF-SonderjyskE-November-10-2019-Superliga,0,0,0,0,20,11,10,10,12,0,0,3,0,16,6,7,13,11,2019-2020
 2019-11-10,Brøndby,Esbjerg,2,1,NA,NA,12392,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/8e8d86eb/Brondby-Esbjerg-November-10-2019-Superliga,0,0,2,0,11,4,13,14,7,0,0,1,0,13,5,14,19,10,2019-2020
 2019-11-10,Midtjylland,FC Copenhagen,4,1,NA,NA,11422,Jens Maae,https://fbref.com/en/matches/1a803cef/Midtjylland-FC-Copenhagen-November-10-2019-Superliga,0,0,2,0,21,7,3,4,19,0,0,1,0,8,4,9,7,15,2019-2020
 2019-11-22,Nordsjælland,Randers,3,0,NA,NA,1441,Jørgen Burchardt,https://fbref.com/en/matches/8df3ccb4/Nordsjaelland-Randers-November-22-2019-Superliga,0,0,1,0,14,6,9,9,6,0,0,1,0,8,2,12,9,10,2019-2020
@@ -116,18 +116,18 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2019-11-24,Silkeborg,Esbjerg,1,2,NA,NA,2876,Aydin Uslu,https://fbref.com/en/matches/d5157805/Silkeborg-Esbjerg-November-24-2019-Superliga,0,0,1,0,14,5,4,10,12,0,0,2,0,14,4,10,13,9,2019-2020
 2019-11-24,Aalborg,Horsens,4,0,NA,NA,4048,Michael Tykgaard,https://fbref.com/en/matches/e499de00/Aalborg-Horsens-November-24-2019-Superliga,0,0,1,0,27,11,13,6,9,0,0,4,1,8,3,10,15,9,2019-2020
 2019-11-24,FC Copenhagen,Hobro,2,1,NA,NA,11512,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/0bde439e/FC-Copenhagen-Hobro-November-24-2019-Superliga,0,0,1,0,15,4,13,11,3,0,1,1,0,9,7,14,9,14,2019-2020
-2019-11-24,Aarhus,Brøndby,2,1,NA,NA,14043,Morten Krogh,https://fbref.com/en/matches/1da12c68/Aarhus-Brondby-November-24-2019-Superliga,0,0,0,0,9,4,8,17,12,0,0,5,0,8,3,8,15,13,2019-2020
+2019-11-24,AGF,Brøndby,2,1,NA,NA,14043,Morten Krogh,https://fbref.com/en/matches/1da12c68/AGF-Brondby-November-24-2019-Superliga,0,0,0,0,9,4,8,17,12,0,0,5,0,8,3,8,15,13,2019-2020
 2019-11-25,Odense,Midtjylland,1,2,NA,NA,6392,Jakob Kehlet,https://fbref.com/en/matches/d5988f28/Odense-Midtjylland-November-25-2019-Superliga,0,0,0,0,9,5,13,6,12,0,0,3,0,21,4,12,9,15,2019-2020
 2019-11-29,Lyngby,Nordsjælland,1,1,NA,NA,4419,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/bac8238e/Lyngby-Nordsjaelland-November-29-2019-Superliga,0,0,2,0,14,6,5,9,12,1,1,4,1,14,9,9,7,14,2019-2020
 2019-12-01,FC Copenhagen,Brøndby,2,1,NA,NA,29310,Jakob Kehlet,https://fbref.com/en/matches/20198571/FC-Copenhagen-Brondby-December-1-2019-Superliga,0,0,1,0,14,8,10,14,13,0,0,3,0,11,5,10,11,25,2019-2020
 2019-12-01,Randers,SønderjyskE,3,0,NA,NA,2057,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/11e40e1d/Randers-SonderjyskE-December-1-2019-Superliga,0,0,1,0,14,5,21,2,13,0,0,2,0,8,1,12,13,13,2019-2020
 2019-12-01,Horsens,Odense,2,1,NA,NA,1690,Sandi Putros,https://fbref.com/en/matches/0aee5e95/Horsens-Odense-December-1-2019-Superliga,0,0,3,0,13,2,4,5,14,1,1,1,0,12,2,17,10,7,2019-2020
-2019-12-01,Esbjerg,Aarhus,1,2,NA,NA,4608,Jakob A. Sundberg,https://fbref.com/en/matches/e93138d7/Esbjerg-Aarhus-December-1-2019-Superliga,0,0,0,0,10,4,9,7,12,0,0,2,0,15,8,11,13,11,2019-2020
+2019-12-01,Esbjerg,AGF,1,2,NA,NA,4608,Jakob A. Sundberg,https://fbref.com/en/matches/e93138d7/Esbjerg-AGF-December-1-2019-Superliga,0,0,0,0,10,4,9,7,12,0,0,2,0,15,8,11,13,11,2019-2020
 2019-12-01,Aalborg,Hobro,1,1,NA,NA,4520,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/98045d73/Aalborg-Hobro-December-1-2019-Superliga,0,0,1,0,19,4,14,6,7,0,0,4,0,4,2,4,8,16,2019-2020
 2019-12-02,Midtjylland,Silkeborg,2,1,NA,NA,6612,Michael Tykgaard,https://fbref.com/en/matches/cc8b1175/Midtjylland-Silkeborg-December-2-2019-Superliga,0,0,1,0,26,8,10,12,6,0,0,0,0,4,4,5,8,13,2019-2020
 2019-12-06,Hobro,Horsens,0,0,NA,NA,1356,Jens Maae,https://fbref.com/en/matches/d2283672/Hobro-Horsens-December-6-2019-Superliga,0,0,1,0,10,4,12,10,16,0,0,2,0,10,3,13,10,13,2019-2020
 2019-12-08,Silkeborg,Randers,2,1,NA,NA,1984,Jakob A. Sundberg,https://fbref.com/en/matches/8bd75664/Silkeborg-Randers-December-8-2019-Superliga,0,0,2,0,9,6,8,7,7,0,0,1,0,18,5,6,16,11,2019-2020
-2019-12-08,Aarhus,Lyngby,1,1,NA,NA,6138,Jonas Hansen,https://fbref.com/en/matches/49db29f8/Aarhus-Lyngby-December-8-2019-Superliga,0,0,2,0,17,4,5,10,11,0,0,1,0,8,3,6,9,13,2019-2020
+2019-12-08,AGF,Lyngby,1,1,NA,NA,6138,Jonas Hansen,https://fbref.com/en/matches/49db29f8/AGF-Lyngby-December-8-2019-Superliga,0,0,2,0,17,4,5,10,11,0,0,1,0,8,3,6,9,13,2019-2020
 2019-12-08,SønderjyskE,Esbjerg,2,1,NA,NA,3623,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/6cfa3147/SonderjyskE-Esbjerg-December-8-2019-Superliga,1,1,3,0,12,5,12,7,18,0,0,5,2,10,5,13,6,20,2019-2020
 2019-12-08,Nordsjælland,FC Copenhagen,0,1,NA,NA,5133,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/04892680/Nordsjaelland-FC-Copenhagen-December-8-2019-Superliga,0,0,1,0,10,1,21,11,14,0,0,2,0,8,3,9,11,8,2019-2020
 2019-12-08,Brøndby,Midtjylland,1,2,NA,NA,13317,Jørgen Burchardt,https://fbref.com/en/matches/f14fe5ff/Brondby-Midtjylland-December-8-2019-Superliga,0,0,1,0,8,3,9,7,14,0,0,5,0,10,5,6,12,11,2019-2020
@@ -137,7 +137,7 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2019-12-15,Lyngby,Silkeborg,1,0,NA,NA,2434,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/e635ff01/Lyngby-Silkeborg-December-15-2019-Superliga,0,0,1,0,4,2,5,8,14,0,0,2,0,20,5,15,13,9,2019-2020
 2019-12-15,Randers,Esbjerg,3,0,NA,NA,2103,Mikkel Redder,https://fbref.com/en/matches/d08831e9/Randers-Esbjerg-December-15-2019-Superliga,1,1,1,0,18,6,8,10,7,0,0,2,0,9,1,11,11,9,2019-2020
 2019-12-15,Brøndby,Hobro,1,1,NA,NA,9703,Michael Tykgaard,https://fbref.com/en/matches/e6d0c6e2/Brondby-Hobro-December-15-2019-Superliga,0,0,2,0,17,6,11,13,10,0,0,1,0,8,2,9,20,8,2019-2020
-2019-12-15,Midtjylland,Aarhus,1,3,NA,NA,11109,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/d483aca5/Midtjylland-Aarhus-December-15-2019-Superliga,0,0,2,1,24,5,3,9,14,0,0,2,0,11,6,8,13,14,2019-2020
+2019-12-15,Midtjylland,AGF,1,3,NA,NA,11109,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/d483aca5/Midtjylland-AGF-December-15-2019-Superliga,0,0,2,1,24,5,3,9,14,0,0,2,0,11,6,8,13,14,2019-2020
 2019-12-16,FC Copenhagen,Odense,2,1,NA,NA,12226,Jørgen Burchardt,https://fbref.com/en/matches/6a3f9ed6/FC-Copenhagen-Odense-December-16-2019-Superliga,1,1,4,0,19,7,6,8,6,0,0,5,0,8,3,8,13,15,2019-2020
 2020-02-14,Esbjerg,FC Copenhagen,1,0,NA,NA,5449,Sandi Putros,https://fbref.com/en/matches/2563a7eb/Esbjerg-FC-Copenhagen-February-14-2020-Superliga,0,1,3,0,7,3,11,20,18,0,0,2,0,11,2,5,7,10,2019-2020
 2020-02-16,SønderjyskE,Hobro,3,1,NA,NA,4316,Jakob A. Sundberg,https://fbref.com/en/matches/35dd3fd9/SonderjyskE-Hobro-February-16-2020-Superliga,0,0,2,0,17,6,13,15,15,1,1,3,0,13,3,2,7,12,2019-2020
@@ -151,8 +151,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2020-02-23,Lyngby,Esbjerg,2,0,NA,NA,3114,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/64d307d6/Lyngby-Esbjerg-February-23-2020-Superliga,0,0,0,0,13,3,11,19,6,0,0,3,0,25,7,7,12,7,2019-2020
 2020-02-23,Silkeborg,FC Copenhagen,1,1,NA,NA,3282,Anders Poulsen,https://fbref.com/en/matches/7958052d/Silkeborg-FC-Copenhagen-February-23-2020-Superliga,0,0,3,1,9,5,7,13,13,0,0,1,0,28,6,10,5,7,2019-2020
 2020-02-23,Aalborg,Brøndby,3,2,NA,NA,7896,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/6e609f83/Aalborg-Brondby-February-23-2020-Superliga,1,1,1,0,12,6,12,17,10,0,0,4,0,14,5,8,8,11,2019-2020
-2020-02-24,Horsens,Aarhus,1,2,NA,NA,3566,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/dea100e3/Horsens-Aarhus-February-24-2020-Superliga,0,0,2,0,11,3,13,9,10,0,0,0,0,13,4,8,15,13,2019-2020
-2020-02-28,Aarhus,Hobro,0,0,NA,NA,7530,Morten Krogh,https://fbref.com/en/matches/7a744798/Aarhus-Hobro-February-28-2020-Superliga,0,0,1,0,16,4,11,14,10,0,0,3,0,8,1,5,7,15,2019-2020
+2020-02-24,Horsens,AGF,1,2,NA,NA,3566,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/dea100e3/Horsens-AGF-February-24-2020-Superliga,0,0,2,0,11,3,13,9,10,0,0,0,0,13,4,8,15,13,2019-2020
+2020-02-28,AGF,Hobro,0,0,NA,NA,7530,Morten Krogh,https://fbref.com/en/matches/7a744798/AGF-Hobro-February-28-2020-Superliga,0,0,1,0,16,4,11,14,10,0,0,3,0,8,1,5,7,15,2019-2020
 2020-02-29,Esbjerg,Nordsjælland,1,2,NA,NA,3116,Michael Tykgaard,https://fbref.com/en/matches/f6596b09/Esbjerg-Nordsjaelland-February-29-2020-Superliga,0,0,3,0,16,5,11,17,17,1,1,1,0,12,5,9,15,4,2019-2020
 2020-03-01,Horsens,Randers,1,2,NA,NA,3116,Jakob A. Sundberg,https://fbref.com/en/matches/7f354613/Horsens-Randers-March-1-2020-Superliga,0,0,0,0,11,5,7,1,9,0,0,3,0,15,5,10,5,11,2019-2020
 2020-03-01,Odense,Silkeborg,1,1,NA,NA,4864,Sandi Putros,https://fbref.com/en/matches/f3386b67/Odense-Silkeborg-March-1-2020-Superliga,1,1,2,0,23,3,7,24,12,0,0,2,0,8,3,15,8,12,2019-2020
@@ -165,19 +165,19 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2020-03-08,FC Copenhagen,Horsens,0,1,NA,NA,0,Morten Krogh,https://fbref.com/en/matches/8b801b31/FC-Copenhagen-Horsens-March-8-2020-Superliga,0,0,1,0,10,5,8,5,8,0,0,3,0,6,2,12,12,10,2019-2020
 2020-03-08,Nordsjælland,Brøndby,2,2,NA,NA,0,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/82fd0255/Nordsjaelland-Brondby-March-8-2020-Superliga,0,0,2,0,10,2,5,9,6,0,0,1,0,10,5,11,7,9,2019-2020
 2020-03-08,Randers,Midtjylland,0,2,NA,NA,0,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/01001991/Randers-Midtjylland-March-8-2020-Superliga,0,1,1,0,10,2,10,13,9,1,1,2,0,10,5,10,7,11,2019-2020
-2020-03-09,Silkeborg,Aarhus,2,1,NA,NA,12297,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/7ad42bea/Silkeborg-Aarhus-March-9-2020-Superliga,0,0,2,1,14,7,1,8,11,1,1,4,1,18,6,11,9,14,2019-2020
-2020-05-28,Aarhus,Randers,1,1,NA,NA,0,Jens Maae,https://fbref.com/en/matches/e18e9959/Aarhus-Randers-May-28-2020-Superliga,0,0,2,0,15,6,8,6,20,0,0,2,0,9,2,8,18,18,2019-2020
+2020-03-09,Silkeborg,AGF,2,1,NA,NA,12297,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/7ad42bea/Silkeborg-AGF-March-9-2020-Superliga,0,0,2,1,14,7,1,8,11,1,1,4,1,18,6,11,9,14,2019-2020
+2020-05-28,AGF,Randers,1,1,NA,NA,0,Jens Maae,https://fbref.com/en/matches/e18e9959/AGF-Randers-May-28-2020-Superliga,0,0,2,0,15,6,8,6,20,0,0,2,0,9,2,8,18,18,2019-2020
 2020-05-29,Silkeborg,Nordsjælland,0,2,NA,NA,0,Jonas Hansen,https://fbref.com/en/matches/e586bc87/Silkeborg-Nordsjaelland-May-29-2020-Superliga,0,0,1,0,10,5,12,8,11,0,0,3,0,11,4,12,9,11,2019-2020
 2020-05-31,Esbjerg,Aalborg,1,1,NA,NA,0,Jakob Kehlet,https://fbref.com/en/matches/fbbef26b/Esbjerg-Aalborg-May-31-2020-Superliga,0,0,2,0,13,8,5,20,14,0,0,1,0,18,5,7,9,3,2019-2020
 2020-06-01,Randers,Hobro,0,1,NA,NA,0,Michael Tykgaard,https://fbref.com/en/matches/b45bf147/Randers-Hobro-June-1-2020-Superliga,0,0,2,0,11,3,20,13,10,1,1,0,0,7,2,11,9,7,2019-2020
 2020-06-01,Midtjylland,Horsens,0,1,NA,NA,0,Aydin Uslu,https://fbref.com/en/matches/be82197b/Midtjylland-Horsens-June-1-2020-Superliga,0,0,2,0,18,3,11,6,14,0,0,1,0,9,3,13,8,16,2019-2020
 2020-06-01,Lyngby,FC Copenhagen,1,4,NA,NA,0,Anders Poulsen,https://fbref.com/en/matches/420660e4/Lyngby-FC-Copenhagen-June-1-2020-Superliga,0,0,3,0,9,5,10,9,13,1,1,0,0,22,9,5,8,8,2019-2020
-2020-06-01,Aarhus,Odense,1,0,NA,NA,0,Jørgen Burchardt,https://fbref.com/en/matches/fc03faed/Aarhus-Odense-June-1-2020-Superliga,0,0,3,0,18,6,7,15,10,0,0,1,0,11,4,7,13,13,2019-2020
+2020-06-01,AGF,Odense,1,0,NA,NA,0,Jørgen Burchardt,https://fbref.com/en/matches/fc03faed/AGF-Odense-June-1-2020-Superliga,0,0,3,0,18,6,7,15,10,0,0,1,0,11,4,7,13,13,2019-2020
 2020-06-02,Brøndby,SønderjyskE,1,0,NA,NA,0,Sandi Putros,https://fbref.com/en/matches/8821c6c3/Brondby-SonderjyskE-June-2-2020-Superliga,0,0,3,0,15,4,7,9,15,0,0,5,0,7,2,8,12,13,2019-2020
 2020-06-07,FC Copenhagen,Randers,2,1,NA,NA,0,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/8a61ed2f/FC-Copenhagen-Randers-June-7-2020-Superliga,0,0,0,0,7,3,15,4,7,0,0,0,0,14,4,12,11,13,2019-2020
-2020-06-07,SønderjyskE,Silkeborg,2,2,NA,NA,0,Mikkel Redder,https://fbref.com/en/matches/f470f1d6/SonderjyskE-Silkeborg-June-7-2020-Superliga,0,1,2,0,16,6,8,7,10,0,0,3,0,15,3,4,9,11,2019-2020
 2020-06-07,Odense,Esbjerg,3,1,NA,NA,0,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/35a24a3c/Odense-Esbjerg-June-7-2020-Superliga,0,0,2,0,7,5,4,9,14,0,0,1,0,12,3,5,8,12,2019-2020
-2020-06-07,Aalborg,Aarhus,2,3,NA,NA,0,Morten Krogh,https://fbref.com/en/matches/b1761cad/Aalborg-Aarhus-June-7-2020-Superliga,0,0,4,0,7,4,6,7,10,1,1,0,0,21,11,18,15,15,2019-2020
+2020-06-07,SønderjyskE,Silkeborg,2,2,NA,NA,0,Mikkel Redder,https://fbref.com/en/matches/f470f1d6/SonderjyskE-Silkeborg-June-7-2020-Superliga,0,1,2,0,16,6,8,7,10,0,0,3,0,15,3,4,9,11,2019-2020
+2020-06-07,Aalborg,AGF,2,3,NA,NA,0,Morten Krogh,https://fbref.com/en/matches/b1761cad/Aalborg-AGF-June-7-2020-Superliga,0,0,4,0,7,4,6,7,10,1,1,0,0,21,11,18,15,15,2019-2020
 2020-06-07,Nordsjælland,Midtjylland,0,1,NA,NA,0,Jens Maae,https://fbref.com/en/matches/1854e1ac/Nordsjaelland-Midtjylland-June-7-2020-Superliga,0,0,5,1,2,1,19,8,14,0,0,1,0,16,6,13,10,18,2019-2020
 2020-06-07,Horsens,Brøndby,3,2,NA,NA,0,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/8e8bc765/Horsens-Brondby-June-7-2020-Superliga,0,0,0,0,8,5,10,3,9,0,0,4,1,6,5,11,7,20,2019-2020
 2020-06-07,Hobro,Lyngby,2,2,NA,NA,0,Jakob A. Sundberg,https://fbref.com/en/matches/12ddb5d6/Hobro-Lyngby-June-7-2020-Superliga,1,1,2,0,15,6,8,10,8,0,0,3,0,8,4,10,11,7,2019-2020
@@ -186,11 +186,11 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2020-06-14,Aalborg,Midtjylland,0,2,NA,NA,224,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/a16a6b78/Aalborg-Midtjylland-June-14-2020-Superliga,0,0,4,0,7,0,7,6,14,0,0,2,0,19,6,11,7,13,2019-2020
 2020-06-14,SønderjyskE,Lyngby,1,0,NA,NA,300,Jonas Hansen,https://fbref.com/en/matches/f1aac03d/SonderjyskE-Lyngby-June-14-2020-Superliga,0,0,4,0,9,3,10,9,12,0,0,2,0,7,1,5,8,7,2019-2020
 2020-06-14,Nordsjælland,FC Copenhagen,1,1,NA,NA,273,Jakob Kehlet,https://fbref.com/en/matches/6a45e392/Nordsjaelland-FC-Copenhagen-June-14-2020-Superliga,0,0,3,0,19,9,12,3,14,0,0,1,0,14,2,5,7,13,2019-2020
-2020-06-14,Brøndby,Aarhus,0,0,NA,NA,200,Jørgen Burchardt,https://fbref.com/en/matches/a44170bd/Brondby-Aarhus-June-14-2020-Superliga,0,0,3,0,4,1,8,13,15,0,0,3,0,11,2,18,16,17,2019-2020
+2020-06-14,Brøndby,AGF,0,0,NA,NA,200,Jørgen Burchardt,https://fbref.com/en/matches/a44170bd/Brondby-AGF-June-14-2020-Superliga,0,0,3,0,4,1,8,13,15,0,0,3,0,11,2,18,16,17,2019-2020
 2020-06-15,Silkeborg,Odense,6,0,NA,NA,294,Jakob A. Sundberg,https://fbref.com/en/matches/b3c12fd4/Silkeborg-Odense-June-15-2020-Superliga,0,0,3,0,10,6,6,12,10,0,0,2,0,10,2,9,6,4,2019-2020
 2020-06-16,Horsens,Esbjerg,2,2,NA,NA,300,Morten Krogh,https://fbref.com/en/matches/23f5e3ac/Horsens-Esbjerg-June-16-2020-Superliga,0,0,2,0,10,5,10,6,10,0,0,4,0,17,6,9,14,15,2019-2020
 2020-06-16,Randers,Hobro,4,0,NA,NA,280,Mikkel Redder,https://fbref.com/en/matches/c5833957/Randers-Hobro-June-16-2020-Superliga,0,1,2,0,18,10,15,18,14,0,0,3,1,7,1,12,7,7,2019-2020
-2020-06-17,Aarhus,Nordsjælland,2,1,NA,NA,300,Jakob A. Sundberg,https://fbref.com/en/matches/1f963bfd/Aarhus-Nordsjaelland-June-17-2020-Superliga,0,0,4,0,19,4,17,14,17,0,0,2,0,9,3,4,4,13,2019-2020
+2020-06-17,AGF,Nordsjælland,2,1,NA,NA,300,Jakob A. Sundberg,https://fbref.com/en/matches/1f963bfd/AGF-Nordsjaelland-June-17-2020-Superliga,0,0,4,0,19,4,17,14,17,0,0,2,0,9,3,4,4,13,2019-2020
 2020-06-17,FC Copenhagen,Aalborg,2,0,NA,NA,120,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/0a571433/FC-Copenhagen-Aalborg-June-17-2020-Superliga,0,0,2,0,15,11,9,5,18,0,0,1,0,8,2,12,4,10,2019-2020
 2020-06-18,Odense,SønderjyskE,2,0,NA,NA,300,Jørgen Burchardt,https://fbref.com/en/matches/b181a721/Odense-SonderjyskE-June-18-2020-Superliga,1,1,0,0,12,6,7,8,9,0,0,2,0,6,1,10,12,12,2019-2020
 2020-06-18,Lyngby,Silkeborg,0,0,NA,NA,300,Jens Maae,https://fbref.com/en/matches/b85d88f4/Lyngby-Silkeborg-June-18-2020-Superliga,0,0,1,0,12,4,5,13,8,0,0,2,0,23,8,12,17,12,2019-2020
@@ -200,9 +200,9 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2020-06-21,Silkeborg,SønderjyskE,1,2,NA,NA,291,Aydin Uslu,https://fbref.com/en/matches/f56f9c29/Silkeborg-SonderjyskE-June-21-2020-Superliga,0,0,2,1,12,3,13,12,12,1,1,2,0,22,12,12,11,16,2019-2020
 2020-06-21,Esbjerg,Hobro,1,3,NA,NA,300,Jonas Hansen,https://fbref.com/en/matches/122824e6/Esbjerg-Hobro-June-21-2020-Superliga,1,1,3,0,17,4,12,25,17,0,0,3,0,5,5,9,13,14,2019-2020
 2020-06-21,Brøndby,FC Copenhagen,1,1,NA,NA,3000,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/f04de1b5/Brondby-FC-Copenhagen-June-21-2020-Superliga,0,0,4,0,15,6,17,13,21,0,0,3,0,11,4,11,12,9,2019-2020
-2020-06-21,Midtjylland,Aarhus,3,4,NA,NA,300,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/15337440/Midtjylland-Aarhus-June-21-2020-Superliga,0,0,3,0,15,3,11,4,13,0,0,4,0,12,7,7,6,12,2019-2020
+2020-06-21,Midtjylland,AGF,3,4,NA,NA,300,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/15337440/Midtjylland-AGF-June-21-2020-Superliga,0,0,3,0,15,3,11,4,13,0,0,4,0,12,7,7,6,12,2019-2020
 2020-06-22,Lyngby,Odense,1,2,NA,NA,875,Anders Poulsen,https://fbref.com/en/matches/5f3a37a5/Lyngby-Odense-June-22-2020-Superliga,0,0,0,0,14,5,10,15,8,0,0,3,0,13,2,16,9,11,2019-2020
-2020-06-26,Aarhus,Aalborg,1,4,NA,NA,300,Morten Krogh,https://fbref.com/en/matches/3a8c611c/Aarhus-Aalborg-June-26-2020-Superliga,0,0,3,0,14,2,13,7,14,0,0,2,0,12,7,9,7,6,2019-2020
+2020-06-26,AGF,Aalborg,1,4,NA,NA,300,Morten Krogh,https://fbref.com/en/matches/3a8c611c/AGF-Aalborg-June-26-2020-Superliga,0,0,3,0,14,2,13,7,14,0,0,2,0,12,7,9,7,6,2019-2020
 2020-06-27,SønderjyskE,Silkeborg,1,0,NA,NA,300,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/0c6cb42f/SonderjyskE-Silkeborg-June-27-2020-Superliga,0,0,2,0,16,6,10,11,7,0,0,6,0,6,1,7,13,12,2019-2020
 2020-06-28,Randers,Horsens,0,3,NA,NA,4316,Jørgen Burchardt,https://fbref.com/en/matches/e952f58e/Randers-Horsens-June-28-2020-Superliga,0,0,3,1,18,3,9,5,10,0,0,2,0,12,6,10,6,15,2019-2020
 2020-06-28,Hobro,Esbjerg,2,1,NA,NA,300,Michael Tykgaard,https://fbref.com/en/matches/10bbc1f3/Hobro-Esbjerg-June-28-2020-Superliga,0,0,2,0,14,5,13,14,13,0,0,3,0,8,2,9,11,18,2019-2020
@@ -215,36 +215,30 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2020-07-05,Nordsjælland,Midtjylland,0,1,NA,NA,847,Aydin Uslu,https://fbref.com/en/matches/05aa231c/Nordsjaelland-Midtjylland-July-5-2020-Superliga,0,0,4,0,11,2,9,8,13,0,0,4,1,12,1,10,15,10,2019-2020
 2020-07-05,Hobro,Randers,2,3,NA,NA,388,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/c641f4e2/Hobro-Randers-July-5-2020-Superliga,0,0,3,0,4,2,12,3,14,0,0,1,0,21,8,14,14,8,2019-2020
 2020-07-05,Aalborg,Brøndby,2,0,NA,NA,280,Anders Poulsen,https://fbref.com/en/matches/6f1d5751/Aalborg-Brondby-July-5-2020-Superliga,0,0,2,0,15,7,7,8,11,0,0,1,0,4,1,10,11,15,2019-2020
-2020-07-05,Aarhus,FC Copenhagen,1,0,NA,NA,7048,Jens Maae,https://fbref.com/en/matches/f5443f62/Aarhus-FC-Copenhagen-July-5-2020-Superliga,0,0,3,0,14,5,12,12,18,0,0,0,0,9,2,6,10,11,2019-2020
+2020-07-05,AGF,FC Copenhagen,1,0,NA,NA,7048,Jens Maae,https://fbref.com/en/matches/f5443f62/AGF-FC-Copenhagen-July-5-2020-Superliga,0,0,3,0,14,5,12,12,18,0,0,0,0,9,2,6,10,11,2019-2020
 2020-07-08,Horsens,Hobro,3,2,NA,NA,1066,Jens Maae,https://fbref.com/en/matches/2ecd302a/Horsens-Hobro-July-8-2020-Superliga,0,0,0,0,24,7,9,7,8,0,0,1,0,11,5,7,12,5,2019-2020
 2020-07-08,Randers,Esbjerg,3,1,NA,NA,1223,Mikkel Redder,https://fbref.com/en/matches/13abf14d/Randers-Esbjerg-July-8-2020-Superliga,0,0,2,0,9,5,15,9,16,0,0,3,0,15,6,17,8,10,2019-2020
 2020-07-08,Lyngby,SønderjyskE,1,1,NA,NA,1894,Jakob Kehlet,https://fbref.com/en/matches/e89757ab/Lyngby-SonderjyskE-July-8-2020-Superliga,0,1,0,0,14,2,10,11,15,0,0,1,0,10,2,18,12,17,2019-2020
 2020-07-08,Odense,Silkeborg,1,3,NA,NA,2830,Michael Tykgaard,https://fbref.com/en/matches/b442c329/Odense-Silkeborg-July-8-2020-Superliga,0,0,3,0,4,2,16,12,9,0,0,3,0,13,7,14,11,10,2019-2020
-2020-07-09,Aalborg,Aarhus,1,0,NA,NA,1627,Sandi Putros,https://fbref.com/en/matches/3c550b96/Aalborg-Aarhus-July-9-2020-Superliga,0,0,1,0,14,7,10,10,13,0,0,4,1,13,5,12,5,12,2019-2020
+2020-07-09,Aalborg,AGF,1,0,NA,NA,1627,Sandi Putros,https://fbref.com/en/matches/3c550b96/Aalborg-AGF-July-9-2020-Superliga,0,0,1,0,14,7,10,10,13,0,0,4,1,13,5,12,5,12,2019-2020
 2020-07-09,Brøndby,Nordsjælland,4,0,NA,NA,4925,Morten Krogh,https://fbref.com/en/matches/8b8a8b99/Brondby-Nordsjaelland-July-9-2020-Superliga,0,0,3,0,17,5,11,16,16,0,1,1,0,15,5,17,14,9,2019-2020
 2020-07-09,Midtjylland,FC Copenhagen,3,1,NA,NA,4097,Jørgen Burchardt,https://fbref.com/en/matches/89f285c9/Midtjylland-FC-Copenhagen-July-9-2020-Superliga,1,1,2,0,12,4,12,7,16,0,0,1,0,14,1,6,8,9,2019-2020
 2020-07-11,Randers,Odense,2,1,NA,NA,1234,Jens Maae,https://fbref.com/en/matches/c98faa3a/Randers-Odense-July-11-2020-Superliga,0,0,0,0,8,5,11,10,13,0,0,2,0,8,2,7,16,14,2019-2020
 2020-07-12,Nordsjælland,Aalborg,0,0,NA,NA,910,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/3a486318/Nordsjaelland-Aalborg-July-12-2020-Superliga,0,0,2,0,12,8,8,6,11,0,0,2,0,11,6,9,14,15,2019-2020
 2020-07-12,FC Copenhagen,Brøndby,0,0,NA,NA,7665,Jakob Kehlet,https://fbref.com/en/matches/75a337fd/FC-Copenhagen-Brondby-July-12-2020-Superliga,0,0,0,0,9,2,11,12,6,0,0,2,0,15,4,10,15,17,2019-2020
-2020-07-12,Aarhus,Midtjylland,3,0,NA,NA,7532,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/a930ccda/Aarhus-Midtjylland-July-12-2020-Superliga,0,0,3,0,20,3,8,8,14,0,0,3,0,11,3,8,8,14,2019-2020
+2020-07-12,AGF,Midtjylland,3,0,NA,NA,7532,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/a930ccda/AGF-Midtjylland-July-12-2020-Superliga,0,0,3,0,20,3,8,8,14,0,0,3,0,11,3,8,8,14,2019-2020
 2020-07-13,Hobro,Lyngby,1,2,NA,NA,1500,Morten Krogh,https://fbref.com/en/matches/3b017c7c/Hobro-Lyngby-July-13-2020-Superliga,0,0,0,0,10,3,11,13,17,0,0,0,0,12,5,17,16,7,2019-2020
-2020-07-17,Midtjylland,Nordsjælland,6,3,NA,NA,8,Sandi Putros,https://fbref.com/en/matches/2661e473/Midtjylland-Nordsjaelland-July-17-2020-Superliga,2,2,2,0,23,10,8,7,4,0,0,1,1,8,3,5,13,11,2019-2020
+2020-07-17,Midtjylland,Nordsjælland,6,3,NA,NA,0,Sandi Putros,https://fbref.com/en/matches/2661e473/Midtjylland-Nordsjaelland-July-17-2020-Superliga,2,2,2,0,23,10,8,7,4,0,0,1,1,8,3,5,13,11,2019-2020
 2020-07-19,Odense,Randers,2,0,NA,NA,3621,Jakob Kehlet,https://fbref.com/en/matches/77bdf25f/Odense-Randers-July-19-2020-Superliga,0,0,1,0,11,4,4,15,9,0,0,3,0,13,3,16,4,12,2019-2020
-2020-07-19,Brøndby,Aalborg,0,1,NA,NA,8,Jørgen Burchardt,https://fbref.com/en/matches/2b215a9a/Brondby-Aalborg-July-19-2020-Superliga,0,0,2,0,15,3,15,17,8,1,1,4,0,5,2,14,19,14,2019-2020
-2020-07-19,FC Copenhagen,Aarhus,2,4,NA,NA,8,Michael Tykgaard,https://fbref.com/en/matches/29de857a/FC-Copenhagen-Aarhus-July-19-2020-Superliga,0,0,2,0,13,5,12,12,7,0,0,5,0,10,4,10,18,21,2019-2020
+2020-07-19,Brøndby,Aalborg,0,1,NA,NA,0,Jørgen Burchardt,https://fbref.com/en/matches/2b215a9a/Brondby-Aalborg-July-19-2020-Superliga,0,0,2,0,15,3,15,17,8,1,1,4,0,5,2,14,19,14,2019-2020
+2020-07-19,FC Copenhagen,AGF,2,4,NA,NA,0,Michael Tykgaard,https://fbref.com/en/matches/29de857a/FC-Copenhagen-AGF-July-19-2020-Superliga,0,0,2,0,13,5,12,12,7,0,0,5,0,10,4,10,18,21,2019-2020
 2020-07-20,Lyngby,Hobro,2,2,NA,NA,0,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/49a70490/Lyngby-Hobro-July-20-2020-Superliga,0,0,4,1,5,3,16,13,13,0,0,4,2,21,8,11,14,17,2019-2020
-2020-07-22,Nordsjælland,Aarhus,1,1,NA,NA,9,Jørgen Burchardt,https://fbref.com/en/matches/abd718cc/Nordsjaelland-Aarhus-July-22-2020-Superliga,0,0,2,0,13,5,6,9,17,0,0,2,0,17,11,9,11,11,2019-2020
+2020-07-22,Nordsjælland,AGF,1,1,NA,NA,0,Jørgen Burchardt,https://fbref.com/en/matches/abd718cc/Nordsjaelland-AGF-July-22-2020-Superliga,0,0,2,0,13,5,6,9,17,0,0,2,0,17,11,9,11,11,2019-2020
 2020-07-22,Brøndby,Midtjylland,1,1,NA,NA,5082,Morten Krogh,https://fbref.com/en/matches/ef64a08e/Brondby-Midtjylland-July-22-2020-Superliga,0,0,3,0,9,3,6,17,14,0,0,1,0,15,2,9,10,6,2019-2020
 2020-07-23,Odense,Horsens,3,1,NA,NA,0,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/d7e34ab0/Odense-Horsens-July-23-2020-Superliga,1,1,2,0,17,8,4,8,13,0,0,3,0,12,3,11,9,17,2019-2020
 2020-07-23,Aalborg,FC Copenhagen,0,1,NA,NA,3347,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/6a038821/Aalborg-FC-Copenhagen-July-23-2020-Superliga,0,0,0,0,9,1,15,9,17,0,0,4,0,8,4,7,10,10,2019-2020
 2020-07-26,Horsens,Odense,1,1,NA,NA,0,Michael Tykgaard,https://fbref.com/en/matches/89c6b3d5/Horsens-Odense-July-26-2020-Superliga,0,0,4,0,15,6,15,4,12,0,0,3,0,12,4,9,10,10,2019-2020
-2020-07-26,Aarhus,Brøndby,0,1,NA,NA,10,Jens Maae,https://fbref.com/en/matches/305812e5/Aarhus-Brondby-July-26-2020-Superliga,0,0,2,0,16,4,11,20,10,0,0,5,1,10,3,4,21,12,2019-2020
-2020-07-26,FC Copenhagen,Nordsjælland,2,1,NA,NA,10,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/85f166f3/FC-Copenhagen-Nordsjaelland-July-26-2020-Superliga,0,0,2,0,10,4,10,9,13,1,1,3,0,13,2,11,8,17,2019-2020
-2020-07-26,Midtjylland,Aalborg,1,2,NA,NA,4792,Jakob Kehlet,https://fbref.com/en/matches/4976441e/Midtjylland-Aalborg-July-26-2020-Superliga,1,1,0,0,17,5,5,5,11,0,0,2,0,12,7,5,12,17,2019-2020
-2020-07-29,Aarhus,Odense,2,1,NA,NA,8247,Morten Krogh,https://fbref.com/en/matches/e6c2b3a1/Aarhus-Odense-July-29-2020-Superliga,0,0,5,0,14,6,22,12,15,0,0,3,0,5,2,18,18,12,2019-2020
-2020-07-17,Midtjylland,Nordsjælland,6,3,NA,NA,0,Sandi Putros,https://fbref.com/en/matches/2661e473/Midtjylland-Nordsjaelland-July-17-2020-Superliga,2,2,2,0,23,10,8,7,4,0,0,1,1,8,3,5,13,11,2019-2020
-2020-07-19,Brøndby,Aalborg,0,1,NA,NA,0,Jørgen Burchardt,https://fbref.com/en/matches/2b215a9a/Brondby-Aalborg-July-19-2020-Superliga,0,0,2,0,15,3,15,17,8,1,1,4,0,5,2,14,19,14,2019-2020
-2020-07-19,FC Copenhagen,Aarhus,2,4,NA,NA,0,Michael Tykgaard,https://fbref.com/en/matches/29de857a/FC-Copenhagen-Aarhus-July-19-2020-Superliga,0,0,2,0,13,5,12,12,7,0,0,5,0,10,4,10,18,21,2019-2020
-2020-07-22,Nordsjælland,Aarhus,1,1,NA,NA,0,Jørgen Burchardt,https://fbref.com/en/matches/abd718cc/Nordsjaelland-Aarhus-July-22-2020-Superliga,0,0,2,0,13,5,6,9,17,0,0,2,0,17,11,9,11,11,2019-2020
-2020-07-26,Aarhus,Brøndby,0,1,NA,NA,0,Jens Maae,https://fbref.com/en/matches/305812e5/Aarhus-Brondby-July-26-2020-Superliga,0,0,2,0,16,4,11,20,10,0,0,5,1,10,3,4,21,12,2019-2020
+2020-07-26,AGF,Brøndby,0,1,NA,NA,0,Jens Maae,https://fbref.com/en/matches/305812e5/AGF-Brondby-July-26-2020-Superliga,0,0,2,0,16,4,11,20,10,0,0,5,1,10,3,4,21,12,2019-2020
 2020-07-26,FC Copenhagen,Nordsjælland,2,1,NA,NA,0,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/85f166f3/FC-Copenhagen-Nordsjaelland-July-26-2020-Superliga,0,0,2,0,10,4,10,9,13,1,1,3,0,13,2,11,8,17,2019-2020
+2020-07-26,Midtjylland,Aalborg,1,2,NA,NA,4792,Jakob Kehlet,https://fbref.com/en/matches/4976441e/Midtjylland-Aalborg-July-26-2020-Superliga,1,1,0,0,17,5,5,5,11,0,0,2,0,12,7,5,12,17,2019-2020
+2020-07-29,AGF,Odense,2,1,NA,NA,8247,Morten Krogh,https://fbref.com/en/matches/e6c2b3a1/AGF-Odense-July-29-2020-Superliga,0,0,5,0,14,6,22,12,15,0,0,3,0,5,2,18,18,12,2019-2020

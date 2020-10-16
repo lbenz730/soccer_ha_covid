@@ -183,6 +183,8 @@ for(i in 1:nrow(league_info)) {
   season_ids <- as.numeric(gsub("\\/.*", "", gsub(glue(".*/en/comps/{league_id}/"), "", x)))
   
   urls <- gsub("NA\\/", "", paste0("https://fbref.com/en/comps/", league_id, "/", season_ids, "/schedule/", years, "-", league, "-Fixtures"))
+  urls <- urls[!str_detect(years, "2021")]
+  years <- years[!str_detect(years, "2021")]
   
   if(!dir.exists(paste0("fbref_data/", gsub("\\s", "_", tolower(league_info$alias[i]))))) {
     dir.create(paste0("fbref_data/", gsub("\\s", "_", tolower(league_info$alias[i]))))
