@@ -24,13 +24,14 @@ team_codes <- function(df) {
 
 ### Home win, away win, draw rates by league
 wld_rates <- function(league) {
-  df <- read_leage_csvs(league) %>% 
-    filter(!is.na(home_score), !is.na(away_score))
+  df <- read_leage_csvs(league) 
   tibble('league' = league,
-         'home_win_rate' = mean(df$home_score > df$away_score),
-         'away_win_rate' = mean(df$home_score < df$away_score),
-         'draw_rate' = mean(df$home_score == df$away_score),
-         'avg_goal_diff' = mean(df$home_score - df$away_score))
+         'home_win_rate' = mean(df$home_score > df$away_score, na.rm = T),
+         'away_win_rate' = mean(df$home_score < df$away_score, na.rm = T),
+         'draw_rate' = mean(df$home_score == df$away_score, na.rm = T),
+         'avg_goal_diff' = mean(df$home_score - df$away_score, na.rm = T),
+         'avg_yc_diff' = mean(df$home_yellow_cards - df$away_yellow_cards, na.rm = T),
+         'avg_rc_diff' = mean(df$home_red_cards - df$away_red_cards, na.rm = T))
 }
 
 ### Get quantile/mean from posterio

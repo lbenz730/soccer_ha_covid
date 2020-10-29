@@ -29,14 +29,14 @@ model {
   rho ~ normal(0, sigma_r);
   mu ~ normal(0, 10);
   fixed_cov ~ normal(0, 10);
-  home_field ~ normal(0, 10); //pre and post
+  home_field ~ normal(0, 10);
   sigma_a ~ inv_gamma(1,1);
   sigma_d ~ inv_gamma(1,1);
   sigma_r ~ inv_gamma(1,1);
 
   // likelihood
   for (g in 1:num_games) {
-    lambda1[g] = exp(mu + home_field_pre * ind_pre[g] + home_field_post * ind_post[g] + alpha[home_team_code[g]] + delta[away_team_code[g]]);
+    lambda1[g] = exp(mu + home_field + alpha[home_team_code[g]] + delta[away_team_code[g]]);
     lambda2[g] = exp(mu + alpha[away_team_code[g]] + delta[home_team_code[g]]);
     // lambda3[g] = exp(rho[home_team_code[g]] + rho[away_team_code[g]]); // no intercept
     lambda3[g] = exp(fixed_cov + rho[home_team_code[g]] + rho[away_team_code[g]]); // intercept

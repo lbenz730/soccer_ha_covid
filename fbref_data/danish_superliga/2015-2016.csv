@@ -1,199 +1,199 @@
 date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_report_url,home_pk_goals,home_pk_attempts,home_yellow_cards,home_red_cards,home_shots,home_shots_on_target,home_tackles,home_interceptions,home_fouls_committed,away_pk_goals,away_pk_attempts,away_yellow_cards,away_red_cards,away_shots,away_shots_on_target,away_tackles,away_interceptions,away_fouls_committed,season
-2015-07-17,Nordsjælland,SønderjyskE,0,2,NA,NA,3211,Anders Poulsen,https://fbref.com/en/matches/752b87e3/Nordsjaelland-SonderjyskE-July-17-2015-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
-2015-07-18,Midtjylland,Viborg,2,0,NA,NA,7232,Lars Christoffersen,https://fbref.com/en/matches/5b3c8527/Midtjylland-Viborg-July-18-2015-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-07-19,Odense,Hobro,3,0,NA,NA,7797,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/4d269eda/Odense-Hobro-July-19-2015-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2015-07-19,Aarhus,Brøndby,2,1,NA,NA,13437,Jens Maae,https://fbref.com/en/matches/935c40cb/Aarhus-Brondby-July-19-2015-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2015-07-20,Aalborg,Esbjerg,1,1,NA,NA,7764,Michael Tykgaard,https://fbref.com/en/matches/20cb45e4/Aalborg-Esbjerg-July-20-2015-Superliga,0,0,2,0,NA,NA,NA,NA,NA,1,1,2,0,NA,NA,NA,NA,NA,2015-2016
-2015-07-24,Hobro,Aalborg,0,1,NA,NA,4686,Dennis Mogensen,https://fbref.com/en/matches/87441782/Hobro-Aalborg-July-24-2015-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-07-24,SønderjyskE,Midtjylland,1,2,NA,NA,5245,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/b4d4c171/SonderjyskE-Midtjylland-July-24-2015-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2015-07-26,Randers,Nordsjælland,3,0,NA,NA,3389,Benjamin Svedborg,https://fbref.com/en/matches/c26c4e0a/Randers-Nordsjaelland-July-26-2015-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
-2015-07-26,Brøndby,Odense,1,2,NA,NA,11494,Kenn Hansen,https://fbref.com/en/matches/bc5e0338/Brondby-Odense-July-26-2015-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2015-07-26,Esbjerg,FC Copenhagen,1,2,NA,NA,9255,Peter Rasmussen,https://fbref.com/en/matches/33e7d91d/Esbjerg-FC-Copenhagen-July-26-2015-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-07-27,Viborg,Aarhus,0,0,NA,NA,6318,Michael Tykgaard,https://fbref.com/en/matches/39e38d34/Viborg-Aarhus-July-27-2015-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2015-2016
-2015-07-31,Viborg,Esbjerg,2,1,NA,NA,3557,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/00251ffb/Viborg-Esbjerg-July-31-2015-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2015-07-31,Midtjylland,Odense,1,0,NA,NA,6477,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/7c3b5ec3/Midtjylland-Odense-July-31-2015-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
-2015-08-02,Aarhus,Randers,3,2,NA,NA,9543,Kenn Hansen,https://fbref.com/en/matches/ffd4a063/Aarhus-Randers-August-2-2015-Superliga,1,1,5,0,NA,NA,NA,NA,NA,0,0,3,2,NA,NA,NA,NA,NA,2015-2016
-2015-08-02,SønderjyskE,FC Copenhagen,1,3,NA,NA,6242,Michael Johansen,https://fbref.com/en/matches/d1b9d665/SonderjyskE-FC-Copenhagen-August-2-2015-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2015-08-02,Brøndby,Hobro,0,2,NA,NA,10198,Jakob Kehlet,https://fbref.com/en/matches/1ceae5db/Brondby-Hobro-August-2-2015-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-08-03,Nordsjælland,Aalborg,2,1,NA,NA,5267,Jens Maae,https://fbref.com/en/matches/99ac0ce3/Nordsjaelland-Aalborg-August-3-2015-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
-2015-08-07,Odense,Aarhus,2,2,NA,NA,9932,Lars Christoffersen,https://fbref.com/en/matches/863572c0/Odense-Aarhus-August-7-2015-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2015-08-08,Hobro,Viborg,1,1,NA,NA,3305,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/92e10d44/Hobro-Viborg-August-8-2015-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-08-09,Esbjerg,SønderjyskE,0,4,NA,NA,7500,Dennis Mogensen,https://fbref.com/en/matches/7426f971/Esbjerg-SonderjyskE-August-9-2015-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-08-09,FC Copenhagen,Nordsjælland,1,1,NA,NA,11722,Jakob Kehlet,https://fbref.com/en/matches/f9d3b875/FC-Copenhagen-Nordsjaelland-August-9-2015-Superliga,0,0,0,1,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2015-08-09,Randers,Brøndby,3,3,NA,NA,7412,Jens Maae,https://fbref.com/en/matches/9757a3e5/Randers-Brondby-August-9-2015-Superliga,0,0,1,0,NA,NA,NA,NA,NA,1,1,2,0,NA,NA,NA,NA,NA,2015-2016
-2015-08-10,Aalborg,Midtjylland,0,2,NA,NA,7077,Benjamin Svedborg,https://fbref.com/en/matches/e1f91117/Aalborg-Midtjylland-August-10-2015-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2015-08-14,Midtjylland,FC Copenhagen,0,0,NA,NA,10822,Michael Tykgaard,https://fbref.com/en/matches/92faa16a/Midtjylland-FC-Copenhagen-August-14-2015-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
-2015-08-15,Aarhus,Aalborg,2,3,NA,NA,10114,Dennis Mogensen,https://fbref.com/en/matches/03f3d8ba/Aarhus-Aalborg-August-15-2015-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-08-16,Nordsjælland,Esbjerg,1,2,NA,NA,2704,Jakob Kehlet,https://fbref.com/en/matches/da40ac47/Nordsjaelland-Esbjerg-August-16-2015-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-08-16,Viborg,Brøndby,0,4,NA,NA,7747,Anders Poulsen,https://fbref.com/en/matches/4ac1cda7/Viborg-Brondby-August-16-2015-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-08-16,Odense,Randers,2,3,NA,NA,7692,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/fa15d9e8/Odense-Randers-August-16-2015-Superliga,0,0,3,0,NA,NA,NA,NA,NA,1,1,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-08-17,SønderjyskE,Hobro,3,0,NA,NA,4204,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/0c49bb82/SonderjyskE-Hobro-August-17-2015-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2015-08-21,Hobro,Nordsjælland,1,3,NA,NA,2007,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/de925a90/Hobro-Nordsjaelland-August-21-2015-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
-2015-08-23,Randers,Viborg,0,1,NA,NA,5347,Dennis Mogensen,https://fbref.com/en/matches/6129ae8a/Randers-Viborg-August-23-2015-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
-2015-08-23,Brøndby,SønderjyskE,1,0,NA,NA,11376,Kenn Hansen,https://fbref.com/en/matches/3728c31a/Brondby-SonderjyskE-August-23-2015-Superliga,0,0,5,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
-2015-08-23,FC Copenhagen,Aarhus,2,2,NA,NA,18837,Lars Christoffersen,https://fbref.com/en/matches/54922454/FC-Copenhagen-Aarhus-August-23-2015-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
-2015-08-23,Esbjerg,Midtjylland,1,1,NA,NA,5256,Michael Johansen,https://fbref.com/en/matches/4b89bc23/Esbjerg-Midtjylland-August-23-2015-Superliga,0,0,4,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-08-24,Aalborg,Odense,5,1,NA,NA,8041,Jakob Kehlet,https://fbref.com/en/matches/247a405c/Aalborg-Odense-August-24-2015-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-08-28,Aarhus,Esbjerg,0,0,NA,NA,11321,Benjamin Svedborg,https://fbref.com/en/matches/21bcf3f4/Aarhus-Esbjerg-August-28-2015-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
-2015-08-29,SønderjyskE,Viborg,2,1,NA,NA,4345,Jens Maae,https://fbref.com/en/matches/b2020410/SonderjyskE-Viborg-August-29-2015-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
-2015-08-30,Aalborg,Randers,0,2,NA,NA,6188,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/d68f6bda/Aalborg-Randers-August-30-2015-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-08-30,Nordsjælland,Brøndby,0,2,NA,NA,6455,Michael Tykgaard,https://fbref.com/en/matches/3919e220/Nordsjaelland-Brondby-August-30-2015-Superliga,0,0,2,1,NA,NA,NA,NA,NA,1,1,0,0,NA,NA,NA,NA,NA,2015-2016
-2015-08-30,Odense,FC Copenhagen,1,0,NA,NA,10039,Anders Poulsen,https://fbref.com/en/matches/64a2d2a7/Odense-FC-Copenhagen-August-30-2015-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
-2015-08-30,Midtjylland,Hobro,2,0,NA,NA,6008,Peter Rasmussen,https://fbref.com/en/matches/b515dceb/Midtjylland-Hobro-August-30-2015-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-09-11,Hobro,Aarhus,2,1,NA,NA,3350,Jens Maae,https://fbref.com/en/matches/a86d1bf9/Hobro-Aarhus-September-11-2015-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-09-12,Viborg,Nordsjælland,0,1,NA,NA,3254,Kenn Hansen,https://fbref.com/en/matches/14d74816/Viborg-Nordsjaelland-September-12-2015-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
-2015-09-13,Randers,SønderjyskE,1,0,NA,NA,3928,Michael Johansen,https://fbref.com/en/matches/e2a73689/Randers-SonderjyskE-September-13-2015-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2015-2016
-2015-09-13,FC Copenhagen,Aalborg,4,2,NA,NA,13253,Jakob Kehlet,https://fbref.com/en/matches/f0db2323/FC-Copenhagen-Aalborg-September-13-2015-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
-2015-09-13,Brøndby,Midtjylland,0,0,NA,NA,11535,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/7f243a5d/Brondby-Midtjylland-September-13-2015-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2015-09-14,Esbjerg,Odense,4,2,NA,NA,5329,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/1b673208/Esbjerg-Odense-September-14-2015-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
-2015-09-16,FC Copenhagen,Randers,3,0,NA,NA,10195,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/609a8ddc/FC-Copenhagen-Randers-September-16-2015-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2015-09-18,Aarhus,SønderjyskE,1,2,NA,NA,6734,Dennis Mogensen,https://fbref.com/en/matches/f543d161/Aarhus-SonderjyskE-September-18-2015-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-09-19,Odense,Viborg,2,0,NA,NA,5807,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/b813eb4a/Odense-Viborg-September-19-2015-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,1,NA,NA,NA,NA,NA,2015-2016
-2015-09-20,Midtjylland,Nordsjælland,0,1,NA,NA,8006,Benjamin Svedborg,https://fbref.com/en/matches/8699fc5e/Midtjylland-Nordsjaelland-September-20-2015-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
-2015-09-20,FC Copenhagen,Hobro,1,0,NA,NA,11914,Michael Tykgaard,https://fbref.com/en/matches/37ac48fd/FC-Copenhagen-Hobro-September-20-2015-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
-2015-09-20,Aalborg,Brøndby,4,1,NA,NA,9276,Lars Christoffersen,https://fbref.com/en/matches/39d034a5/Aalborg-Brondby-September-20-2015-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
-2015-09-21,Esbjerg,Randers,0,2,NA,NA,5575,Anders Poulsen,https://fbref.com/en/matches/2efb30fd/Esbjerg-Randers-September-21-2015-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
-2015-09-25,SønderjyskE,Odense,4,0,NA,NA,5052,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/3c03ecb3/SonderjyskE-Odense-September-25-2015-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-09-25,Viborg,Aalborg,1,0,NA,NA,5137,Peter Rasmussen,https://fbref.com/en/matches/ebe630cf/Viborg-Aalborg-September-25-2015-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-09-27,Brøndby,FC Copenhagen,1,0,NA,NA,22281,Jakob Kehlet,https://fbref.com/en/matches/cc2e6c2e/Brondby-FC-Copenhagen-September-27-2015-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-09-27,Randers,Midtjylland,0,2,NA,NA,7764,Kenn Hansen,https://fbref.com/en/matches/cc4957f9/Randers-Midtjylland-September-27-2015-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2015-2016
-2015-09-27,Nordsjælland,Aarhus,2,0,NA,NA,5871,Anders Poulsen,https://fbref.com/en/matches/6a29b263/Nordsjaelland-Aarhus-September-27-2015-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
-2015-09-28,Hobro,Esbjerg,2,2,NA,NA,2132,Dennis Mogensen,https://fbref.com/en/matches/15abaef2/Hobro-Esbjerg-September-28-2015-Superliga,0,0,5,0,NA,NA,NA,NA,NA,1,1,2,0,NA,NA,NA,NA,NA,2015-2016
-2015-10-02,Nordsjælland,Odense,1,5,NA,NA,4811,Jens Maae,https://fbref.com/en/matches/d6285637/Nordsjaelland-Odense-October-2-2015-Superliga,0,0,2,0,NA,NA,NA,NA,NA,1,1,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-10-03,Randers,Hobro,2,1,NA,NA,5374,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/35012f79/Randers-Hobro-October-3-2015-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-10-04,Aalborg,SønderjyskE,5,0,NA,NA,5518,Jakob Kehlet,https://fbref.com/en/matches/011dce9f/Aalborg-SonderjyskE-October-4-2015-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
-2015-10-04,FC Copenhagen,Viborg,1,0,NA,NA,13141,Kenn Hansen,https://fbref.com/en/matches/a6995ada/FC-Copenhagen-Viborg-October-4-2015-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
-2015-10-04,Brøndby,Esbjerg,1,1,NA,NA,11347,Michael Johansen,https://fbref.com/en/matches/83692b40/Brondby-Esbjerg-October-4-2015-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2015-10-04,Midtjylland,Aarhus,2,0,NA,NA,5604,Michael Tykgaard,https://fbref.com/en/matches/545ec4c1/Midtjylland-Aarhus-October-4-2015-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
-2015-10-16,Midtjylland,Randers,2,1,NA,NA,7868,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/749f5b60/Midtjylland-Randers-October-16-2015-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
-2015-10-17,Odense,SønderjyskE,1,2,NA,NA,5617,Anders Poulsen,https://fbref.com/en/matches/3e414e9b/Odense-SonderjyskE-October-17-2015-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
-2015-10-18,Aarhus,Nordsjælland,3,0,NA,NA,6662,Kenn Hansen,https://fbref.com/en/matches/7c3521e4/Aarhus-Nordsjaelland-October-18-2015-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
-2015-10-18,Viborg,Brøndby,0,2,NA,NA,5691,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/1f0a12ff/Viborg-Brondby-October-18-2015-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
-2015-10-18,FC Copenhagen,Hobro,3,1,NA,NA,10458,Jakob Kehlet,https://fbref.com/en/matches/e0f2f6b2/FC-Copenhagen-Hobro-October-18-2015-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-10-19,Esbjerg,Aalborg,1,2,NA,NA,5461,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/30ef35d5/Esbjerg-Aalborg-October-19-2015-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
-2015-10-23,Hobro,Aarhus,3,1,NA,NA,2745,Lars Christoffersen,https://fbref.com/en/matches/2bd592da/Hobro-Aarhus-October-23-2015-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-10-24,Viborg,Esbjerg,4,2,NA,NA,3495,Jens Maae,https://fbref.com/en/matches/dedbd129/Viborg-Esbjerg-October-24-2015-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-10-25,Nordsjælland,Aalborg,3,0,NA,NA,3801,Dennis Mogensen,https://fbref.com/en/matches/72ff15ac/Nordsjaelland-Aalborg-October-25-2015-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-10-25,SønderjyskE,FC Copenhagen,1,2,NA,NA,8210,Benjamin Svedborg,https://fbref.com/en/matches/97439e84/SonderjyskE-FC-Copenhagen-October-25-2015-Superliga,1,1,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2015-10-25,Brøndby,Midtjylland,2,1,NA,NA,11650,Michael Tykgaard,https://fbref.com/en/matches/c11494dd/Brondby-Midtjylland-October-25-2015-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2015-10-26,Randers,Odense,1,1,NA,NA,4209,Jakob Kehlet,https://fbref.com/en/matches/b767ec19/Randers-Odense-October-26-2015-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-10-30,Esbjerg,Nordsjælland,2,1,NA,NA,5143,Jakob Kehlet,https://fbref.com/en/matches/adefc3ac/Esbjerg-Nordsjaelland-October-30-2015-Superliga,1,1,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-10-31,Midtjylland,Viborg,2,4,NA,NA,7068,Dennis Mogensen,https://fbref.com/en/matches/1111b458/Midtjylland-Viborg-October-31-2015-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-11-01,Aalborg,Hobro,6,0,NA,NA,7355,Michael Johansen,https://fbref.com/en/matches/dc7b6801/Aalborg-Hobro-November-1-2015-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-11-01,FC Copenhagen,Randers,4,0,NA,NA,16492,Peter Rasmussen,https://fbref.com/en/matches/a011d7c9/FC-Copenhagen-Randers-November-1-2015-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
-2015-11-01,Odense,Brøndby,2,5,NA,NA,10272,Kenn Hansen,https://fbref.com/en/matches/29fb9755/Odense-Brondby-November-1-2015-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-11-02,Aarhus,SønderjyskE,0,0,NA,NA,5240,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/86185795/Aarhus-SonderjyskE-November-2-2015-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-11-06,SønderjyskE,Aalborg,1,2,NA,NA,3855,Jakob Kehlet,https://fbref.com/en/matches/616cb9b0/SonderjyskE-Aalborg-November-6-2015-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2015-11-06,Randers,Aarhus,4,1,NA,NA,6023,Jens Maae,https://fbref.com/en/matches/966334e7/Randers-Aarhus-November-6-2015-Superliga,1,1,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-11-07,Hobro,Nordsjælland,0,1,NA,NA,1704,Michael Tykgaard,https://fbref.com/en/matches/2d251894/Hobro-Nordsjaelland-November-7-2015-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
-2015-11-08,Viborg,Odense,0,1,NA,NA,3803,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/4fa61eed/Viborg-Odense-November-8-2015-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2015-11-08,Midtjylland,Esbjerg,5,1,NA,NA,7100,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/f690fbe6/Midtjylland-Esbjerg-November-8-2015-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,1,NA,NA,NA,NA,NA,2015-2016
-2015-11-08,Brøndby,FC Copenhagen,0,0,NA,NA,25102,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/13d204bc/Brondby-FC-Copenhagen-November-8-2015-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
-2015-11-20,Odense,Midtjylland,1,1,NA,NA,4511,Jakob Kehlet,https://fbref.com/en/matches/a49bf10c/Odense-Midtjylland-November-20-2015-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-11-21,Nordsjælland,SønderjyskE,1,2,NA,NA,2942,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/d8e1c178/Nordsjaelland-SonderjyskE-November-21-2015-Superliga,0,0,3,0,NA,NA,NA,NA,NA,1,1,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-11-22,Esbjerg,Hobro,4,4,NA,NA,5148,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/06f09d3c/Esbjerg-Hobro-November-22-2015-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2015-2016
-2015-11-22,FC Copenhagen,Viborg,0,0,NA,NA,7785,Anders Poulsen,https://fbref.com/en/matches/a0d050a4/FC-Copenhagen-Viborg-November-22-2015-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2015-11-22,Aarhus,Brøndby,1,1,NA,NA,6194,Dennis Mogensen,https://fbref.com/en/matches/a94655fe/Aarhus-Brondby-November-22-2015-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-11-23,Aalborg,Randers,3,2,NA,NA,5831,Michael Tykgaard,https://fbref.com/en/matches/0643db87/Aalborg-Randers-November-23-2015-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
-2015-11-27,Viborg,Aarhus,1,0,NA,NA,3271,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/fd7f515a/Viborg-Aarhus-November-27-2015-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-11-28,Randers,Nordsjælland,1,0,NA,NA,4874,Michael Johansen,https://fbref.com/en/matches/f5e8776c/Randers-Nordsjaelland-November-28-2015-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,1,NA,NA,NA,NA,NA,2015-2016
-2015-11-29,SønderjyskE,Hobro,2,0,NA,NA,3255,Jens Maae,https://fbref.com/en/matches/ffd1f5ab/SonderjyskE-Hobro-November-29-2015-Superliga,1,1,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2015-11-29,Brøndby,Aalborg,0,2,NA,NA,10058,Lars Christoffersen,https://fbref.com/en/matches/d22040cc/Brondby-Aalborg-November-29-2015-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2015-11-30,Odense,Esbjerg,2,1,NA,NA,4310,Benjamin Svedborg,https://fbref.com/en/matches/74924fc5/Odense-Esbjerg-November-30-2015-Superliga,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2015-12-04,Aarhus,Midtjylland,2,1,NA,NA,4892,Michael Johansen,https://fbref.com/en/matches/b47cdb0d/Aarhus-Midtjylland-December-4-2015-Superliga,1,1,4,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
-2015-12-05,Hobro,Randers,0,0,NA,NA,2423,Jakob Kehlet,https://fbref.com/en/matches/e3ce89e5/Hobro-Randers-December-5-2015-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
-2015-12-06,Esbjerg,SønderjyskE,0,1,NA,NA,5041,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/53da8e2c/Esbjerg-SonderjyskE-December-6-2015-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2015-12-06,Nordsjælland,Brøndby,0,2,NA,NA,4188,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/6813b165/Nordsjaelland-Brondby-December-6-2015-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
-2015-12-06,FC Copenhagen,Odense,4,1,NA,NA,14636,Kenn Hansen,https://fbref.com/en/matches/2941c128/FC-Copenhagen-Odense-December-6-2015-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
-2015-12-07,Aalborg,Viborg,2,0,NA,NA,8360,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/346398ad/Aalborg-Viborg-December-7-2015-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2016-02-26,Odense,Aarhus,2,2,NA,NA,7459,Jens Maae,https://fbref.com/en/matches/e1a63e31/Odense-Aarhus-February-26-2016-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,6,1,NA,NA,NA,NA,NA,2015-2016
-2016-02-27,Randers,SønderjyskE,1,1,NA,NA,4581,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/3cd8c286/Randers-SonderjyskE-February-27-2016-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2016-02-28,Viborg,Nordsjælland,1,1,NA,NA,3162,Michael Tykgaard,https://fbref.com/en/matches/f637c627/Viborg-Nordsjaelland-February-28-2016-Superliga,0,0,3,1,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2016-02-28,FC Copenhagen,Esbjerg,2,1,NA,NA,16874,Anders Poulsen,https://fbref.com/en/matches/f05b41c8/FC-Copenhagen-Esbjerg-February-28-2016-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2016-02-28,Brøndby,Hobro,1,0,NA,NA,11186,Lars Christoffersen,https://fbref.com/en/matches/83a52524/Brondby-Hobro-February-28-2016-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2016-02-29,Midtjylland,Aalborg,1,1,NA,NA,6932,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/48fdd2e8/Midtjylland-Aalborg-February-29-2016-Superliga,1,1,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
-2016-03-03,Midtjylland,FC Copenhagen,0,1,NA,NA,9522,Michael Tykgaard,https://fbref.com/en/matches/f5183535/Midtjylland-FC-Copenhagen-March-3-2016-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2016-03-04,Aalborg,Odense,0,1,NA,NA,5620,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/cadf1fbc/Aalborg-Odense-March-4-2016-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2016-03-05,Hobro,Viborg,0,6,NA,NA,1740,Jens Maae,https://fbref.com/en/matches/ab761e78/Hobro-Viborg-March-5-2016-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2016-03-06,Esbjerg,Randers,1,0,NA,NA,5012,Jakob Kehlet,https://fbref.com/en/matches/b7032f51/Esbjerg-Randers-March-6-2016-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2016-03-06,SønderjyskE,Brøndby,3,1,NA,NA,6285,Michael Johansen,https://fbref.com/en/matches/e1557d69/SonderjyskE-Brondby-March-6-2016-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2015-2016
-2016-03-06,Aarhus,FC Copenhagen,0,0,NA,NA,9225,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/c0c7ee03/Aarhus-FC-Copenhagen-March-6-2016-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,1,NA,NA,NA,NA,NA,2015-2016
-2016-03-07,Nordsjælland,Midtjylland,2,1,NA,NA,3279,Dennis Mogensen,https://fbref.com/en/matches/623c074d/Nordsjaelland-Midtjylland-March-7-2016-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2015-2016
-2016-03-11,Esbjerg,Aarhus,2,1,NA,NA,5825,Lars Christoffersen,https://fbref.com/en/matches/cb551aa9/Esbjerg-Aarhus-March-11-2016-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
-2016-03-12,Viborg,SønderjyskE,0,0,NA,NA,3167,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/78710150/Viborg-SonderjyskE-March-12-2016-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2016-03-13,Odense,Nordsjælland,3,1,NA,NA,5044,Anders Poulsen,https://fbref.com/en/matches/2a191148/Odense-Nordsjaelland-March-13-2016-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
-2016-03-13,Brøndby,Randers,1,0,NA,NA,12350,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/2cdcf0bb/Brondby-Randers-March-13-2016-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2016-03-13,FC Copenhagen,Aalborg,6,2,NA,NA,16296,Jakob Kehlet,https://fbref.com/en/matches/3363d9a3/FC-Copenhagen-Aalborg-March-13-2016-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2016-03-14,Midtjylland,Hobro,3,0,NA,NA,5344,Peter Rasmussen,https://fbref.com/en/matches/af7bdd32/Midtjylland-Hobro-March-14-2016-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2016-03-18,Aalborg,Aarhus,2,2,NA,NA,6648,Anders Poulsen,https://fbref.com/en/matches/16f80969/Aalborg-Aarhus-March-18-2016-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2016-03-19,Hobro,Odense,0,2,NA,NA,1512,Michael Tykgaard,https://fbref.com/en/matches/b628b097/Hobro-Odense-March-19-2016-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
-2016-03-20,SønderjyskE,Midtjylland,3,2,NA,NA,6545,Lars Christoffersen,https://fbref.com/en/matches/24b1c435/SonderjyskE-Midtjylland-March-20-2016-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2016-03-20,Randers,Viborg,1,3,NA,NA,4869,Dennis Mogensen,https://fbref.com/en/matches/020d1828/Randers-Viborg-March-20-2016-Superliga,0,0,0,0,NA,NA,NA,NA,NA,1,1,0,0,NA,NA,NA,NA,NA,2015-2016
-2016-03-20,Nordsjælland,FC Copenhagen,2,0,NA,NA,7351,Jens Maae,https://fbref.com/en/matches/b56a22ba/Nordsjaelland-FC-Copenhagen-March-20-2016-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2016-03-20,Brøndby,Esbjerg,0,0,NA,NA,11693,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/c944c4be/Brondby-Esbjerg-March-20-2016-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
-2016-04-01,Aalborg,Nordsjælland,1,0,NA,NA,5447,Michael Tykgaard,https://fbref.com/en/matches/33ac1ff0/Aalborg-Nordsjaelland-April-1-2016-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
-2016-04-02,Aarhus,Hobro,1,1,NA,NA,8382,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/adc85f2c/Aarhus-Hobro-April-2-2016-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
-2016-04-03,Odense,Randers,0,1,NA,NA,6611,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/c767f038/Odense-Randers-April-3-2016-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2016-04-03,FC Copenhagen,SønderjyskE,1,0,NA,NA,15842,Michael Johansen,https://fbref.com/en/matches/0f397428/FC-Copenhagen-SonderjyskE-April-3-2016-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
-2016-04-03,Midtjylland,Brøndby,2,0,NA,NA,9508,Jakob Kehlet,https://fbref.com/en/matches/3335e535/Midtjylland-Brondby-April-3-2016-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
-2016-04-04,Esbjerg,Viborg,1,0,NA,NA,5629,Peter Rasmussen,https://fbref.com/en/matches/1451ef84/Esbjerg-Viborg-April-4-2016-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
-2016-04-08,Viborg,Midtjylland,1,1,NA,NA,7502,Anders Poulsen,https://fbref.com/en/matches/bfcc057c/Viborg-Midtjylland-April-8-2016-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2016-04-09,SønderjyskE,Aarhus,2,2,NA,NA,5347,Dennis Mogensen,https://fbref.com/en/matches/7b004121/SonderjyskE-Aarhus-April-9-2016-Superliga,0,0,5,1,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2016-04-10,Hobro,Aalborg,0,2,NA,NA,3487,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/b8d49728/Hobro-Aalborg-April-10-2016-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
-2016-04-10,Randers,FC Copenhagen,1,1,NA,NA,5705,Peter Rasmussen,https://fbref.com/en/matches/2bdb8f5a/Randers-FC-Copenhagen-April-10-2016-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
-2016-04-10,Brøndby,Odense,1,0,NA,NA,11263,Jens Maae,https://fbref.com/en/matches/4e1c7baf/Brondby-Odense-April-10-2016-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2016-04-11,Nordsjælland,Esbjerg,0,0,NA,NA,2107,Michael Tykgaard,https://fbref.com/en/matches/f6214ce8/Nordsjaelland-Esbjerg-April-11-2016-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2016-04-15,Nordsjælland,Hobro,2,1,NA,NA,2357,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/b6c095f8/Nordsjaelland-Hobro-April-15-2016-Superliga,0,0,0,0,NA,NA,NA,NA,NA,1,1,2,0,NA,NA,NA,NA,NA,2015-2016
-2016-04-16,Aarhus,Randers,0,2,NA,NA,7713,Anders Poulsen,https://fbref.com/en/matches/40b704a3/Aarhus-Randers-April-16-2016-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2016-04-17,Odense,Viborg,5,1,NA,NA,4722,Lars Christoffersen,https://fbref.com/en/matches/4fc529cc/Odense-Viborg-April-17-2016-Superliga,1,1,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
-2016-04-17,Aalborg,SønderjyskE,1,2,NA,NA,6185,Jakob Kehlet,https://fbref.com/en/matches/bbd656e9/Aalborg-SonderjyskE-April-17-2016-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2016-04-17,FC Copenhagen,Brøndby,2,0,NA,NA,29178,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/6de960ed/FC-Copenhagen-Brondby-April-17-2016-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
-2016-04-18,Esbjerg,Midtjylland,0,2,NA,NA,5596,Michael Johansen,https://fbref.com/en/matches/d767dda6/Esbjerg-Midtjylland-April-18-2016-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
-2016-04-22,Midtjylland,Odense,2,0,NA,NA,7011,Michael Tykgaard,https://fbref.com/en/matches/b11cfa48/Midtjylland-Odense-April-22-2016-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2016-04-23,Hobro,Esbjerg,2,2,NA,NA,1570,Benjamin Svedborg,https://fbref.com/en/matches/8e0c1376/Hobro-Esbjerg-April-23-2016-Superliga,0,0,6,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
-2016-04-24,SønderjyskE,Nordsjælland,3,1,NA,NA,5585,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/ead9af15/SonderjyskE-Nordsjaelland-April-24-2016-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2016-04-24,Viborg,FC Copenhagen,1,1,NA,NA,4437,Michael Johansen,https://fbref.com/en/matches/ac1309db/Viborg-FC-Copenhagen-April-24-2016-Superliga,0,0,4,1,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
-2016-04-24,Brøndby,Aarhus,2,1,NA,NA,8440,Peter Rasmussen,https://fbref.com/en/matches/e1d4ae2e/Brondby-Aarhus-April-24-2016-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2015-2016
-2016-04-25,Randers,Aalborg,0,0,NA,NA,4136,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/d55bff9e/Randers-Aalborg-April-25-2016-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
-2016-04-29,Aarhus,Viborg,1,2,NA,NA,2459,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/a2e18aeb/Aarhus-Viborg-April-29-2016-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2016-04-30,Hobro,SønderjyskE,1,2,NA,NA,1337,Anders Poulsen,https://fbref.com/en/matches/3229684f/Hobro-SonderjyskE-April-30-2016-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-01,Nordsjælland,Randers,2,2,NA,NA,3702,Jakob Kehlet,https://fbref.com/en/matches/0dfc5e62/Nordsjaelland-Randers-May-1-2016-Superliga,0,0,5,1,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-01,Aalborg,Brøndby,3,0,NA,NA,9420,Dennis Mogensen,https://fbref.com/en/matches/166443a5/Aalborg-Brondby-May-1-2016-Superliga,1,1,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-01,FC Copenhagen,Midtjylland,5,3,NA,NA,18089,Jens Maae,https://fbref.com/en/matches/dd034918/FC-Copenhagen-Midtjylland-May-1-2016-Superliga,1,1,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-02,Esbjerg,Odense,0,2,NA,NA,5675,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/1c5a466e/Esbjerg-Odense-May-2-2016-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-06,SønderjyskE,Esbjerg,2,0,NA,NA,7684,Michael Tykgaard,https://fbref.com/en/matches/7ede2dd8/SonderjyskE-Esbjerg-May-6-2016-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-07,Randers,Hobro,2,0,NA,NA,4599,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/6c40ae9a/Randers-Hobro-May-7-2016-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-08,Viborg,Aalborg,0,2,NA,NA,4655,Benjamin Svedborg,https://fbref.com/en/matches/acb178b2/Viborg-Aalborg-May-8-2016-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-08,Odense,FC Copenhagen,0,1,NA,NA,9911,Jakob Kehlet,https://fbref.com/en/matches/6dee192c/Odense-FC-Copenhagen-May-8-2016-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-08,Midtjylland,Aarhus,1,1,NA,NA,8002,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/001562a2/Midtjylland-Aarhus-May-8-2016-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-09,Brøndby,Nordsjælland,2,1,NA,NA,8951,Michael Johansen,https://fbref.com/en/matches/4cfe0a4a/Brondby-Nordsjaelland-May-9-2016-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-11,SønderjyskE,Viborg,2,0,NA,NA,6345,Lars Christoffersen,https://fbref.com/en/matches/d9f2397d/SonderjyskE-Viborg-May-11-2016-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-11,Hobro,Midtjylland,1,4,NA,NA,1411,Peter Rasmussen,https://fbref.com/en/matches/3e278868/Hobro-Midtjylland-May-11-2016-Superliga,0,0,2,0,NA,NA,NA,NA,NA,1,1,1,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-11,Aarhus,Esbjerg,5,1,NA,NA,5032,Dennis Mogensen,https://fbref.com/en/matches/f2aa636a/Aarhus-Esbjerg-May-11-2016-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-12,Nordsjælland,Odense,0,1,NA,NA,2526,Jens Maae,https://fbref.com/en/matches/58ccc720/Nordsjaelland-Odense-May-12-2016-Superliga,0,0,3,1,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-12,Randers,Brøndby,0,2,NA,NA,5671,Michael Tykgaard,https://fbref.com/en/matches/25d99514/Randers-Brondby-May-12-2016-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-12,Aalborg,FC Copenhagen,0,2,NA,NA,10036,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/7633a6f0/Aalborg-FC-Copenhagen-May-12-2016-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-14,Midtjylland,SønderjyskE,3,2,NA,NA,7017,Jakob Kehlet,https://fbref.com/en/matches/7a4577ff/Midtjylland-SonderjyskE-May-14-2016-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-15,Odense,Hobro,0,1,NA,NA,5776,Benjamin Svedborg,https://fbref.com/en/matches/22b15eae/Odense-Hobro-May-15-2016-Superliga,0,1,0,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-16,Viborg,Randers,2,3,NA,NA,4304,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/a8f0fc6a/Viborg-Randers-May-16-2016-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-16,FC Copenhagen,Nordsjælland,2,0,NA,NA,23063,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/37bbff86/FC-Copenhagen-Nordsjaelland-May-16-2016-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-16,Esbjerg,Brøndby,2,3,NA,NA,8097,Jens Maae,https://fbref.com/en/matches/1a8f4e7a/Esbjerg-Brondby-May-16-2016-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-17,Aarhus,Aalborg,2,0,NA,NA,5551,Anders Poulsen,https://fbref.com/en/matches/f5291194/Aarhus-Aalborg-May-17-2016-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-20,SønderjyskE,Odense,3,1,NA,NA,7242,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/fa9b7b27/SonderjyskE-Odense-May-20-2016-Superliga,1,1,1,0,NA,NA,NA,NA,NA,0,0,6,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-21,Nordsjælland,Aarhus,3,3,NA,NA,3012,Benjamin Svedborg,https://fbref.com/en/matches/dbb0b965/Nordsjaelland-Aarhus-May-21-2016-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-22,Randers,Midtjylland,1,2,NA,NA,4819,Michael Johansen,https://fbref.com/en/matches/75d454ee/Randers-Midtjylland-May-22-2016-Superliga,0,0,0,1,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-22,Hobro,FC Copenhagen,4,2,NA,NA,3144,Jakob Kehlet,https://fbref.com/en/matches/3ea53662/Hobro-FC-Copenhagen-May-22-2016-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-22,Aalborg,Esbjerg,1,2,NA,NA,6598,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/51d33fae/Aalborg-Esbjerg-May-22-2016-Superliga,0,0,4,1,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2015-2016
-2016-05-23,Brøndby,Viborg,0,1,NA,NA,10116,Anders Poulsen,https://fbref.com/en/matches/a3b1e7f7/Brondby-Viborg-May-23-2016-Superliga,0,0,5,1,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-26,Hobro,Brøndby,0,2,NA,NA,3231,Benjamin Svedborg,https://fbref.com/en/matches/dbf68214/Hobro-Brondby-May-26-2016-Superliga,0,0,2,1,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-26,SønderjyskE,Randers,1,1,NA,NA,8125,Jens Maae,https://fbref.com/en/matches/06a2fe0e/SonderjyskE-Randers-May-26-2016-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-26,Nordsjælland,Viborg,1,0,NA,NA,1754,Dennis Mogensen,https://fbref.com/en/matches/952cf367/Nordsjaelland-Viborg-May-26-2016-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-26,Esbjerg,FC Copenhagen,1,4,NA,NA,6089,Lars Christoffersen,https://fbref.com/en/matches/4d038233/Esbjerg-FC-Copenhagen-May-26-2016-Superliga,0,0,1,0,NA,NA,NA,NA,NA,1,1,1,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-26,Aalborg,Midtjylland,0,0,NA,NA,7403,Michael Tykgaard,https://fbref.com/en/matches/45658307/Aalborg-Midtjylland-May-26-2016-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-26,Aarhus,Odense,2,1,NA,NA,6308,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/6ae93d95/Aarhus-Odense-May-26-2016-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-29,FC Copenhagen,Aarhus,2,1,NA,NA,27466,Michael Johansen,https://fbref.com/en/matches/fff1c64d/FC-Copenhagen-Aarhus-May-29-2016-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-29,Viborg,Hobro,1,0,NA,NA,4154,Jens Maae,https://fbref.com/en/matches/a924671e/Viborg-Hobro-May-29-2016-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-29,Odense,Aalborg,3,2,NA,NA,6056,Dennis Mogensen,https://fbref.com/en/matches/f822cef1/Odense-Aalborg-May-29-2016-Superliga,0,1,2,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-29,Midtjylland,Nordsjælland,4,1,NA,NA,9514,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/daa876d7/Midtjylland-Nordsjaelland-May-29-2016-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-29,Brøndby,SønderjyskE,1,2,NA,NA,18958,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/0ec657e2/Brondby-SonderjyskE-May-29-2016-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2015-2016
-2016-05-29,Randers,Esbjerg,3,1,NA,NA,8541,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/5cc12164/Randers-Esbjerg-May-29-2016-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2015-2016
+2015-07-17,Nordsjælland,SønderjyskE,0,2,NA,NA,3211,Anders Poulsen,https://fbref.com/en/matches/752b87e3/Nordsjaelland-SonderjyskE-July-17-2015-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-2016
+2015-07-18,Midtjylland,Viborg,2,0,NA,NA,7232,Lars Christoffersen,https://fbref.com/en/matches/5b3c8527/Midtjylland-Viborg-July-18-2015-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-07-19,Odense,Hobro,3,0,NA,NA,7797,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/4d269eda/Odense-Hobro-July-19-2015-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2015-07-19,AGF,Brøndby,2,1,NA,NA,13437,Jens Maae,https://fbref.com/en/matches/935c40cb/AGF-Brondby-July-19-2015-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2015-07-20,Aalborg,Esbjerg,1,1,NA,NA,7764,Michael Tykgaard,https://fbref.com/en/matches/20cb45e4/Aalborg-Esbjerg-July-20-2015-Superliga,0,0,2,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2015-2016
+2015-07-24,Hobro,Aalborg,0,1,NA,NA,4686,Dennis Mogensen,https://fbref.com/en/matches/87441782/Hobro-Aalborg-July-24-2015-Superliga,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-07-24,SønderjyskE,Midtjylland,1,2,NA,NA,5245,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/b4d4c171/SonderjyskE-Midtjylland-July-24-2015-Superliga,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2015-07-26,Randers,Nordsjælland,3,0,NA,NA,3389,Benjamin Svedborg,https://fbref.com/en/matches/c26c4e0a/Randers-Nordsjaelland-July-26-2015-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-2016
+2015-07-26,Brøndby,Odense,1,2,NA,NA,11494,Kenn Hansen,https://fbref.com/en/matches/bc5e0338/Brondby-Odense-July-26-2015-Superliga,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2015-07-26,Esbjerg,FC Copenhagen,1,2,NA,NA,9255,Peter Rasmussen,https://fbref.com/en/matches/33e7d91d/Esbjerg-FC-Copenhagen-July-26-2015-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-07-27,Viborg,AGF,0,0,NA,NA,6318,Michael Tykgaard,https://fbref.com/en/matches/39e38d34/Viborg-AGF-July-27-2015-Superliga,0,0,1,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2015-2016
+2015-07-31,Viborg,Esbjerg,2,1,NA,NA,3557,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/00251ffb/Viborg-Esbjerg-July-31-2015-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2015-07-31,Midtjylland,Odense,1,0,NA,NA,6477,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/7c3b5ec3/Midtjylland-Odense-July-31-2015-Superliga,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2015-2016
+2015-08-02,AGF,Randers,3,2,NA,NA,9543,Kenn Hansen,https://fbref.com/en/matches/ffd4a063/AGF-Randers-August-2-2015-Superliga,1,1,5,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,2015-2016
+2015-08-02,SønderjyskE,FC Copenhagen,1,3,NA,NA,6242,Michael Johansen,https://fbref.com/en/matches/d1b9d665/SonderjyskE-FC-Copenhagen-August-2-2015-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2015-08-02,Brøndby,Hobro,0,2,NA,NA,10198,Jakob Kehlet,https://fbref.com/en/matches/1ceae5db/Brondby-Hobro-August-2-2015-Superliga,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-08-03,Nordsjælland,Aalborg,2,1,NA,NA,5267,Jens Maae,https://fbref.com/en/matches/99ac0ce3/Nordsjaelland-Aalborg-August-3-2015-Superliga,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2015-2016
+2015-08-07,Odense,AGF,2,2,NA,NA,9932,Lars Christoffersen,https://fbref.com/en/matches/863572c0/Odense-AGF-August-7-2015-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2015-08-08,Hobro,Viborg,1,1,NA,NA,3305,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/92e10d44/Hobro-Viborg-August-8-2015-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-08-09,Esbjerg,SønderjyskE,0,4,NA,NA,7500,Dennis Mogensen,https://fbref.com/en/matches/7426f971/Esbjerg-SonderjyskE-August-9-2015-Superliga,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-08-09,FC Copenhagen,Nordsjælland,1,1,NA,NA,11722,Jakob Kehlet,https://fbref.com/en/matches/f9d3b875/FC-Copenhagen-Nordsjaelland-August-9-2015-Superliga,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2015-08-09,Randers,Brøndby,3,3,NA,NA,7412,Jens Maae,https://fbref.com/en/matches/9757a3e5/Randers-Brondby-August-9-2015-Superliga,0,0,1,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2015-2016
+2015-08-10,Aalborg,Midtjylland,0,2,NA,NA,7077,Benjamin Svedborg,https://fbref.com/en/matches/e1f91117/Aalborg-Midtjylland-August-10-2015-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2015-08-14,Midtjylland,FC Copenhagen,0,0,NA,NA,10822,Michael Tykgaard,https://fbref.com/en/matches/92faa16a/Midtjylland-FC-Copenhagen-August-14-2015-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2015-2016
+2015-08-15,AGF,Aalborg,2,3,NA,NA,10114,Dennis Mogensen,https://fbref.com/en/matches/03f3d8ba/AGF-Aalborg-August-15-2015-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-08-16,Nordsjælland,Esbjerg,1,2,NA,NA,2704,Jakob Kehlet,https://fbref.com/en/matches/da40ac47/Nordsjaelland-Esbjerg-August-16-2015-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-08-16,Viborg,Brøndby,0,4,NA,NA,7747,Anders Poulsen,https://fbref.com/en/matches/4ac1cda7/Viborg-Brondby-August-16-2015-Superliga,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-08-16,Odense,Randers,2,3,NA,NA,7692,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/fa15d9e8/Odense-Randers-August-16-2015-Superliga,0,0,3,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2015-2016
+2015-08-17,SønderjyskE,Hobro,3,0,NA,NA,4204,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/0c49bb82/SonderjyskE-Hobro-August-17-2015-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2015-08-21,Hobro,Nordsjælland,1,3,NA,NA,2007,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/de925a90/Hobro-Nordsjaelland-August-21-2015-Superliga,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2015-2016
+2015-08-23,Randers,Viborg,0,1,NA,NA,5347,Dennis Mogensen,https://fbref.com/en/matches/6129ae8a/Randers-Viborg-August-23-2015-Superliga,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2015-2016
+2015-08-23,Brøndby,SønderjyskE,1,0,NA,NA,11376,Kenn Hansen,https://fbref.com/en/matches/3728c31a/Brondby-SonderjyskE-August-23-2015-Superliga,0,0,5,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2015-2016
+2015-08-23,FC Copenhagen,AGF,2,2,NA,NA,18837,Lars Christoffersen,https://fbref.com/en/matches/54922454/FC-Copenhagen-AGF-August-23-2015-Superliga,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2015-2016
+2015-08-23,Esbjerg,Midtjylland,1,1,NA,NA,5256,Michael Johansen,https://fbref.com/en/matches/4b89bc23/Esbjerg-Midtjylland-August-23-2015-Superliga,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-08-24,Aalborg,Odense,5,1,NA,NA,8041,Jakob Kehlet,https://fbref.com/en/matches/247a405c/Aalborg-Odense-August-24-2015-Superliga,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-08-28,AGF,Esbjerg,0,0,NA,NA,11321,Benjamin Svedborg,https://fbref.com/en/matches/21bcf3f4/AGF-Esbjerg-August-28-2015-Superliga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-2016
+2015-08-29,SønderjyskE,Viborg,2,1,NA,NA,4345,Jens Maae,https://fbref.com/en/matches/b2020410/SonderjyskE-Viborg-August-29-2015-Superliga,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2015-2016
+2015-08-30,Aalborg,Randers,0,2,NA,NA,6188,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/d68f6bda/Aalborg-Randers-August-30-2015-Superliga,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-08-30,Nordsjælland,Brøndby,0,2,NA,NA,6455,Michael Tykgaard,https://fbref.com/en/matches/3919e220/Nordsjaelland-Brondby-August-30-2015-Superliga,0,0,2,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2015-2016
+2015-08-30,Odense,FC Copenhagen,1,0,NA,NA,10039,Anders Poulsen,https://fbref.com/en/matches/64a2d2a7/Odense-FC-Copenhagen-August-30-2015-Superliga,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-2016
+2015-08-30,Midtjylland,Hobro,2,0,NA,NA,6008,Peter Rasmussen,https://fbref.com/en/matches/b515dceb/Midtjylland-Hobro-August-30-2015-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-09-11,Hobro,AGF,2,1,NA,NA,3350,Jens Maae,https://fbref.com/en/matches/a86d1bf9/Hobro-AGF-September-11-2015-Superliga,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-09-12,Viborg,Nordsjælland,0,1,NA,NA,3254,Kenn Hansen,https://fbref.com/en/matches/14d74816/Viborg-Nordsjaelland-September-12-2015-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2015-2016
+2015-09-13,Randers,SønderjyskE,1,0,NA,NA,3928,Michael Johansen,https://fbref.com/en/matches/e2a73689/Randers-SonderjyskE-September-13-2015-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2015-2016
+2015-09-13,FC Copenhagen,Aalborg,4,2,NA,NA,13253,Jakob Kehlet,https://fbref.com/en/matches/f0db2323/FC-Copenhagen-Aalborg-September-13-2015-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-2016
+2015-09-13,Brøndby,Midtjylland,0,0,NA,NA,11535,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/7f243a5d/Brondby-Midtjylland-September-13-2015-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2015-09-14,Esbjerg,Odense,4,2,NA,NA,5329,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/1b673208/Esbjerg-Odense-September-14-2015-Superliga,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-2016
+2015-09-16,FC Copenhagen,Randers,3,0,NA,NA,10195,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/609a8ddc/FC-Copenhagen-Randers-September-16-2015-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2015-09-18,AGF,SønderjyskE,1,2,NA,NA,6734,Dennis Mogensen,https://fbref.com/en/matches/f543d161/AGF-SonderjyskE-September-18-2015-Superliga,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-09-19,Odense,Viborg,2,0,NA,NA,5807,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/b813eb4a/Odense-Viborg-September-19-2015-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2015-2016
+2015-09-20,Midtjylland,Nordsjælland,0,1,NA,NA,8006,Benjamin Svedborg,https://fbref.com/en/matches/8699fc5e/Midtjylland-Nordsjaelland-September-20-2015-Superliga,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2015-2016
+2015-09-20,FC Copenhagen,Hobro,1,0,NA,NA,11914,Michael Tykgaard,https://fbref.com/en/matches/37ac48fd/FC-Copenhagen-Hobro-September-20-2015-Superliga,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2015-2016
+2015-09-20,Aalborg,Brøndby,4,1,NA,NA,9276,Lars Christoffersen,https://fbref.com/en/matches/39d034a5/Aalborg-Brondby-September-20-2015-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2015-2016
+2015-09-21,Esbjerg,Randers,0,2,NA,NA,5575,Anders Poulsen,https://fbref.com/en/matches/2efb30fd/Esbjerg-Randers-September-21-2015-Superliga,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2015-2016
+2015-09-25,SønderjyskE,Odense,4,0,NA,NA,5052,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/3c03ecb3/SonderjyskE-Odense-September-25-2015-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-09-25,Viborg,Aalborg,1,0,NA,NA,5137,Peter Rasmussen,https://fbref.com/en/matches/ebe630cf/Viborg-Aalborg-September-25-2015-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-09-27,Brøndby,FC Copenhagen,1,0,NA,NA,22281,Jakob Kehlet,https://fbref.com/en/matches/cc2e6c2e/Brondby-FC-Copenhagen-September-27-2015-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-09-27,Randers,Midtjylland,0,2,NA,NA,7764,Kenn Hansen,https://fbref.com/en/matches/cc4957f9/Randers-Midtjylland-September-27-2015-Superliga,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2015-2016
+2015-09-27,Nordsjælland,AGF,2,0,NA,NA,5871,Anders Poulsen,https://fbref.com/en/matches/6a29b263/Nordsjaelland-AGF-September-27-2015-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-2016
+2015-09-28,Hobro,Esbjerg,2,2,NA,NA,2132,Dennis Mogensen,https://fbref.com/en/matches/15abaef2/Hobro-Esbjerg-September-28-2015-Superliga,0,0,5,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2015-2016
+2015-10-02,Nordsjælland,Odense,1,5,NA,NA,4811,Jens Maae,https://fbref.com/en/matches/d6285637/Nordsjaelland-Odense-October-2-2015-Superliga,0,0,2,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2015-2016
+2015-10-03,Randers,Hobro,2,1,NA,NA,5374,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/35012f79/Randers-Hobro-October-3-2015-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-10-04,Aalborg,SønderjyskE,5,0,NA,NA,5518,Jakob Kehlet,https://fbref.com/en/matches/011dce9f/Aalborg-SonderjyskE-October-4-2015-Superliga,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-2016
+2015-10-04,FC Copenhagen,Viborg,1,0,NA,NA,13141,Kenn Hansen,https://fbref.com/en/matches/a6995ada/FC-Copenhagen-Viborg-October-4-2015-Superliga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-2016
+2015-10-04,Brøndby,Esbjerg,1,1,NA,NA,11347,Michael Johansen,https://fbref.com/en/matches/83692b40/Brondby-Esbjerg-October-4-2015-Superliga,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2015-10-04,Midtjylland,AGF,2,0,NA,NA,5604,Michael Tykgaard,https://fbref.com/en/matches/545ec4c1/Midtjylland-AGF-October-4-2015-Superliga,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2015-2016
+2015-10-16,Midtjylland,Randers,2,1,NA,NA,7868,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/749f5b60/Midtjylland-Randers-October-16-2015-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-2016
+2015-10-17,Odense,SønderjyskE,1,2,NA,NA,5617,Anders Poulsen,https://fbref.com/en/matches/3e414e9b/Odense-SonderjyskE-October-17-2015-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2015-2016
+2015-10-18,AGF,Nordsjælland,3,0,NA,NA,6662,Kenn Hansen,https://fbref.com/en/matches/7c3521e4/AGF-Nordsjaelland-October-18-2015-Superliga,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-2016
+2015-10-18,Viborg,Brøndby,0,2,NA,NA,5691,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/1f0a12ff/Viborg-Brondby-October-18-2015-Superliga,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2015-2016
+2015-10-18,FC Copenhagen,Hobro,3,1,NA,NA,10458,Jakob Kehlet,https://fbref.com/en/matches/e0f2f6b2/FC-Copenhagen-Hobro-October-18-2015-Superliga,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-10-19,Esbjerg,Aalborg,1,2,NA,NA,5461,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/30ef35d5/Esbjerg-Aalborg-October-19-2015-Superliga,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2015-2016
+2015-10-23,Hobro,AGF,3,1,NA,NA,2745,Lars Christoffersen,https://fbref.com/en/matches/2bd592da/Hobro-AGF-October-23-2015-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-10-24,Viborg,Esbjerg,4,2,NA,NA,3495,Jens Maae,https://fbref.com/en/matches/dedbd129/Viborg-Esbjerg-October-24-2015-Superliga,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-10-25,Nordsjælland,Aalborg,3,0,NA,NA,3801,Dennis Mogensen,https://fbref.com/en/matches/72ff15ac/Nordsjaelland-Aalborg-October-25-2015-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-10-25,SønderjyskE,FC Copenhagen,1,2,NA,NA,8210,Benjamin Svedborg,https://fbref.com/en/matches/97439e84/SonderjyskE-FC-Copenhagen-October-25-2015-Superliga,1,1,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2015-10-25,Brøndby,Midtjylland,2,1,NA,NA,11650,Michael Tykgaard,https://fbref.com/en/matches/c11494dd/Brondby-Midtjylland-October-25-2015-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2015-10-26,Randers,Odense,1,1,NA,NA,4209,Jakob Kehlet,https://fbref.com/en/matches/b767ec19/Randers-Odense-October-26-2015-Superliga,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-10-30,Esbjerg,Nordsjælland,2,1,NA,NA,5143,Jakob Kehlet,https://fbref.com/en/matches/adefc3ac/Esbjerg-Nordsjaelland-October-30-2015-Superliga,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-10-31,Midtjylland,Viborg,2,4,NA,NA,7068,Dennis Mogensen,https://fbref.com/en/matches/1111b458/Midtjylland-Viborg-October-31-2015-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-11-01,Aalborg,Hobro,6,0,NA,NA,7355,Michael Johansen,https://fbref.com/en/matches/dc7b6801/Aalborg-Hobro-November-1-2015-Superliga,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-11-01,FC Copenhagen,Randers,4,0,NA,NA,16492,Peter Rasmussen,https://fbref.com/en/matches/a011d7c9/FC-Copenhagen-Randers-November-1-2015-Superliga,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2015-2016
+2015-11-01,Odense,Brøndby,2,5,NA,NA,10272,Kenn Hansen,https://fbref.com/en/matches/29fb9755/Odense-Brondby-November-1-2015-Superliga,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-11-02,AGF,SønderjyskE,0,0,NA,NA,5240,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/86185795/AGF-SonderjyskE-November-2-2015-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-11-06,SønderjyskE,Aalborg,1,2,NA,NA,3855,Jakob Kehlet,https://fbref.com/en/matches/616cb9b0/SonderjyskE-Aalborg-November-6-2015-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2015-11-06,Randers,AGF,4,1,NA,NA,6023,Jens Maae,https://fbref.com/en/matches/966334e7/Randers-AGF-November-6-2015-Superliga,1,1,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-11-07,Hobro,Nordsjælland,0,1,NA,NA,1704,Michael Tykgaard,https://fbref.com/en/matches/2d251894/Hobro-Nordsjaelland-November-7-2015-Superliga,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2015-2016
+2015-11-08,Viborg,Odense,0,1,NA,NA,3803,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/4fa61eed/Viborg-Odense-November-8-2015-Superliga,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2015-11-08,Midtjylland,Esbjerg,5,1,NA,NA,7100,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/f690fbe6/Midtjylland-Esbjerg-November-8-2015-Superliga,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2015-2016
+2015-11-08,Brøndby,FC Copenhagen,0,0,NA,NA,25102,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/13d204bc/Brondby-FC-Copenhagen-November-8-2015-Superliga,0,0,2,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2015-2016
+2015-11-20,Odense,Midtjylland,1,1,NA,NA,4511,Jakob Kehlet,https://fbref.com/en/matches/a49bf10c/Odense-Midtjylland-November-20-2015-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-11-21,Nordsjælland,SønderjyskE,1,2,NA,NA,2942,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/d8e1c178/Nordsjaelland-SonderjyskE-November-21-2015-Superliga,0,0,3,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2015-2016
+2015-11-22,Esbjerg,Hobro,4,4,NA,NA,5148,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/06f09d3c/Esbjerg-Hobro-November-22-2015-Superliga,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2015-2016
+2015-11-22,FC Copenhagen,Viborg,0,0,NA,NA,7785,Anders Poulsen,https://fbref.com/en/matches/a0d050a4/FC-Copenhagen-Viborg-November-22-2015-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2015-11-22,AGF,Brøndby,1,1,NA,NA,6194,Dennis Mogensen,https://fbref.com/en/matches/a94655fe/AGF-Brondby-November-22-2015-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-11-23,Aalborg,Randers,3,2,NA,NA,5831,Michael Tykgaard,https://fbref.com/en/matches/0643db87/Aalborg-Randers-November-23-2015-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2015-2016
+2015-11-27,Viborg,AGF,1,0,NA,NA,3271,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/fd7f515a/Viborg-AGF-November-27-2015-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-11-28,Randers,Nordsjælland,1,0,NA,NA,4874,Michael Johansen,https://fbref.com/en/matches/f5e8776c/Randers-Nordsjaelland-November-28-2015-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2015-2016
+2015-11-29,SønderjyskE,Hobro,2,0,NA,NA,3255,Jens Maae,https://fbref.com/en/matches/ffd1f5ab/SonderjyskE-Hobro-November-29-2015-Superliga,1,1,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2015-11-29,Brøndby,Aalborg,0,2,NA,NA,10058,Lars Christoffersen,https://fbref.com/en/matches/d22040cc/Brondby-Aalborg-November-29-2015-Superliga,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2015-11-30,Odense,Esbjerg,2,1,NA,NA,4310,Benjamin Svedborg,https://fbref.com/en/matches/74924fc5/Odense-Esbjerg-November-30-2015-Superliga,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2015-12-04,AGF,Midtjylland,2,1,NA,NA,4892,Michael Johansen,https://fbref.com/en/matches/b47cdb0d/AGF-Midtjylland-December-4-2015-Superliga,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-2016
+2015-12-05,Hobro,Randers,0,0,NA,NA,2423,Jakob Kehlet,https://fbref.com/en/matches/e3ce89e5/Hobro-Randers-December-5-2015-Superliga,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-2016
+2015-12-06,Esbjerg,SønderjyskE,0,1,NA,NA,5041,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/53da8e2c/Esbjerg-SonderjyskE-December-6-2015-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2015-12-06,Nordsjælland,Brøndby,0,2,NA,NA,4188,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/6813b165/Nordsjaelland-Brondby-December-6-2015-Superliga,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2015-2016
+2015-12-06,FC Copenhagen,Odense,4,1,NA,NA,14636,Kenn Hansen,https://fbref.com/en/matches/2941c128/FC-Copenhagen-Odense-December-6-2015-Superliga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-2016
+2015-12-07,Aalborg,Viborg,2,0,NA,NA,8360,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/346398ad/Aalborg-Viborg-December-7-2015-Superliga,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2016-02-26,Odense,AGF,2,2,NA,NA,7459,Jens Maae,https://fbref.com/en/matches/e1a63e31/Odense-AGF-February-26-2016-Superliga,0,0,2,0,0,0,0,0,0,0,0,6,1,0,0,0,0,0,2015-2016
+2016-02-27,Randers,SønderjyskE,1,1,NA,NA,4581,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/3cd8c286/Randers-SonderjyskE-February-27-2016-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2016-02-28,Viborg,Nordsjælland,1,1,NA,NA,3162,Michael Tykgaard,https://fbref.com/en/matches/f637c627/Viborg-Nordsjaelland-February-28-2016-Superliga,0,0,3,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2016-02-28,FC Copenhagen,Esbjerg,2,1,NA,NA,16874,Anders Poulsen,https://fbref.com/en/matches/f05b41c8/FC-Copenhagen-Esbjerg-February-28-2016-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2016-02-28,Brøndby,Hobro,1,0,NA,NA,11186,Lars Christoffersen,https://fbref.com/en/matches/83a52524/Brondby-Hobro-February-28-2016-Superliga,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2016-02-29,Midtjylland,Aalborg,1,1,NA,NA,6932,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/48fdd2e8/Midtjylland-Aalborg-February-29-2016-Superliga,1,1,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2015-2016
+2016-03-03,Midtjylland,FC Copenhagen,0,1,NA,NA,9522,Michael Tykgaard,https://fbref.com/en/matches/f5183535/Midtjylland-FC-Copenhagen-March-3-2016-Superliga,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2016-03-04,Aalborg,Odense,0,1,NA,NA,5620,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/cadf1fbc/Aalborg-Odense-March-4-2016-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2016-03-05,Hobro,Viborg,0,6,NA,NA,1740,Jens Maae,https://fbref.com/en/matches/ab761e78/Hobro-Viborg-March-5-2016-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2016-03-06,Esbjerg,Randers,1,0,NA,NA,5012,Jakob Kehlet,https://fbref.com/en/matches/b7032f51/Esbjerg-Randers-March-6-2016-Superliga,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2016-03-06,SønderjyskE,Brøndby,3,1,NA,NA,6285,Michael Johansen,https://fbref.com/en/matches/e1557d69/SonderjyskE-Brondby-March-6-2016-Superliga,0,0,3,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2015-2016
+2016-03-06,AGF,FC Copenhagen,0,0,NA,NA,9225,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/c0c7ee03/AGF-FC-Copenhagen-March-6-2016-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2015-2016
+2016-03-07,Nordsjælland,Midtjylland,2,1,NA,NA,3279,Dennis Mogensen,https://fbref.com/en/matches/623c074d/Nordsjaelland-Midtjylland-March-7-2016-Superliga,0,0,3,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2015-2016
+2016-03-11,Esbjerg,AGF,2,1,NA,NA,5825,Lars Christoffersen,https://fbref.com/en/matches/cb551aa9/Esbjerg-AGF-March-11-2016-Superliga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-2016
+2016-03-12,Viborg,SønderjyskE,0,0,NA,NA,3167,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/78710150/Viborg-SonderjyskE-March-12-2016-Superliga,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2016-03-13,Odense,Nordsjælland,3,1,NA,NA,5044,Anders Poulsen,https://fbref.com/en/matches/2a191148/Odense-Nordsjaelland-March-13-2016-Superliga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-2016
+2016-03-13,Brøndby,Randers,1,0,NA,NA,12350,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/2cdcf0bb/Brondby-Randers-March-13-2016-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2016-03-13,FC Copenhagen,Aalborg,6,2,NA,NA,16296,Jakob Kehlet,https://fbref.com/en/matches/3363d9a3/FC-Copenhagen-Aalborg-March-13-2016-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2016-03-14,Midtjylland,Hobro,3,0,NA,NA,5344,Peter Rasmussen,https://fbref.com/en/matches/af7bdd32/Midtjylland-Hobro-March-14-2016-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2016-03-18,Aalborg,AGF,2,2,NA,NA,6648,Anders Poulsen,https://fbref.com/en/matches/16f80969/Aalborg-AGF-March-18-2016-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2016-03-19,Hobro,Odense,0,2,NA,NA,1512,Michael Tykgaard,https://fbref.com/en/matches/b628b097/Hobro-Odense-March-19-2016-Superliga,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-2016
+2016-03-20,SønderjyskE,Midtjylland,3,2,NA,NA,6545,Lars Christoffersen,https://fbref.com/en/matches/24b1c435/SonderjyskE-Midtjylland-March-20-2016-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2016-03-20,Randers,Viborg,1,3,NA,NA,4869,Dennis Mogensen,https://fbref.com/en/matches/020d1828/Randers-Viborg-March-20-2016-Superliga,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2015-2016
+2016-03-20,Nordsjælland,FC Copenhagen,2,0,NA,NA,7351,Jens Maae,https://fbref.com/en/matches/b56a22ba/Nordsjaelland-FC-Copenhagen-March-20-2016-Superliga,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2016-03-20,Brøndby,Esbjerg,0,0,NA,NA,11693,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/c944c4be/Brondby-Esbjerg-March-20-2016-Superliga,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2015-2016
+2016-04-01,Aalborg,Nordsjælland,1,0,NA,NA,5447,Michael Tykgaard,https://fbref.com/en/matches/33ac1ff0/Aalborg-Nordsjaelland-April-1-2016-Superliga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-2016
+2016-04-02,AGF,Hobro,1,1,NA,NA,8382,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/adc85f2c/AGF-Hobro-April-2-2016-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2015-2016
+2016-04-03,Odense,Randers,0,1,NA,NA,6611,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/c767f038/Odense-Randers-April-3-2016-Superliga,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2016-04-03,FC Copenhagen,SønderjyskE,1,0,NA,NA,15842,Michael Johansen,https://fbref.com/en/matches/0f397428/FC-Copenhagen-SonderjyskE-April-3-2016-Superliga,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2015-2016
+2016-04-03,Midtjylland,Brøndby,2,0,NA,NA,9508,Jakob Kehlet,https://fbref.com/en/matches/3335e535/Midtjylland-Brondby-April-3-2016-Superliga,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2015-2016
+2016-04-04,Esbjerg,Viborg,1,0,NA,NA,5629,Peter Rasmussen,https://fbref.com/en/matches/1451ef84/Esbjerg-Viborg-April-4-2016-Superliga,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-2016
+2016-04-08,Viborg,Midtjylland,1,1,NA,NA,7502,Anders Poulsen,https://fbref.com/en/matches/bfcc057c/Viborg-Midtjylland-April-8-2016-Superliga,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2016-04-09,SønderjyskE,AGF,2,2,NA,NA,5347,Dennis Mogensen,https://fbref.com/en/matches/7b004121/SonderjyskE-AGF-April-9-2016-Superliga,0,0,5,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2016-04-10,Hobro,Aalborg,0,2,NA,NA,3487,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/b8d49728/Hobro-Aalborg-April-10-2016-Superliga,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-2016
+2016-04-10,Randers,FC Copenhagen,1,1,NA,NA,5705,Peter Rasmussen,https://fbref.com/en/matches/2bdb8f5a/Randers-FC-Copenhagen-April-10-2016-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2015-2016
+2016-04-10,Brøndby,Odense,1,0,NA,NA,11263,Jens Maae,https://fbref.com/en/matches/4e1c7baf/Brondby-Odense-April-10-2016-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2016-04-11,Nordsjælland,Esbjerg,0,0,NA,NA,2107,Michael Tykgaard,https://fbref.com/en/matches/f6214ce8/Nordsjaelland-Esbjerg-April-11-2016-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2016-04-15,Nordsjælland,Hobro,2,1,NA,NA,2357,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/b6c095f8/Nordsjaelland-Hobro-April-15-2016-Superliga,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2015-2016
+2016-04-16,AGF,Randers,0,2,NA,NA,7713,Anders Poulsen,https://fbref.com/en/matches/40b704a3/AGF-Randers-April-16-2016-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2016-04-17,Odense,Viborg,5,1,NA,NA,4722,Lars Christoffersen,https://fbref.com/en/matches/4fc529cc/Odense-Viborg-April-17-2016-Superliga,1,1,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2015-2016
+2016-04-17,Aalborg,SønderjyskE,1,2,NA,NA,6185,Jakob Kehlet,https://fbref.com/en/matches/bbd656e9/Aalborg-SonderjyskE-April-17-2016-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2016-04-17,FC Copenhagen,Brøndby,2,0,NA,NA,29178,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/6de960ed/FC-Copenhagen-Brondby-April-17-2016-Superliga,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2015-2016
+2016-04-18,Esbjerg,Midtjylland,0,2,NA,NA,5596,Michael Johansen,https://fbref.com/en/matches/d767dda6/Esbjerg-Midtjylland-April-18-2016-Superliga,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-2016
+2016-04-22,Midtjylland,Odense,2,0,NA,NA,7011,Michael Tykgaard,https://fbref.com/en/matches/b11cfa48/Midtjylland-Odense-April-22-2016-Superliga,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2016-04-23,Hobro,Esbjerg,2,2,NA,NA,1570,Benjamin Svedborg,https://fbref.com/en/matches/8e0c1376/Hobro-Esbjerg-April-23-2016-Superliga,0,0,6,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2015-2016
+2016-04-24,SønderjyskE,Nordsjælland,3,1,NA,NA,5585,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/ead9af15/SonderjyskE-Nordsjaelland-April-24-2016-Superliga,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2016-04-24,Viborg,FC Copenhagen,1,1,NA,NA,4437,Michael Johansen,https://fbref.com/en/matches/ac1309db/Viborg-FC-Copenhagen-April-24-2016-Superliga,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-2016
+2016-04-24,Brøndby,AGF,2,1,NA,NA,8440,Peter Rasmussen,https://fbref.com/en/matches/e1d4ae2e/Brondby-AGF-April-24-2016-Superliga,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2015-2016
+2016-04-25,Randers,Aalborg,0,0,NA,NA,4136,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/d55bff9e/Randers-Aalborg-April-25-2016-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-2016
+2016-04-29,AGF,Viborg,1,2,NA,NA,2459,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/a2e18aeb/AGF-Viborg-April-29-2016-Superliga,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2016-04-30,Hobro,SønderjyskE,1,2,NA,NA,1337,Anders Poulsen,https://fbref.com/en/matches/3229684f/Hobro-SonderjyskE-April-30-2016-Superliga,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2015-2016
+2016-05-01,Nordsjælland,Randers,2,2,NA,NA,3702,Jakob Kehlet,https://fbref.com/en/matches/0dfc5e62/Nordsjaelland-Randers-May-1-2016-Superliga,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-2016
+2016-05-01,Aalborg,Brøndby,3,0,NA,NA,9420,Dennis Mogensen,https://fbref.com/en/matches/166443a5/Aalborg-Brondby-May-1-2016-Superliga,1,1,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2015-2016
+2016-05-01,FC Copenhagen,Midtjylland,5,3,NA,NA,18089,Jens Maae,https://fbref.com/en/matches/dd034918/FC-Copenhagen-Midtjylland-May-1-2016-Superliga,1,1,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2016-05-02,Esbjerg,Odense,0,2,NA,NA,5675,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/1c5a466e/Esbjerg-Odense-May-2-2016-Superliga,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2016-05-06,SønderjyskE,Esbjerg,2,0,NA,NA,7684,Michael Tykgaard,https://fbref.com/en/matches/7ede2dd8/SonderjyskE-Esbjerg-May-6-2016-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2015-2016
+2016-05-07,Randers,Hobro,2,0,NA,NA,4599,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/6c40ae9a/Randers-Hobro-May-7-2016-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2016-05-08,Viborg,Aalborg,0,2,NA,NA,4655,Benjamin Svedborg,https://fbref.com/en/matches/acb178b2/Viborg-Aalborg-May-8-2016-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-2016
+2016-05-08,Odense,FC Copenhagen,0,1,NA,NA,9911,Jakob Kehlet,https://fbref.com/en/matches/6dee192c/Odense-FC-Copenhagen-May-8-2016-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2016-05-08,Midtjylland,AGF,1,1,NA,NA,8002,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/001562a2/Midtjylland-AGF-May-8-2016-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2015-2016
+2016-05-09,Brøndby,Nordsjælland,2,1,NA,NA,8951,Michael Johansen,https://fbref.com/en/matches/4cfe0a4a/Brondby-Nordsjaelland-May-9-2016-Superliga,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-2016
+2016-05-11,SønderjyskE,Viborg,2,0,NA,NA,6345,Lars Christoffersen,https://fbref.com/en/matches/d9f2397d/SonderjyskE-Viborg-May-11-2016-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2016-05-11,Hobro,Midtjylland,1,4,NA,NA,1411,Peter Rasmussen,https://fbref.com/en/matches/3e278868/Hobro-Midtjylland-May-11-2016-Superliga,0,0,2,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2015-2016
+2016-05-11,AGF,Esbjerg,5,1,NA,NA,5032,Dennis Mogensen,https://fbref.com/en/matches/f2aa636a/AGF-Esbjerg-May-11-2016-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2016-05-12,Nordsjælland,Odense,0,1,NA,NA,2526,Jens Maae,https://fbref.com/en/matches/58ccc720/Nordsjaelland-Odense-May-12-2016-Superliga,0,0,3,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2016-05-12,Randers,Brøndby,0,2,NA,NA,5671,Michael Tykgaard,https://fbref.com/en/matches/25d99514/Randers-Brondby-May-12-2016-Superliga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-2016
+2016-05-12,Aalborg,FC Copenhagen,0,2,NA,NA,10036,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/7633a6f0/Aalborg-FC-Copenhagen-May-12-2016-Superliga,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2016-05-14,Midtjylland,SønderjyskE,3,2,NA,NA,7017,Jakob Kehlet,https://fbref.com/en/matches/7a4577ff/Midtjylland-SonderjyskE-May-14-2016-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2016-05-15,Odense,Hobro,0,1,NA,NA,5776,Benjamin Svedborg,https://fbref.com/en/matches/22b15eae/Odense-Hobro-May-15-2016-Superliga,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2015-2016
+2016-05-16,Viborg,Randers,2,3,NA,NA,4304,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/a8f0fc6a/Viborg-Randers-May-16-2016-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2016-05-16,FC Copenhagen,Nordsjælland,2,0,NA,NA,23063,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/37bbff86/FC-Copenhagen-Nordsjaelland-May-16-2016-Superliga,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2016-05-16,Esbjerg,Brøndby,2,3,NA,NA,8097,Jens Maae,https://fbref.com/en/matches/1a8f4e7a/Esbjerg-Brondby-May-16-2016-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2016-05-17,AGF,Aalborg,2,0,NA,NA,5551,Anders Poulsen,https://fbref.com/en/matches/f5291194/AGF-Aalborg-May-17-2016-Superliga,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2016-05-20,SønderjyskE,Odense,3,1,NA,NA,7242,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/fa9b7b27/SonderjyskE-Odense-May-20-2016-Superliga,1,1,1,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,2015-2016
+2016-05-21,Nordsjælland,AGF,3,3,NA,NA,3012,Benjamin Svedborg,https://fbref.com/en/matches/dbb0b965/Nordsjaelland-AGF-May-21-2016-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2016-05-22,Randers,Midtjylland,1,2,NA,NA,4819,Michael Johansen,https://fbref.com/en/matches/75d454ee/Randers-Midtjylland-May-22-2016-Superliga,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2016-05-22,Hobro,FC Copenhagen,4,2,NA,NA,3144,Jakob Kehlet,https://fbref.com/en/matches/3ea53662/Hobro-FC-Copenhagen-May-22-2016-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2016-05-22,Aalborg,Esbjerg,1,2,NA,NA,6598,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/51d33fae/Aalborg-Esbjerg-May-22-2016-Superliga,0,0,4,1,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2015-2016
+2016-05-23,Brøndby,Viborg,0,1,NA,NA,10116,Anders Poulsen,https://fbref.com/en/matches/a3b1e7f7/Brondby-Viborg-May-23-2016-Superliga,0,0,5,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2016-05-26,Hobro,Brøndby,0,2,NA,NA,3231,Benjamin Svedborg,https://fbref.com/en/matches/dbf68214/Hobro-Brondby-May-26-2016-Superliga,0,0,2,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2016-05-26,SønderjyskE,Randers,1,1,NA,NA,8125,Jens Maae,https://fbref.com/en/matches/06a2fe0e/SonderjyskE-Randers-May-26-2016-Superliga,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2015-2016
+2016-05-26,Nordsjælland,Viborg,1,0,NA,NA,1754,Dennis Mogensen,https://fbref.com/en/matches/952cf367/Nordsjaelland-Viborg-May-26-2016-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-2016
+2016-05-26,Esbjerg,FC Copenhagen,1,4,NA,NA,6089,Lars Christoffersen,https://fbref.com/en/matches/4d038233/Esbjerg-FC-Copenhagen-May-26-2016-Superliga,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2015-2016
+2016-05-26,Aalborg,Midtjylland,0,0,NA,NA,7403,Michael Tykgaard,https://fbref.com/en/matches/45658307/Aalborg-Midtjylland-May-26-2016-Superliga,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2015-2016
+2016-05-26,AGF,Odense,2,1,NA,NA,6308,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/6ae93d95/AGF-Odense-May-26-2016-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2016-05-29,FC Copenhagen,AGF,2,1,NA,NA,27466,Michael Johansen,https://fbref.com/en/matches/fff1c64d/FC-Copenhagen-AGF-May-29-2016-Superliga,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2015-2016
+2016-05-29,Viborg,Hobro,1,0,NA,NA,4154,Jens Maae,https://fbref.com/en/matches/a924671e/Viborg-Hobro-May-29-2016-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-2016
+2016-05-29,Odense,Aalborg,3,2,NA,NA,6056,Dennis Mogensen,https://fbref.com/en/matches/f822cef1/Odense-Aalborg-May-29-2016-Superliga,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-2016
+2016-05-29,Midtjylland,Nordsjælland,4,1,NA,NA,9514,Jørgen Daugbjerg Burchardt,https://fbref.com/en/matches/daa876d7/Midtjylland-Nordsjaelland-May-29-2016-Superliga,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2016-05-29,Randers,Esbjerg,3,1,NA,NA,8541,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/5cc12164/Randers-Esbjerg-May-29-2016-Superliga,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2015-2016
+2016-05-29,Brøndby,SønderjyskE,1,2,NA,NA,18958,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/0ec657e2/Brondby-SonderjyskE-May-29-2016-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2015-2016

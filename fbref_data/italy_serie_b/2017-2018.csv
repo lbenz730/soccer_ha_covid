@@ -1,13 +1,13 @@
 date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_report_url,home_pk_goals,home_pk_attempts,home_yellow_cards,home_red_cards,home_shots,home_shots_on_target,home_tackles,home_interceptions,home_fouls_committed,away_pk_goals,away_pk_attempts,away_yellow_cards,away_red_cards,away_shots,away_shots_on_target,away_tackles,away_interceptions,away_fouls_committed,season
 2017-08-25,Parma,Cremonese,1,0,NA,NA,11387,Eugenio Abbattista,https://fbref.com/en/matches/8f85b74d/Parma-Cremonese-August-25-2017-Serie-B,1,1,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2017-08-26,Palermo,Spezia,2,0,NA,NA,6770,Luigi Nasca,https://fbref.com/en/matches/4a16c6d3/Palermo-Spezia-August-26-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-08-26,Venezia,Salernitana,0,0,NA,NA,4100,Marco Piccinini,https://fbref.com/en/matches/87b265e6/Venezia-Salernitana-August-26-2017-Serie-B,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
+2017-08-26,Palermo,Spezia,2,0,NA,NA,6770,Luigi Nasca,https://fbref.com/en/matches/4a16c6d3/Palermo-Spezia-August-26-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-08-26,Ternana,Empoli,1,1,NA,NA,4536,Livio Marinelli,https://fbref.com/en/matches/d12447a0/Ternana-Empoli-August-26-2017-Serie-B,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2017-08-26,Avellino,Brescia,2,1,NA,NA,8000,Valerio Marini,https://fbref.com/en/matches/87478f5f/Avellino-Brescia-August-26-2017-Serie-B,0,1,3,0,0,0,0,0,0,1,1,4,1,0,0,0,0,0,2017-2018
 2017-08-26,Cittadella,Ascoli,3,2,NA,NA,2901,Ivan Pezzuto,https://fbref.com/en/matches/4335a267/Cittadella-Ascoli-August-26-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
-2017-08-26,Virtus Entella,Perugia,1,5,NA,NA,2147,Luigi Pillitteri,https://fbref.com/en/matches/d95f3d57/Virtus-Entella-Perugia-August-26-2017-Serie-B,1,1,2,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,2017-2018
+2017-08-26,Avellino,Brescia,2,1,NA,NA,8000,Valerio Marini,https://fbref.com/en/matches/87478f5f/Avellino-Brescia-August-26-2017-Serie-B,0,1,3,0,0,0,0,0,0,1,1,4,1,0,0,0,0,0,2017-2018
 2017-08-26,Pro Vercelli,Frosinone,0,2,NA,NA,2718,Lorenzo Illuzzi,https://fbref.com/en/matches/6feb7b6f/Pro-Vercelli-Frosinone-August-26-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2017-2018
 2017-08-26,Carpi,Novara,1,0,NA,NA,2187,Antonello Balice,https://fbref.com/en/matches/149d7e98/Carpi-Novara-August-26-2017-Serie-B,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
+2017-08-26,Virtus Entella,Perugia,1,5,NA,NA,2147,Luigi Pillitteri,https://fbref.com/en/matches/d95f3d57/Virtus-Entella-Perugia-August-26-2017-Serie-B,1,1,2,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,2017-2018
 2017-08-27,Pescara,Foggia,5,1,NA,NA,12672,Francesco Paolo Saia,https://fbref.com/en/matches/be7d7744/Pescara-Foggia-August-27-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-08-28,Bari,Cesena,3,0,NA,NA,17950,Juan Sacchi,https://fbref.com/en/matches/6a3ec95b/Bari-Cesena-August-28-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-09-02,Brescia,Palermo,0,0,NA,NA,5081,Antonio Rapuano,https://fbref.com/en/matches/b8171ba8/Brescia-Palermo-September-2-2017-Serie-B,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
@@ -23,9 +23,9 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-09-04,Salernitana,Ternana,3,3,NA,NA,11579,Riccardo Ros,https://fbref.com/en/matches/a39e29ba/Salernitana-Ternana-September-4-2017-Serie-B,1,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2017-09-08,Pescara,Frosinone,3,3,NA,NA,9495,Juan Sacchi,https://fbref.com/en/matches/62d1729c/Pescara-Frosinone-September-8-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-09-09,Pro Vercelli,Cremonese,1,4,NA,NA,2380,Luigi Pillitteri,https://fbref.com/en/matches/e7a07089/Pro-Vercelli-Cremonese-September-9-2017-Serie-B,1,1,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2017-09-09,Palermo,Empoli,3,3,NA,NA,6270,Aleandro Di Paolo,https://fbref.com/en/matches/573520e5/Palermo-Empoli-September-9-2017-Serie-B,0,0,3,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2017-2018
-2017-09-09,Avellino,Foggia,5,1,NA,NA,9513,Riccardo Pinzani,https://fbref.com/en/matches/c06db6e2/Avellino-Foggia-September-9-2017-Serie-B,1,1,2,0,0,0,0,0,0,1,1,4,0,0,0,0,0,0,2017-2018
 2017-09-09,Spezia,Virtus Entella,2,1,NA,NA,5488,Marco Piccinini,https://fbref.com/en/matches/ce376725/Spezia-Virtus-Entella-September-9-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
+2017-09-09,Avellino,Foggia,5,1,NA,NA,9513,Riccardo Pinzani,https://fbref.com/en/matches/c06db6e2/Avellino-Foggia-September-9-2017-Serie-B,1,1,2,0,0,0,0,0,0,1,1,4,0,0,0,0,0,0,2017-2018
+2017-09-09,Palermo,Empoli,3,3,NA,NA,6270,Aleandro Di Paolo,https://fbref.com/en/matches/573520e5/Palermo-Empoli-September-9-2017-Serie-B,0,0,3,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2017-2018
 2017-09-09,Bari,Venezia,0,2,NA,NA,14302,Livio Marinelli,https://fbref.com/en/matches/347fbf1f/Bari-Venezia-September-9-2017-Serie-B,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2017-2018
 2017-09-09,Ascoli,Novara,1,2,NA,NA,5376,Valerio Marini,https://fbref.com/en/matches/e42beba7/Ascoli-Novara-September-9-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2017-09-09,Ternana,Cesena,1,0,NA,NA,5076,Francesco Paolo Saia,https://fbref.com/en/matches/1b3610f8/Ternana-Cesena-September-9-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
@@ -34,12 +34,12 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-09-11,Cittadella,Perugia,1,1,NA,NA,3323,Marco Serra,https://fbref.com/en/matches/bd814840/Cittadella-Perugia-September-11-2017-Serie-B,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-09-15,Venezia,Spezia,0,0,NA,NA,3218,Lorenzo Illuzzi,https://fbref.com/en/matches/acba8a63/Venezia-Spezia-September-15-2017-Serie-B,0,0,4,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-09-15,Cesena,Avellino,3,1,NA,NA,11393,Niccolò Baroni,https://fbref.com/en/matches/3ec75e11/Cesena-Avellino-September-15-2017-Serie-B,0,0,3,0,0,0,0,0,0,1,2,2,1,0,0,0,0,0,2017-2018
+2017-09-16,Salernitana,Pescara,2,2,NA,NA,9313,Federico La Penna,https://fbref.com/en/matches/b17d6e09/Salernitana-Pescara-September-16-2017-Serie-B,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-09-16,Frosinone,Bari,3,2,NA,NA,1732,Antonio Rapuano,https://fbref.com/en/matches/f1040cb8/Frosinone-Bari-September-16-2017-Serie-B,0,0,4,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2017-2018
 2017-09-16,Brescia,Pro Vercelli,0,0,NA,NA,6301,Antonio Di Martino,https://fbref.com/en/matches/a26c4463/Brescia-Pro-Vercelli-September-16-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
-2017-09-16,Salernitana,Pescara,2,2,NA,NA,9313,Federico La Penna,https://fbref.com/en/matches/b17d6e09/Salernitana-Pescara-September-16-2017-Serie-B,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
+2017-09-16,Foggia,Palermo,1,1,NA,NA,11245,Daniele Chiffi,https://fbref.com/en/matches/9ffe824a/Foggia-Palermo-September-16-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-09-16,Cremonese,Carpi,1,1,NA,NA,6282,Antonio Giua,https://fbref.com/en/matches/d91c93cc/Cremonese-Carpi-September-16-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-09-16,Novara,Cittadella,1,0,NA,NA,3136,Luigi Nasca,https://fbref.com/en/matches/43dac4fb/Novara-Cittadella-September-16-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
-2017-09-16,Foggia,Palermo,1,1,NA,NA,11245,Daniele Chiffi,https://fbref.com/en/matches/9ffe824a/Foggia-Palermo-September-16-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-09-16,Virtus Entella,Ternana,3,1,NA,NA,1794,Francesco Fourneau,https://fbref.com/en/matches/d57d5752/Virtus-Entella-Ternana-September-16-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-09-16,Empoli,Ascoli,3,0,NA,NA,7429,Antonello Balice,https://fbref.com/en/matches/8033e5ce/Empoli-Ascoli-September-16-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-09-16,Perugia,Parma,3,0,NA,NA,8690,Davide Ghersini,https://fbref.com/en/matches/8e4c6905/Perugia-Parma-September-16-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
@@ -47,21 +47,21 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-09-19,Pro Vercelli,Salernitana,1,1,NA,NA,2560,Nicolò Marini,https://fbref.com/en/matches/d7f69491/Pro-Vercelli-Salernitana-September-19-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-09-19,Carpi,Foggia,1,3,NA,NA,3487,Livio Marinelli,https://fbref.com/en/matches/51ab50ce/Carpi-Foggia-September-19-2017-Serie-B,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-09-19,Bari,Cremonese,1,0,NA,NA,13461,Aleandro Di Paolo,https://fbref.com/en/matches/671bee7f/Bari-Cremonese-September-19-2017-Serie-B,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2017-09-19,Spezia,Novara,1,0,NA,NA,5180,Riccardo Pinzani,https://fbref.com/en/matches/2b63dc31/Spezia-Novara-September-19-2017-Serie-B,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
-2017-09-19,Parma,Empoli,1,2,NA,NA,10221,Gianluca Aureliano,https://fbref.com/en/matches/d17160e4/Parma-Empoli-September-19-2017-Serie-B,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-09-19,Cittadella,Cesena,4,0,NA,NA,2989,Luigi Pillitteri,https://fbref.com/en/matches/8a8f90ba/Cittadella-Cesena-September-19-2017-Serie-B,1,2,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
+2017-09-19,Spezia,Novara,1,0,NA,NA,5180,Riccardo Pinzani,https://fbref.com/en/matches/2b63dc31/Spezia-Novara-September-19-2017-Serie-B,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2017-09-19,Palermo,Perugia,1,0,NA,NA,6844,Riccardo Ros,https://fbref.com/en/matches/ef6a9b79/Palermo-Perugia-September-19-2017-Serie-B,1,1,5,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2017-09-19,Ascoli,Frosinone,0,1,NA,NA,5175,Daniele Minelli,https://fbref.com/en/matches/185fd032/Ascoli-Frosinone-September-19-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
+2017-09-19,Parma,Empoli,1,2,NA,NA,10221,Gianluca Aureliano,https://fbref.com/en/matches/d17160e4/Parma-Empoli-September-19-2017-Serie-B,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-09-19,Pescara,Virtus Entella,2,2,NA,NA,7172,Marco Serra,https://fbref.com/en/matches/985fd687/Pescara-Virtus-Entella-September-19-2017-Serie-B,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
+2017-09-19,Ascoli,Frosinone,0,1,NA,NA,5175,Daniele Minelli,https://fbref.com/en/matches/185fd032/Ascoli-Frosinone-September-19-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2017-09-23,Salernitana,Spezia,2,0,NA,NA,7465,Antonio Giua,https://fbref.com/en/matches/6d2d5049/Salernitana-Spezia-September-23-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-09-23,Perugia,Frosinone,1,0,NA,NA,11115,Eugenio Abbattista,https://fbref.com/en/matches/42d32d49/Perugia-Frosinone-September-23-2017-Serie-B,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-09-23,Virtus Entella,Carpi,0,0,NA,NA,4154,Juan Sacchi,https://fbref.com/en/matches/f03a4e94/Virtus-Entella-Carpi-September-23-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-09-23,Cremonese,Pescara,0,0,NA,NA,6628,Francesco Fourneau,https://fbref.com/en/matches/9edc7351/Cremonese-Pescara-September-23-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-09-23,Bari,Ternana,3,0,NA,NA,13113,Davide Ghersini,https://fbref.com/en/matches/ddf3e8f9/Bari-Ternana-September-23-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2017-2018
-2017-09-23,Empoli,Cittadella,0,1,NA,NA,3993,Antonio Rapuano,https://fbref.com/en/matches/9f860524/Empoli-Cittadella-September-23-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2017-09-23,Venezia,Parma,0,1,NA,NA,10500,Antonello Balice,https://fbref.com/en/matches/242d3295/Venezia-Parma-September-23-2017-Serie-B,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2017-09-23,Brescia,Foggia,2,2,NA,NA,8670,Luigi Nasca,https://fbref.com/en/matches/84f155f5/Brescia-Foggia-September-23-2017-Serie-B,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
+2017-09-23,Empoli,Cittadella,0,1,NA,NA,3993,Antonio Rapuano,https://fbref.com/en/matches/9f860524/Empoli-Cittadella-September-23-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2017-09-23,Novara,Avellino,1,2,NA,NA,3634,Francesco Paolo Saia,https://fbref.com/en/matches/87f2eab4/Novara-Avellino-September-23-2017-Serie-B,0,0,3,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
+2017-09-23,Brescia,Foggia,2,2,NA,NA,8670,Luigi Nasca,https://fbref.com/en/matches/84f155f5/Brescia-Foggia-September-23-2017-Serie-B,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-09-24,Cesena,Ascoli,0,2,NA,NA,11870,Lorenzo Illuzzi,https://fbref.com/en/matches/5d3fdb58/Cesena-Ascoli-September-24-2017-Serie-B,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-09-25,Palermo,Pro Vercelli,2,1,NA,NA,6573,Niccolò Baroni,https://fbref.com/en/matches/13dd9553/Palermo-Pro-Vercelli-September-25-2017-Serie-B,0,0,2,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-09-29,Parma,Salernitana,2,2,NA,NA,11493,Aleandro Di Paolo,https://fbref.com/en/matches/7e604cd9/Parma-Salernitana-September-29-2017-Serie-B,0,0,1,2,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2017-2018
@@ -71,8 +71,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-09-30,Carpi,Pescara,0,1,NA,NA,2443,Daniele Minelli,https://fbref.com/en/matches/2fcd402f/Carpi-Pescara-September-30-2017-Serie-B,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2017-09-30,Spezia,Bari,1,0,NA,NA,5873,Riccardo Ros,https://fbref.com/en/matches/29df995a/Spezia-Bari-September-30-2017-Serie-B,0,0,3,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2017-09-30,Pro Vercelli,Cesena,5,2,NA,NA,2360,Federico La Penna,https://fbref.com/en/matches/f7a244b0/Pro-Vercelli-Cesena-September-30-2017-Serie-B,1,1,2,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2017-2018
-2017-09-30,Ternana,Venezia,2,3,NA,NA,4129,Antonio Di Martino,https://fbref.com/en/matches/f9dea2e3/Ternana-Venezia-September-30-2017-Serie-B,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2017-09-30,Cittadella,Virtus Entella,0,1,NA,NA,3034,Daniele Martinelli,https://fbref.com/en/matches/ccb453d1/Cittadella-Virtus-Entella-September-30-2017-Serie-B,0,0,2,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2017-2018
+2017-09-30,Ternana,Venezia,2,3,NA,NA,4129,Antonio Di Martino,https://fbref.com/en/matches/f9dea2e3/Ternana-Venezia-September-30-2017-Serie-B,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2017-10-01,Foggia,Novara,2,2,NA,NA,3750,Marco Serra,https://fbref.com/en/matches/9218e24a/Foggia-Novara-October-1-2017-Serie-B,1,1,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-10-02,Frosinone,Cremonese,0,0,NA,NA,13000,Daniele Chiffi,https://fbref.com/en/matches/1d1afb6b/Frosinone-Cremonese-October-2-2017-Serie-B,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-10-03,Ternana,Brescia,1,1,NA,NA,4767,Daniele Martinelli,https://fbref.com/en/matches/a62fa3bc/Ternana-Brescia-October-3-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
@@ -81,10 +81,10 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-10-08,Pescara,Cittadella,1,2,NA,NA,7801,Davide Ghersini,https://fbref.com/en/matches/79198aca/Pescara-Cittadella-October-8-2017-Serie-B,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-10-08,Cremonese,Ternana,3,3,NA,NA,6422,Lorenzo Illuzzi,https://fbref.com/en/matches/b060c171/Cremonese-Ternana-October-8-2017-Serie-B,1,1,1,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2017-2018
 2017-10-08,Perugia,Pro Vercelli,1,5,NA,NA,9878,Francesco Paolo Saia,https://fbref.com/en/matches/351be13c/Perugia-Pro-Vercelli-October-8-2017-Serie-B,0,0,1,1,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2017-2018
+2017-10-08,Palermo,Parma,1,1,NA,NA,7256,Juan Sacchi,https://fbref.com/en/matches/6c7c570c/Palermo-Parma-October-8-2017-Serie-B,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-10-08,Venezia,Carpi,2,0,NA,NA,4404,Luigi Nasca,https://fbref.com/en/matches/9f1fd788/Venezia-Carpi-October-8-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-10-08,Bari,Avellino,2,1,NA,NA,15994,Gianluca Aureliano,https://fbref.com/en/matches/0a06e997/Bari-Avellino-October-8-2017-Serie-B,1,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-10-08,Empoli,Foggia,3,1,NA,NA,8689,Eugenio Abbattista,https://fbref.com/en/matches/2acd4256/Empoli-Foggia-October-8-2017-Serie-B,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
-2017-10-08,Palermo,Parma,1,1,NA,NA,7256,Juan Sacchi,https://fbref.com/en/matches/6c7c570c/Palermo-Parma-October-8-2017-Serie-B,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-10-08,Virtus Entella,Brescia,3,0,NA,NA,2120,Antonello Balice,https://fbref.com/en/matches/c8440c25/Virtus-Entella-Brescia-October-8-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-10-08,Novara,Frosinone,2,1,NA,NA,3501,Ivan Pezzuto,https://fbref.com/en/matches/dfd05214/Novara-Frosinone-October-8-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-10-13,Foggia,Perugia,2,1,NA,NA,12849,Aleandro Di Paolo,https://fbref.com/en/matches/6094b811/Foggia-Perugia-October-13-2017-Serie-B,0,0,6,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2017-2018
@@ -100,23 +100,23 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-10-16,Virtus Entella,Empoli,2,3,NA,NA,2666,Antonio Giua,https://fbref.com/en/matches/8f5ed67a/Virtus-Entella-Empoli-October-16-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-10-20,Cremonese,Brescia,2,0,NA,NA,9097,Luigi Pillitteri,https://fbref.com/en/matches/bb78e041/Cremonese-Brescia-October-20-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2017-10-20,Bari,Cittadella,4,2,NA,NA,15275,Valerio Marini,https://fbref.com/en/matches/c2624b43/Bari-Cittadella-October-20-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
-2017-10-21,Ternana,Ascoli,1,1,NA,NA,5824,Luigi Nasca,https://fbref.com/en/matches/54de29bc/Ternana-Ascoli-October-21-2017-Serie-B,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2017-10-21,Pescara,Avellino,2,1,NA,NA,7978,Daniele Chiffi,https://fbref.com/en/matches/1b9499af/Pescara-Avellino-October-21-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
+2017-10-21,Ternana,Ascoli,1,1,NA,NA,5824,Luigi Nasca,https://fbref.com/en/matches/54de29bc/Ternana-Ascoli-October-21-2017-Serie-B,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2017-10-21,Palermo,Novara,0,2,NA,NA,6068,Lorenzo Illuzzi,https://fbref.com/en/matches/aefc8ff7/Palermo-Novara-October-21-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-10-21,Parma,Virtus Entella,3,1,NA,NA,10178,Antonio Di Martino,https://fbref.com/en/matches/2b266b04/Parma-Virtus-Entella-October-21-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
-2017-10-21,Pro Vercelli,Carpi,0,0,NA,NA,2355,Eugenio Abbattista,https://fbref.com/en/matches/17accd1a/Pro-Vercelli-Carpi-October-21-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-10-21,Spezia,Perugia,4,2,NA,NA,5560,Ivan Pezzuto,https://fbref.com/en/matches/c3170636/Spezia-Perugia-October-21-2017-Serie-B,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
-2017-10-21,Cesena,Foggia,3,3,NA,NA,14494,Gianluca Aureliano,https://fbref.com/en/matches/44be057b/Cesena-Foggia-October-21-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
+2017-10-21,Pro Vercelli,Carpi,0,0,NA,NA,2355,Eugenio Abbattista,https://fbref.com/en/matches/17accd1a/Pro-Vercelli-Carpi-October-21-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-10-21,Venezia,Empoli,1,0,NA,NA,4426,Francesco Paolo Saia,https://fbref.com/en/matches/5990a567/Venezia-Empoli-October-21-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
+2017-10-21,Cesena,Foggia,3,3,NA,NA,14494,Gianluca Aureliano,https://fbref.com/en/matches/44be057b/Cesena-Foggia-October-21-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-10-21,Salernitana,Frosinone,1,1,NA,NA,10210,Marco Serra,https://fbref.com/en/matches/72ff3ff0/Salernitana-Frosinone-October-21-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2017-2018
 2017-10-23,Brescia,Bari,2,1,NA,NA,7312,Riccardo Pinzani,https://fbref.com/en/matches/f19c7f1e/Brescia-Bari-October-23-2017-Serie-B,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-10-24,Virtus Entella,Cremonese,1,1,NA,NA,1725,Niccolò Baroni,https://fbref.com/en/matches/c8f534ec/Virtus-Entella-Cremonese-October-24-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-10-24,Foggia,Parma,0,3,NA,NA,11488,Marco Piccinini,https://fbref.com/en/matches/3c0c850b/Foggia-Parma-October-24-2017-Serie-B,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2017-2018
-2017-10-24,Frosinone,Ternana,4,2,NA,NA,12000,Antonio Giua,https://fbref.com/en/matches/aba6452e/Frosinone-Ternana-October-24-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
-2017-10-24,Perugia,Cesena,0,3,NA,NA,8459,Francesco Fourneau,https://fbref.com/en/matches/cfd5b877/Perugia-Cesena-October-24-2017-Serie-B,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-10-24,Novara,Salernitana,2,3,NA,NA,3729,Davide Ghersini,https://fbref.com/en/matches/f4f273c5/Novara-Salernitana-October-24-2017-Serie-B,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2017-10-24,Carpi,Palermo,1,3,NA,NA,2430,Aleandro Di Paolo,https://fbref.com/en/matches/1a8429e8/Carpi-Palermo-October-24-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
+2017-10-24,Perugia,Cesena,0,3,NA,NA,8459,Francesco Fourneau,https://fbref.com/en/matches/cfd5b877/Perugia-Cesena-October-24-2017-Serie-B,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
+2017-10-24,Frosinone,Ternana,4,2,NA,NA,12000,Antonio Giua,https://fbref.com/en/matches/aba6452e/Frosinone-Ternana-October-24-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-10-24,Ascoli,Spezia,3,1,NA,NA,5147,Antonello Balice,https://fbref.com/en/matches/72d2819f/Ascoli-Spezia-October-24-2017-Serie-B,1,1,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
+2017-10-24,Carpi,Palermo,1,3,NA,NA,2430,Aleandro Di Paolo,https://fbref.com/en/matches/1a8429e8/Carpi-Palermo-October-24-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2017-10-24,Cittadella,Venezia,2,1,NA,NA,5099,Juan Sacchi,https://fbref.com/en/matches/e620f45a/Cittadella-Venezia-October-24-2017-Serie-B,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-10-24,Empoli,Pescara,3,1,NA,NA,4375,Federico La Penna,https://fbref.com/en/matches/e29624d9/Empoli-Pescara-October-24-2017-Serie-B,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2017-10-24,Avellino,Pro Vercelli,1,0,NA,NA,5500,Antonio Rapuano,https://fbref.com/en/matches/dc8fcc99/Avellino-Pro-Vercelli-October-24-2017-Serie-B,0,0,3,1,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2017-2018
@@ -132,22 +132,22 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-10-29,Pro Vercelli,Foggia,1,4,NA,NA,4446,Riccardo Ros,https://fbref.com/en/matches/165a45cf/Pro-Vercelli-Foggia-October-29-2017-Serie-B,0,0,1,1,0,0,0,0,0,2,2,3,0,0,0,0,0,0,2017-2018
 2017-10-30,Ternana,Carpi,0,0,NA,NA,3987,Daniele Chiffi,https://fbref.com/en/matches/8ec541ea/Ternana-Carpi-October-30-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-11-03,Pescara,Palermo,2,2,NA,NA,7621,Antonio Giua,https://fbref.com/en/matches/b1406219/Pescara-Palermo-November-3-2017-Serie-B,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
-2017-11-04,Foggia,Cremonese,2,3,NA,NA,10967,Davide Ghersini,https://fbref.com/en/matches/e45796df/Foggia-Cremonese-November-4-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-11-04,Novara,Pro Vercelli,0,1,NA,NA,5333,Juan Sacchi,https://fbref.com/en/matches/ef4f9ca6/Novara-Pro-Vercelli-November-4-2017-Serie-B,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
-2017-11-04,Virtus Entella,Cesena,2,2,NA,NA,1622,Aleandro Di Paolo,https://fbref.com/en/matches/ccfee018/Virtus-Entella-Cesena-November-4-2017-Serie-B,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2017-11-04,Frosinone,Parma,2,1,NA,NA,11043,Luigi Nasca,https://fbref.com/en/matches/60c7a1d3/Frosinone-Parma-November-4-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
+2017-11-04,Virtus Entella,Cesena,2,2,NA,NA,1622,Aleandro Di Paolo,https://fbref.com/en/matches/ccfee018/Virtus-Entella-Cesena-November-4-2017-Serie-B,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2017-11-04,Salernitana,Bari,2,2,NA,NA,16813,Ivan Pezzuto,https://fbref.com/en/matches/7cab27a1/Salernitana-Bari-November-4-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-11-04,Brescia,Venezia,1,2,NA,NA,7476,Niccolò Baroni,https://fbref.com/en/matches/a9dff6b3/Brescia-Venezia-November-4-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-11-04,Cittadella,Ternana,1,1,NA,NA,3033,Antonello Balice,https://fbref.com/en/matches/00a84a6a/Cittadella-Ternana-November-4-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-11-04,Carpi,Ascoli,4,2,NA,NA,1787,Francesco Paolo Saia,https://fbref.com/en/matches/138655b2/Carpi-Ascoli-November-4-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
+2017-11-04,Foggia,Cremonese,2,3,NA,NA,10967,Davide Ghersini,https://fbref.com/en/matches/e45796df/Foggia-Cremonese-November-4-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-11-05,Empoli,Spezia,1,1,NA,NA,4340,Lorenzo Illuzzi,https://fbref.com/en/matches/052a53e2/Empoli-Spezia-November-5-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-11-06,Perugia,Avellino,1,1,NA,NA,7885,Federico La Penna,https://fbref.com/en/matches/dee06676/Perugia-Avellino-November-6-2017-Serie-B,1,1,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-11-11,Pro Vercelli,Empoli,2,1,NA,NA,2484,Francesco Fourneau,https://fbref.com/en/matches/e1aa9dd6/Pro-Vercelli-Empoli-November-11-2017-Serie-B,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-11-11,Avellino,Virtus Entella,0,0,NA,NA,3396,Daniele Minelli,https://fbref.com/en/matches/f4f0d692/Avellino-Virtus-Entella-November-11-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-11-11,Spezia,Frosinone,1,1,NA,NA,5620,Livio Marinelli,https://fbref.com/en/matches/6ad75471/Spezia-Frosinone-November-11-2017-Serie-B,1,1,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-11-12,Venezia,Perugia,1,0,NA,NA,4800,Riccardo Pinzani,https://fbref.com/en/matches/66bff752/Venezia-Perugia-November-12-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2017-2018
-2017-11-12,Ternana,Novara,1,1,NA,NA,3834,Valerio Marini,https://fbref.com/en/matches/4732444e/Ternana-Novara-November-12-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-11-12,Cesena,Salernitana,3,3,NA,NA,12948,Riccardo Ros,https://fbref.com/en/matches/8c64aa34/Cesena-Salernitana-November-12-2017-Serie-B,0,0,4,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2017-2018
+2017-11-12,Ternana,Novara,1,1,NA,NA,3834,Valerio Marini,https://fbref.com/en/matches/4732444e/Ternana-Novara-November-12-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-11-12,Cremonese,Palermo,1,2,NA,NA,7461,Eugenio Abbattista,https://fbref.com/en/matches/bf1bd910/Cremonese-Palermo-November-12-2017-Serie-B,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2017-11-12,Ascoli,Foggia,0,2,NA,NA,8764,Antonio Rapuano,https://fbref.com/en/matches/b223c8fa/Ascoli-Foggia-November-12-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-11-12,Carpi,Brescia,1,1,NA,NA,2655,Daniele Martinelli,https://fbref.com/en/matches/89e2ca27/Carpi-Brescia-November-12-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
@@ -155,13 +155,13 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-11-12,Bari,Pescara,1,0,NA,NA,18526,Marco Piccinini,https://fbref.com/en/matches/c8db04ee/Bari-Pescara-November-12-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2017-11-17,Frosinone,Avellino,1,1,NA,NA,11632,Niccolò Baroni,https://fbref.com/en/matches/5af9027f/Frosinone-Avellino-November-17-2017-Serie-B,0,0,1,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2017-2018
 2017-11-18,Brescia,Spezia,1,1,NA,NA,6712,Antonio Di Martino,https://fbref.com/en/matches/7dadda12/Brescia-Spezia-November-18-2017-Serie-B,0,0,2,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
-2017-11-18,Parma,Ascoli,4,0,NA,NA,10629,Antonio Giua,https://fbref.com/en/matches/a9c9aa09/Parma-Ascoli-November-18-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,2017-2018
 2017-11-18,Empoli,Cesena,5,3,NA,NA,6712,Antonello Balice,https://fbref.com/en/matches/b5c334b3/Empoli-Cesena-November-18-2017-Serie-B,1,1,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
+2017-11-18,Parma,Ascoli,4,0,NA,NA,10629,Antonio Giua,https://fbref.com/en/matches/a9c9aa09/Parma-Ascoli-November-18-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,2017-2018
 2017-11-18,Foggia,Ternana,1,1,NA,NA,9939,Ivan Pezzuto,https://fbref.com/en/matches/7a3ee7cf/Foggia-Ternana-November-18-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-11-18,Pescara,Pro Vercelli,3,1,NA,NA,6546,Fabio Piscopo,https://fbref.com/en/matches/5c28d602/Pescara-Pro-Vercelli-November-18-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2017-11-18,Perugia,Carpi,5,0,NA,NA,7443,Juan Sacchi,https://fbref.com/en/matches/56847f4e/Perugia-Carpi-November-18-2017-Serie-B,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,2017-2018
-2017-11-18,Novara,Bari,1,2,NA,NA,4120,Luigi Pillitteri,https://fbref.com/en/matches/49f54213/Novara-Bari-November-18-2017-Serie-B,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-11-18,Virtus Entella,Venezia,0,0,NA,NA,1849,Lorenzo Illuzzi,https://fbref.com/en/matches/9a2026d3/Virtus-Entella-Venezia-November-18-2017-Serie-B,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
+2017-11-18,Novara,Bari,1,2,NA,NA,4120,Luigi Pillitteri,https://fbref.com/en/matches/49f54213/Novara-Bari-November-18-2017-Serie-B,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-11-19,Salernitana,Cremonese,1,1,NA,NA,11366,Daniele Chiffi,https://fbref.com/en/matches/ca9abb8c/Salernitana-Cremonese-November-19-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-11-20,Palermo,Cittadella,0,3,NA,NA,7803,Davide Ghersini,https://fbref.com/en/matches/59639f40/Palermo-Cittadella-November-20-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-11-24,Empoli,Frosinone,3,3,NA,NA,4526,Marco Piccinini,https://fbref.com/en/matches/b1c0a00f/Empoli-Frosinone-November-24-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
@@ -178,8 +178,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-12-02,Novara,Empoli,1,1,NA,NA,2994,Eugenio Abbattista,https://fbref.com/en/matches/b3b43cef/Novara-Empoli-December-2-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-12-02,Brescia,Salernitana,2,0,NA,NA,7112,Lorenzo Illuzzi,https://fbref.com/en/matches/ebbaf8b4/Brescia-Salernitana-December-2-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-12-02,Foggia,Cittadella,1,3,NA,NA,9528,Daniele Minelli,https://fbref.com/en/matches/c1546c62/Foggia-Cittadella-December-2-2017-Serie-B,1,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2017-12-02,Cremonese,Spezia,1,0,NA,NA,5480,Fabio Piscopo,https://fbref.com/en/matches/0d3f212a/Cremonese-Spezia-December-2-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-12-02,Frosinone,Cesena,3,3,NA,NA,9621,Luigi Pillitteri,https://fbref.com/en/matches/268930dd/Frosinone-Cesena-December-2-2017-Serie-B,1,1,2,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,2017-2018
+2017-12-02,Cremonese,Spezia,1,0,NA,NA,5480,Fabio Piscopo,https://fbref.com/en/matches/0d3f212a/Cremonese-Spezia-December-2-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-12-02,Pescara,Ternana,3,3,NA,NA,6706,Riccardo Ros,https://fbref.com/en/matches/0cd41de5/Pescara-Ternana-December-2-2017-Serie-B,0,0,2,1,0,0,0,0,0,0,1,4,1,0,0,0,0,0,2017-2018
 2017-12-02,Parma,Pro Vercelli,3,0,NA,NA,9850,Daniele Martinelli,https://fbref.com/en/matches/1df02b10/Parma-Pro-Vercelli-December-2-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2017-2018
 2017-12-02,Palermo,Venezia,0,0,NA,NA,4842,Daniele Chiffi,https://fbref.com/en/matches/28a7bbd7/Palermo-Venezia-December-2-2017-Serie-B,0,0,3,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2017-2018
@@ -194,40 +194,40 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-12-09,Venezia,Pro Vercelli,1,1,NA,NA,3213,Antonello Balice,https://fbref.com/en/matches/001ffd29/Venezia-Pro-Vercelli-December-9-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-12-09,Empoli,Carpi,1,0,NA,NA,5423,Marco Serra,https://fbref.com/en/matches/f16fbc0f/Empoli-Carpi-December-9-2017-Serie-B,1,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-12-09,Cittadella,Avellino,2,2,NA,NA,3151,Antonio Giua,https://fbref.com/en/matches/f9b3bc0d/Cittadella-Avellino-December-9-2017-Serie-B,1,2,1,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2017-2018
-2017-12-09,Frosinone,Brescia,2,0,NA,NA,9705,Francesco Paolo Saia,https://fbref.com/en/matches/08ac81d2/Frosinone-Brescia-December-9-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2017-2018
 2017-12-09,Ascoli,Virtus Entella,1,1,NA,NA,4729,Marco Piccinini,https://fbref.com/en/matches/d3781ad2/Ascoli-Virtus-Entella-December-9-2017-Serie-B,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
+2017-12-09,Frosinone,Brescia,2,0,NA,NA,9705,Francesco Paolo Saia,https://fbref.com/en/matches/08ac81d2/Frosinone-Brescia-December-9-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2017-2018
 2017-12-10,Bari,Palermo,0,3,NA,NA,21671,Riccardo Pinzani,https://fbref.com/en/matches/67f2a60d/Bari-Palermo-December-10-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-12-15,Foggia,Venezia,2,2,NA,NA,8500,Livio Marinelli,https://fbref.com/en/matches/60e5ab75/Foggia-Venezia-December-15-2017-Serie-B,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-12-16,Avellino,Ascoli,1,1,NA,NA,3800,Daniele Chiffi,https://fbref.com/en/matches/326bb56b/Avellino-Ascoli-December-16-2017-Serie-B,0,0,5,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2017-12-16,Carpi,Frosinone,1,1,NA,NA,1573,Eugenio Abbattista,https://fbref.com/en/matches/82fe83c9/Carpi-Frosinone-December-16-2017-Serie-B,0,0,3,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-12-16,Parma,Cesena,0,0,NA,NA,10507,Antonio Di Martino,https://fbref.com/en/matches/a2ada7be/Parma-Cesena-December-16-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
+2017-12-16,Carpi,Frosinone,1,1,NA,NA,1573,Eugenio Abbattista,https://fbref.com/en/matches/82fe83c9/Carpi-Frosinone-December-16-2017-Serie-B,0,0,3,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-12-16,Pro Vercelli,Spezia,0,2,NA,NA,2204,Daniele Minelli,https://fbref.com/en/matches/bd7c7520/Pro-Vercelli-Spezia-December-16-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2017-12-16,Cremonese,Empoli,1,1,NA,NA,4715,Ivan Pezzuto,https://fbref.com/en/matches/2864e907/Cremonese-Empoli-December-16-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-12-16,Palermo,Ternana,1,0,NA,NA,5514,Daniele Martinelli,https://fbref.com/en/matches/fcec0e50/Palermo-Ternana-December-16-2017-Serie-B,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
+2017-12-16,Cremonese,Empoli,1,1,NA,NA,4715,Ivan Pezzuto,https://fbref.com/en/matches/2864e907/Cremonese-Empoli-December-16-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-12-16,Virtus Entella,Salernitana,0,2,NA,NA,1693,Fabio Piscopo,https://fbref.com/en/matches/64891933/Virtus-Entella-Salernitana-December-16-2017-Serie-B,0,1,1,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2017-2018
 2017-12-16,Perugia,Bari,1,3,NA,NA,7557,Aleandro Di Paolo,https://fbref.com/en/matches/fd4e0dfc/Perugia-Bari-December-16-2017-Serie-B,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-12-17,Brescia,Cittadella,1,1,NA,NA,6269,Riccardo Ros,https://fbref.com/en/matches/66b378b8/Brescia-Cittadella-December-17-2017-Serie-B,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-12-17,Pescara,Novara,1,0,NA,NA,6355,Lorenzo Illuzzi,https://fbref.com/en/matches/dd86a2ef/Pescara-Novara-December-17-2017-Serie-B,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-12-20,Venezia,Cremonese,1,1,NA,NA,3158,Federico La Penna,https://fbref.com/en/matches/1901f1f9/Venezia-Cremonese-December-20-2017-Serie-B,0,0,2,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-12-21,Cittadella,Carpi,0,1,NA,NA,2894,Luigi Pillitteri,https://fbref.com/en/matches/6a385b75/Cittadella-Carpi-December-21-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2017-12-21,Salernitana,Foggia,0,3,NA,NA,8938,Valerio Marini,https://fbref.com/en/matches/9f46fa1d/Salernitana-Foggia-December-21-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-12-21,Novara,Perugia,1,1,NA,NA,2910,Luigi Nasca,https://fbref.com/en/matches/5cee7bd4/Novara-Perugia-December-21-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
+2017-12-21,Salernitana,Foggia,0,3,NA,NA,8938,Valerio Marini,https://fbref.com/en/matches/9f46fa1d/Salernitana-Foggia-December-21-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-12-21,Empoli,Brescia,1,1,NA,NA,3976,Antonio Rapuano,https://fbref.com/en/matches/0a48442b/Empoli-Brescia-December-21-2017-Serie-B,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
-2017-12-21,Ternana,Pro Vercelli,4,3,NA,NA,3068,Francesco Paolo Saia,https://fbref.com/en/matches/1afe45c1/Ternana-Pro-Vercelli-December-21-2017-Serie-B,0,0,2,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2017-2018
 2017-12-21,Ascoli,Pescara,1,1,NA,NA,5919,Niccolò Baroni,https://fbref.com/en/matches/d2dc3aaf/Ascoli-Pescara-December-21-2017-Serie-B,0,0,4,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
+2017-12-21,Ternana,Pro Vercelli,4,3,NA,NA,3068,Francesco Paolo Saia,https://fbref.com/en/matches/1afe45c1/Ternana-Pro-Vercelli-December-21-2017-Serie-B,0,0,2,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2017-2018
 2017-12-21,Bari,Parma,0,0,NA,NA,15160,Marco Piccinini,https://fbref.com/en/matches/b4e1edb6/Bari-Parma-December-21-2017-Serie-B,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
+2017-12-21,Spezia,Avellino,1,0,NA,NA,5200,Ivan Pezzuto,https://fbref.com/en/matches/d908e1ee/Spezia-Avellino-December-21-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-12-21,Frosinone,Virtus Entella,4,3,NA,NA,9422,Marco Serra,https://fbref.com/en/matches/6d9cf977/Frosinone-Virtus-Entella-December-21-2017-Serie-B,0,0,3,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2017-2018
 2017-12-21,Cesena,Palermo,1,1,NA,NA,11304,Juan Sacchi,https://fbref.com/en/matches/876cd747/Cesena-Palermo-December-21-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
-2017-12-21,Spezia,Avellino,1,0,NA,NA,5200,Ivan Pezzuto,https://fbref.com/en/matches/d908e1ee/Spezia-Avellino-December-21-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-12-27,Parma,Spezia,0,0,NA,NA,10984,Riccardo Ros,https://fbref.com/en/matches/5d5f37f2/Parma-Spezia-December-27-2017-Serie-B,0,0,3,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2017-12-28,Brescia,Ascoli,0,1,NA,NA,5500,Riccardo Pinzani,https://fbref.com/en/matches/ac8b0f91/Brescia-Ascoli-December-28-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-12-28,Virtus Entella,Novara,2,1,NA,NA,1596,Antonio Giua,https://fbref.com/en/matches/fb315b8a/Virtus-Entella-Novara-December-28-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2017-2018
-2017-12-28,Pescara,Venezia,1,0,NA,NA,6866,Eugenio Abbattista,https://fbref.com/en/matches/5cfa3a50/Pescara-Venezia-December-28-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
+2017-12-28,Carpi,Bari,0,0,NA,NA,2145,Davide Ghersini,https://fbref.com/en/matches/b737271e/Carpi-Bari-December-28-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2017-12-28,Pro Vercelli,Cittadella,1,2,NA,NA,2278,Aleandro Di Paolo,https://fbref.com/en/matches/0ba3721b/Pro-Vercelli-Cittadella-December-28-2017-Serie-B,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-12-28,Foggia,Frosinone,1,2,NA,NA,12000,Daniele Chiffi,https://fbref.com/en/matches/aa6e1f3e/Foggia-Frosinone-December-28-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2017-12-28,Carpi,Bari,0,0,NA,NA,2145,Davide Ghersini,https://fbref.com/en/matches/b737271e/Carpi-Bari-December-28-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
-2017-12-28,Perugia,Empoli,2,4,NA,NA,7360,Livio Marinelli,https://fbref.com/en/matches/9c6f282b/Perugia-Empoli-December-28-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
+2017-12-28,Pescara,Venezia,1,0,NA,NA,6866,Eugenio Abbattista,https://fbref.com/en/matches/5cfa3a50/Pescara-Venezia-December-28-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-12-28,Cremonese,Cesena,1,0,NA,NA,6242,Daniele Martinelli,https://fbref.com/en/matches/4da9c3c3/Cremonese-Cesena-December-28-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2017-2018
+2017-12-28,Perugia,Empoli,2,4,NA,NA,7360,Livio Marinelli,https://fbref.com/en/matches/9c6f282b/Perugia-Empoli-December-28-2017-Serie-B,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2017-12-28,Avellino,Ternana,2,1,NA,NA,3349,Fabio Piscopo,https://fbref.com/en/matches/da78d44c/Avellino-Ternana-December-28-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-12-28,Palermo,Salernitana,3,0,NA,NA,5768,Daniele Minelli,https://fbref.com/en/matches/67fc7e60/Palermo-Salernitana-December-28-2017-Serie-B,0,0,1,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2017-2018
 2018-01-20,Perugia,Virtus Entella,2,0,NA,NA,7406,Lorenzo Illuzzi,https://fbref.com/en/matches/d11a91cd/Perugia-Virtus-Entella-January-20-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
@@ -236,8 +236,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2018-01-20,Frosinone,Pro Vercelli,4,0,NA,NA,10161,Antonio Di Martino,https://fbref.com/en/matches/6f1eefb9/Frosinone-Pro-Vercelli-January-20-2018-Serie-B,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-01-20,Novara,Carpi,1,0,NA,NA,4636,Federico La Penna,https://fbref.com/en/matches/423cd33b/Novara-Carpi-January-20-2018-Serie-B,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2018-01-20,Empoli,Ternana,2,1,NA,NA,7766,Luigi Pillitteri,https://fbref.com/en/matches/53a59e4c/Empoli-Ternana-January-20-2018-Serie-B,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2017-2018
-2018-01-20,Foggia,Pescara,0,1,NA,NA,11934,Juan Sacchi,https://fbref.com/en/matches/24c83fb9/Foggia-Pescara-January-20-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-01-20,Cremonese,Parma,1,0,NA,NA,10958,Luigi Nasca,https://fbref.com/en/matches/efb859e5/Cremonese-Parma-January-20-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
+2018-01-20,Foggia,Pescara,0,1,NA,NA,11934,Juan Sacchi,https://fbref.com/en/matches/24c83fb9/Foggia-Pescara-January-20-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-01-20,Spezia,Palermo,0,0,NA,NA,6886,Marco Piccinini,https://fbref.com/en/matches/83590230/Spezia-Palermo-January-20-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-01-20,Cesena,Bari,1,1,NA,NA,13412,Valerio Marini,https://fbref.com/en/matches/02ebab59/Cesena-Bari-January-20-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-01-21,Brescia,Avellino,2,3,NA,NA,6985,Antonello Balice,https://fbref.com/en/matches/fa21dd98/Brescia-Avellino-January-21-2018-Serie-B,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
@@ -245,20 +245,20 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2018-01-27,Virtus Entella,Foggia,1,2,NA,NA,1968,Daniele Martinelli,https://fbref.com/en/matches/797d86d1/Virtus-Entella-Foggia-January-27-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-01-27,Avellino,Cremonese,0,0,NA,NA,3424,Aleandro Di Paolo,https://fbref.com/en/matches/00842ab8/Avellino-Cremonese-January-27-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-01-27,Carpi,Spezia,2,1,NA,NA,1900,Antonio Giua,https://fbref.com/en/matches/fe3a223f/Carpi-Spezia-January-27-2018-Serie-B,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2018-01-27,Palermo,Brescia,2,0,NA,NA,6799,Marco Serra,https://fbref.com/en/matches/c65b7083/Palermo-Brescia-January-27-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-01-27,Bari,Empoli,0,4,NA,NA,14428,Daniele Minelli,https://fbref.com/en/matches/2e8293bc/Bari-Empoli-January-27-2018-Serie-B,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-01-27,Venezia,Cesena,1,0,NA,NA,3533,Fabio Piscopo,https://fbref.com/en/matches/7d9be5ee/Venezia-Cesena-January-27-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2017-2018
+2018-01-27,Palermo,Brescia,2,0,NA,NA,6799,Marco Serra,https://fbref.com/en/matches/c65b7083/Palermo-Brescia-January-27-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-01-27,Pro Vercelli,Ascoli,2,0,NA,NA,2300,Davide Ghersini,https://fbref.com/en/matches/ab54cc5f/Pro-Vercelli-Ascoli-January-27-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-01-27,Parma,Novara,3,0,NA,NA,10168,Francesco Paolo Saia,https://fbref.com/en/matches/b2ea0596/Parma-Novara-January-27-2018-Serie-B,1,1,3,0,0,0,0,0,0,0,1,4,1,0,0,0,0,0,2017-2018
 2018-01-28,Cittadella,Frosinone,1,2,NA,NA,4000,Antonio Rapuano,https://fbref.com/en/matches/3559d15b/Cittadella-Frosinone-January-28-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-01-29,Ternana,Salernitana,2,2,NA,NA,4636,Francesco Fourneau,https://fbref.com/en/matches/023c6583/Ternana-Salernitana-January-29-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-02-02,Empoli,Palermo,4,0,NA,NA,5158,Federico La Penna,https://fbref.com/en/matches/09a330ff/Empoli-Palermo-February-2-2018-Serie-B,1,1,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2018-02-03,Cremonese,Pro Vercelli,2,3,NA,NA,6401,Luigi Pillitteri,https://fbref.com/en/matches/4c17cb5e/Cremonese-Pro-Vercelli-February-3-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-02-03,Salernitana,Carpi,1,2,NA,NA,6373,Lorenzo Illuzzi,https://fbref.com/en/matches/72632aed/Salernitana-Carpi-February-3-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
+2018-02-03,Cremonese,Pro Vercelli,2,3,NA,NA,6401,Luigi Pillitteri,https://fbref.com/en/matches/4c17cb5e/Cremonese-Pro-Vercelli-February-3-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-02-03,Brescia,Parma,2,1,NA,NA,7053,Gianluca Aureliano,https://fbref.com/en/matches/29ab78ae/Brescia-Parma-February-3-2018-Serie-B,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-02-03,Novara,Ascoli,1,2,NA,NA,3615,Juan Sacchi,https://fbref.com/en/matches/7667885d/Novara-Ascoli-February-3-2018-Serie-B,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2018-02-03,Perugia,Cittadella,1,3,NA,NA,7137,Valerio Marini,https://fbref.com/en/matches/7e1ac387/Perugia-Cittadella-February-3-2018-Serie-B,0,0,3,2,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2018-02-03,Frosinone,Pescara,3,0,NA,NA,10966,Riccardo Ros,https://fbref.com/en/matches/12ae7eb3/Frosinone-Pescara-February-3-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
+2018-02-03,Perugia,Cittadella,1,3,NA,NA,7137,Valerio Marini,https://fbref.com/en/matches/7e1ac387/Perugia-Cittadella-February-3-2018-Serie-B,0,0,3,2,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2018-02-03,Venezia,Bari,3,1,NA,NA,3786,Daniele Chiffi,https://fbref.com/en/matches/abbe1ad4/Venezia-Bari-February-3-2018-Serie-B,0,0,2,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-02-03,Foggia,Avellino,2,1,NA,NA,0,Antonio Di Martino,https://fbref.com/en/matches/067b74ae/Foggia-Avellino-February-3-2018-Serie-B,0,1,3,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2017-2018
 2018-02-04,Cesena,Ternana,4,3,NA,NA,11653,Riccardo Pinzani,https://fbref.com/en/matches/907c308a/Cesena-Ternana-February-4-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
@@ -266,18 +266,18 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2018-02-10,Ternana,Virtus Entella,0,1,NA,NA,3192,Luigi Nasca,https://fbref.com/en/matches/237a160f/Ternana-Virtus-Entella-February-10-2018-Serie-B,0,0,3,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-02-10,Avellino,Cesena,1,1,NA,NA,3165,Davide Ghersini,https://fbref.com/en/matches/52ddda77/Avellino-Cesena-February-10-2018-Serie-B,1,1,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-02-10,Carpi,Cremonese,1,1,NA,NA,2470,Fabio Piscopo,https://fbref.com/en/matches/b0475141/Carpi-Cremonese-February-10-2018-Serie-B,0,1,5,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
-2018-02-10,Bari,Frosinone,1,0,NA,NA,12657,Aleandro Di Paolo,https://fbref.com/en/matches/5dc3c193/Bari-Frosinone-February-10-2018-Serie-B,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-02-10,Spezia,Venezia,1,1,NA,NA,5464,Antonello Balice,https://fbref.com/en/matches/4a78aa5f/Spezia-Venezia-February-10-2018-Serie-B,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
+2018-02-10,Bari,Frosinone,1,0,NA,NA,12657,Aleandro Di Paolo,https://fbref.com/en/matches/5dc3c193/Bari-Frosinone-February-10-2018-Serie-B,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
+2018-02-10,Pro Vercelli,Brescia,0,0,NA,NA,3173,Niccolò Baroni,https://fbref.com/en/matches/10a823dd/Pro-Vercelli-Brescia-February-10-2018-Serie-B,0,0,3,1,0,0,0,0,0,0,1,2,0,0,0,0,0,0,2017-2018
 2018-02-10,Ascoli,Empoli,1,2,NA,NA,4448,Ivan Pezzuto,https://fbref.com/en/matches/fb4a816f/Ascoli-Empoli-February-10-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2018-02-10,Pescara,Salernitana,1,0,NA,NA,7164,Daniele Martinelli,https://fbref.com/en/matches/5e7cda5e/Pescara-Salernitana-February-10-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
-2018-02-10,Pro Vercelli,Brescia,0,0,NA,NA,3173,Niccolò Baroni,https://fbref.com/en/matches/10a823dd/Pro-Vercelli-Brescia-February-10-2018-Serie-B,0,0,3,1,0,0,0,0,0,0,1,2,0,0,0,0,0,0,2017-2018
 2018-02-11,Parma,Perugia,1,1,NA,NA,10972,Marco Serra,https://fbref.com/en/matches/e406e200/Parma-Perugia-February-11-2018-Serie-B,1,1,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-02-11,Cittadella,Novara,1,3,NA,NA,3277,Marco Piccinini,https://fbref.com/en/matches/e6cc3d20/Cittadella-Novara-February-11-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2017-2018
 2018-02-12,Palermo,Foggia,1,2,NA,NA,13031,Eugenio Abbattista,https://fbref.com/en/matches/24fe31cd/Palermo-Foggia-February-12-2018-Serie-B,1,1,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-02-16,Cremonese,Bari,0,1,NA,NA,8153,Gianluca Aureliano,https://fbref.com/en/matches/fae6a71b/Cremonese-Bari-February-16-2018-Serie-B,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-02-17,Cesena,Cittadella,0,1,NA,NA,10783,Riccardo Ros,https://fbref.com/en/matches/e685a3cf/Cesena-Cittadella-February-17-2018-Serie-B,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
-2018-02-17,Novara,Spezia,1,1,NA,NA,3588,Antonio Di Martino,https://fbref.com/en/matches/59cb02ba/Novara-Spezia-February-17-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2017-2018
 2018-02-17,Virtus Entella,Pescara,0,0,NA,NA,1692,Antonio Rapuano,https://fbref.com/en/matches/6a4eaa6a/Virtus-Entella-Pescara-February-17-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
+2018-02-17,Novara,Spezia,1,1,NA,NA,3588,Antonio Di Martino,https://fbref.com/en/matches/59cb02ba/Novara-Spezia-February-17-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2017-2018
 2018-02-17,Venezia,Avellino,3,1,NA,NA,3883,Francesco Fourneau,https://fbref.com/en/matches/1a34de89/Venezia-Avellino-February-17-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2018-02-17,Foggia,Carpi,3,0,NA,NA,10318,Riccardo Pinzani,https://fbref.com/en/matches/1556387f/Foggia-Carpi-February-17-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-02-17,Perugia,Palermo,1,0,NA,NA,8380,Daniele Chiffi,https://fbref.com/en/matches/38103455/Perugia-Palermo-February-17-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
@@ -289,8 +289,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2018-02-23,Parma,Venezia,1,1,NA,NA,10216,Aleandro Di Paolo,https://fbref.com/en/matches/2795e996/Parma-Venezia-February-23-2018-Serie-B,1,1,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2018-02-24,Pescara,Cremonese,0,0,NA,NA,6277,Niccolò Baroni,https://fbref.com/en/matches/202b6871/Pescara-Cremonese-February-24-2018-Serie-B,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-02-24,Pro Vercelli,Palermo,0,0,NA,NA,2895,Valerio Marini,https://fbref.com/en/matches/f8b84764/Pro-Vercelli-Palermo-February-24-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2018-02-24,Foggia,Brescia,1,2,NA,NA,10378,Fabio Piscopo,https://fbref.com/en/matches/8a258568/Foggia-Brescia-February-24-2018-Serie-B,0,0,3,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2017-2018
 2018-02-24,Ascoli,Cesena,2,1,NA,NA,3903,Federico La Penna,https://fbref.com/en/matches/fca727be/Ascoli-Cesena-February-24-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2017-2018
+2018-02-24,Foggia,Brescia,1,2,NA,NA,10378,Fabio Piscopo,https://fbref.com/en/matches/8a258568/Foggia-Brescia-February-24-2018-Serie-B,0,0,3,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2017-2018
 2018-02-24,Frosinone,Perugia,1,3,NA,NA,10689,Davide Ghersini,https://fbref.com/en/matches/f0e5016b/Frosinone-Perugia-February-24-2018-Serie-B,0,0,2,2,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2018-02-24,Carpi,Virtus Entella,0,0,NA,NA,1460,Antonello Balice,https://fbref.com/en/matches/c3625871/Carpi-Virtus-Entella-February-24-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-02-24,Avellino,Novara,2,1,NA,NA,2946,Ivan Pezzuto,https://fbref.com/en/matches/d1587cdb/Avellino-Novara-February-24-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
@@ -304,15 +304,15 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2018-02-27,Novara,Foggia,0,1,NA,NA,5252,Riccardo Ros,https://fbref.com/en/matches/cf660946/Novara-Foggia-February-27-2018-Serie-B,0,0,2,1,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2017-2018
 2018-02-27,Virtus Entella,Cittadella,0,1,NA,NA,1262,Daniele Minelli,https://fbref.com/en/matches/99ce7d16/Virtus-Entella-Cittadella-February-27-2018-Serie-B,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-03-03,Ternana,Cremonese,2,1,NA,NA,2455,Antonio Di Martino,https://fbref.com/en/matches/03ec8965/Ternana-Cremonese-March-3-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2018-03-03,Frosinone,Novara,1,0,NA,NA,9303,Niccolò Baroni,https://fbref.com/en/matches/5b1706f2/Frosinone-Novara-March-3-2018-Serie-B,0,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-03-03,Cittadella,Pescara,2,0,NA,NA,3239,Antonio Giua,https://fbref.com/en/matches/c87edd83/Cittadella-Pescara-March-3-2018-Serie-B,1,1,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
+2018-03-03,Frosinone,Novara,1,0,NA,NA,9303,Niccolò Baroni,https://fbref.com/en/matches/5b1706f2/Frosinone-Novara-March-3-2018-Serie-B,0,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-03-03,Ascoli,Salernitana,1,3,NA,NA,4206,Luigi Nasca,https://fbref.com/en/matches/b86a3d5d/Ascoli-Salernitana-March-3-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-03-03,Spezia,Cesena,1,2,NA,NA,4937,Ivan Pezzuto,https://fbref.com/en/matches/bf7abb39/Spezia-Cesena-March-3-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-03-06,Perugia,Brescia,2,0,NA,NA,4500,Juan Sacchi,https://fbref.com/en/matches/32dea03e/Perugia-Brescia-March-6-2018-Serie-B,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-03-06,Cesena,Pro Vercelli,2,2,NA,NA,10187,Daniele Chiffi,https://fbref.com/en/matches/8ac1ae7c/Cesena-Pro-Vercelli-March-6-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2018-03-10,Cesena,Carpi,0,0,NA,NA,10954,Aleandro Di Paolo,https://fbref.com/en/matches/096b8980/Cesena-Carpi-March-10-2018-Serie-B,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
-2018-03-10,Spezia,Ternana,1,1,NA,NA,4932,Daniele Martinelli,https://fbref.com/en/matches/2c5ceddf/Spezia-Ternana-March-10-2018-Serie-B,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-03-10,Cremonese,Cittadella,1,1,NA,NA,5792,Juan Sacchi,https://fbref.com/en/matches/fa0a4228/Cremonese-Cittadella-March-10-2018-Serie-B,1,2,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
+2018-03-10,Spezia,Ternana,1,1,NA,NA,4932,Daniele Martinelli,https://fbref.com/en/matches/2c5ceddf/Spezia-Ternana-March-10-2018-Serie-B,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-03-10,Perugia,Foggia,2,0,NA,NA,9490,Luigi Pillitteri,https://fbref.com/en/matches/4dec9ba3/Perugia-Foggia-March-10-2018-Serie-B,1,1,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2018-03-10,Bari,Pro Vercelli,2,2,NA,NA,12954,Antonello Balice,https://fbref.com/en/matches/f768f8f1/Bari-Pro-Vercelli-March-10-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2018-03-10,Pescara,Parma,1,4,NA,NA,7072,Lorenzo Illuzzi,https://fbref.com/en/matches/9386a7c6/Pescara-Parma-March-10-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
@@ -328,9 +328,9 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2018-03-17,Ascoli,Ternana,2,1,NA,NA,4487,Eugenio Abbattista,https://fbref.com/en/matches/3285e7df/Ascoli-Ternana-March-17-2018-Serie-B,1,1,1,1,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2017-2018
 2018-03-17,Empoli,Venezia,3,2,NA,NA,7555,Livio Marinelli,https://fbref.com/en/matches/2ab64306/Empoli-Venezia-March-17-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-03-17,Brescia,Cremonese,1,1,NA,NA,7765,Antonio Rapuano,https://fbref.com/en/matches/6d772161/Brescia-Cremonese-March-17-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2017-2018
+2018-03-17,Cittadella,Bari,0,0,NA,NA,3828,Federico La Penna,https://fbref.com/en/matches/f5fd4553/Cittadella-Bari-March-17-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-03-17,Frosinone,Salernitana,0,0,NA,NA,11599,Francesco Paolo Saia,https://fbref.com/en/matches/8b920611/Frosinone-Salernitana-March-17-2018-Serie-B,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-03-17,Novara,Palermo,2,2,NA,NA,4182,Marco Serra,https://fbref.com/en/matches/6c07c4da/Novara-Palermo-March-17-2018-Serie-B,0,0,1,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
-2018-03-17,Cittadella,Bari,0,0,NA,NA,3828,Federico La Penna,https://fbref.com/en/matches/f5fd4553/Cittadella-Bari-March-17-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-03-17,Perugia,Spezia,3,0,NA,NA,7555,Luigi Nasca,https://fbref.com/en/matches/1d0aca6d/Perugia-Spezia-March-17-2018-Serie-B,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-03-18,Avellino,Pescara,2,2,NA,NA,3154,Daniele Minelli,https://fbref.com/en/matches/a5ed073f/Avellino-Pescara-March-18-2018-Serie-B,1,1,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-03-19,Carpi,Pro Vercelli,2,0,NA,NA,1417,Francesco Fourneau,https://fbref.com/en/matches/3cc6769d/Carpi-Pro-Vercelli-March-19-2018-Serie-B,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
@@ -341,16 +341,16 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2018-03-25,Pro Vercelli,Avellino,0,0,NA,NA,3427,Antonio Di Martino,https://fbref.com/en/matches/7fc864d4/Pro-Vercelli-Avellino-March-25-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-03-25,Ternana,Frosinone,0,0,NA,NA,4128,Daniele Chiffi,https://fbref.com/en/matches/4be7c899/Ternana-Frosinone-March-25-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-03-25,Pescara,Empoli,0,1,NA,NA,6579,Marco Piccinini,https://fbref.com/en/matches/748df9f5/Pescara-Empoli-March-25-2018-Serie-B,0,1,5,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2018-03-25,Cremonese,Virtus Entella,0,1,NA,NA,9231,Lorenzo Illuzzi,https://fbref.com/en/matches/bd03e554/Cremonese-Virtus-Entella-March-25-2018-Serie-B,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-03-25,Salernitana,Novara,1,0,NA,NA,6692,Aleandro Di Paolo,https://fbref.com/en/matches/537fe0b9/Salernitana-Novara-March-25-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
+2018-03-25,Cremonese,Virtus Entella,0,1,NA,NA,9231,Lorenzo Illuzzi,https://fbref.com/en/matches/bd03e554/Cremonese-Virtus-Entella-March-25-2018-Serie-B,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-03-25,Venezia,Cittadella,2,1,NA,NA,5688,Ivan Pezzuto,https://fbref.com/en/matches/1d6b8c1d/Venezia-Cittadella-March-25-2018-Serie-B,0,1,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-03-25,Cesena,Perugia,1,1,NA,NA,12771,Gianluca Aureliano,https://fbref.com/en/matches/b8491883/Cesena-Perugia-March-25-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-03-28,Ascoli,Bari,1,0,NA,NA,5421,Riccardo Ros,https://fbref.com/en/matches/58619460/Ascoli-Bari-March-28-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
-2018-03-29,Brescia,Pescara,2,1,NA,NA,8114,Francesco Paolo Saia,https://fbref.com/en/matches/6c453f79/Brescia-Pescara-March-29-2018-Serie-B,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-03-29,Cittadella,Spezia,1,2,NA,NA,3087,Valerio Marini,https://fbref.com/en/matches/61b152b1/Cittadella-Spezia-March-29-2018-Serie-B,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
+2018-03-29,Brescia,Pescara,2,1,NA,NA,8114,Francesco Paolo Saia,https://fbref.com/en/matches/6c453f79/Brescia-Pescara-March-29-2018-Serie-B,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-03-29,Carpi,Ternana,2,1,NA,NA,1698,Luigi Pillitteri,https://fbref.com/en/matches/5387041c/Carpi-Ternana-March-29-2018-Serie-B,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
-2018-03-29,Avellino,Parma,1,2,NA,NA,3463,Daniele Martinelli,https://fbref.com/en/matches/6b9585ef/Avellino-Parma-March-29-2018-Serie-B,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-03-29,Empoli,Salernitana,2,0,NA,NA,4738,Daniele Minelli,https://fbref.com/en/matches/73d22a91/Empoli-Salernitana-March-29-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
+2018-03-29,Avellino,Parma,1,2,NA,NA,3463,Daniele Martinelli,https://fbref.com/en/matches/6b9585ef/Avellino-Parma-March-29-2018-Serie-B,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-03-29,Virtus Entella,Palermo,1,2,NA,NA,2492,Francesco Fourneau,https://fbref.com/en/matches/e9842f24/Virtus-Entella-Palermo-March-29-2018-Serie-B,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-03-29,Foggia,Pro Vercelli,2,1,NA,NA,9482,Francesco Guccini,https://fbref.com/en/matches/653412c8/Foggia-Pro-Vercelli-March-29-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-03-29,Frosinone,Venezia,2,1,NA,NA,11299,Marco Serra,https://fbref.com/en/matches/ba0d4a12/Frosinone-Venezia-March-29-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
@@ -370,8 +370,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2018-04-07,Ternana,Cittadella,5,1,NA,NA,3884,Niccolò Baroni,https://fbref.com/en/matches/23681485/Ternana-Cittadella-April-7-2018-Serie-B,1,1,3,0,0,0,0,0,0,1,1,1,2,0,0,0,0,0,2017-2018
 2018-04-07,Parma,Frosinone,2,0,NA,NA,11651,Ivan Pezzuto,https://fbref.com/en/matches/2bc9240f/Parma-Frosinone-April-7-2018-Serie-B,0,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-04-08,Venezia,Brescia,1,2,NA,NA,5844,Antonello Balice,https://fbref.com/en/matches/1c5a5ec4/Venezia-Brescia-April-8-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
-2018-04-08,Cesena,Virtus Entella,3,0,NA,NA,11084,Juan Sacchi,https://fbref.com/en/matches/358912b7/Cesena-Virtus-Entella-April-8-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-04-08,Pro Vercelli,Novara,0,0,NA,NA,4087,Davide Ghersini,https://fbref.com/en/matches/3a391016/Pro-Vercelli-Novara-April-8-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
+2018-04-08,Cesena,Virtus Entella,3,0,NA,NA,11084,Juan Sacchi,https://fbref.com/en/matches/358912b7/Cesena-Virtus-Entella-April-8-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-04-09,Avellino,Perugia,2,0,NA,NA,4451,Marco Piccinini,https://fbref.com/en/matches/659bd14a/Avellino-Perugia-April-9-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-04-13,Foggia,Ascoli,3,0,NA,NA,4271,Francesco Fourneau,https://fbref.com/en/matches/54127dd7/Foggia-Ascoli-April-13-2018-Serie-B,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2017-2018
 2018-04-13,Parma,Cittadella,0,0,NA,NA,11782,Gianluca Aureliano,https://fbref.com/en/matches/1023aec1/Parma-Cittadella-April-13-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
@@ -385,34 +385,34 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2018-04-14,Pescara,Bari,2,2,NA,NA,8061,Riccardo Pinzani,https://fbref.com/en/matches/95fb1fc3/Pescara-Bari-April-14-2018-Serie-B,0,0,2,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-04-14,Perugia,Venezia,1,1,NA,NA,9264,Daniele Martinelli,https://fbref.com/en/matches/d5fbc77b/Perugia-Venezia-April-14-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-04-16,Ascoli,Parma,0,1,NA,NA,5392,Marco Serra,https://fbref.com/en/matches/269bec12/Ascoli-Parma-April-16-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
-2018-04-17,Avellino,Frosinone,0,2,NA,NA,3497,Juan Sacchi,https://fbref.com/en/matches/eb881dbb/Avellino-Frosinone-April-17-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-04-17,Ternana,Foggia,2,2,NA,NA,7301,Lorenzo Illuzzi,https://fbref.com/en/matches/815a5197/Ternana-Foggia-April-17-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
+2018-04-17,Avellino,Frosinone,0,2,NA,NA,3497,Juan Sacchi,https://fbref.com/en/matches/eb881dbb/Avellino-Frosinone-April-17-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-04-17,Pro Vercelli,Pescara,3,1,NA,NA,2267,Riccardo Ros,https://fbref.com/en/matches/26d07af3/Pro-Vercelli-Pescara-April-17-2018-Serie-B,1,1,2,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2017-2018
 2018-04-17,Bari,Novara,1,1,NA,NA,9449,Valerio Marini,https://fbref.com/en/matches/ba06d38d/Bari-Novara-April-17-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-04-17,Carpi,Perugia,1,2,NA,NA,1838,Antonio Di Martino,https://fbref.com/en/matches/583ebef4/Carpi-Perugia-April-17-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
-2018-04-17,Spezia,Brescia,0,1,NA,NA,5351,Niccolò Baroni,https://fbref.com/en/matches/4bfce94a/Spezia-Brescia-April-17-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
-2018-04-17,Cesena,Empoli,2,3,NA,NA,11269,Francesco Paolo Saia,https://fbref.com/en/matches/4df399ec/Cesena-Empoli-April-17-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-04-17,Venezia,Virtus Entella,2,0,NA,NA,3294,Fabio Piscopo,https://fbref.com/en/matches/cdd9ec20/Venezia-Virtus-Entella-April-17-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2018-04-17,Cittadella,Palermo,0,0,NA,NA,3984,Luigi Nasca,https://fbref.com/en/matches/44f632da/Cittadella-Palermo-April-17-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
+2018-04-17,Spezia,Brescia,0,1,NA,NA,5351,Niccolò Baroni,https://fbref.com/en/matches/4bfce94a/Spezia-Brescia-April-17-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
+2018-04-17,Cesena,Empoli,2,3,NA,NA,11269,Francesco Paolo Saia,https://fbref.com/en/matches/4df399ec/Cesena-Empoli-April-17-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-04-17,Cremonese,Salernitana,1,1,NA,NA,7404,Antonello Balice,https://fbref.com/en/matches/8abd7f03/Cremonese-Salernitana-April-17-2018-Serie-B,0,0,3,0,0,0,0,0,0,0,1,5,1,0,0,0,0,0,2017-2018
 2018-04-21,Foggia,Bari,1,1,NA,NA,14343,Daniele Chiffi,https://fbref.com/en/matches/c6cf4bbf/Foggia-Bari-April-21-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
-2018-04-21,Virtus Entella,Pro Vercelli,3,2,NA,NA,2071,Aleandro Di Paolo,https://fbref.com/en/matches/caaaca01/Virtus-Entella-Pro-Vercelli-April-21-2018-Serie-B,1,2,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2018-04-21,Parma,Carpi,2,1,NA,NA,11151,Daniele Minelli,https://fbref.com/en/matches/27fdaf82/Parma-Carpi-April-21-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
+2018-04-21,Virtus Entella,Pro Vercelli,3,2,NA,NA,2071,Aleandro Di Paolo,https://fbref.com/en/matches/caaaca01/Virtus-Entella-Pro-Vercelli-April-21-2018-Serie-B,1,2,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2018-04-21,Salernitana,Cittadella,1,3,NA,NA,6717,Francesco Guccini,https://fbref.com/en/matches/97deeaa6/Salernitana-Cittadella-April-21-2018-Serie-B,0,0,4,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,2017-2018
 2018-04-21,Cremonese,Ascoli,1,2,NA,NA,6982,Livio Marinelli,https://fbref.com/en/matches/440d3845/Cremonese-Ascoli-April-21-2018-Serie-B,0,0,3,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2017-2018
-2018-04-21,Novara,Venezia,1,3,NA,NA,4021,Francesco Fourneau,https://fbref.com/en/matches/3a72a5c7/Novara-Venezia-April-21-2018-Serie-B,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-04-21,Brescia,Cesena,0,0,NA,NA,6632,Riccardo Pinzani,https://fbref.com/en/matches/67855ca5/Brescia-Cesena-April-21-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
+2018-04-21,Novara,Venezia,1,3,NA,NA,4021,Francesco Fourneau,https://fbref.com/en/matches/3a72a5c7/Novara-Venezia-April-21-2018-Serie-B,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-04-21,Palermo,Avellino,3,0,NA,NA,9173,Antonio Giua,https://fbref.com/en/matches/cf8476c0/Palermo-Avellino-April-21-2018-Serie-B,2,2,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-04-22,Perugia,Ternana,2,3,NA,NA,13696,Federico La Penna,https://fbref.com/en/matches/4d48df74/Perugia-Ternana-April-22-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-04-22,Pescara,Spezia,3,2,NA,NA,6924,Davide Ghersini,https://fbref.com/en/matches/55276882/Pescara-Spezia-April-22-2018-Serie-B,1,1,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-04-23,Frosinone,Empoli,2,4,NA,NA,13166,Eugenio Abbattista,https://fbref.com/en/matches/087f6c32/Frosinone-Empoli-April-23-2018-Serie-B,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-04-27,Venezia,Palermo,3,0,NA,NA,5767,Marco Piccinini,https://fbref.com/en/matches/b220d18f/Venezia-Palermo-April-27-2018-Serie-B,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2018-04-27,Bari,Virtus Entella,1,0,NA,NA,13445,Marco Serra,https://fbref.com/en/matches/da7e6d21/Bari-Virtus-Entella-April-27-2018-Serie-B,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
-2018-04-28,Cittadella,Foggia,3,1,NA,NA,4468,Daniele Martinelli,https://fbref.com/en/matches/7569eb33/Cittadella-Foggia-April-28-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-04-28,Carpi,Avellino,0,0,NA,NA,2423,Antonio Rapuano,https://fbref.com/en/matches/52a88b29/Carpi-Avellino-April-28-2018-Serie-B,0,0,3,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2017-2018
+2018-04-28,Cittadella,Foggia,3,1,NA,NA,4468,Daniele Martinelli,https://fbref.com/en/matches/7569eb33/Cittadella-Foggia-April-28-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-04-28,Spezia,Cremonese,1,0,NA,NA,5620,Riccardo Ros,https://fbref.com/en/matches/0d05144b/Spezia-Cremonese-April-28-2018-Serie-B,0,0,3,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
-2018-04-28,Ascoli,Perugia,2,2,NA,NA,5706,Ivan Pezzuto,https://fbref.com/en/matches/5ee8ed28/Ascoli-Perugia-April-28-2018-Serie-B,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-04-28,Salernitana,Brescia,4,2,NA,NA,6928,Luigi Pillitteri,https://fbref.com/en/matches/4c7817c8/Salernitana-Brescia-April-28-2018-Serie-B,0,0,3,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
+2018-04-28,Ascoli,Perugia,2,2,NA,NA,5706,Ivan Pezzuto,https://fbref.com/en/matches/5ee8ed28/Ascoli-Perugia-April-28-2018-Serie-B,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-04-28,Pro Vercelli,Parma,1,0,NA,NA,3078,Juan Sacchi,https://fbref.com/en/matches/3c0ce590/Pro-Vercelli-Parma-April-28-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-04-28,Cesena,Frosinone,1,0,NA,NA,12423,Aleandro Di Paolo,https://fbref.com/en/matches/4240c6ab/Cesena-Frosinone-April-28-2018-Serie-B,1,1,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-04-28,Ternana,Pescara,0,3,NA,NA,9482,Luigi Nasca,https://fbref.com/en/matches/6a467cd1/Ternana-Pescara-April-28-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
@@ -420,45 +420,45 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2018-04-30,Palermo,Bari,1,1,NA,NA,18613,Gianluca Aureliano,https://fbref.com/en/matches/eb6629cb/Palermo-Bari-April-30-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,5,2,0,0,0,0,0,2017-2018
 2018-05-01,Avellino,Cittadella,0,2,NA,NA,3800,Valerio Marini,https://fbref.com/en/matches/c58bec2f/Avellino-Cittadella-May-1-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-05-01,Cremonese,Novara,1,1,NA,NA,7485,Eugenio Abbattista,https://fbref.com/en/matches/b864c4ac/Cremonese-Novara-May-1-2018-Serie-B,0,0,4,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,2017-2018
-2018-05-01,Pro Vercelli,Venezia,0,2,NA,NA,2704,Niccolò Baroni,https://fbref.com/en/matches/64a77d19/Pro-Vercelli-Venezia-May-1-2018-Serie-B,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-05-01,Carpi,Empoli,0,0,NA,NA,1868,Antonello Balice,https://fbref.com/en/matches/d16b6448/Carpi-Empoli-May-1-2018-Serie-B,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
+2018-05-01,Pro Vercelli,Venezia,0,2,NA,NA,2704,Niccolò Baroni,https://fbref.com/en/matches/64a77d19/Pro-Vercelli-Venezia-May-1-2018-Serie-B,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-05-01,Virtus Entella,Ascoli,1,1,NA,NA,2097,Riccardo Pinzani,https://fbref.com/en/matches/eb42a472/Virtus-Entella-Ascoli-May-1-2018-Serie-B,0,0,4,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-05-01,Brescia,Frosinone,1,2,NA,NA,7237,Livio Marinelli,https://fbref.com/en/matches/9a7bda71/Brescia-Frosinone-May-1-2018-Serie-B,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2017-2018
 2018-05-01,Pescara,Cesena,0,0,NA,NA,7307,Daniele Chiffi,https://fbref.com/en/matches/ca76499f/Pescara-Cesena-May-1-2018-Serie-B,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-05-01,Parma,Ternana,2,0,NA,NA,13347,Francesco Paolo Saia,https://fbref.com/en/matches/8df9cac3/Parma-Ternana-May-1-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-05-01,Foggia,Spezia,2,1,NA,NA,9741,Antonio Di Martino,https://fbref.com/en/matches/d18dccca/Foggia-Spezia-May-1-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-05-01,Perugia,Salernitana,1,1,NA,NA,8207,Fabio Piscopo,https://fbref.com/en/matches/ec1a5138/Perugia-Salernitana-May-1-2018-Serie-B,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
-2018-05-05,Cittadella,Brescia,2,2,NA,NA,4128,Lorenzo Illuzzi,https://fbref.com/en/matches/9c7ed0df/Cittadella-Brescia-May-5-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-05-05,Frosinone,Carpi,1,0,NA,NA,10608,Antonio Giua,https://fbref.com/en/matches/c37e4540/Frosinone-Carpi-May-5-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
+2018-05-05,Cittadella,Brescia,2,2,NA,NA,4128,Lorenzo Illuzzi,https://fbref.com/en/matches/9c7ed0df/Cittadella-Brescia-May-5-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-05-05,Bari,Perugia,3,1,NA,NA,14068,Juan Sacchi,https://fbref.com/en/matches/bd592bd1/Bari-Perugia-May-5-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-05-05,Venezia,Foggia,2,1,NA,NA,5944,Francesco Guccini,https://fbref.com/en/matches/6c762139/Venezia-Foggia-May-5-2018-Serie-B,1,1,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-05-05,Ternana,Palermo,2,3,NA,NA,4455,Daniele Minelli,https://fbref.com/en/matches/92b2a58a/Ternana-Palermo-May-5-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2018-05-05,Spezia,Pro Vercelli,5,1,NA,NA,5149,Daniele Martinelli,https://fbref.com/en/matches/dd2eea31/Spezia-Pro-Vercelli-May-5-2018-Serie-B,1,1,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-05-05,Salernitana,Virtus Entella,1,0,NA,NA,6018,Antonio Rapuano,https://fbref.com/en/matches/a11461e0/Salernitana-Virtus-Entella-May-5-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
+2018-05-05,Spezia,Pro Vercelli,5,1,NA,NA,5149,Daniele Martinelli,https://fbref.com/en/matches/dd2eea31/Spezia-Pro-Vercelli-May-5-2018-Serie-B,1,1,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-05-05,Ascoli,Avellino,1,1,NA,NA,5560,Davide Ghersini,https://fbref.com/en/matches/a5dda06c/Ascoli-Avellino-May-5-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-05-05,Novara,Pescara,1,1,NA,NA,3991,Marco Piccinini,https://fbref.com/en/matches/437c8811/Novara-Pescara-May-5-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-05-06,Cesena,Parma,2,1,NA,NA,14658,Francesco Fourneau,https://fbref.com/en/matches/69e3ac74/Cesena-Parma-May-6-2018-Serie-B,0,0,3,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2018-05-07,Empoli,Cremonese,1,1,NA,NA,5334,Marco Serra,https://fbref.com/en/matches/cd1e329d/Empoli-Cremonese-May-7-2018-Serie-B,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2018-05-11,Avellino,Spezia,1,0,NA,NA,9200,Livio Marinelli,https://fbref.com/en/matches/839b58ac/Avellino-Spezia-May-11-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
-2018-05-12,Perugia,Novara,1,1,NA,NA,7793,Riccardo Ros,https://fbref.com/en/matches/150b074c/Perugia-Novara-May-12-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-05-12,Carpi,Cittadella,1,1,NA,NA,1562,Fabio Piscopo,https://fbref.com/en/matches/38fb08e8/Carpi-Cittadella-May-12-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
-2018-05-12,Parma,Bari,1,0,NA,NA,14030,Aleandro Di Paolo,https://fbref.com/en/matches/2fb99e05/Parma-Bari-May-12-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2017-2018
+2018-05-12,Perugia,Novara,1,1,NA,NA,7793,Riccardo Ros,https://fbref.com/en/matches/150b074c/Perugia-Novara-May-12-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-05-12,Foggia,Salernitana,1,0,NA,NA,9741,Francesco Paolo Saia,https://fbref.com/en/matches/5e985d1c/Foggia-Salernitana-May-12-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
+2018-05-12,Parma,Bari,1,0,NA,NA,14030,Aleandro Di Paolo,https://fbref.com/en/matches/2fb99e05/Parma-Bari-May-12-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2017-2018
 2018-05-12,Virtus Entella,Frosinone,0,1,NA,NA,3589,Luigi Nasca,https://fbref.com/en/matches/845d5144/Virtus-Entella-Frosinone-May-12-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,2017-2018
 2018-05-12,Palermo,Cesena,0,0,NA,NA,23207,Ivan Pezzuto,https://fbref.com/en/matches/f3ef06f6/Palermo-Cesena-May-12-2018-Serie-B,0,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2018-05-12,Cremonese,Venezia,5,1,NA,NA,9073,Riccardo Pinzani,https://fbref.com/en/matches/51ec138a/Cremonese-Venezia-May-12-2018-Serie-B,1,1,3,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2017-2018
 2018-05-12,Pescara,Ascoli,0,1,NA,NA,9794,Gianluca Aureliano,https://fbref.com/en/matches/3f7688e4/Pescara-Ascoli-May-12-2018-Serie-B,0,0,1,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
-2018-05-12,Brescia,Empoli,0,2,NA,NA,6999,Antonio Di Martino,https://fbref.com/en/matches/6b41e9fd/Brescia-Empoli-May-12-2018-Serie-B,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
+2018-05-12,Cremonese,Venezia,5,1,NA,NA,9073,Riccardo Pinzani,https://fbref.com/en/matches/51ec138a/Cremonese-Venezia-May-12-2018-Serie-B,1,1,3,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2017-2018
 2018-05-12,Pro Vercelli,Ternana,2,1,NA,NA,2204,Valerio Marini,https://fbref.com/en/matches/17a7a252/Pro-Vercelli-Ternana-May-12-2018-Serie-B,1,1,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
-2018-05-18,Ascoli,Brescia,0,0,NA,NA,6693,Federico La Penna,https://fbref.com/en/matches/bc71c995/Ascoli-Brescia-May-18-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2017-2018
+2018-05-12,Brescia,Empoli,0,2,NA,NA,6999,Antonio Di Martino,https://fbref.com/en/matches/6b41e9fd/Brescia-Empoli-May-12-2018-Serie-B,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
+2018-05-18,Ternana,Avellino,1,2,NA,NA,4893,Francesco Fourneau,https://fbref.com/en/matches/7b9de78b/Ternana-Avellino-May-18-2018-Serie-B,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-05-18,Cesena,Cremonese,1,0,NA,NA,16234,Antonio Giua,https://fbref.com/en/matches/29fe4f5b/Cesena-Cremonese-May-18-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2018-05-18,Empoli,Perugia,2,1,NA,NA,9132,Daniele Martinelli,https://fbref.com/en/matches/4444d4b3/Empoli-Perugia-May-18-2018-Serie-B,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2018-05-18,Ternana,Avellino,1,2,NA,NA,4893,Francesco Fourneau,https://fbref.com/en/matches/7b9de78b/Ternana-Avellino-May-18-2018-Serie-B,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
+2018-05-18,Ascoli,Brescia,0,0,NA,NA,6693,Federico La Penna,https://fbref.com/en/matches/bc71c995/Ascoli-Brescia-May-18-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2017-2018
 2018-05-18,Venezia,Pescara,0,0,NA,NA,5480,Marco Serra,https://fbref.com/en/matches/67b0ea2c/Venezia-Pescara-May-18-2018-Serie-B,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-05-18,Bari,Carpi,2,0,NA,NA,16109,Luigi Pillitteri,https://fbref.com/en/matches/4e3720ed/Bari-Carpi-May-18-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
+2018-05-18,Cittadella,Pro Vercelli,2,0,NA,NA,3519,Antonello Balice,https://fbref.com/en/matches/8578b18e/Cittadella-Pro-Vercelli-May-18-2018-Serie-B,1,1,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2017-2018
 2018-05-18,Spezia,Parma,0,2,NA,NA,8270,Marco Piccinini,https://fbref.com/en/matches/04848356/Spezia-Parma-May-18-2018-Serie-B,0,1,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-05-18,Novara,Virtus Entella,0,1,NA,NA,5969,Daniele Chiffi,https://fbref.com/en/matches/e2829907/Novara-Virtus-Entella-May-18-2018-Serie-B,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
-2018-05-18,Cittadella,Pro Vercelli,2,0,NA,NA,3519,Antonello Balice,https://fbref.com/en/matches/8578b18e/Cittadella-Pro-Vercelli-May-18-2018-Serie-B,1,1,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2017-2018
 2018-05-18,Frosinone,Foggia,2,2,NA,NA,16016,Juan Sacchi,https://fbref.com/en/matches/69fbfe4c/Frosinone-Foggia-May-18-2018-Serie-B,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-05-18,Salernitana,Palermo,0,2,NA,NA,7654,Niccolò Baroni,https://fbref.com/en/matches/38bdab7b/Salernitana-Palermo-May-18-2018-Serie-B,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-05-24,Virtus Entella,Ascoli,0,0,NA,NA,4367,Aleandro Di Paolo,https://fbref.com/en/matches/1d02d381/Virtus-Entella-Ascoli-May-24-2018-Serie-B,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018

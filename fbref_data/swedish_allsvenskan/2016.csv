@@ -1,8 +1,8 @@
 date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_report_url,home_pk_goals,home_pk_attempts,home_yellow_cards,home_red_cards,home_shots,home_shots_on_target,home_tackles,home_interceptions,home_fouls_committed,away_pk_goals,away_pk_attempts,away_yellow_cards,away_red_cards,away_shots,away_shots_on_target,away_tackles,away_interceptions,away_fouls_committed,season
 2016-04-02,Malmö,Norrköping,3,1,NA,NA,21085,Stefan Johannesson,https://fbref.com/en/matches/f551e81b/Malmo-Norrkoping-April-2-2016-Allsvenskan,1,1,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-04-02,Kalmar,Jönköping,0,1,NA,NA,10177,Martin Strömbergsson,https://fbref.com/en/matches/1e84b807/Kalmar-Jonkopings-Sodra-April-2-2016-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
-2016-04-03,Häcken,Elfsborg,2,1,NA,NA,5916,Markus Strömbergsson,https://fbref.com/en/matches/c24cf619/Hacken-Elfsborg-April-3-2016-Allsvenskan,0,0,3,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-04-03,Gefle,Helsingborg,1,1,NA,NA,3344,Johan Hamlin,https://fbref.com/en/matches/be6371bb/Gefle-Helsingborg-April-3-2016-Allsvenskan,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
+2016-04-03,Häcken,Elfsborg,2,1,NA,NA,5916,Markus Strömbergsson,https://fbref.com/en/matches/c24cf619/Hacken-Elfsborg-April-3-2016-Allsvenskan,0,0,3,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-04-03,AIK Stockholm,Sundsvall,1,1,NA,NA,23480,Jonas Eriksson,https://fbref.com/en/matches/41daa07b/AIK-Stockholm-Sundsvall-April-3-2016-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-04-03,Falkenberg,Göteborg,0,2,NA,NA,5326,Kristoffer Karlsson,https://fbref.com/en/matches/6e2b3e96/Falkenberg-Goteborg-April-3-2016-Allsvenskan,0,0,2,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2016
 2016-04-03,Örebro,Djurgården,0,2,NA,NA,11247,Mohammed Al Hakim,https://fbref.com/en/matches/e7179805/Orebro-Djurgarden-April-3-2016-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
@@ -84,8 +84,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-05-22,Kalmar,Häcken,1,1,NA,NA,4620,Kristoffer Karlsson,https://fbref.com/en/matches/6b1b6b25/Kalmar-Hacken-May-22-2016-Allsvenskan,1,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-05-22,Djurgården,Helsingborg,3,0,NA,NA,13183,Glenn Nyberg,https://fbref.com/en/matches/cf5197d4/Djurgarden-Helsingborg-May-22-2016-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-05-22,Elfsborg,Jönköping,3,3,NA,NA,8577,Bojan Pandzic,https://fbref.com/en/matches/5dff104a/Elfsborg-Jonkopings-Sodra-May-22-2016-Allsvenskan,0,0,3,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
-2016-05-23,Gefle,AIK Stockholm,0,1,NA,NA,5065,Mohammed Al Hakim,https://fbref.com/en/matches/e577c269/Gefle-AIK-Stockholm-May-23-2016-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-05-23,Göteborg,Hammarby,2,1,NA,NA,13209,Stefan Johannesson,https://fbref.com/en/matches/b9c9f721/Goteborg-Hammarby-May-23-2016-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
+2016-05-23,Gefle,AIK Stockholm,0,1,NA,NA,5065,Mohammed Al Hakim,https://fbref.com/en/matches/e577c269/Gefle-AIK-Stockholm-May-23-2016-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-05-23,Malmö,Falkenberg,2,0,NA,NA,15876,Martin Strömbergsson,https://fbref.com/en/matches/b96c4a4e/Malmo-Falkenberg-May-23-2016-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-05-28,Östersund,Malmö,1,4,NA,NA,7739,Patrik Eriksson,https://fbref.com/en/matches/5c0f0a79/Ostersund-Malmo-May-28-2016-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-05-28,Jönköping,Sundsvall,1,1,NA,NA,5079,Kristoffer Karlsson,https://fbref.com/en/matches/455b5b2e/Jonkopings-Sodra-Sundsvall-May-28-2016-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
@@ -177,8 +177,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-09-19,Häcken,Göteborg,2,2,NA,NA,6380,Andreas Ekberg,https://fbref.com/en/matches/4bf8522a/Hacken-Goteborg-September-19-2016-Allsvenskan,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2016
 2016-09-21,Helsingborg,Sundsvall,2,1,NA,NA,5873,Marcus Lindgren,https://fbref.com/en/matches/4d9d64c9/Helsingborg-Sundsvall-September-21-2016-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-09-21,Östersund,Norrköping,0,2,NA,NA,5676,Martin Strömbergsson,https://fbref.com/en/matches/0ae56757/Ostersund-Norrkoping-September-21-2016-Allsvenskan,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
-2016-09-21,Kalmar,Falkenberg,3,0,NA,NA,4072,Johan Krantz,https://fbref.com/en/matches/5658f485/Kalmar-Falkenberg-September-21-2016-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-09-21,Djurgården,AIK Stockholm,0,3,NA,NA,22197,Stefan Johannesson,https://fbref.com/en/matches/1f308faf/Djurgarden-AIK-Stockholm-September-21-2016-Allsvenskan,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
+2016-09-21,Kalmar,Falkenberg,3,0,NA,NA,4072,Johan Krantz,https://fbref.com/en/matches/5658f485/Kalmar-Falkenberg-September-21-2016-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-09-21,Gefle,Jönköping,0,1,NA,NA,2292,Per Melin,https://fbref.com/en/matches/5627539a/Gefle-Jonkopings-Sodra-September-21-2016-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-09-22,Hammarby,Häcken,2,3,NA,NA,19111,Robert Daradic,https://fbref.com/en/matches/bd06876d/Hammarby-Hacken-September-22-2016-Allsvenskan,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016
 2016-09-22,Malmö,Elfsborg,1,0,NA,NA,16597,Glenn Nyberg,https://fbref.com/en/matches/0756a381/Malmo-Elfsborg-September-22-2016-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
@@ -197,8 +197,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-10-01,Häcken,Malmö,2,4,NA,NA,4752,Glenn Nyberg,https://fbref.com/en/matches/e3a354e0/Hacken-Malmo-October-1-2016-Allsvenskan,0,0,2,1,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016
 2016-10-02,Gefle,Elfsborg,2,2,NA,NA,2582,Kristoffer Karlsson,https://fbref.com/en/matches/b0ee7374/Gefle-Elfsborg-October-2-2016-Allsvenskan,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-10-02,Kalmar,Göteborg,4,2,NA,NA,6195,Kaspar Sjöberg,https://fbref.com/en/matches/3e611239/Kalmar-Goteborg-October-2-2016-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
-2016-10-02,Djurgården,Örebro,3,2,NA,NA,10683,Bojan Pandzic,https://fbref.com/en/matches/fb68ce5d/Djurgarden-Orebro-October-2-2016-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-10-02,AIK Stockholm,Norrköping,6,0,NA,NA,17157,Jonas Eriksson,https://fbref.com/en/matches/1a824ba3/AIK-Stockholm-Norrkoping-October-2-2016-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
+2016-10-02,Djurgården,Örebro,3,2,NA,NA,10683,Bojan Pandzic,https://fbref.com/en/matches/fb68ce5d/Djurgarden-Orebro-October-2-2016-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016
 2016-10-15,Falkenberg,Sundsvall,1,1,NA,NA,1412,Jonas Eriksson,https://fbref.com/en/matches/7576124a/Falkenberg-Sundsvall-October-15-2016-Allsvenskan,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2016
 2016-10-16,AIK Stockholm,Östersund,2,0,NA,NA,13053,Mohammed Al Hakim,https://fbref.com/en/matches/1cad5bd4/AIK-Stockholm-Ostersund-October-16-2016-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-10-16,Norrköping,Malmö,1,2,NA,NA,15940,Stefan Johannesson,https://fbref.com/en/matches/bc6a9898/Norrkoping-Malmo-October-16-2016-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016
@@ -213,12 +213,12 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-10-23,Örebro,Helsingborg,0,0,NA,NA,4628,Jonas Eriksson,https://fbref.com/en/matches/59d24410/Orebro-Helsingborg-October-23-2016-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
 2016-10-23,Häcken,Kalmar,2,3,NA,NA,1722,Mohammed Al Hakim,https://fbref.com/en/matches/8e9785aa/Hacken-Kalmar-October-23-2016-Allsvenskan,1,1,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-10-23,Hammarby,Elfsborg,2,4,NA,NA,21299,Martin Strömbergsson,https://fbref.com/en/matches/2e316a6e/Hammarby-Elfsborg-October-23-2016-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
-2016-10-24,Djurgården,Jönköping,0,2,NA,NA,6724,Kristoffer Karlsson,https://fbref.com/en/matches/d4b28360/Djurgarden-Jonkopings-Sodra-October-24-2016-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-10-24,Göteborg,AIK Stockholm,1,0,NA,NA,13132,Andreas Ekberg,https://fbref.com/en/matches/a1d981db/Goteborg-AIK-Stockholm-October-24-2016-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016
+2016-10-24,Djurgården,Jönköping,0,2,NA,NA,6724,Kristoffer Karlsson,https://fbref.com/en/matches/d4b28360/Djurgarden-Jonkopings-Sodra-October-24-2016-Allsvenskan,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-10-26,Östersund,Hammarby,2,0,NA,NA,6664,Bojan Pandzic,https://fbref.com/en/matches/e8648600/Ostersund-Hammarby-October-26-2016-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-10-26,Elfsborg,Norrköping,2,1,NA,NA,7920,Andreas Ekberg,https://fbref.com/en/matches/3e727891/Elfsborg-Norrkoping-October-26-2016-Allsvenskan,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,2016
-2016-10-26,Kalmar,Gefle,0,1,NA,NA,4371,Marcus Lindgren,https://fbref.com/en/matches/2ebf9086/Kalmar-Gefle-October-26-2016-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-10-26,Falkenberg,Malmö,0,3,NA,NA,5120,Martin Strömbergsson,https://fbref.com/en/matches/8b7c2e04/Falkenberg-Malmo-October-26-2016-Allsvenskan,0,0,5,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2016
+2016-10-26,Kalmar,Gefle,0,1,NA,NA,4371,Marcus Lindgren,https://fbref.com/en/matches/2ebf9086/Kalmar-Gefle-October-26-2016-Allsvenskan,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-10-27,Helsingborg,Djurgården,1,2,NA,NA,7215,Mohammed Al Hakim,https://fbref.com/en/matches/df5ca471/Helsingborg-Djurgarden-October-27-2016-Allsvenskan,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016
 2016-10-27,Sundsvall,Göteborg,1,3,NA,NA,4213,Glenn Nyberg,https://fbref.com/en/matches/4dfe1562/Sundsvall-Goteborg-October-27-2016-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016
 2016-10-27,AIK Stockholm,Häcken,2,1,NA,NA,8507,Jonas Eriksson,https://fbref.com/en/matches/c6d2b0de/AIK-Stockholm-Hacken-October-27-2016-Allsvenskan,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016

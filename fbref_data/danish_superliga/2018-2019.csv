@@ -1,252 +1,252 @@
 date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_report_url,home_pk_goals,home_pk_attempts,home_yellow_cards,home_red_cards,home_shots,home_shots_on_target,home_tackles,home_interceptions,home_fouls_committed,away_pk_goals,away_pk_attempts,away_yellow_cards,away_red_cards,away_shots,away_shots_on_target,away_tackles,away_interceptions,away_fouls_committed,season
-2018-07-13,Vejle BK,Hobro,3,1,NA,NA,4168,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/d8705bda/Vejle-BK-Hobro-July-13-2018-Superliga,1,1,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-07-13,SønderjyskE,Aalborg,0,1,NA,NA,5122,Jens Maae,https://fbref.com/en/matches/4dcf37b8/SonderjyskE-Aalborg-July-13-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-07-14,Midtjylland,Aarhus,0,0,NA,NA,7123,Anders Poulsen,https://fbref.com/en/matches/2f2d7c22/Midtjylland-Aarhus-July-14-2018-Superliga,0,1,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-07-15,Nordsjælland,Esbjerg,1,1,NA,NA,2139,Michael Johansen,https://fbref.com/en/matches/5db2208b/Nordsjaelland-Esbjerg-July-15-2018-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-07-15,Vendsyssel,Odense,3,2,NA,NA,3084,Morten Krogh,https://fbref.com/en/matches/5cfaaffd/Vendsyssel-Odense-July-15-2018-Superliga,0,0,2,1,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-07-16,FC Copenhagen,Horsens,1,2,NA,NA,11890,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/673aa1d5/FC-Copenhagen-Horsens-July-16-2018-Superliga,0,1,3,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2018-07-16,Randers,Brøndby,0,2,NA,NA,6432,Michael Tykgaard,https://fbref.com/en/matches/0ad32be0/Randers-Brondby-July-16-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-07-20,Aalborg,Midtjylland,2,1,NA,NA,6422,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/cf688bd1/Aalborg-Midtjylland-July-20-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-07-21,Esbjerg,Vendsyssel,2,3,NA,NA,4105,Mikkel Redder,https://fbref.com/en/matches/ab679758/Esbjerg-Vendsyssel-July-21-2018-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-07-22,Horsens,Randers,1,1,NA,NA,2635,Sandi Putros,https://fbref.com/en/matches/7b2958ec/Horsens-Randers-July-22-2018-Superliga,1,1,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-07-22,Odense,SønderjyskE,2,2,NA,NA,5738,Jakob Kehlet,https://fbref.com/en/matches/7061100c/Odense-SonderjyskE-July-22-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-07-22,Aarhus,Nordsjælland,1,1,NA,NA,8314,Peter Larsen,https://fbref.com/en/matches/5bcca478/Aarhus-Nordsjaelland-July-22-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-07-22,Brøndby,Vejle BK,1,1,NA,NA,18785,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/7cc36213/Brondby-Vejle-BK-July-22-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-07-23,Hobro,FC Copenhagen,0,3,NA,NA,3511,Jørgen Burchardt,https://fbref.com/en/matches/9e95bfe9/Hobro-FC-Copenhagen-July-23-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-07-27,SønderjyskE,Horsens,2,0,NA,NA,5035,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/89ee7ca7/SonderjyskE-Horsens-July-27-2018-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-07-28,Midtjylland,Esbjerg,3,1,NA,NA,6612,Jakob Kehlet,https://fbref.com/en/matches/0b90e821/Midtjylland-Esbjerg-July-28-2018-Superliga,1,1,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-07-29,Nordsjælland,Vendsyssel,3,0,NA,NA,1908,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/254f2895/Nordsjaelland-Vendsyssel-July-29-2018-Superliga,1,1,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-07-29,Randers,Odense,1,0,NA,NA,3333,Jens Maae,https://fbref.com/en/matches/089bf926/Randers-Odense-July-29-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-07-29,Hobro,Brøndby,1,2,NA,NA,4168,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/e48f9a6c/Hobro-Brondby-July-29-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-07-29,FC Copenhagen,Aalborg,4,0,NA,NA,12012,Michael Tykgaard,https://fbref.com/en/matches/8a49acf0/FC-Copenhagen-Aalborg-July-29-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-07-30,Vejle BK,Aarhus,1,1,NA,NA,10254,Morten Krogh,https://fbref.com/en/matches/01c2985a/Vejle-BK-Aarhus-July-30-2018-Superliga,1,1,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-03,Aarhus,SønderjyskE,1,0,NA,NA,8346,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/95a792e2/Aarhus-SonderjyskE-August-3-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-04,Esbjerg,Randers,3,3,NA,NA,4015,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/c3d7f987/Esbjerg-Randers-August-4-2018-Superliga,1,2,4,1,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-04,Vejle BK,Midtjylland,1,3,NA,NA,7519,Jørgen Burchardt,https://fbref.com/en/matches/01d790ed/Vejle-BK-Midtjylland-August-4-2018-Superliga,0,1,4,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-05,Horsens,Hobro,2,2,NA,NA,3330,Peter Larsen,https://fbref.com/en/matches/5b5aa11a/Horsens-Hobro-August-5-2018-Superliga,0,0,0,0,NA,NA,NA,NA,NA,1,1,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-05,Odense,FC Copenhagen,0,1,NA,NA,9389,Jens Maae,https://fbref.com/en/matches/f6dce434/Odense-FC-Copenhagen-August-5-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-05,Brøndby,Nordsjælland,2,0,NA,NA,19225,Anders Poulsen,https://fbref.com/en/matches/59a9cd10/Brondby-Nordsjaelland-August-5-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-06,Vendsyssel,Aalborg,0,1,NA,NA,6415,Sandi Putros,https://fbref.com/en/matches/664bfdd0/Vendsyssel-Aalborg-August-6-2018-Superliga,0,0,3,1,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-10,Vendsyssel,Vejle BK,1,1,NA,NA,2738,Michael Tykgaard,https://fbref.com/en/matches/a28562cc/Vendsyssel-Vejle-BK-August-10-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-11,Hobro,Odense,3,2,NA,NA,1623,Mikkel Redder,https://fbref.com/en/matches/9dc54346/Hobro-Odense-August-11-2018-Superliga,0,0,4,0,NA,NA,NA,NA,NA,0,1,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-12,Aalborg,Nordsjælland,1,0,NA,NA,5145,Jakob Kehlet,https://fbref.com/en/matches/8857f537/Aalborg-Nordsjaelland-August-12-2018-Superliga,0,0,1,1,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-12,FC Copenhagen,Brøndby,3,1,NA,NA,27248,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/6a30807d/FC-Copenhagen-Brondby-August-12-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,6,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-12,Randers,Aarhus,0,0,NA,NA,7052,Jørgen Burchardt,https://fbref.com/en/matches/7a70f26e/Randers-Aarhus-August-12-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-12,Midtjylland,Horsens,3,0,NA,NA,5032,Michael Johansen,https://fbref.com/en/matches/9a9439dd/Midtjylland-Horsens-August-12-2018-Superliga,1,1,1,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
-2018-08-13,Esbjerg,SønderjyskE,1,0,NA,NA,4450,Jens Maae,https://fbref.com/en/matches/b544e39a/Esbjerg-SonderjyskE-August-13-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-17,SønderjyskE,Vendsyssel,2,1,NA,NA,4750,Peter Larsen,https://fbref.com/en/matches/2c8ff0fd/SonderjyskE-Vendsyssel-August-17-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-19,Nordsjælland,Vejle BK,2,0,NA,NA,2662,Sandi Putros,https://fbref.com/en/matches/43e03ba0/Nordsjaelland-Vejle-BK-August-19-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-19,Randers,Hobro,3,0,NA,NA,3690,Morten Krogh,https://fbref.com/en/matches/034f4957/Randers-Hobro-August-19-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-19,Aarhus,FC Copenhagen,1,1,NA,NA,15778,Michael Tykgaard,https://fbref.com/en/matches/889fd4fa/Aarhus-FC-Copenhagen-August-19-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,1,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-19,Brøndby,Esbjerg,0,1,NA,NA,13743,Jørgen Burchardt,https://fbref.com/en/matches/286dc768/Brondby-Esbjerg-August-19-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-19,Odense,Midtjylland,1,1,NA,NA,4646,Anders Poulsen,https://fbref.com/en/matches/4a49ac89/Odense-Midtjylland-August-19-2018-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-20,Horsens,Aalborg,0,0,NA,NA,3023,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/eab4b581/Horsens-Aalborg-August-20-2018-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-24,Hobro,Aarhus,0,2,NA,NA,2898,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/aef4879e/Hobro-Aarhus-August-24-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-26,Nordsjælland,Horsens,0,1,NA,NA,2494,Jens Maae,https://fbref.com/en/matches/598d6557/Nordsjaelland-Horsens-August-26-2018-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-26,Vejle BK,Odense,0,2,NA,NA,6362,Michael Johansen,https://fbref.com/en/matches/2cc2a599/Vejle-BK-Odense-August-26-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-26,Vendsyssel,Brøndby,1,2,NA,NA,5161,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/50eb6509/Vendsyssel-Brondby-August-26-2018-Superliga,1,1,1,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
-2018-08-26,FC Copenhagen,SønderjyskE,3,2,NA,NA,11544,Jakob Kehlet,https://fbref.com/en/matches/94318e81/FC-Copenhagen-SonderjyskE-August-26-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,1,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-26,Midtjylland,Randers,3,0,NA,NA,4906,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/b9e0022f/Midtjylland-Randers-August-26-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-27,Aalborg,Esbjerg,0,1,NA,NA,5001,Michael Tykgaard,https://fbref.com/en/matches/f7afc90b/Aalborg-Esbjerg-August-27-2018-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-31,Horsens,Vejle BK,0,0,NA,NA,7612,Morten Krogh,https://fbref.com/en/matches/e59ff849/Horsens-Vejle-BK-August-31-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-01,SønderjyskE,Hobro,1,1,NA,NA,4782,Michael Johansen,https://fbref.com/en/matches/45f10715/SonderjyskE-Hobro-September-1-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-02,Odense,Nordsjælland,0,0,NA,NA,5364,Peter Larsen,https://fbref.com/en/matches/7365e94e/Odense-Nordsjaelland-September-2-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-02,Randers,Aalborg,2,2,NA,NA,4506,Jens Maae,https://fbref.com/en/matches/9c5b942d/Randers-Aalborg-September-2-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-02,Esbjerg,FC Copenhagen,0,2,NA,NA,9841,Anders Poulsen,https://fbref.com/en/matches/5ff9ce5f/Esbjerg-FC-Copenhagen-September-2-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-02,Aarhus,Vendsyssel,1,1,NA,NA,7417,Sandi Putros,https://fbref.com/en/matches/f974afcf/Aarhus-Vendsyssel-September-2-2018-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,1,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-02,Brøndby,Midtjylland,2,2,NA,NA,14211,Jakob Kehlet,https://fbref.com/en/matches/8fe17188/Brondby-Midtjylland-September-2-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
-2018-09-14,Esbjerg,Odense,2,0,NA,NA,4425,Mikkel Redder,https://fbref.com/en/matches/efe6acb9/Esbjerg-Odense-September-14-2018-Superliga,0,0,4,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-15,Nordsjælland,Randers,4,1,NA,NA,2312,Michael Johansen,https://fbref.com/en/matches/5e359e39/Nordsjaelland-Randers-September-15-2018-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-16,Vendsyssel,Hobro,1,1,NA,NA,1686,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/725e1b2d/Vendsyssel-Hobro-September-16-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-16,Horsens,Aarhus,3,2,NA,NA,5410,Anders Poulsen,https://fbref.com/en/matches/0ecd7c6f/Horsens-Aarhus-September-16-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
-2018-09-16,Brøndby,SønderjyskE,2,4,NA,NA,16501,Jakob Kehlet,https://fbref.com/en/matches/6249edc2/Brondby-SonderjyskE-September-16-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-16,Midtjylland,FC Copenhagen,3,1,NA,NA,10973,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/c67a5acc/Midtjylland-FC-Copenhagen-September-16-2018-Superliga,1,1,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-17,Aalborg,Vejle BK,1,1,NA,NA,5716,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/9a261c53/Aalborg-Vejle-BK-September-17-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-21,Vejle BK,Esbjerg,1,0,NA,NA,5154,Anders Poulsen,https://fbref.com/en/matches/d4b6b45d/Vejle-BK-Esbjerg-September-21-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,1,NA,NA,NA,NA,NA,2018-2019
-2018-09-22,Randers,Vendsyssel,2,0,NA,NA,2617,Peter Larsen,https://fbref.com/en/matches/40dd991e/Randers-Vendsyssel-September-22-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-23,SønderjyskE,Midtjylland,0,0,NA,NA,5785,Jørgen Burchardt,https://fbref.com/en/matches/ccd5bd26/SonderjyskE-Midtjylland-September-23-2018-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,1,NA,NA,NA,NA,NA,2018-2019
-2018-09-23,Hobro,Aalborg,0,5,NA,NA,3426,Jakob Kehlet,https://fbref.com/en/matches/21f3f7db/Hobro-Aalborg-September-23-2018-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-23,FC Copenhagen,Nordsjælland,2,1,NA,NA,22025,Jens Maae,https://fbref.com/en/matches/42aec0cc/FC-Copenhagen-Nordsjaelland-September-23-2018-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-23,Aarhus,Brøndby,3,2,NA,NA,15418,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/9b1e790e/Aarhus-Brondby-September-23-2018-Superliga,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-24,Odense,Horsens,4,0,NA,NA,4365,Sandi Putros,https://fbref.com/en/matches/d524ff0c/Odense-Horsens-September-24-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-28,Vejle BK,Randers,1,1,NA,NA,3204,Michael Tykgaard,https://fbref.com/en/matches/742de95a/Vejle-BK-Randers-September-28-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-29,Midtjylland,Hobro,5,2,NA,NA,6092,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/b083b526/Midtjylland-Hobro-September-29-2018-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-30,Vendsyssel,FC Copenhagen,2,1,NA,NA,2554,Jakob Kehlet,https://fbref.com/en/matches/df8843d5/Vendsyssel-FC-Copenhagen-September-30-2018-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-30,Esbjerg,Aarhus,0,0,NA,NA,4867,Michael Johansen,https://fbref.com/en/matches/daf8b160/Esbjerg-Aarhus-September-30-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-30,Aalborg,Odense,0,1,NA,NA,5739,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/efa9bf90/Aalborg-Odense-September-30-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-30,Brøndby,Horsens,1,2,NA,NA,11626,Morten Krogh,https://fbref.com/en/matches/446c84c7/Brondby-Horsens-September-30-2018-Superliga,0,0,2,1,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-01,Nordsjælland,SønderjyskE,4,1,NA,NA,2207,Jørgen Burchardt,https://fbref.com/en/matches/dd49eb8b/Nordsjaelland-SonderjyskE-October-1-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2018-2019
-2018-10-05,SønderjyskE,Vejle BK,3,0,NA,NA,5312,Sandi Putros,https://fbref.com/en/matches/8b57fe48/SonderjyskE-Vejle-BK-October-5-2018-Superliga,1,1,1,0,NA,NA,NA,NA,NA,0,0,1,1,NA,NA,NA,NA,NA,2018-2019
-2018-10-06,Odense,Aarhus,2,2,NA,NA,9530,Jens Maae,https://fbref.com/en/matches/bc4a60ca/Odense-Aarhus-October-6-2018-Superliga,1,1,5,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-07,Hobro,Nordsjælland,3,2,NA,NA,1261,Michael Johansen,https://fbref.com/en/matches/8860f5c0/Hobro-Nordsjaelland-October-7-2018-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-07,Horsens,Esbjerg,1,2,NA,NA,3622,Mikkel Redder,https://fbref.com/en/matches/dab7c2f6/Horsens-Esbjerg-October-7-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,1,1,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-07,FC Copenhagen,Randers,4,0,NA,NA,14129,Jørgen Burchardt,https://fbref.com/en/matches/d8daca37/FC-Copenhagen-Randers-October-7-2018-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-07,Aalborg,Brøndby,1,3,NA,NA,8629,Jakob Kehlet,https://fbref.com/en/matches/dd44949c/Aalborg-Brondby-October-7-2018-Superliga,1,1,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-07,Midtjylland,Vendsyssel,3,0,NA,NA,5032,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/caa0900c/Midtjylland-Vendsyssel-October-7-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-19,Esbjerg,Hobro,2,0,NA,NA,4719,Jakob Kehlet,https://fbref.com/en/matches/8317b462/Esbjerg-Hobro-October-19-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-20,Nordsjælland,Midtjylland,1,4,NA,NA,3574,Morten Krogh,https://fbref.com/en/matches/ccc4a52b/Nordsjaelland-Midtjylland-October-20-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-21,Vendsyssel,Horsens,0,1,NA,NA,1618,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/57497b72/Vendsyssel-Horsens-October-21-2018-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-21,Randers,SønderjyskE,1,1,NA,NA,3523,Michael Johansen,https://fbref.com/en/matches/9d031315/Randers-SonderjyskE-October-21-2018-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-21,Vejle BK,FC Copenhagen,1,3,NA,NA,9138,Jens Maae,https://fbref.com/en/matches/68669000/Vejle-BK-FC-Copenhagen-October-21-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-21,Aarhus,Aalborg,2,2,NA,NA,9535,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/d8155244/Aarhus-Aalborg-October-21-2018-Superliga,0,1,3,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
-2018-10-22,Brøndby,Odense,1,1,NA,NA,12185,Michael Tykgaard,https://fbref.com/en/matches/0acd61ac/Brondby-Odense-October-22-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-26,SønderjyskE,Odense,0,0,NA,NA,4024,Mikkel Redder,https://fbref.com/en/matches/135de787/SonderjyskE-Odense-October-26-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-27,Horsens,Nordsjælland,3,3,NA,NA,2441,Morten Krogh,https://fbref.com/en/matches/f0db867f/Horsens-Nordsjaelland-October-27-2018-Superliga,1,1,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-28,Hobro,Vejle BK,1,0,NA,NA,1636,Michael Tykgaard,https://fbref.com/en/matches/eccee7e0/Hobro-Vejle-BK-October-28-2018-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-28,Randers,Esbjerg,0,2,NA,NA,2679,Anders Poulsen,https://fbref.com/en/matches/26e516ce/Randers-Esbjerg-October-28-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,1,NA,NA,NA,NA,NA,2018-2019
-2018-10-28,FC Copenhagen,Aarhus,4,2,NA,NA,12856,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/d029521d/FC-Copenhagen-Aarhus-October-28-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-28,Aalborg,Vendsyssel,0,1,NA,NA,6071,Jakob Kehlet,https://fbref.com/en/matches/9f1cb6d6/Aalborg-Vendsyssel-October-28-2018-Superliga,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-29,Midtjylland,Brøndby,3,2,NA,NA,10106,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/933abf39/Midtjylland-Brondby-October-29-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-02,Odense,Hobro,1,0,NA,NA,4005,Anders Poulsen,https://fbref.com/en/matches/201a4550/Odense-Hobro-November-2-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-02,Vendsyssel,SønderjyskE,2,3,NA,NA,1304,Morten Krogh,https://fbref.com/en/matches/14f2e7a3/Vendsyssel-SonderjyskE-November-2-2018-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-04,Brøndby,FC Copenhagen,0,1,NA,NA,20731,Michael Johansen,https://fbref.com/en/matches/190b5dde/Brondby-FC-Copenhagen-November-4-2018-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-04,Nordsjælland,Aalborg,1,1,NA,NA,2634,Jørgen Burchardt,https://fbref.com/en/matches/88e00d16/Nordsjaelland-Aalborg-November-4-2018-Superliga,0,0,4,1,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-04,Aarhus,Randers,0,2,NA,NA,7370,Jens Maae,https://fbref.com/en/matches/d078f725/Aarhus-Randers-November-4-2018-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-04,Esbjerg,Midtjylland,2,2,NA,NA,7022,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/381ba669/Esbjerg-Midtjylland-November-4-2018-Superliga,0,0,5,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-05,Vejle BK,Horsens,3,1,NA,NA,5584,Jakob Kehlet,https://fbref.com/en/matches/7c5304c7/Vejle-BK-Horsens-November-5-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-09,Brøndby,Aarhus,2,0,NA,NA,12452,Anders Poulsen,https://fbref.com/en/matches/7d7f4d42/Brondby-Aarhus-November-9-2018-Superliga,1,1,2,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
-2018-11-10,Horsens,SønderjyskE,1,1,NA,NA,12452,Jørgen Burchardt,https://fbref.com/en/matches/2f0ed3de/Horsens-SonderjyskE-November-10-2018-Superliga,0,0,2,1,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-11,Hobro,Vendsyssel,1,0,NA,NA,1707,Mikkel Redder,https://fbref.com/en/matches/6c484f60/Hobro-Vendsyssel-November-11-2018-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-11,Randers,Nordsjælland,1,1,NA,NA,2366,Jens Maae,https://fbref.com/en/matches/7e707bc4/Randers-Nordsjaelland-November-11-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-11,Aalborg,FC Copenhagen,1,1,NA,NA,6047,Michael Tykgaard,https://fbref.com/en/matches/a5e862e3/Aalborg-FC-Copenhagen-November-11-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-11,Midtjylland,Vejle BK,5,0,NA,NA,6855,Sandi Putros,https://fbref.com/en/matches/8bb0a5d5/Midtjylland-Vejle-BK-November-11-2018-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-11,Odense,Esbjerg,2,1,NA,NA,4127,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/72747e79/Odense-Esbjerg-November-11-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-23,Vejle BK,Aalborg,1,1,NA,NA,3736,Michael Johansen,https://fbref.com/en/matches/32be925e/Vejle-BK-Aalborg-November-23-2018-Superliga,0,0,5,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-24,Hobro,Randers,0,1,NA,NA,1649,Morten Krogh,https://fbref.com/en/matches/46231d09/Hobro-Randers-November-24-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,1,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-25,Vendsyssel,Esbjerg,1,1,NA,NA,1101,Jens Maae,https://fbref.com/en/matches/525d8c5b/Vendsyssel-Esbjerg-November-25-2018-Superliga,1,1,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-25,Nordsjælland,Odense,1,3,NA,NA,2144,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/1db83bd0/Nordsjaelland-Odense-November-25-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-25,SønderjyskE,Brøndby,0,2,NA,NA,6235,Anders Poulsen,https://fbref.com/en/matches/fcad7404/SonderjyskE-Brondby-November-25-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-25,FC Copenhagen,Midtjylland,2,1,NA,NA,18553,Jakob Kehlet,https://fbref.com/en/matches/e5cb9f3a/FC-Copenhagen-Midtjylland-November-25-2018-Superliga,1,1,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-26,Aarhus,Horsens,1,2,NA,NA,4212,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/12b14897/Aarhus-Horsens-November-26-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-30,Esbjerg,Aalborg,1,4,NA,NA,2862,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/27c61a94/Esbjerg-Aalborg-November-30-2018-Superliga,0,0,4,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-01,Odense,Vendsyssel,2,0,NA,NA,4346,Sandi Putros,https://fbref.com/en/matches/5d143033/Odense-Vendsyssel-December-1-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-02,SønderjyskE,Nordsjælland,1,2,NA,NA,2673,Mikkel Redder,https://fbref.com/en/matches/9cf217ce/SonderjyskE-Nordsjaelland-December-2-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-02,Randers,Midtjylland,1,2,NA,NA,2401,Jørgen Burchardt,https://fbref.com/en/matches/321ce7ca/Randers-Midtjylland-December-2-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-02,Horsens,FC Copenhagen,1,6,NA,NA,3217,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/c725a60b/Horsens-FC-Copenhagen-December-2-2018-Superliga,0,0,1,1,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-02,Brøndby,Hobro,1,0,NA,NA,8512,Jakob Kehlet,https://fbref.com/en/matches/b8a38654/Brondby-Hobro-December-2-2018-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-03,Aarhus,Vejle BK,2,1,NA,NA,4420,Michael Tykgaard,https://fbref.com/en/matches/3867405b/Aarhus-Vejle-BK-December-3-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-07,Midtjylland,Odense,3,0,NA,NA,7034,Jørgen Burchardt,https://fbref.com/en/matches/de04c0eb/Midtjylland-Odense-December-7-2018-Superliga,1,1,3,1,NA,NA,NA,NA,NA,0,1,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-08,Hobro,SønderjyskE,0,0,NA,NA,1012,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/56542e96/Hobro-SonderjyskE-December-8-2018-Superliga,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-09,Vendsyssel,Randers,0,1,NA,NA,1053,Michael Tykgaard,https://fbref.com/en/matches/83a05ecc/Vendsyssel-Randers-December-9-2018-Superliga,0,0,4,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-09,Aalborg,Horsens,2,4,NA,NA,4666,Sandi Putros,https://fbref.com/en/matches/e524b1c2/Aalborg-Horsens-December-9-2018-Superliga,0,0,5,1,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-09,FC Copenhagen,Esbjerg,3,0,NA,NA,11193,Jens Maae,https://fbref.com/en/matches/b915620a/FC-Copenhagen-Esbjerg-December-9-2018-Superliga,2,2,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-09,Vejle BK,Brøndby,1,2,NA,NA,6994,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/a969743e/Vejle-BK-Brondby-December-9-2018-Superliga,0,0,3,1,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-10,Nordsjælland,Aarhus,1,0,NA,NA,2044,Michael Johansen,https://fbref.com/en/matches/549a42ea/Nordsjaelland-Aarhus-December-10-2018-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-14,Odense,Aalborg,1,2,NA,NA,4404,Michael Johansen,https://fbref.com/en/matches/3e37732e/Odense-Aalborg-December-14-2018-Superliga,1,1,1,0,NA,NA,NA,NA,NA,0,1,5,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-15,Randers,Vejle BK,2,0,NA,NA,2725,Jakob Kehlet,https://fbref.com/en/matches/e08b27e4/Randers-Vejle-BK-December-15-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-16,Esbjerg,Nordsjælland,3,0,NA,NA,2654,Jørgen Burchardt,https://fbref.com/en/matches/7e984bab/Esbjerg-Nordsjaelland-December-16-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-16,Horsens,Midtjylland,1,3,NA,NA,2741,Michael Tykgaard,https://fbref.com/en/matches/2e586b09/Horsens-Midtjylland-December-16-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-16,SønderjyskE,FC Copenhagen,0,3,NA,NA,5142,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/2b0c5a31/SonderjyskE-FC-Copenhagen-December-16-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-16,Brøndby,Vendsyssel,2,3,NA,NA,11781,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/1277881b/Brondby-Vendsyssel-December-16-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,1,1,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-17,Aarhus,Hobro,1,0,NA,NA,3495,Anders Poulsen,https://fbref.com/en/matches/48f67c40/Aarhus-Hobro-December-17-2018-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-08,Aarhus,Esbjerg,2,0,NA,NA,5579,Michael Tykgaard,https://fbref.com/en/matches/ccad6974/Aarhus-Esbjerg-February-8-2019-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-09,Vejle BK,SønderjyskE,2,0,NA,NA,3109,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/dbaa0104/Vejle-BK-SonderjyskE-February-9-2019-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-10,Hobro,Horsens,0,0,NA,NA,1430,Morten Krogh,https://fbref.com/en/matches/1ab067a7/Hobro-Horsens-February-10-2019-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-10,Aalborg,Randers,0,3,NA,NA,4724,Jørgen Burchardt,https://fbref.com/en/matches/c3ac5e52/Aalborg-Randers-February-10-2019-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-10,Nordsjælland,Brøndby,3,3,NA,NA,6658,Sandi Putros,https://fbref.com/en/matches/b193c1bc/Nordsjaelland-Brondby-February-10-2019-Superliga,1,1,1,0,NA,NA,NA,NA,NA,2,2,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-10,FC Copenhagen,Odense,6,1,NA,NA,15164,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/3186d130/FC-Copenhagen-Odense-February-10-2019-Superliga,1,1,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-11,Vendsyssel,Midtjylland,0,1,NA,NA,1453,Jens Maae,https://fbref.com/en/matches/4c317eab/Vendsyssel-Midtjylland-February-11-2019-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-15,SønderjyskE,Aarhus,0,2,NA,NA,5275,Mikkel Redder,https://fbref.com/en/matches/1affb1b7/SonderjyskE-Aarhus-February-15-2019-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-16,Nordsjælland,Hobro,2,1,NA,NA,1724,Michael Johansen,https://fbref.com/en/matches/0df90f8c/Nordsjaelland-Hobro-February-16-2019-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-17,Horsens,Vendsyssel,3,0,NA,NA,2511,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/823c43f0/Horsens-Vendsyssel-February-17-2019-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
-2019-02-17,Odense,Vejle BK,1,0,NA,NA,5907,Peter Larsen,https://fbref.com/en/matches/335d6e8f/Odense-Vejle-BK-February-17-2019-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-17,Randers,FC Copenhagen,0,2,NA,NA,5411,Jens Maae,https://fbref.com/en/matches/56dd479e/Randers-FC-Copenhagen-February-17-2019-Superliga,0,0,0,1,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-17,Esbjerg,Brøndby,2,1,NA,NA,7016,Anders Poulsen,https://fbref.com/en/matches/eab065f8/Esbjerg-Brondby-February-17-2019-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-18,Midtjylland,Aalborg,2,1,NA,NA,7442,Jakob Kehlet,https://fbref.com/en/matches/936d7d7f/Midtjylland-Aalborg-February-18-2019-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-22,Aalborg,SønderjyskE,3,0,NA,NA,7678,Sandi Putros,https://fbref.com/en/matches/cf6d2432/Aalborg-SonderjyskE-February-22-2019-Superliga,1,1,1,0,NA,NA,NA,NA,NA,0,0,6,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-23,Vejle BK,Nordsjælland,1,3,NA,NA,3045,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/96aab7ad/Vejle-BK-Nordsjaelland-February-23-2019-Superliga,0,0,2,0,NA,NA,NA,NA,NA,1,1,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-24,Hobro,Esbjerg,2,0,NA,NA,2045,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/fc54c878/Hobro-Esbjerg-February-24-2019-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-24,Horsens,Odense,1,2,NA,NA,3162,Michael Tykgaard,https://fbref.com/en/matches/b82a43f1/Horsens-Odense-February-24-2019-Superliga,0,0,2,1,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-24,Aarhus,Midtjylland,1,2,NA,NA,11787,Jørgen Burchardt,https://fbref.com/en/matches/4113ef61/Aarhus-Midtjylland-February-24-2019-Superliga,0,0,3,1,NA,NA,NA,NA,NA,0,0,3,2,NA,NA,NA,NA,NA,2018-2019
-2019-02-24,Brøndby,Randers,2,1,NA,NA,12472,Jakob Kehlet,https://fbref.com/en/matches/36e05771/Brondby-Randers-February-24-2019-Superliga,1,1,2,0,NA,NA,NA,NA,NA,0,0,1,1,NA,NA,NA,NA,NA,2018-2019
-2019-02-25,FC Copenhagen,Vendsyssel,1,1,NA,NA,11116,Michael Johansen,https://fbref.com/en/matches/631523d4/FC-Copenhagen-Vendsyssel-February-25-2019-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,1,3,1,NA,NA,NA,NA,NA,2018-2019
-2019-03-01,Aalborg,Hobro,1,1,NA,NA,6346,Jens Maae,https://fbref.com/en/matches/f81321be/Aalborg-Hobro-March-1-2019-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-02,Esbjerg,Horsens,1,0,NA,NA,3718,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/84f530aa/Esbjerg-Horsens-March-2-2019-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-03,SønderjyskE,Randers,3,0,NA,NA,4236,Anders Poulsen,https://fbref.com/en/matches/8228c3e7/SonderjyskE-Randers-March-3-2019-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-03,Vendsyssel,Aarhus,2,2,NA,NA,2059,Mikkel Redder,https://fbref.com/en/matches/59417d40/Vendsyssel-Aarhus-March-3-2019-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
-2019-03-03,FC Copenhagen,Vejle BK,2,0,NA,NA,13906,Morten Krogh,https://fbref.com/en/matches/f8335f43/FC-Copenhagen-Vejle-BK-March-3-2019-Superliga,1,1,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-03,Odense,Brøndby,2,0,NA,NA,11166,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/1cec0cfa/Odense-Brondby-March-3-2019-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-04,Midtjylland,Nordsjælland,3,3,NA,NA,6840,Michael Tykgaard,https://fbref.com/en/matches/8375e93e/Midtjylland-Nordsjaelland-March-4-2019-Superliga,0,0,1,0,NA,NA,NA,NA,NA,1,1,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-08,Hobro,Midtjylland,1,2,NA,NA,2014,Jakob Kehlet,https://fbref.com/en/matches/a8f30686/Hobro-Midtjylland-March-8-2019-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-09,Vejle BK,Vendsyssel,1,1,NA,NA,3309,Anders Poulsen,https://fbref.com/en/matches/a47c79d9/Vejle-BK-Vendsyssel-March-9-2019-Superliga,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-10,Randers,Horsens,2,0,NA,NA,2661,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/f2bf32e6/Randers-Horsens-March-10-2019-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-10,SønderjyskE,Esbjerg,3,1,NA,NA,4753,Peter Larsen,https://fbref.com/en/matches/54996ca9/SonderjyskE-Esbjerg-March-10-2019-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,5,1,NA,NA,NA,NA,NA,2018-2019
-2019-03-10,Nordsjælland,FC Copenhagen,2,2,NA,NA,8353,Jørgen Burchardt,https://fbref.com/en/matches/f5bd5d7d/Nordsjaelland-FC-Copenhagen-March-10-2019-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-10,Brøndby,Aalborg,3,3,NA,NA,14152,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/893e2439/Brondby-Aalborg-March-10-2019-Superliga,1,1,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-11,Aarhus,Odense,1,2,NA,NA,7958,Sandi Putros,https://fbref.com/en/matches/5338cc43/Aarhus-Odense-March-11-2019-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-17,Vendsyssel,Nordsjælland,0,1,NA,NA,1245,Morten Krogh,https://fbref.com/en/matches/c81b9705/Vendsyssel-Nordsjaelland-March-17-2019-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-17,Midtjylland,SønderjyskE,2,1,NA,NA,7132,Jens Maae,https://fbref.com/en/matches/68dcd696/Midtjylland-SonderjyskE-March-17-2019-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-17,Horsens,Brøndby,1,3,NA,NA,5017,Jakob Kehlet,https://fbref.com/en/matches/2d8a3522/Horsens-Brondby-March-17-2019-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-17,Odense,Randers,1,0,NA,NA,6366,Jørgen Burchardt,https://fbref.com/en/matches/8723ce42/Odense-Randers-March-17-2019-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-17,FC Copenhagen,Hobro,3,1,NA,NA,16143,Michael Tykgaard,https://fbref.com/en/matches/d1a4b3ac/FC-Copenhagen-Hobro-March-17-2019-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-17,Esbjerg,Vejle BK,2,1,NA,NA,6612,Michael Johansen,https://fbref.com/en/matches/71ed7944/Esbjerg-Vejle-BK-March-17-2019-Superliga,0,0,3,1,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-17,Aalborg,Aarhus,3,1,NA,NA,6821,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/e32617d5/Aalborg-Aarhus-March-17-2019-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
-2019-03-29,Brøndby,Odense,2,2,NA,NA,11679,Anders Poulsen,https://fbref.com/en/matches/347952cf/Brondby-Odense-March-29-2019-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-30,Midtjylland,Nordsjælland,0,0,NA,NA,6675,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/37dafc2d/Midtjylland-Nordsjaelland-March-30-2019-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-31,Vendsyssel,Hobro,3,3,NA,NA,1495,Jens Maae,https://fbref.com/en/matches/390df5b2/Vendsyssel-Hobro-March-31-2019-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-31,Aalborg,Randers,1,2,NA,NA,3767,Mikkel Redder,https://fbref.com/en/matches/eaa75ffe/Aalborg-Randers-March-31-2019-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
-2019-03-31,FC Copenhagen,Esbjerg,1,0,NA,NA,13050,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/f459107e/FC-Copenhagen-Esbjerg-March-31-2019-Superliga,0,0,3,1,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-31,SønderjyskE,Horsens,0,0,NA,NA,4287,Sandi Putros,https://fbref.com/en/matches/a44e477b/SonderjyskE-Horsens-March-31-2019-Superliga,0,0,3,1,NA,NA,NA,NA,NA,0,0,1,1,NA,NA,NA,NA,NA,2018-2019
-2019-04-01,Aarhus,Vejle BK,2,2,NA,NA,6103,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/8c1891d6/Aarhus-Vejle-BK-April-1-2019-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-05,Horsens,Aarhus,0,3,NA,NA,4023,Michael Johansen,https://fbref.com/en/matches/f067fb3f/Horsens-Aarhus-April-5-2019-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-06,Randers,Vendsyssel,1,1,NA,NA,2755,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/da987354/Randers-Vendsyssel-April-6-2019-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-07,Hobro,Aalborg,1,1,NA,NA,3634,Peter Larsen,https://fbref.com/en/matches/f75b43ae/Hobro-Aalborg-April-7-2019-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-07,Vejle BK,SønderjyskE,4,1,NA,NA,4092,Michael Tykgaard,https://fbref.com/en/matches/935363c1/Vejle-BK-SonderjyskE-April-7-2019-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-07,Esbjerg,Midtjylland,2,2,NA,NA,6162,Sandi Putros,https://fbref.com/en/matches/96b84306/Esbjerg-Midtjylland-April-7-2019-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-07,Odense,FC Copenhagen,0,1,NA,NA,11154,Jakob Kehlet,https://fbref.com/en/matches/84567995/Odense-FC-Copenhagen-April-7-2019-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-08,Nordsjælland,Brøndby,1,1,NA,NA,5886,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/b85917e2/Nordsjaelland-Brondby-April-8-2019-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-12,Vejle BK,Horsens,3,0,NA,NA,4153,Morten Krogh,https://fbref.com/en/matches/990ac88f/Vejle-BK-Horsens-April-12-2019-Superliga,1,1,0,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-13,Vendsyssel,Aalborg,1,0,NA,NA,3088,Michael Tykgaard,https://fbref.com/en/matches/d1c7afa3/Vendsyssel-Aalborg-April-13-2019-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,1,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-14,Hobro,Randers,1,2,NA,NA,2096,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/8e1f07a8/Hobro-Randers-April-14-2019-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-14,Nordsjælland,Esbjerg,1,2,NA,NA,2089,Peter Larsen,https://fbref.com/en/matches/90d86ddb/Nordsjaelland-Esbjerg-April-14-2019-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-14,Brøndby,FC Copenhagen,1,2,NA,NA,19086,Jørgen Burchardt,https://fbref.com/en/matches/f220aa1e/Brondby-FC-Copenhagen-April-14-2019-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-14,Midtjylland,Odense,2,0,NA,NA,8035,Jens Maae,https://fbref.com/en/matches/d46e03a4/Midtjylland-Odense-April-14-2019-Superliga,1,1,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-15,SønderjyskE,Aarhus,0,1,NA,NA,5214,Anders Poulsen,https://fbref.com/en/matches/ce6aac50/SonderjyskE-Aarhus-April-15-2019-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-17,Aalborg,Vendsyssel,1,1,NA,NA,5042,Jakob Kehlet,https://fbref.com/en/matches/52b633ea/Aalborg-Vendsyssel-April-17-2019-Superliga,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-18,Aarhus,SønderjyskE,2,1,NA,NA,7736,Sandi Putros,https://fbref.com/en/matches/d78747ca/Aarhus-SonderjyskE-April-18-2019-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
-2019-04-18,Horsens,Vejle BK,0,0,NA,NA,3776,Michael Tykgaard,https://fbref.com/en/matches/ecb3a49f/Horsens-Vejle-BK-April-18-2019-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-18,Esbjerg,Brøndby,1,0,NA,NA,9511,Jens Maae,https://fbref.com/en/matches/6f474e88/Esbjerg-Brondby-April-18-2019-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-18,FC Copenhagen,Midtjylland,3,0,NA,NA,25321,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/fee50faa/FC-Copenhagen-Midtjylland-April-18-2019-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-19,Randers,Hobro,1,0,NA,NA,3757,Morten Krogh,https://fbref.com/en/matches/17cc0146/Randers-Hobro-April-19-2019-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-19,Odense,Nordsjælland,2,2,NA,NA,25321,Michael Johansen,https://fbref.com/en/matches/b185f7b3/Odense-Nordsjaelland-April-19-2019-Superliga,1,1,0,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-21,Horsens,SønderjyskE,0,1,NA,NA,2633,Jørgen Burchardt,https://fbref.com/en/matches/eb64b3ba/Horsens-SonderjyskE-April-21-2019-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-21,Vejle BK,Aarhus,2,4,NA,NA,6035,Peter Larsen,https://fbref.com/en/matches/7d191a25/Vejle-BK-Aarhus-April-21-2019-Superliga,0,1,3,1,NA,NA,NA,NA,NA,0,0,6,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-22,Hobro,Vendsyssel,3,2,NA,NA,2299,Jens Maae,https://fbref.com/en/matches/c155a4ce/Hobro-Vendsyssel-April-22-2019-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-22,Randers,Aalborg,0,2,NA,NA,3908,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/074070d7/Randers-Aalborg-April-22-2019-Superliga,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-22,Nordsjælland,FC Copenhagen,0,3,NA,NA,7111,Jakob Kehlet,https://fbref.com/en/matches/c9a3e77d/Nordsjaelland-FC-Copenhagen-April-22-2019-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-22,Midtjylland,Brøndby,1,2,NA,NA,10124,Michael Tykgaard,https://fbref.com/en/matches/ed9de28e/Midtjylland-Brondby-April-22-2019-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-23,Esbjerg,Odense,0,0,NA,NA,5601,Mikkel Redder,https://fbref.com/en/matches/c2323257/Esbjerg-Odense-April-23-2019-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-26,Aalborg,Hobro,1,1,NA,NA,5075,Anders Poulsen,https://fbref.com/en/matches/9d7569c7/Aalborg-Hobro-April-26-2019-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-26,Vendsyssel,Randers,0,0,NA,NA,2157,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/f8bf805f/Vendsyssel-Randers-April-26-2019-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-28,SønderjyskE,Vejle BK,4,1,NA,NA,5798,Jørgen Burchardt,https://fbref.com/en/matches/7bab1dd6/SonderjyskE-Vejle-BK-April-28-2019-Superliga,1,1,2,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
-2019-04-28,Aarhus,Horsens,3,1,NA,NA,9086,Morten Krogh,https://fbref.com/en/matches/ea0767b0/Aarhus-Horsens-April-28-2019-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-28,Brøndby,Esbjerg,0,1,NA,NA,13177,Michael Johansen,https://fbref.com/en/matches/a223cd7c/Brondby-Esbjerg-April-28-2019-Superliga,0,1,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-28,FC Copenhagen,Odense,4,0,NA,NA,10230,Jens Maae,https://fbref.com/en/matches/54de46d1/FC-Copenhagen-Odense-April-28-2019-Superliga,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-29,Nordsjælland,Midtjylland,1,2,NA,NA,2413,Sandi Putros,https://fbref.com/en/matches/4cc40bb8/Nordsjaelland-Midtjylland-April-29-2019-Superliga,0,0,2,1,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-05,Aalborg,Aarhus,0,1,NA,NA,6326,Michael Tykgaard,https://fbref.com/en/matches/89d14a93/Aalborg-Aarhus-May-5-2019-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-05,SønderjyskE,Randers,1,1,NA,NA,4372,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/359a4fc7/SonderjyskE-Randers-May-5-2019-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-05,FC Copenhagen,Brøndby,3,2,NA,NA,33134,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/299f3ef1/FC-Copenhagen-Brondby-May-5-2019-Superliga,1,1,2,0,NA,NA,NA,NA,NA,0,0,6,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-05,Odense,Midtjylland,3,1,NA,NA,4653,Morten Krogh,https://fbref.com/en/matches/2fe967e6/Odense-Midtjylland-May-5-2019-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-06,Esbjerg,Nordsjælland,0,0,NA,NA,5014,Jakob Kehlet,https://fbref.com/en/matches/0b97721b/Esbjerg-Nordsjaelland-May-6-2019-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-10,Odense,Esbjerg,4,1,NA,NA,8724,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/4e4b3447/Odense-Esbjerg-May-10-2019-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2018-07-13,Vejle BK,Hobro,3,1,NA,NA,4168,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/d8705bda/Vejle-BK-Hobro-July-13-2018-Superliga,1,1,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-07-13,SønderjyskE,Aalborg,0,1,NA,NA,5122,Jens Maae,https://fbref.com/en/matches/4dcf37b8/SonderjyskE-Aalborg-July-13-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-07-14,Midtjylland,AGF,0,0,NA,NA,7123,Anders Poulsen,https://fbref.com/en/matches/2f2d7c22/Midtjylland-AGF-July-14-2018-Superliga,0,1,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-07-15,Nordsjælland,Esbjerg,1,1,NA,NA,2139,Michael Johansen,https://fbref.com/en/matches/5db2208b/Nordsjaelland-Esbjerg-July-15-2018-Superliga,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-07-15,Vendsyssel,Odense,3,2,NA,NA,3084,Morten Krogh,https://fbref.com/en/matches/5cfaaffd/Vendsyssel-Odense-July-15-2018-Superliga,0,0,2,1,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2018-2019
+2018-07-16,FC Copenhagen,Horsens,1,2,NA,NA,11890,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/673aa1d5/FC-Copenhagen-Horsens-July-16-2018-Superliga,0,1,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2018-07-16,Randers,Brøndby,0,2,NA,NA,6432,Michael Tykgaard,https://fbref.com/en/matches/0ad32be0/Randers-Brondby-July-16-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-07-20,Aalborg,Midtjylland,2,1,NA,NA,6422,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/cf688bd1/Aalborg-Midtjylland-July-20-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-07-21,Esbjerg,Vendsyssel,2,3,NA,NA,4105,Mikkel Redder,https://fbref.com/en/matches/ab679758/Esbjerg-Vendsyssel-July-21-2018-Superliga,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-07-22,Horsens,Randers,1,1,NA,NA,2635,Sandi Putros,https://fbref.com/en/matches/7b2958ec/Horsens-Randers-July-22-2018-Superliga,1,1,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-07-22,Odense,SønderjyskE,2,2,NA,NA,5738,Jakob Kehlet,https://fbref.com/en/matches/7061100c/Odense-SonderjyskE-July-22-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-07-22,AGF,Nordsjælland,1,1,NA,NA,8314,Peter Larsen,https://fbref.com/en/matches/5bcca478/AGF-Nordsjaelland-July-22-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-07-22,Brøndby,Vejle BK,1,1,NA,NA,18785,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/7cc36213/Brondby-Vejle-BK-July-22-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-07-23,Hobro,FC Copenhagen,0,3,NA,NA,3511,Jørgen Burchardt,https://fbref.com/en/matches/9e95bfe9/Hobro-FC-Copenhagen-July-23-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2018-07-27,SønderjyskE,Horsens,2,0,NA,NA,5035,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/89ee7ca7/SonderjyskE-Horsens-July-27-2018-Superliga,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-07-28,Midtjylland,Esbjerg,3,1,NA,NA,6612,Jakob Kehlet,https://fbref.com/en/matches/0b90e821/Midtjylland-Esbjerg-July-28-2018-Superliga,1,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-07-29,Nordsjælland,Vendsyssel,3,0,NA,NA,1908,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/254f2895/Nordsjaelland-Vendsyssel-July-29-2018-Superliga,1,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-07-29,Randers,Odense,1,0,NA,NA,3333,Jens Maae,https://fbref.com/en/matches/089bf926/Randers-Odense-July-29-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2018-07-29,Hobro,Brøndby,1,2,NA,NA,4168,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/e48f9a6c/Hobro-Brondby-July-29-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-07-29,FC Copenhagen,Aalborg,4,0,NA,NA,12012,Michael Tykgaard,https://fbref.com/en/matches/8a49acf0/FC-Copenhagen-Aalborg-July-29-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2018-07-30,Vejle BK,AGF,1,1,NA,NA,10254,Morten Krogh,https://fbref.com/en/matches/01c2985a/Vejle-BK-AGF-July-30-2018-Superliga,1,1,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-08-03,AGF,SønderjyskE,1,0,NA,NA,8346,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/95a792e2/AGF-SonderjyskE-August-3-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2018-08-04,Esbjerg,Randers,3,3,NA,NA,4015,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/c3d7f987/Esbjerg-Randers-August-4-2018-Superliga,1,2,4,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-08-04,Vejle BK,Midtjylland,1,3,NA,NA,7519,Jørgen Burchardt,https://fbref.com/en/matches/01d790ed/Vejle-BK-Midtjylland-August-4-2018-Superliga,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2018-08-05,Horsens,Hobro,2,2,NA,NA,3330,Peter Larsen,https://fbref.com/en/matches/5b5aa11a/Horsens-Hobro-August-5-2018-Superliga,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2018-2019
+2018-08-05,Odense,FC Copenhagen,0,1,NA,NA,9389,Jens Maae,https://fbref.com/en/matches/f6dce434/Odense-FC-Copenhagen-August-5-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-08-05,Brøndby,Nordsjælland,2,0,NA,NA,19225,Anders Poulsen,https://fbref.com/en/matches/59a9cd10/Brondby-Nordsjaelland-August-5-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-08-06,Vendsyssel,Aalborg,0,1,NA,NA,6415,Sandi Putros,https://fbref.com/en/matches/664bfdd0/Vendsyssel-Aalborg-August-6-2018-Superliga,0,0,3,1,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2018-08-10,Vendsyssel,Vejle BK,1,1,NA,NA,2738,Michael Tykgaard,https://fbref.com/en/matches/a28562cc/Vendsyssel-Vejle-BK-August-10-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-08-11,Hobro,Odense,3,2,NA,NA,1623,Mikkel Redder,https://fbref.com/en/matches/9dc54346/Hobro-Odense-August-11-2018-Superliga,0,0,4,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2018-2019
+2018-08-12,Aalborg,Nordsjælland,1,0,NA,NA,5145,Jakob Kehlet,https://fbref.com/en/matches/8857f537/Aalborg-Nordsjaelland-August-12-2018-Superliga,0,0,1,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-08-12,FC Copenhagen,Brøndby,3,1,NA,NA,27248,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/6a30807d/FC-Copenhagen-Brondby-August-12-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,2018-2019
+2018-08-12,Randers,AGF,0,0,NA,NA,7052,Jørgen Burchardt,https://fbref.com/en/matches/7a70f26e/Randers-AGF-August-12-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2018-08-12,Midtjylland,Horsens,3,0,NA,NA,5032,Michael Johansen,https://fbref.com/en/matches/9a9439dd/Midtjylland-Horsens-August-12-2018-Superliga,1,1,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2018-2019
+2018-08-13,Esbjerg,SønderjyskE,1,0,NA,NA,4450,Jens Maae,https://fbref.com/en/matches/b544e39a/Esbjerg-SonderjyskE-August-13-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-08-17,SønderjyskE,Vendsyssel,2,1,NA,NA,4750,Peter Larsen,https://fbref.com/en/matches/2c8ff0fd/SonderjyskE-Vendsyssel-August-17-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-08-19,Nordsjælland,Vejle BK,2,0,NA,NA,2662,Sandi Putros,https://fbref.com/en/matches/43e03ba0/Nordsjaelland-Vejle-BK-August-19-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-08-19,Randers,Hobro,3,0,NA,NA,3690,Morten Krogh,https://fbref.com/en/matches/034f4957/Randers-Hobro-August-19-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-08-19,AGF,FC Copenhagen,1,1,NA,NA,15778,Michael Tykgaard,https://fbref.com/en/matches/889fd4fa/AGF-FC-Copenhagen-August-19-2018-Superliga,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2018-2019
+2018-08-19,Brøndby,Esbjerg,0,1,NA,NA,13743,Jørgen Burchardt,https://fbref.com/en/matches/286dc768/Brondby-Esbjerg-August-19-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-08-19,Odense,Midtjylland,1,1,NA,NA,4646,Anders Poulsen,https://fbref.com/en/matches/4a49ac89/Odense-Midtjylland-August-19-2018-Superliga,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-08-20,Horsens,Aalborg,0,0,NA,NA,3023,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/eab4b581/Horsens-Aalborg-August-20-2018-Superliga,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-08-24,Hobro,AGF,0,2,NA,NA,2898,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/aef4879e/Hobro-AGF-August-24-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-08-26,Nordsjælland,Horsens,0,1,NA,NA,2494,Jens Maae,https://fbref.com/en/matches/598d6557/Nordsjaelland-Horsens-August-26-2018-Superliga,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-08-26,Vejle BK,Odense,0,2,NA,NA,6362,Michael Johansen,https://fbref.com/en/matches/2cc2a599/Vejle-BK-Odense-August-26-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2018-08-26,Vendsyssel,Brøndby,1,2,NA,NA,5161,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/50eb6509/Vendsyssel-Brondby-August-26-2018-Superliga,1,1,1,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2018-2019
+2018-08-26,FC Copenhagen,SønderjyskE,3,2,NA,NA,11544,Jakob Kehlet,https://fbref.com/en/matches/94318e81/FC-Copenhagen-SonderjyskE-August-26-2018-Superliga,0,0,1,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,2018-2019
+2018-08-26,Midtjylland,Randers,3,0,NA,NA,4906,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/b9e0022f/Midtjylland-Randers-August-26-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2018-08-27,Aalborg,Esbjerg,0,1,NA,NA,5001,Michael Tykgaard,https://fbref.com/en/matches/f7afc90b/Aalborg-Esbjerg-August-27-2018-Superliga,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-08-31,Horsens,Vejle BK,0,0,NA,NA,7612,Morten Krogh,https://fbref.com/en/matches/e59ff849/Horsens-Vejle-BK-August-31-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-09-01,SønderjyskE,Hobro,1,1,NA,NA,4782,Michael Johansen,https://fbref.com/en/matches/45f10715/SonderjyskE-Hobro-September-1-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2018-09-02,Odense,Nordsjælland,0,0,NA,NA,5364,Peter Larsen,https://fbref.com/en/matches/7365e94e/Odense-Nordsjaelland-September-2-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-09-02,Randers,Aalborg,2,2,NA,NA,4506,Jens Maae,https://fbref.com/en/matches/9c5b942d/Randers-Aalborg-September-2-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-09-02,Esbjerg,FC Copenhagen,0,2,NA,NA,9841,Anders Poulsen,https://fbref.com/en/matches/5ff9ce5f/Esbjerg-FC-Copenhagen-September-2-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2018-09-02,AGF,Vendsyssel,1,1,NA,NA,7417,Sandi Putros,https://fbref.com/en/matches/f974afcf/AGF-Vendsyssel-September-2-2018-Superliga,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,2018-2019
+2018-09-02,Brøndby,Midtjylland,2,2,NA,NA,14211,Jakob Kehlet,https://fbref.com/en/matches/8fe17188/Brondby-Midtjylland-September-2-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2018-2019
+2018-09-14,Esbjerg,Odense,2,0,NA,NA,4425,Mikkel Redder,https://fbref.com/en/matches/efe6acb9/Esbjerg-Odense-September-14-2018-Superliga,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2018-09-15,Nordsjælland,Randers,4,1,NA,NA,2312,Michael Johansen,https://fbref.com/en/matches/5e359e39/Nordsjaelland-Randers-September-15-2018-Superliga,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-09-16,Vendsyssel,Hobro,1,1,NA,NA,1686,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/725e1b2d/Vendsyssel-Hobro-September-16-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-09-16,Horsens,AGF,3,2,NA,NA,5410,Anders Poulsen,https://fbref.com/en/matches/0ecd7c6f/Horsens-AGF-September-16-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2018-2019
+2018-09-16,Brøndby,SønderjyskE,2,4,NA,NA,16501,Jakob Kehlet,https://fbref.com/en/matches/6249edc2/Brondby-SonderjyskE-September-16-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-09-16,Midtjylland,FC Copenhagen,3,1,NA,NA,10973,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/c67a5acc/Midtjylland-FC-Copenhagen-September-16-2018-Superliga,1,1,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-09-17,Aalborg,Vejle BK,1,1,NA,NA,5716,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/9a261c53/Aalborg-Vejle-BK-September-17-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-09-21,Vejle BK,Esbjerg,1,0,NA,NA,5154,Anders Poulsen,https://fbref.com/en/matches/d4b6b45d/Vejle-BK-Esbjerg-September-21-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2018-2019
+2018-09-22,Randers,Vendsyssel,2,0,NA,NA,2617,Peter Larsen,https://fbref.com/en/matches/40dd991e/Randers-Vendsyssel-September-22-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-09-23,SønderjyskE,Midtjylland,0,0,NA,NA,5785,Jørgen Burchardt,https://fbref.com/en/matches/ccd5bd26/SonderjyskE-Midtjylland-September-23-2018-Superliga,0,0,3,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2018-2019
+2018-09-23,Hobro,Aalborg,0,5,NA,NA,3426,Jakob Kehlet,https://fbref.com/en/matches/21f3f7db/Hobro-Aalborg-September-23-2018-Superliga,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-09-23,FC Copenhagen,Nordsjælland,2,1,NA,NA,22025,Jens Maae,https://fbref.com/en/matches/42aec0cc/FC-Copenhagen-Nordsjaelland-September-23-2018-Superliga,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-09-23,AGF,Brøndby,3,2,NA,NA,15418,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/9b1e790e/AGF-Brondby-September-23-2018-Superliga,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-09-24,Odense,Horsens,4,0,NA,NA,4365,Sandi Putros,https://fbref.com/en/matches/d524ff0c/Odense-Horsens-September-24-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2018-09-28,Vejle BK,Randers,1,1,NA,NA,3204,Michael Tykgaard,https://fbref.com/en/matches/742de95a/Vejle-BK-Randers-September-28-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-09-29,Midtjylland,Hobro,5,2,NA,NA,6092,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/b083b526/Midtjylland-Hobro-September-29-2018-Superliga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2018-09-30,Vendsyssel,FC Copenhagen,2,1,NA,NA,2554,Jakob Kehlet,https://fbref.com/en/matches/df8843d5/Vendsyssel-FC-Copenhagen-September-30-2018-Superliga,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-09-30,Esbjerg,AGF,0,0,NA,NA,4867,Michael Johansen,https://fbref.com/en/matches/daf8b160/Esbjerg-AGF-September-30-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-09-30,Aalborg,Odense,0,1,NA,NA,5739,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/efa9bf90/Aalborg-Odense-September-30-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2018-09-30,Brøndby,Horsens,1,2,NA,NA,11626,Morten Krogh,https://fbref.com/en/matches/446c84c7/Brondby-Horsens-September-30-2018-Superliga,0,0,2,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-10-01,Nordsjælland,SønderjyskE,4,1,NA,NA,2207,Jørgen Burchardt,https://fbref.com/en/matches/dd49eb8b/Nordsjaelland-SonderjyskE-October-1-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2018-2019
+2018-10-05,SønderjyskE,Vejle BK,3,0,NA,NA,5312,Sandi Putros,https://fbref.com/en/matches/8b57fe48/SonderjyskE-Vejle-BK-October-5-2018-Superliga,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2018-2019
+2018-10-06,Odense,AGF,2,2,NA,NA,9530,Jens Maae,https://fbref.com/en/matches/bc4a60ca/Odense-AGF-October-6-2018-Superliga,1,1,5,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-10-07,Hobro,Nordsjælland,3,2,NA,NA,1261,Michael Johansen,https://fbref.com/en/matches/8860f5c0/Hobro-Nordsjaelland-October-7-2018-Superliga,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-10-07,Horsens,Esbjerg,1,2,NA,NA,3622,Mikkel Redder,https://fbref.com/en/matches/dab7c2f6/Horsens-Esbjerg-October-7-2018-Superliga,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2018-2019
+2018-10-07,FC Copenhagen,Randers,4,0,NA,NA,14129,Jørgen Burchardt,https://fbref.com/en/matches/d8daca37/FC-Copenhagen-Randers-October-7-2018-Superliga,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-10-07,Aalborg,Brøndby,1,3,NA,NA,8629,Jakob Kehlet,https://fbref.com/en/matches/dd44949c/Aalborg-Brondby-October-7-2018-Superliga,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-10-07,Midtjylland,Vendsyssel,3,0,NA,NA,5032,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/caa0900c/Midtjylland-Vendsyssel-October-7-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-10-19,Esbjerg,Hobro,2,0,NA,NA,4719,Jakob Kehlet,https://fbref.com/en/matches/8317b462/Esbjerg-Hobro-October-19-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-10-20,Nordsjælland,Midtjylland,1,4,NA,NA,3574,Morten Krogh,https://fbref.com/en/matches/ccc4a52b/Nordsjaelland-Midtjylland-October-20-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-10-21,Vendsyssel,Horsens,0,1,NA,NA,1618,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/57497b72/Vendsyssel-Horsens-October-21-2018-Superliga,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-10-21,Randers,SønderjyskE,1,1,NA,NA,3523,Michael Johansen,https://fbref.com/en/matches/9d031315/Randers-SonderjyskE-October-21-2018-Superliga,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-10-21,Vejle BK,FC Copenhagen,1,3,NA,NA,9138,Jens Maae,https://fbref.com/en/matches/68669000/Vejle-BK-FC-Copenhagen-October-21-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2018-10-21,AGF,Aalborg,2,2,NA,NA,9535,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/d8155244/AGF-Aalborg-October-21-2018-Superliga,0,1,3,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2018-2019
+2018-10-22,Brøndby,Odense,1,1,NA,NA,12185,Michael Tykgaard,https://fbref.com/en/matches/0acd61ac/Brondby-Odense-October-22-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-10-26,SønderjyskE,Odense,0,0,NA,NA,4024,Mikkel Redder,https://fbref.com/en/matches/135de787/SonderjyskE-Odense-October-26-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-10-27,Horsens,Nordsjælland,3,3,NA,NA,2441,Morten Krogh,https://fbref.com/en/matches/f0db867f/Horsens-Nordsjaelland-October-27-2018-Superliga,1,1,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-10-28,Hobro,Vejle BK,1,0,NA,NA,1636,Michael Tykgaard,https://fbref.com/en/matches/eccee7e0/Hobro-Vejle-BK-October-28-2018-Superliga,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-10-28,Randers,Esbjerg,0,2,NA,NA,2679,Anders Poulsen,https://fbref.com/en/matches/26e516ce/Randers-Esbjerg-October-28-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2018-2019
+2018-10-28,FC Copenhagen,AGF,4,2,NA,NA,12856,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/d029521d/FC-Copenhagen-AGF-October-28-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-10-28,Aalborg,Vendsyssel,0,1,NA,NA,6071,Jakob Kehlet,https://fbref.com/en/matches/9f1cb6d6/Aalborg-Vendsyssel-October-28-2018-Superliga,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-10-29,Midtjylland,Brøndby,3,2,NA,NA,10106,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/933abf39/Midtjylland-Brondby-October-29-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-11-02,Odense,Hobro,1,0,NA,NA,4005,Anders Poulsen,https://fbref.com/en/matches/201a4550/Odense-Hobro-November-2-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-11-02,Vendsyssel,SønderjyskE,2,3,NA,NA,1304,Morten Krogh,https://fbref.com/en/matches/14f2e7a3/Vendsyssel-SonderjyskE-November-2-2018-Superliga,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-11-04,Brøndby,FC Copenhagen,0,1,NA,NA,20731,Michael Johansen,https://fbref.com/en/matches/190b5dde/Brondby-FC-Copenhagen-November-4-2018-Superliga,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2018-11-04,Nordsjælland,Aalborg,1,1,NA,NA,2634,Jørgen Burchardt,https://fbref.com/en/matches/88e00d16/Nordsjaelland-Aalborg-November-4-2018-Superliga,0,0,4,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-11-04,AGF,Randers,0,2,NA,NA,7370,Jens Maae,https://fbref.com/en/matches/d078f725/AGF-Randers-November-4-2018-Superliga,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-11-04,Esbjerg,Midtjylland,2,2,NA,NA,7022,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/381ba669/Esbjerg-Midtjylland-November-4-2018-Superliga,0,0,5,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-11-05,Vejle BK,Horsens,3,1,NA,NA,5584,Jakob Kehlet,https://fbref.com/en/matches/7c5304c7/Vejle-BK-Horsens-November-5-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-11-09,Brøndby,AGF,2,0,NA,NA,12452,Anders Poulsen,https://fbref.com/en/matches/7d7f4d42/Brondby-AGF-November-9-2018-Superliga,1,1,2,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2018-2019
+2018-11-10,Horsens,SønderjyskE,1,1,NA,NA,12452,Jørgen Burchardt,https://fbref.com/en/matches/2f0ed3de/Horsens-SonderjyskE-November-10-2018-Superliga,0,0,2,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-11-11,Hobro,Vendsyssel,1,0,NA,NA,1707,Mikkel Redder,https://fbref.com/en/matches/6c484f60/Hobro-Vendsyssel-November-11-2018-Superliga,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-11-11,Randers,Nordsjælland,1,1,NA,NA,2366,Jens Maae,https://fbref.com/en/matches/7e707bc4/Randers-Nordsjaelland-November-11-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-11-11,Aalborg,FC Copenhagen,1,1,NA,NA,6047,Michael Tykgaard,https://fbref.com/en/matches/a5e862e3/Aalborg-FC-Copenhagen-November-11-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-11-11,Midtjylland,Vejle BK,5,0,NA,NA,6855,Sandi Putros,https://fbref.com/en/matches/8bb0a5d5/Midtjylland-Vejle-BK-November-11-2018-Superliga,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-11-11,Odense,Esbjerg,2,1,NA,NA,4127,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/72747e79/Odense-Esbjerg-November-11-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-11-23,Vejle BK,Aalborg,1,1,NA,NA,3736,Michael Johansen,https://fbref.com/en/matches/32be925e/Vejle-BK-Aalborg-November-23-2018-Superliga,0,0,5,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-11-24,Hobro,Randers,0,1,NA,NA,1649,Morten Krogh,https://fbref.com/en/matches/46231d09/Hobro-Randers-November-24-2018-Superliga,0,0,2,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,2018-2019
+2018-11-25,Vendsyssel,Esbjerg,1,1,NA,NA,1101,Jens Maae,https://fbref.com/en/matches/525d8c5b/Vendsyssel-Esbjerg-November-25-2018-Superliga,1,1,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-11-25,Nordsjælland,Odense,1,3,NA,NA,2144,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/1db83bd0/Nordsjaelland-Odense-November-25-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-11-25,SønderjyskE,Brøndby,0,2,NA,NA,6235,Anders Poulsen,https://fbref.com/en/matches/fcad7404/SonderjyskE-Brondby-November-25-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-11-25,FC Copenhagen,Midtjylland,2,1,NA,NA,18553,Jakob Kehlet,https://fbref.com/en/matches/e5cb9f3a/FC-Copenhagen-Midtjylland-November-25-2018-Superliga,1,1,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-11-26,AGF,Horsens,1,2,NA,NA,4212,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/12b14897/AGF-Horsens-November-26-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-11-30,Esbjerg,Aalborg,1,4,NA,NA,2862,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/27c61a94/Esbjerg-Aalborg-November-30-2018-Superliga,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-12-01,Odense,Vendsyssel,2,0,NA,NA,4346,Sandi Putros,https://fbref.com/en/matches/5d143033/Odense-Vendsyssel-December-1-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-12-02,SønderjyskE,Nordsjælland,1,2,NA,NA,2673,Mikkel Redder,https://fbref.com/en/matches/9cf217ce/SonderjyskE-Nordsjaelland-December-2-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-12-02,Randers,Midtjylland,1,2,NA,NA,2401,Jørgen Burchardt,https://fbref.com/en/matches/321ce7ca/Randers-Midtjylland-December-2-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-12-02,Horsens,FC Copenhagen,1,6,NA,NA,3217,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/c725a60b/Horsens-FC-Copenhagen-December-2-2018-Superliga,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-12-02,Brøndby,Hobro,1,0,NA,NA,8512,Jakob Kehlet,https://fbref.com/en/matches/b8a38654/Brondby-Hobro-December-2-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-12-03,AGF,Vejle BK,2,1,NA,NA,4420,Michael Tykgaard,https://fbref.com/en/matches/3867405b/AGF-Vejle-BK-December-3-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-12-07,Midtjylland,Odense,3,0,NA,NA,7034,Jørgen Burchardt,https://fbref.com/en/matches/de04c0eb/Midtjylland-Odense-December-7-2018-Superliga,1,1,3,1,0,0,0,0,0,0,1,3,0,0,0,0,0,0,2018-2019
+2018-12-08,Hobro,SønderjyskE,0,0,NA,NA,1012,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/56542e96/Hobro-SonderjyskE-December-8-2018-Superliga,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-12-09,Vendsyssel,Randers,0,1,NA,NA,1053,Michael Tykgaard,https://fbref.com/en/matches/83a05ecc/Vendsyssel-Randers-December-9-2018-Superliga,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-12-09,Aalborg,Horsens,2,4,NA,NA,4666,Sandi Putros,https://fbref.com/en/matches/e524b1c2/Aalborg-Horsens-December-9-2018-Superliga,0,0,5,1,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2018-2019
+2018-12-09,FC Copenhagen,Esbjerg,3,0,NA,NA,11193,Jens Maae,https://fbref.com/en/matches/b915620a/FC-Copenhagen-Esbjerg-December-9-2018-Superliga,2,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-12-09,Vejle BK,Brøndby,1,2,NA,NA,6994,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/a969743e/Vejle-BK-Brondby-December-9-2018-Superliga,0,0,3,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-12-10,Nordsjælland,AGF,1,0,NA,NA,2044,Michael Johansen,https://fbref.com/en/matches/549a42ea/Nordsjaelland-AGF-December-10-2018-Superliga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2018-12-14,Odense,Aalborg,1,2,NA,NA,4404,Michael Johansen,https://fbref.com/en/matches/3e37732e/Odense-Aalborg-December-14-2018-Superliga,1,1,1,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,2018-2019
+2018-12-15,Randers,Vejle BK,2,0,NA,NA,2725,Jakob Kehlet,https://fbref.com/en/matches/e08b27e4/Randers-Vejle-BK-December-15-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-12-16,Esbjerg,Nordsjælland,3,0,NA,NA,2654,Jørgen Burchardt,https://fbref.com/en/matches/7e984bab/Esbjerg-Nordsjaelland-December-16-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-12-16,Horsens,Midtjylland,1,3,NA,NA,2741,Michael Tykgaard,https://fbref.com/en/matches/2e586b09/Horsens-Midtjylland-December-16-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-12-16,SønderjyskE,FC Copenhagen,0,3,NA,NA,5142,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/2b0c5a31/SonderjyskE-FC-Copenhagen-December-16-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-12-16,Brøndby,Vendsyssel,2,3,NA,NA,11781,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/1277881b/Brondby-Vendsyssel-December-16-2018-Superliga,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2018-2019
+2018-12-17,AGF,Hobro,1,0,NA,NA,3495,Anders Poulsen,https://fbref.com/en/matches/48f67c40/AGF-Hobro-December-17-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-02-08,AGF,Esbjerg,2,0,NA,NA,5579,Michael Tykgaard,https://fbref.com/en/matches/ccad6974/AGF-Esbjerg-February-8-2019-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-02-09,Vejle BK,SønderjyskE,2,0,NA,NA,3109,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/dbaa0104/Vejle-BK-SonderjyskE-February-9-2019-Superliga,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-02-10,Hobro,Horsens,0,0,NA,NA,1430,Morten Krogh,https://fbref.com/en/matches/1ab067a7/Hobro-Horsens-February-10-2019-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-02-10,Aalborg,Randers,0,3,NA,NA,4724,Jørgen Burchardt,https://fbref.com/en/matches/c3ac5e52/Aalborg-Randers-February-10-2019-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-02-10,Nordsjælland,Brøndby,3,3,NA,NA,6658,Sandi Putros,https://fbref.com/en/matches/b193c1bc/Nordsjaelland-Brondby-February-10-2019-Superliga,1,1,1,0,0,0,0,0,0,2,2,1,0,0,0,0,0,0,2018-2019
+2019-02-10,FC Copenhagen,Odense,6,1,NA,NA,15164,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/3186d130/FC-Copenhagen-Odense-February-10-2019-Superliga,1,1,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-02-11,Vendsyssel,Midtjylland,0,1,NA,NA,1453,Jens Maae,https://fbref.com/en/matches/4c317eab/Vendsyssel-Midtjylland-February-11-2019-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-02-15,SønderjyskE,AGF,0,2,NA,NA,5275,Mikkel Redder,https://fbref.com/en/matches/1affb1b7/SonderjyskE-AGF-February-15-2019-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-02-16,Nordsjælland,Hobro,2,1,NA,NA,1724,Michael Johansen,https://fbref.com/en/matches/0df90f8c/Nordsjaelland-Hobro-February-16-2019-Superliga,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-02-17,Horsens,Vendsyssel,3,0,NA,NA,2511,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/823c43f0/Horsens-Vendsyssel-February-17-2019-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2018-2019
+2019-02-17,Odense,Vejle BK,1,0,NA,NA,5907,Peter Larsen,https://fbref.com/en/matches/335d6e8f/Odense-Vejle-BK-February-17-2019-Superliga,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-02-17,Randers,FC Copenhagen,0,2,NA,NA,5411,Jens Maae,https://fbref.com/en/matches/56dd479e/Randers-FC-Copenhagen-February-17-2019-Superliga,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-02-17,Esbjerg,Brøndby,2,1,NA,NA,7016,Anders Poulsen,https://fbref.com/en/matches/eab065f8/Esbjerg-Brondby-February-17-2019-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2019-02-18,Midtjylland,Aalborg,2,1,NA,NA,7442,Jakob Kehlet,https://fbref.com/en/matches/936d7d7f/Midtjylland-Aalborg-February-18-2019-Superliga,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2019-02-22,Aalborg,SønderjyskE,3,0,NA,NA,7678,Sandi Putros,https://fbref.com/en/matches/cf6d2432/Aalborg-SonderjyskE-February-22-2019-Superliga,1,1,1,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,2018-2019
+2019-02-23,Vejle BK,Nordsjælland,1,3,NA,NA,3045,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/96aab7ad/Vejle-BK-Nordsjaelland-February-23-2019-Superliga,0,0,2,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2018-2019
+2019-02-24,Hobro,Esbjerg,2,0,NA,NA,2045,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/fc54c878/Hobro-Esbjerg-February-24-2019-Superliga,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-02-24,Horsens,Odense,1,2,NA,NA,3162,Michael Tykgaard,https://fbref.com/en/matches/b82a43f1/Horsens-Odense-February-24-2019-Superliga,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-02-24,AGF,Midtjylland,1,2,NA,NA,11787,Jørgen Burchardt,https://fbref.com/en/matches/4113ef61/AGF-Midtjylland-February-24-2019-Superliga,0,0,3,1,0,0,0,0,0,0,0,3,2,0,0,0,0,0,2018-2019
+2019-02-24,Brøndby,Randers,2,1,NA,NA,12472,Jakob Kehlet,https://fbref.com/en/matches/36e05771/Brondby-Randers-February-24-2019-Superliga,1,1,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2018-2019
+2019-02-25,FC Copenhagen,Vendsyssel,1,1,NA,NA,11116,Michael Johansen,https://fbref.com/en/matches/631523d4/FC-Copenhagen-Vendsyssel-February-25-2019-Superliga,0,0,2,0,0,0,0,0,0,0,1,3,1,0,0,0,0,0,2018-2019
+2019-03-01,Aalborg,Hobro,1,1,NA,NA,6346,Jens Maae,https://fbref.com/en/matches/f81321be/Aalborg-Hobro-March-1-2019-Superliga,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-03-02,Esbjerg,Horsens,1,0,NA,NA,3718,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/84f530aa/Esbjerg-Horsens-March-2-2019-Superliga,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-03-03,SønderjyskE,Randers,3,0,NA,NA,4236,Anders Poulsen,https://fbref.com/en/matches/8228c3e7/SonderjyskE-Randers-March-3-2019-Superliga,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-03-03,Vendsyssel,AGF,2,2,NA,NA,2059,Mikkel Redder,https://fbref.com/en/matches/59417d40/Vendsyssel-AGF-March-3-2019-Superliga,0,0,1,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2018-2019
+2019-03-03,FC Copenhagen,Vejle BK,2,0,NA,NA,13906,Morten Krogh,https://fbref.com/en/matches/f8335f43/FC-Copenhagen-Vejle-BK-March-3-2019-Superliga,1,1,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-03-03,Odense,Brøndby,2,0,NA,NA,11166,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/1cec0cfa/Odense-Brondby-March-3-2019-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-03-04,Midtjylland,Nordsjælland,3,3,NA,NA,6840,Michael Tykgaard,https://fbref.com/en/matches/8375e93e/Midtjylland-Nordsjaelland-March-4-2019-Superliga,0,0,1,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2018-2019
+2019-03-08,Hobro,Midtjylland,1,2,NA,NA,2014,Jakob Kehlet,https://fbref.com/en/matches/a8f30686/Hobro-Midtjylland-March-8-2019-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2019-03-09,Vejle BK,Vendsyssel,1,1,NA,NA,3309,Anders Poulsen,https://fbref.com/en/matches/a47c79d9/Vejle-BK-Vendsyssel-March-9-2019-Superliga,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-03-10,Randers,Horsens,2,0,NA,NA,2661,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/f2bf32e6/Randers-Horsens-March-10-2019-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-03-10,SønderjyskE,Esbjerg,3,1,NA,NA,4753,Peter Larsen,https://fbref.com/en/matches/54996ca9/SonderjyskE-Esbjerg-March-10-2019-Superliga,0,0,3,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,2018-2019
+2019-03-10,Nordsjælland,FC Copenhagen,2,2,NA,NA,8353,Jørgen Burchardt,https://fbref.com/en/matches/f5bd5d7d/Nordsjaelland-FC-Copenhagen-March-10-2019-Superliga,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2019-03-10,Brøndby,Aalborg,3,3,NA,NA,14152,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/893e2439/Brondby-Aalborg-March-10-2019-Superliga,1,1,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-03-11,AGF,Odense,1,2,NA,NA,7958,Sandi Putros,https://fbref.com/en/matches/5338cc43/AGF-Odense-March-11-2019-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-03-17,Vendsyssel,Nordsjælland,0,1,NA,NA,1245,Morten Krogh,https://fbref.com/en/matches/c81b9705/Vendsyssel-Nordsjaelland-March-17-2019-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-03-17,Midtjylland,SønderjyskE,2,1,NA,NA,7132,Jens Maae,https://fbref.com/en/matches/68dcd696/Midtjylland-SonderjyskE-March-17-2019-Superliga,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-03-17,Horsens,Brøndby,1,3,NA,NA,5017,Jakob Kehlet,https://fbref.com/en/matches/2d8a3522/Horsens-Brondby-March-17-2019-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-03-17,Odense,Randers,1,0,NA,NA,6366,Jørgen Burchardt,https://fbref.com/en/matches/8723ce42/Odense-Randers-March-17-2019-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-03-17,FC Copenhagen,Hobro,3,1,NA,NA,16143,Michael Tykgaard,https://fbref.com/en/matches/d1a4b3ac/FC-Copenhagen-Hobro-March-17-2019-Superliga,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-03-17,Esbjerg,Vejle BK,2,1,NA,NA,6612,Michael Johansen,https://fbref.com/en/matches/71ed7944/Esbjerg-Vejle-BK-March-17-2019-Superliga,0,0,3,1,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2018-2019
+2019-03-17,Aalborg,AGF,3,1,NA,NA,6821,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/e32617d5/Aalborg-AGF-March-17-2019-Superliga,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2018-2019
+2019-03-29,Brøndby,Odense,2,2,NA,NA,11679,Anders Poulsen,https://fbref.com/en/matches/347952cf/Brondby-Odense-March-29-2019-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2019-03-30,Midtjylland,Nordsjælland,0,0,NA,NA,6675,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/37dafc2d/Midtjylland-Nordsjaelland-March-30-2019-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-03-31,Vendsyssel,Hobro,3,3,NA,NA,1495,Jens Maae,https://fbref.com/en/matches/390df5b2/Vendsyssel-Hobro-March-31-2019-Superliga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2019-03-31,Aalborg,Randers,1,2,NA,NA,3767,Mikkel Redder,https://fbref.com/en/matches/eaa75ffe/Aalborg-Randers-March-31-2019-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2018-2019
+2019-03-31,FC Copenhagen,Esbjerg,1,0,NA,NA,13050,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/f459107e/FC-Copenhagen-Esbjerg-March-31-2019-Superliga,0,0,3,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-03-31,SønderjyskE,Horsens,0,0,NA,NA,4287,Sandi Putros,https://fbref.com/en/matches/a44e477b/SonderjyskE-Horsens-March-31-2019-Superliga,0,0,3,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2018-2019
+2019-04-01,AGF,Vejle BK,2,2,NA,NA,6103,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/8c1891d6/AGF-Vejle-BK-April-1-2019-Superliga,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-04-05,Horsens,AGF,0,3,NA,NA,4023,Michael Johansen,https://fbref.com/en/matches/f067fb3f/Horsens-AGF-April-5-2019-Superliga,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-04-06,Randers,Vendsyssel,1,1,NA,NA,2755,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/da987354/Randers-Vendsyssel-April-6-2019-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-04-07,Hobro,Aalborg,1,1,NA,NA,3634,Peter Larsen,https://fbref.com/en/matches/f75b43ae/Hobro-Aalborg-April-7-2019-Superliga,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-04-07,Vejle BK,SønderjyskE,4,1,NA,NA,4092,Michael Tykgaard,https://fbref.com/en/matches/935363c1/Vejle-BK-SonderjyskE-April-7-2019-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2019-04-07,Esbjerg,Midtjylland,2,2,NA,NA,6162,Sandi Putros,https://fbref.com/en/matches/96b84306/Esbjerg-Midtjylland-April-7-2019-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-04-07,Odense,FC Copenhagen,0,1,NA,NA,11154,Jakob Kehlet,https://fbref.com/en/matches/84567995/Odense-FC-Copenhagen-April-7-2019-Superliga,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-04-08,Nordsjælland,Brøndby,1,1,NA,NA,5886,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/b85917e2/Nordsjaelland-Brondby-April-8-2019-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-04-12,Vejle BK,Horsens,3,0,NA,NA,4153,Morten Krogh,https://fbref.com/en/matches/990ac88f/Vejle-BK-Horsens-April-12-2019-Superliga,1,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-04-13,Vendsyssel,Aalborg,1,0,NA,NA,3088,Michael Tykgaard,https://fbref.com/en/matches/d1c7afa3/Vendsyssel-Aalborg-April-13-2019-Superliga,0,0,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2018-2019
+2019-04-14,Hobro,Randers,1,2,NA,NA,2096,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/8e1f07a8/Hobro-Randers-April-14-2019-Superliga,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-04-14,Nordsjælland,Esbjerg,1,2,NA,NA,2089,Peter Larsen,https://fbref.com/en/matches/90d86ddb/Nordsjaelland-Esbjerg-April-14-2019-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2019-04-14,Brøndby,FC Copenhagen,1,2,NA,NA,19086,Jørgen Burchardt,https://fbref.com/en/matches/f220aa1e/Brondby-FC-Copenhagen-April-14-2019-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-04-14,Midtjylland,Odense,2,0,NA,NA,8035,Jens Maae,https://fbref.com/en/matches/d46e03a4/Midtjylland-Odense-April-14-2019-Superliga,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-04-15,SønderjyskE,AGF,0,1,NA,NA,5214,Anders Poulsen,https://fbref.com/en/matches/ce6aac50/SonderjyskE-AGF-April-15-2019-Superliga,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-04-17,Aalborg,Vendsyssel,1,1,NA,NA,5042,Jakob Kehlet,https://fbref.com/en/matches/52b633ea/Aalborg-Vendsyssel-April-17-2019-Superliga,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-04-18,AGF,SønderjyskE,2,1,NA,NA,7736,Sandi Putros,https://fbref.com/en/matches/d78747ca/AGF-SonderjyskE-April-18-2019-Superliga,0,0,3,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2018-2019
+2019-04-18,Horsens,Vejle BK,0,0,NA,NA,3776,Michael Tykgaard,https://fbref.com/en/matches/ecb3a49f/Horsens-Vejle-BK-April-18-2019-Superliga,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-04-18,Esbjerg,Brøndby,1,0,NA,NA,9511,Jens Maae,https://fbref.com/en/matches/6f474e88/Esbjerg-Brondby-April-18-2019-Superliga,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2019-04-18,FC Copenhagen,Midtjylland,3,0,NA,NA,25321,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/fee50faa/FC-Copenhagen-Midtjylland-April-18-2019-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2019-04-19,Randers,Hobro,1,0,NA,NA,3757,Morten Krogh,https://fbref.com/en/matches/17cc0146/Randers-Hobro-April-19-2019-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-04-19,Odense,Nordsjælland,2,2,NA,NA,25321,Michael Johansen,https://fbref.com/en/matches/b185f7b3/Odense-Nordsjaelland-April-19-2019-Superliga,1,1,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-04-21,Horsens,SønderjyskE,0,1,NA,NA,2633,Jørgen Burchardt,https://fbref.com/en/matches/eb64b3ba/Horsens-SonderjyskE-April-21-2019-Superliga,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-04-21,Vejle BK,AGF,2,4,NA,NA,6035,Peter Larsen,https://fbref.com/en/matches/7d191a25/Vejle-BK-AGF-April-21-2019-Superliga,0,1,3,1,0,0,0,0,0,0,0,6,0,0,0,0,0,0,2018-2019
+2019-04-22,Hobro,Vendsyssel,3,2,NA,NA,2299,Jens Maae,https://fbref.com/en/matches/c155a4ce/Hobro-Vendsyssel-April-22-2019-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-04-22,Randers,Aalborg,0,2,NA,NA,3908,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/074070d7/Randers-Aalborg-April-22-2019-Superliga,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-04-22,Nordsjælland,FC Copenhagen,0,3,NA,NA,7111,Jakob Kehlet,https://fbref.com/en/matches/c9a3e77d/Nordsjaelland-FC-Copenhagen-April-22-2019-Superliga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2019-04-22,Midtjylland,Brøndby,1,2,NA,NA,10124,Michael Tykgaard,https://fbref.com/en/matches/ed9de28e/Midtjylland-Brondby-April-22-2019-Superliga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2019-04-23,Esbjerg,Odense,0,0,NA,NA,5601,Mikkel Redder,https://fbref.com/en/matches/c2323257/Esbjerg-Odense-April-23-2019-Superliga,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2019-04-26,Aalborg,Hobro,1,1,NA,NA,5075,Anders Poulsen,https://fbref.com/en/matches/9d7569c7/Aalborg-Hobro-April-26-2019-Superliga,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-04-26,Vendsyssel,Randers,0,0,NA,NA,2157,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/f8bf805f/Vendsyssel-Randers-April-26-2019-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2019-04-28,SønderjyskE,Vejle BK,4,1,NA,NA,5798,Jørgen Burchardt,https://fbref.com/en/matches/7bab1dd6/SonderjyskE-Vejle-BK-April-28-2019-Superliga,1,1,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2018-2019
+2019-04-28,AGF,Horsens,3,1,NA,NA,9086,Morten Krogh,https://fbref.com/en/matches/ea0767b0/AGF-Horsens-April-28-2019-Superliga,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-04-28,Brøndby,Esbjerg,0,1,NA,NA,13177,Michael Johansen,https://fbref.com/en/matches/a223cd7c/Brondby-Esbjerg-April-28-2019-Superliga,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-04-28,FC Copenhagen,Odense,4,0,NA,NA,10230,Jens Maae,https://fbref.com/en/matches/54de46d1/FC-Copenhagen-Odense-April-28-2019-Superliga,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-04-29,Nordsjælland,Midtjylland,1,2,NA,NA,2413,Sandi Putros,https://fbref.com/en/matches/4cc40bb8/Nordsjaelland-Midtjylland-April-29-2019-Superliga,0,0,2,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-05-05,Aalborg,AGF,0,1,NA,NA,6326,Michael Tykgaard,https://fbref.com/en/matches/89d14a93/Aalborg-AGF-May-5-2019-Superliga,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-05-05,SønderjyskE,Randers,1,1,NA,NA,4372,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/359a4fc7/SonderjyskE-Randers-May-5-2019-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-05-05,FC Copenhagen,Brøndby,3,2,NA,NA,33134,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/299f3ef1/FC-Copenhagen-Brondby-May-5-2019-Superliga,1,1,2,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,2018-2019
+2019-05-05,Odense,Midtjylland,3,1,NA,NA,4653,Morten Krogh,https://fbref.com/en/matches/2fe967e6/Odense-Midtjylland-May-5-2019-Superliga,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2019-05-06,Esbjerg,Nordsjælland,0,0,NA,NA,5014,Jakob Kehlet,https://fbref.com/en/matches/0b97721b/Esbjerg-Nordsjaelland-May-6-2019-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-05-10,Odense,Esbjerg,4,1,NA,NA,8724,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/4e4b3447/Odense-Esbjerg-May-10-2019-Superliga,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
 2019-05-12,Vendsyssel,Horsens,0,1,NA,NA,2134,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
 2019-05-12,Hobro,Vejle BK,0,1,NA,NA,3326,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
-2019-05-12,Randers,SønderjyskE,4,3,NA,NA,3252,Michael Johansen,https://fbref.com/en/matches/847f7895/Randers-SonderjyskE-May-12-2019-Superliga,0,0,1,0,NA,NA,NA,NA,NA,1,1,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-12,Aarhus,Aalborg,2,0,NA,NA,10118,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/6484b3d6/Aarhus-Aalborg-May-12-2019-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-12,Midtjylland,FC Copenhagen,4,0,NA,NA,7343,Anders Poulsen,https://fbref.com/en/matches/7068233f/Midtjylland-FC-Copenhagen-May-12-2019-Superliga,1,1,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-13,Brøndby,Nordsjælland,2,0,NA,NA,9291,Morten Krogh,https://fbref.com/en/matches/a293cd0e/Brondby-Nordsjaelland-May-13-2019-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-18,Randers,Aarhus,2,1,NA,NA,7216,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/3e4db586/Randers-Aarhus-May-18-2019-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-19,Nordsjælland,Odense,2,2,NA,NA,4365,Anders Poulsen,https://fbref.com/en/matches/df8da8bc/Nordsjaelland-Odense-May-19-2019-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-12,Randers,SønderjyskE,4,3,NA,NA,3252,Michael Johansen,https://fbref.com/en/matches/847f7895/Randers-SonderjyskE-May-12-2019-Superliga,0,0,1,0,0,0,0,0,0,1,1,4,0,0,0,0,0,0,2018-2019
+2019-05-12,AGF,Aalborg,2,0,NA,NA,10118,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/6484b3d6/AGF-Aalborg-May-12-2019-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-05-12,Midtjylland,FC Copenhagen,4,0,NA,NA,7343,Anders Poulsen,https://fbref.com/en/matches/7068233f/Midtjylland-FC-Copenhagen-May-12-2019-Superliga,1,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-05-13,Brøndby,Nordsjælland,2,0,NA,NA,9291,Morten Krogh,https://fbref.com/en/matches/a293cd0e/Brondby-Nordsjaelland-May-13-2019-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2019-05-18,Randers,AGF,2,1,NA,NA,7216,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/3e4db586/Randers-AGF-May-18-2019-Superliga,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-05-19,Nordsjælland,Odense,2,2,NA,NA,4365,Anders Poulsen,https://fbref.com/en/matches/df8da8bc/Nordsjaelland-Odense-May-19-2019-Superliga,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
 2019-05-19,Horsens,Vendsyssel,1,1,NA,NA,5517,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
 2019-05-19,Vejle BK,Hobro,0,2,NA,NA,9142,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
-2019-05-19,Esbjerg,FC Copenhagen,4,3,NA,NA,8319,Sandi Putros,https://fbref.com/en/matches/d0145420/Esbjerg-FC-Copenhagen-May-19-2019-Superliga,0,0,2,0,NA,NA,NA,NA,NA,1,2,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-20,Brøndby,Midtjylland,4,1,NA,NA,7468,Jakob Kehlet,https://fbref.com/en/matches/7de96f0e/Brondby-Midtjylland-May-20-2019-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-25,Odense,Brøndby,0,2,NA,NA,14246,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/2cd03496/Odense-Brondby-May-25-2019-Superliga,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2018-2019
-2019-05-25,FC Copenhagen,Nordsjælland,1,3,NA,NA,26164,Michael Johansen,https://fbref.com/en/matches/589254ae/FC-Copenhagen-Nordsjaelland-May-25-2019-Superliga,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-25,Midtjylland,Esbjerg,1,2,NA,NA,8291,Jørgen Burchardt,https://fbref.com/en/matches/883ee552/Midtjylland-Esbjerg-May-25-2019-Superliga,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-26,Aarhus,Randers,1,1,NA,NA,12310,Jens Maae,https://fbref.com/en/matches/ce83139f/Aarhus-Randers-May-26-2019-Superliga,1,1,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-19,Esbjerg,FC Copenhagen,4,3,NA,NA,8319,Sandi Putros,https://fbref.com/en/matches/d0145420/Esbjerg-FC-Copenhagen-May-19-2019-Superliga,0,0,2,0,0,0,0,0,0,1,2,4,0,0,0,0,0,0,2018-2019
+2019-05-20,Brøndby,Midtjylland,4,1,NA,NA,7468,Jakob Kehlet,https://fbref.com/en/matches/7de96f0e/Brondby-Midtjylland-May-20-2019-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-05-25,Odense,Brøndby,0,2,NA,NA,14246,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/2cd03496/Odense-Brondby-May-25-2019-Superliga,0,0,3,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2018-2019
+2019-05-25,FC Copenhagen,Nordsjælland,1,3,NA,NA,26164,Michael Johansen,https://fbref.com/en/matches/589254ae/FC-Copenhagen-Nordsjaelland-May-25-2019-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-05-25,Midtjylland,Esbjerg,1,2,NA,NA,8291,Jørgen Burchardt,https://fbref.com/en/matches/883ee552/Midtjylland-Esbjerg-May-25-2019-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-05-26,AGF,Randers,1,1,NA,NA,12310,Jens Maae,https://fbref.com/en/matches/ce83139f/AGF-Randers-May-26-2019-Superliga,1,1,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
 2019-05-30,Lyngby,Vendsyssel,2,1,NA,NA,4832,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
 2019-05-30,Hobro,Viborg,1,0,NA,NA,5674,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
-2019-05-31,Brøndby,Randers,4,2,NA,NA,16773,Michael Tykgaard,https://fbref.com/en/matches/ca4528eb/Brondby-Randers-May-31-2019-Superliga,0,0,4,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-31,Brøndby,Randers,4,2,NA,NA,16773,Michael Tykgaard,https://fbref.com/en/matches/ca4528eb/Brondby-Randers-May-31-2019-Superliga,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
 2019-06-02,Vendsyssel,Lyngby,2,2,NA,NA,3204,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
 2019-06-02,Viborg,Hobro,0,2,NA,NA,8153,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019

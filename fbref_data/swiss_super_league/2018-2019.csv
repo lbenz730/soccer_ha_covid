@@ -1,184 +1,184 @@
 date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_report_url,home_pk_goals,home_pk_attempts,home_yellow_cards,home_red_cards,home_shots,home_shots_on_target,home_tackles,home_interceptions,home_fouls_committed,away_pk_goals,away_pk_attempts,away_yellow_cards,away_red_cards,away_shots,away_shots_on_target,away_tackles,away_interceptions,away_fouls_committed,season
-2018-07-21,Basel,St. Gallen,1,2,NA,NA,25648,Fedayi San,https://fbref.com/en/matches/88eecfe4/Basel-St-Gallen-July-21-2018-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-07-21,Luzern,Xamax,0,2,NA,NA,8905,Pascal Erlachner,https://fbref.com/en/matches/b4839d5f/Luzern-Xamax-July-21-2018-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-07-22,Young Boys,Grasshopper,2,0,NA,NA,21369,Alain Bieri,https://fbref.com/en/matches/5806514a/Young-Boys-Grasshopper-July-22-2018-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
-2018-07-22,Zürich,Thun,2,1,NA,NA,9310,Urs Schnyder,https://fbref.com/en/matches/728edc10/Zurich-Thun-July-22-2018-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-07-22,Sion,Lugano,1,2,NA,NA,8300,Stephan Klossner,https://fbref.com/en/matches/cbfbcda1/Sion-Lugano-July-22-2018-Super-League,1,1,1,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2018-07-28,Xamax,Basel,1,1,NA,NA,12000,Nikolaj Hänni,https://fbref.com/en/matches/0b132dd8/Xamax-Basel-July-28-2018-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,1,NA,NA,NA,NA,NA,2018-2019
-2018-07-28,Grasshopper,Zürich,0,2,NA,NA,16400,Stephan Klossner,https://fbref.com/en/matches/0bd6276c/Grasshopper-Zurich-July-28-2018-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-07-29,St. Gallen,Sion,2,4,NA,NA,11262,Adrien Jaccottet,https://fbref.com/en/matches/d87f985d/St-Gallen-Sion-July-29-2018-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-07-29,Thun,Luzern,2,1,NA,NA,5153,Lionel Tschudi,https://fbref.com/en/matches/1ce12742/Thun-Luzern-July-29-2018-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-07-29,Lugano,Young Boys,0,2,NA,NA,4126,Pascal Erlachner,https://fbref.com/en/matches/373fe99b/Lugano-Young-Boys-July-29-2018-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-04,Luzern,Lugano,4,2,NA,NA,7815,Adrien Jaccottet,https://fbref.com/en/matches/a3dfe47d/Luzern-Lugano-August-4-2018-Super-League,1,1,5,0,NA,NA,NA,NA,NA,0,1,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-04,Basel,Grasshopper,4,2,NA,NA,25313,Sandro Schärer,https://fbref.com/en/matches/26026bdd/Basel-Grasshopper-August-4-2018-Super-League,0,0,2,1,NA,NA,NA,NA,NA,0,1,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-05,Sion,Xamax,3,0,NA,NA,10800,Alain Bieri,https://fbref.com/en/matches/de458be3/Sion-Xamax-August-5-2018-Super-League,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-05,Young Boys,Zürich,4,0,NA,NA,22827,Urs Schnyder,https://fbref.com/en/matches/b6d90cd0/Young-Boys-Zurich-August-5-2018-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-05,St. Gallen,Thun,3,2,NA,NA,11272,Lukas Fähndrich,https://fbref.com/en/matches/88d70e3c/St-Gallen-Thun-August-5-2018-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-11,Lugano,Grasshopper,2,2,NA,NA,3035,Lionel Tschudi,https://fbref.com/en/matches/8172d26f/Lugano-Grasshopper-August-11-2018-Super-League,1,1,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-11,Xamax,Thun,1,5,NA,NA,4718,Sandro Schärer,https://fbref.com/en/matches/4486b099/Xamax-Thun-August-11-2018-Super-League,0,0,2,1,NA,NA,NA,NA,NA,2,2,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-12,Basel,Sion,3,2,NA,NA,25078,Fedayi San,https://fbref.com/en/matches/9248b439/Basel-Sion-August-12-2018-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-12,Zürich,St. Gallen,0,0,NA,NA,11648,Nikolaj Hänni,https://fbref.com/en/matches/f18bc57e/Zurich-St-Gallen-August-12-2018-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-12,Luzern,Young Boys,2,3,NA,NA,9993,Stephan Klossner,https://fbref.com/en/matches/c34b3def/Luzern-Young-Boys-August-12-2018-Super-League,1,1,3,0,NA,NA,NA,NA,NA,1,1,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-25,Young Boys,Xamax,5,2,NA,NA,20238,Adrien Jaccottet,https://fbref.com/en/matches/b50ac1a5/Young-Boys-Xamax-August-25-2018-Super-League,1,1,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-25,Grasshopper,Sion,2,1,NA,NA,4200,Lukas Fähndrich,https://fbref.com/en/matches/69085d2d/Grasshopper-Sion-August-25-2018-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-26,Zürich,Basel,1,1,NA,NA,13162,Alain Bieri,https://fbref.com/en/matches/86ec7285/Zurich-Basel-August-26-2018-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-26,Thun,Lugano,1,1,NA,NA,5471,Fedayi San,https://fbref.com/en/matches/5bb94f9a/Thun-Lugano-August-26-2018-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-26,St. Gallen,Luzern,0,1,NA,NA,12076,Urs Schnyder,https://fbref.com/en/matches/4c73eebe/St-Gallen-Luzern-August-26-2018-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-01,Lugano,Zürich,1,0,NA,NA,3348,Stephan Klossner,https://fbref.com/en/matches/dbd77e6d/Lugano-Zurich-September-1-2018-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-01,Sion,Young Boys,0,3,NA,NA,10800,Fedayi San,https://fbref.com/en/matches/48df50e5/Sion-Young-Boys-September-1-2018-Super-League,0,1,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-02,Basel,Thun,1,1,NA,NA,26117,Lionel Tschudi,https://fbref.com/en/matches/4ed3e26f/Basel-Thun-September-2-2018-Super-League,0,0,2,1,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-02,Xamax,St. Gallen,2,3,NA,NA,4960,Alain Bieri,https://fbref.com/en/matches/bd590963/Xamax-St-Gallen-September-2-2018-Super-League,1,1,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-02,Luzern,Grasshopper,2,1,NA,NA,10005,Adrien Jaccottet,https://fbref.com/en/matches/783b4683/Luzern-Grasshopper-September-2-2018-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-22,Thun,Sion,4,1,NA,NA,6227,Lukas Fähndrich,https://fbref.com/en/matches/0e8f08b8/Thun-Sion-September-22-2018-Super-League,1,1,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-22,Grasshopper,Xamax,3,1,NA,NA,3700,Urs Schnyder,https://fbref.com/en/matches/0625b811/Grasshopper-Xamax-September-22-2018-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-23,St. Gallen,Lugano,2,2,NA,NA,12814,Lionel Tschudi,https://fbref.com/en/matches/7bb104e8/St-Gallen-Lugano-September-23-2018-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-23,Young Boys,Basel,7,1,NA,NA,31120,Fedayi San,https://fbref.com/en/matches/d05b06c3/Young-Boys-Basel-September-23-2018-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
-2018-09-23,Zürich,Luzern,1,0,NA,NA,10431,Nikolaj Hänni,https://fbref.com/en/matches/e35d2058/Zurich-Luzern-September-23-2018-Super-League,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-25,Grasshopper,Thun,0,2,NA,NA,3500,Pascal Erlachner,https://fbref.com/en/matches/603817f0/Grasshopper-Thun-September-25-2018-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-26,Young Boys,St. Gallen,2,0,NA,NA,22253,Nikolaj Hänni,https://fbref.com/en/matches/bdfcf0a7/Young-Boys-St-Gallen-September-26-2018-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,1,NA,NA,NA,NA,NA,2018-2019
-2018-09-26,Basel,Luzern,2,1,NA,NA,23570,Urs Schnyder,https://fbref.com/en/matches/6843a297/Basel-Luzern-September-26-2018-Super-League,0,0,4,0,NA,NA,NA,NA,NA,1,1,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-26,Xamax,Lugano,2,1,NA,NA,3004,Lukas Fähndrich,https://fbref.com/en/matches/0d4aa424/Xamax-Lugano-September-26-2018-Super-League,0,0,7,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-27,Sion,Zürich,1,2,NA,NA,8000,Adrien Jaccottet,https://fbref.com/en/matches/b7456f42/Sion-Zurich-September-27-2018-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-29,St. Gallen,Grasshopper,2,1,NA,NA,11836,Benoît Millot,https://fbref.com/en/matches/265c7e32/St-Gallen-Grasshopper-September-29-2018-Super-League,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-29,Thun,Young Boys,1,4,NA,NA,9021,Stephan Klossner,https://fbref.com/en/matches/d9486df8/Thun-Young-Boys-September-29-2018-Super-League,0,0,1,0,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-30,Luzern,Sion,1,3,NA,NA,13626,Lionel Tschudi,https://fbref.com/en/matches/e883f8e9/Luzern-Sion-September-30-2018-Super-League,0,0,0,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-30,Lugano,Basel,2,2,NA,NA,4364,Pascal Erlachner,https://fbref.com/en/matches/cd68ba2d/Lugano-Basel-September-30-2018-Super-League,0,0,4,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-30,Zürich,Xamax,0,0,NA,NA,8871,Urs Schnyder,https://fbref.com/en/matches/54dd540a/Zurich-Xamax-September-30-2018-Super-League,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-06,Young Boys,Luzern,2,3,NA,NA,25786,Lukas Fähndrich,https://fbref.com/en/matches/84d1bf76/Young-Boys-Luzern-October-6-2018-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-06,St. Gallen,Basel,1,3,NA,NA,14503,Ioannis Papadopoulos,https://fbref.com/en/matches/68d40d05/St-Gallen-Basel-October-6-2018-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-07,Thun,Zürich,2,2,NA,NA,5526,Lionel Tschudi,https://fbref.com/en/matches/f837c972/Thun-Zurich-October-7-2018-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-07,Xamax,Sion,1,1,NA,NA,6336,Nikolaj Hänni,https://fbref.com/en/matches/5d16bfdf/Xamax-Sion-October-7-2018-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-07,Grasshopper,Lugano,2,1,NA,NA,3600,Urs Schnyder,https://fbref.com/en/matches/7e6fc0e7/Grasshopper-Lugano-October-7-2018-Super-League,1,2,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-20,Luzern,Thun,0,2,NA,NA,8250,Lionel Tschudi,https://fbref.com/en/matches/18f6d9b5/Luzern-Thun-October-20-2018-Super-League,0,0,3,1,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-20,Zürich,Young Boys,3,3,NA,NA,12600,Adrien Jaccottet,https://fbref.com/en/matches/60c6598e/Zurich-Young-Boys-October-20-2018-Super-League,2,2,4,0,NA,NA,NA,NA,NA,1,1,6,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-21,Lugano,St. Gallen,3,1,NA,NA,3025,Sandro Schärer,https://fbref.com/en/matches/32bf92b6/Lugano-St-Gallen-October-21-2018-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-21,Sion,Grasshopper,0,0,NA,NA,9100,Stephan Klossner,https://fbref.com/en/matches/32de9200/Sion-Grasshopper-October-21-2018-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-21,Basel,Xamax,1,1,NA,NA,24605,Nikolaj Hänni,https://fbref.com/en/matches/d5b8b73d/Basel-Xamax-October-21-2018-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-27,Grasshopper,Basel,1,3,NA,NA,6900,Alain Bieri,https://fbref.com/en/matches/ecbb6523/Grasshopper-Basel-October-27-2018-Super-League,0,0,5,0,NA,NA,NA,NA,NA,0,1,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-27,Young Boys,Sion,3,2,NA,NA,23908,Nikolaj Hänni,https://fbref.com/en/matches/6e4574d8/Young-Boys-Sion-October-27-2018-Super-League,0,1,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-28,St. Gallen,Zürich,3,2,NA,NA,12120,Stephan Klossner,https://fbref.com/en/matches/385c7de1/St-Gallen-Zurich-October-28-2018-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-28,Lugano,Thun,2,1,NA,NA,2049,Adrien Jaccottet,https://fbref.com/en/matches/c676d0b8/Lugano-Thun-October-28-2018-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-28,Xamax,Luzern,1,2,NA,NA,3473,Sandro Schärer,https://fbref.com/en/matches/7c3c610b/Xamax-Luzern-October-28-2018-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-03,Grasshopper,Young Boys,0,3,NA,NA,5500,Lionel Tschudi,https://fbref.com/en/matches/0e57d6eb/Grasshopper-Young-Boys-November-3-2018-Super-League,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-03,Thun,Xamax,2,2,NA,NA,4605,Alessandro Dudic,https://fbref.com/en/matches/a6c3a5a6/Thun-Xamax-November-3-2018-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-04,Basel,Lugano,3,2,NA,NA,23835,Fedayi San,https://fbref.com/en/matches/12e21d05/Basel-Lugano-November-4-2018-Super-League,0,0,3,0,NA,NA,NA,NA,NA,1,1,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-04,Sion,St. Gallen,0,1,NA,NA,9200,Urs Schnyder,https://fbref.com/en/matches/de982941/Sion-St-Gallen-November-4-2018-Super-League,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-04,Luzern,Zürich,2,5,NA,NA,10124,Nikolaj Hänni,https://fbref.com/en/matches/b44fddd3/Luzern-Zurich-November-4-2018-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-10,Thun,Basel,4,2,NA,NA,7144,Stephan Klossner,https://fbref.com/en/matches/5985460f/Thun-Basel-November-10-2018-Super-League,1,2,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-10,Lugano,Luzern,1,4,NA,NA,2350,Urs Schnyder,https://fbref.com/en/matches/339f113a/Lugano-Luzern-November-10-2018-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-11,Zürich,Sion,1,2,NA,NA,10407,Anastasios Papapetrou,https://fbref.com/en/matches/9919f1b6/Zurich-Sion-November-11-2018-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-11,Xamax,Grasshopper,2,3,NA,NA,4708,Lukas Fähndrich,https://fbref.com/en/matches/6408dc9a/Xamax-Grasshopper-November-11-2018-Super-League,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-11,St. Gallen,Young Boys,2,3,NA,NA,14597,Alain Bieri,https://fbref.com/en/matches/47dc3fa8/St-Gallen-Young-Boys-November-11-2018-Super-League,1,1,2,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-24,Young Boys,Lugano,1,0,NA,NA,21839,Stephan Klossner,https://fbref.com/en/matches/67284351/Young-Boys-Lugano-November-24-2018-Super-League,0,0,0,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-24,Xamax,Zürich,3,3,NA,NA,4065,Fedayi San,https://fbref.com/en/matches/54f7bd6d/Xamax-Zurich-November-24-2018-Super-League,0,0,3,0,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-25,Grasshopper,St. Gallen,2,1,NA,NA,6600,Sandro Schärer,https://fbref.com/en/matches/7b62e1fb/Grasshopper-St-Gallen-November-25-2018-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-25,Luzern,Basel,1,1,NA,NA,10702,Alain Bieri,https://fbref.com/en/matches/6b90af1f/Luzern-Basel-November-25-2018-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-25,Sion,Thun,2,1,NA,NA,8200,Lukas Fähndrich,https://fbref.com/en/matches/ef709753/Sion-Thun-November-25-2018-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-01,Sion,Luzern,2,0,NA,NA,7800,Adrien Jaccottet,https://fbref.com/en/matches/0e32c5ad/Sion-Luzern-December-1-2018-Super-League,0,0,6,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-01,Thun,St. Gallen,2,0,NA,NA,4530,Alain Bieri,https://fbref.com/en/matches/2a61168a/Thun-St-Gallen-December-1-2018-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,1,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-02,Basel,Young Boys,1,3,NA,NA,29491,Sandro Schärer,https://fbref.com/en/matches/42ce29a3/Basel-Young-Boys-December-2-2018-Super-League,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
-2018-12-02,Zürich,Grasshopper,2,0,NA,NA,14101,Urs Schnyder,https://fbref.com/en/matches/32c97940/Zurich-Grasshopper-December-2-2018-Super-League,0,0,4,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-02,Lugano,Xamax,2,2,NA,NA,2466,Nikolaj Hänni,https://fbref.com/en/matches/ba74c920/Lugano-Xamax-December-2-2018-Super-League,0,1,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-08,Young Boys,Thun,3,2,NA,NA,27314,Adrien Jaccottet,https://fbref.com/en/matches/c1b59813/Young-Boys-Thun-December-8-2018-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-08,St. Gallen,Xamax,3,2,NA,NA,11521,Stephan Klossner,https://fbref.com/en/matches/db879361/St-Gallen-Xamax-December-8-2018-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
-2018-12-09,Lugano,Sion,2,2,NA,NA,3865,Fedayi San,https://fbref.com/en/matches/088ecb27/Lugano-Sion-December-9-2018-Super-League,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-09,Grasshopper,Luzern,2,3,NA,NA,4800,Lukas Fähndrich,https://fbref.com/en/matches/b06896ea/Grasshopper-Luzern-December-9-2018-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-09,Basel,Zürich,2,0,NA,NA,26760,Nikolaj Hänni,https://fbref.com/en/matches/e9e44eb8/Basel-Zurich-December-9-2018-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-15,Thun,Grasshopper,1,0,NA,NA,4692,Lionel Tschudi,https://fbref.com/en/matches/31dbe921/Thun-Grasshopper-December-15-2018-Super-League,0,0,0,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-15,Sion,Basel,1,2,NA,NA,10200,Urs Schnyder,https://fbref.com/en/matches/eec1b088/Sion-Basel-December-15-2018-Super-League,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-16,Zürich,Lugano,0,0,NA,NA,7769,Alain Bieri,https://fbref.com/en/matches/b03ab8a3/Zurich-Lugano-December-16-2018-Super-League,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-16,Luzern,St. Gallen,2,1,NA,NA,8509,Sandro Schärer,https://fbref.com/en/matches/931433e0/Luzern-St-Gallen-December-16-2018-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-16,Xamax,Young Boys,1,4,NA,NA,7451,Nikolaj Hänni,https://fbref.com/en/matches/cc1fe4b5/Xamax-Young-Boys-December-16-2018-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-02,Young Boys,Xamax,2,0,NA,NA,24038,Adrien Jaccottet,https://fbref.com/en/matches/02a31d74/Young-Boys-Xamax-February-2-2019-Super-League,0,0,0,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-03,Grasshopper,Basel,0,4,NA,NA,5200,Stephan Klossner,https://fbref.com/en/matches/48580751/Grasshopper-Basel-February-3-2019-Super-League,0,0,1,1,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-06,Lugano,Thun,1,3,NA,NA,2377,Fedayi San,https://fbref.com/en/matches/b4196b9b/Lugano-Thun-February-6-2019-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-06,St. Gallen,Zürich,3,1,NA,NA,9824,Alain Bieri,https://fbref.com/en/matches/4a77e1c5/St-Gallen-Zurich-February-6-2019-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-09,Basel,St. Gallen,1,1,NA,NA,27543,Urs Schnyder,https://fbref.com/en/matches/26bbd520/Basel-St-Gallen-February-9-2019-Super-League,0,1,4,0,NA,NA,NA,NA,NA,0,0,6,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-09,Zürich,Grasshopper,3,1,NA,NA,11013,Adrien Jaccottet,https://fbref.com/en/matches/d750ceff/Zurich-Grasshopper-February-9-2019-Super-League,0,0,4,0,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-10,Xamax,Luzern,2,1,NA,NA,3312,Nikolaj Hänni,https://fbref.com/en/matches/bad194ec/Xamax-Luzern-February-10-2019-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2018-2019
-2019-02-10,Sion,Lugano,2,2,NA,NA,7000,Lionel Tschudi,https://fbref.com/en/matches/9afc1560/Sion-Lugano-February-10-2019-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-10,Thun,Young Boys,1,1,NA,NA,8140,Stephan Klossner,https://fbref.com/en/matches/ad4e8a95/Thun-Young-Boys-February-10-2019-Super-League,0,0,2,0,NA,NA,NA,NA,NA,1,1,6,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-13,Luzern,Sion,1,3,NA,NA,7298,Urs Schnyder,https://fbref.com/en/matches/a302537a/Luzern-Sion-February-13-2019-Super-League,0,0,4,1,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-16,St. Gallen,Thun,1,3,NA,NA,11016,Lukas Fähndrich,https://fbref.com/en/matches/50c65e83/St-Gallen-Thun-February-16-2019-Super-League,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-16,Luzern,Lugano,0,3,NA,NA,7758,Adrien Jaccottet,https://fbref.com/en/matches/d6215583/Luzern-Lugano-February-16-2019-Super-League,0,0,2,1,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-17,Basel,Sion,1,0,NA,NA,21339,Alain Bieri,https://fbref.com/en/matches/54cc146d/Basel-Sion-February-17-2019-Super-League,1,1,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-17,Young Boys,Zürich,2,0,NA,NA,27023,Fedayi San,https://fbref.com/en/matches/f7f14975/Young-Boys-Zurich-February-17-2019-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-17,Grasshopper,Xamax,0,1,NA,NA,4900,Pascal Erlachner,https://fbref.com/en/matches/6cab71c8/Grasshopper-Xamax-February-17-2019-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-23,Xamax,Basel,0,2,NA,NA,6121,Alessandro Dudic,https://fbref.com/en/matches/68321285/Xamax-Basel-February-23-2019-Super-League,0,0,2,1,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-23,Sion,St. Gallen,2,2,NA,NA,7000,Nikolaj Hänni,https://fbref.com/en/matches/ba764da7/Sion-St-Gallen-February-23-2019-Super-League,0,0,3,0,NA,NA,NA,NA,NA,1,1,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-24,Lugano,Young Boys,0,1,NA,NA,4071,Alain Bieri,https://fbref.com/en/matches/e8e8c346/Lugano-Young-Boys-February-24-2019-Super-League,0,0,3,1,NA,NA,NA,NA,NA,0,1,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-24,Thun,Grasshopper,1,1,NA,NA,5360,Lionel Tschudi,https://fbref.com/en/matches/0cc9ebf0/Thun-Grasshopper-February-24-2019-Super-League,0,1,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-24,Zürich,Luzern,1,1,NA,NA,9174,Stephan Klossner,https://fbref.com/en/matches/5d7ed03a/Zurich-Luzern-February-24-2019-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-02,Young Boys,Sion,1,0,NA,NA,25365,Nikolaj Hänni,https://fbref.com/en/matches/bbbf738a/Young-Boys-Sion-March-2-2019-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-02,Grasshopper,Luzern,1,3,NA,NA,3700,Fedayi San,https://fbref.com/en/matches/04eeea6d/Grasshopper-Luzern-March-2-2019-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-03,Zürich,Lugano,0,1,NA,NA,8434,Sandro Schärer,https://fbref.com/en/matches/161cb64d/Zurich-Lugano-March-3-2019-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,5,1,NA,NA,NA,NA,NA,2018-2019
-2019-03-03,St. Gallen,Xamax,3,0,NA,NA,11613,Adrien Jaccottet,https://fbref.com/en/matches/ed74dde1/St-Gallen-Xamax-March-3-2019-Super-League,1,1,1,1,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-03,Basel,Thun,3,1,NA,NA,20717,Lukas Fähndrich,https://fbref.com/en/matches/97669071/Basel-Thun-March-3-2019-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-09,Grasshopper,Young Boys,0,1,NA,NA,5300,Alessandro Dudic,https://fbref.com/en/matches/1b4177a9/Grasshopper-Young-Boys-March-9-2019-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,1,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-09,Xamax,Sion,3,1,NA,NA,4371,Urs Schnyder,https://fbref.com/en/matches/9d415c95/Xamax-Sion-March-9-2019-Super-League,1,1,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-10,Luzern,St. Gallen,3,0,NA,NA,8991,Nikolaj Hänni,https://fbref.com/en/matches/f77fc37c/Luzern-St-Gallen-March-10-2019-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-10,Thun,Zürich,2,2,NA,NA,5116,Alain Bieri,https://fbref.com/en/matches/1b20abfe/Thun-Zurich-March-10-2019-Super-League,0,0,1,0,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-10,Lugano,Basel,1,1,NA,NA,4188,Fedayi San,https://fbref.com/en/matches/a624916f/Lugano-Basel-March-10-2019-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-16,Sion,Grasshopper,3,0,NA,NA,25,Lionel Tschudi,https://fbref.com/en/matches/49c05894/Sion-Grasshopper-March-16-2019-Super-League,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-16,St. Gallen,Lugano,0,2,NA,NA,12644,Lukas Fähndrich,https://fbref.com/en/matches/fcc7b2ba/St-Gallen-Lugano-March-16-2019-Super-League,0,0,4,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-17,Thun,Luzern,1,1,NA,NA,7274,Pascal Erlachner,https://fbref.com/en/matches/d65eefda/Thun-Luzern-March-17-2019-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-17,Zürich,Xamax,2,1,NA,NA,8562,Adrien Jaccottet,https://fbref.com/en/matches/cd023ffd/Zurich-Xamax-March-17-2019-Super-League,0,0,4,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-17,Basel,Young Boys,2,2,NA,NA,28103,Sandro Schärer,https://fbref.com/en/matches/61110bf1/Basel-Young-Boys-March-17-2019-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-30,Luzern,Basel,0,1,NA,NA,11549,Nikolaj Hänni,https://fbref.com/en/matches/3dcdbc47/Luzern-Basel-March-30-2019-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-30,Sion,Zürich,1,0,NA,NA,8400,Sandro Schärer,https://fbref.com/en/matches/de81d758/Sion-Zurich-March-30-2019-Super-League,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-31,Grasshopper,Lugano,1,1,NA,NA,4700,Stephan Klossner,https://fbref.com/en/matches/d6c27778/Grasshopper-Lugano-March-31-2019-Super-League,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-31,Young Boys,St. Gallen,3,2,NA,NA,31120,Lionel Tschudi,https://fbref.com/en/matches/9c68d871/Young-Boys-St-Gallen-March-31-2019-Super-League,1,1,4,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-31,Xamax,Thun,3,2,NA,NA,4769,Pascal Erlachner,https://fbref.com/en/matches/4bb709dd/Xamax-Thun-March-31-2019-Super-League,0,1,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-03,Zürich,Basel,0,2,NA,NA,10324,Stephan Klossner,https://fbref.com/en/matches/8b48e688/Zurich-Basel-April-3-2019-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-03,St. Gallen,Grasshopper,0,0,NA,NA,11683,Alain Bieri,https://fbref.com/en/matches/6f9ede37/St-Gallen-Grasshopper-April-3-2019-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-03,Lugano,Xamax,0,0,NA,NA,3655,Adrien Jaccottet,https://fbref.com/en/matches/5774c152/Lugano-Xamax-April-3-2019-Super-League,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-04,Thun,Sion,1,2,NA,NA,4129,Lukas Fähndrich,https://fbref.com/en/matches/3004916b/Thun-Sion-April-4-2019-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2018-2019
-2019-04-06,Grasshopper,Zürich,1,1,NA,NA,12700,Pascal Erlachner,https://fbref.com/en/matches/70e37c87/Grasshopper-Zurich-April-6-2019-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-06,Xamax,St. Gallen,0,1,NA,NA,4005,Amaury Delerue,https://fbref.com/en/matches/f3ece593/Xamax-St-Gallen-April-6-2019-Super-League,0,1,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-07,Young Boys,Thun,5,1,NA,NA,27695,Fedayi San,https://fbref.com/en/matches/784167a5/Young-Boys-Thun-April-7-2019-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-07,Basel,Lugano,1,1,NA,NA,21533,Urs Schnyder,https://fbref.com/en/matches/699fbf04/Basel-Lugano-April-7-2019-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-07,Sion,Luzern,2,2,NA,NA,9800,Lionel Tschudi,https://fbref.com/en/matches/c980b85c/Sion-Luzern-April-7-2019-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-10,Luzern,Young Boys,1,3,NA,NA,8793,,https://fbref.com/en/matches/e7fa42b5/Luzern-Young-Boys-April-10-2019-Super-League,1,1,2,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
-2019-04-13,Luzern,Xamax,0,1,NA,NA,8080,Nikolaj Hänni,https://fbref.com/en/matches/0455a8af/Luzern-Xamax-April-13-2019-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-13,Basel,Grasshopper,0,0,NA,NA,22004,Sandro Schärer,https://fbref.com/en/matches/603227dd/Basel-Grasshopper-April-13-2019-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-14,Zürich,Young Boys,0,1,NA,NA,16372,Lukas Fähndrich,https://fbref.com/en/matches/92fdf3da/Zurich-Young-Boys-April-14-2019-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-14,Thun,St. Gallen,0,0,NA,NA,5340,Stephan Klossner,https://fbref.com/en/matches/6dfae758/Thun-St-Gallen-April-14-2019-Super-League,0,0,4,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-14,Lugano,Sion,1,1,NA,NA,2812,Alessandro Dudic,https://fbref.com/en/matches/bac94c77/Lugano-Sion-April-14-2019-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-19,Sion,Basel,0,3,NA,NA,12800,Urs Schnyder,https://fbref.com/en/matches/f5cae5d5/Sion-Basel-April-19-2019-Super-League,0,0,4,1,NA,NA,NA,NA,NA,1,1,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-19,Lugano,Zürich,3,0,NA,NA,4219,Sandro Schärer,https://fbref.com/en/matches/1095f26b/Lugano-Zurich-April-19-2019-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-20,Grasshopper,Thun,1,1,NA,NA,4300,Fedayi San,https://fbref.com/en/matches/03c4b5f1/Grasshopper-Thun-April-20-2019-Super-League,1,1,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-20,St. Gallen,Luzern,1,2,NA,NA,18790,Alessandro Dudic,https://fbref.com/en/matches/f0162e0b/St-Gallen-Luzern-April-20-2019-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-22,Xamax,Young Boys,1,0,NA,NA,12000,Nikolaj Hänni,https://fbref.com/en/matches/b0e397fc/Xamax-Young-Boys-April-22-2019-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-27,Luzern,Thun,3,1,NA,NA,8064,Lionel Tschudi,https://fbref.com/en/matches/11d1110d/Luzern-Thun-April-27-2019-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-27,Xamax,Grasshopper,1,1,NA,NA,7137,Adrien Jaccottet,https://fbref.com/en/matches/110d0fe2/Xamax-Grasshopper-April-27-2019-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-28,St. Gallen,Basel,0,3,NA,NA,13755,Pascal Erlachner,https://fbref.com/en/matches/64b9385a/St-Gallen-Basel-April-28-2019-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-28,Zürich,Sion,1,0,NA,NA,8904,Fedayi San,https://fbref.com/en/matches/2f179953/Zurich-Sion-April-28-2019-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
-2019-04-28,Young Boys,Lugano,2,2,NA,NA,27053,Alain Bieri,https://fbref.com/en/matches/8931c25e/Young-Boys-Lugano-April-28-2019-Super-League,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-04,Basel,Zürich,3,0,NA,NA,23099,Lionel Tschudi,https://fbref.com/en/matches/12ea148e/Basel-Zurich-May-4-2019-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-04,Grasshopper,St. Gallen,0,1,NA,NA,5400,Alain Bieri,https://fbref.com/en/matches/2bea6db8/Grasshopper-St-Gallen-May-4-2019-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-05,Thun,Xamax,0,2,NA,NA,5244,Urs Schnyder,https://fbref.com/en/matches/cf13b8b2/Thun-Xamax-May-5-2019-Super-League,0,0,2,1,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-05,Sion,Young Boys,0,4,NA,NA,10800,Adrien Jaccottet,https://fbref.com/en/matches/bd7ef81d/Sion-Young-Boys-May-5-2019-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-05,Lugano,Luzern,1,0,NA,NA,4150,Fedayi San,https://fbref.com/en/matches/10af6ad8/Lugano-Luzern-May-5-2019-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-11,Xamax,Zürich,1,2,NA,NA,8744,Sandro Schärer,https://fbref.com/en/matches/6794b02d/Xamax-Zurich-May-11-2019-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-11,Thun,Lugano,1,0,NA,NA,4567,Lukas Fähndrich,https://fbref.com/en/matches/fc38b008/Thun-Lugano-May-11-2019-Super-League,1,1,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-12,St. Gallen,Sion,2,1,NA,NA,13178,Stephan Klossner,https://fbref.com/en/matches/6f675cf1/St-Gallen-Sion-May-12-2019-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-12,Young Boys,Basel,3,1,NA,NA,31120,Urs Schnyder,https://fbref.com/en/matches/ee813d5e/Young-Boys-Basel-May-12-2019-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
-2019-05-12,Luzern,Grasshopper,4,0,NA,NA,10469,Alessandro Dudic,https://fbref.com/en/matches/8e8e3055/Luzern-Grasshopper-May-12-2019-Super-League,0,1,2,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
-2019-05-15,Sion,Xamax,1,0,NA,NA,10000,Nikolaj Hänni,https://fbref.com/en/matches/030d5c43/Sion-Xamax-May-15-2019-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-15,Zürich,Thun,3,0,NA,NA,8727,Pascal Erlachner,https://fbref.com/en/matches/16814441/Zurich-Thun-May-15-2019-Super-League,1,1,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-15,Basel,Luzern,3,2,NA,NA,20631,Lukas Fähndrich,https://fbref.com/en/matches/a0583e56/Basel-Luzern-May-15-2019-Super-League,1,1,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-16,Lugano,St. Gallen,1,0,NA,NA,5109,Alain Bieri,https://fbref.com/en/matches/0e0bdb5c/Lugano-St-Gallen-May-16-2019-Super-League,0,0,5,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-16,Young Boys,Grasshopper,6,1,NA,NA,22330,Lionel Tschudi,https://fbref.com/en/matches/7825da82/Young-Boys-Grasshopper-May-16-2019-Super-League,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-22,St. Gallen,Young Boys,4,1,NA,NA,13957,Lukas Fähndrich,https://fbref.com/en/matches/0ad742ed/St-Gallen-Young-Boys-May-22-2019-Super-League,1,2,1,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-22,Thun,Basel,1,2,NA,NA,5151,Stephan Klossner,https://fbref.com/en/matches/c679c93f/Thun-Basel-May-22-2019-Super-League,0,0,0,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-22,Luzern,Zürich,3,0,NA,NA,9616,Lionel Tschudi,https://fbref.com/en/matches/2f0ae2b4/Luzern-Zurich-May-22-2019-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-22,Grasshopper,Sion,0,3,NA,NA,0,Alessandro Dudic,https://fbref.com/en/matches/2185dd36/Grasshopper-Sion-May-22-2019-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-22,Xamax,Lugano,1,1,NA,NA,6882,Pascal Erlachner,https://fbref.com/en/matches/e7ec2a01/Xamax-Lugano-May-22-2019-Super-League,0,1,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-25,Lugano,Grasshopper,3,3,NA,NA,4819,Stephan Klossner,https://fbref.com/en/matches/97eb4e67/Lugano-Grasshopper-May-25-2019-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
-2019-05-25,Young Boys,Luzern,4,0,NA,NA,31120,Alain Bieri,https://fbref.com/en/matches/5832e2a0/Young-Boys-Luzern-May-25-2019-Super-League,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-25,Sion,Thun,0,1,NA,NA,8500,Adrien Jaccottet,https://fbref.com/en/matches/98820a9f/Sion-Thun-May-25-2019-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-25,Basel,Xamax,4,1,NA,NA,21275,Urs Schnyder,https://fbref.com/en/matches/781ec9a1/Basel-Xamax-May-25-2019-Super-League,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-25,Zürich,St. Gallen,1,1,NA,NA,12013,Fedayi San,https://fbref.com/en/matches/64944d31/Zurich-St-Gallen-May-25-2019-Super-League,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2018-07-21,Basel,St. Gallen,1,2,NA,NA,25648,Fedayi San,https://fbref.com/en/matches/88eecfe4/Basel-St-Gallen-July-21-2018-Super-League,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-07-21,Luzern,Xamax,0,2,NA,NA,8905,Pascal Erlachner,https://fbref.com/en/matches/b4839d5f/Luzern-Xamax-July-21-2018-Super-League,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-07-22,Young Boys,Grasshopper,2,0,NA,NA,21369,Alain Bieri,https://fbref.com/en/matches/5806514a/Young-Boys-Grasshopper-July-22-2018-Super-League,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2018-2019
+2018-07-22,Zürich,Thun,2,1,NA,NA,9310,Urs Schnyder,https://fbref.com/en/matches/728edc10/Zurich-Thun-July-22-2018-Super-League,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-07-22,Sion,Lugano,1,2,NA,NA,8300,Stephan Klossner,https://fbref.com/en/matches/cbfbcda1/Sion-Lugano-July-22-2018-Super-League,1,1,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2018-07-28,Xamax,Basel,1,1,NA,NA,12000,Nikolaj Hänni,https://fbref.com/en/matches/0b132dd8/Xamax-Basel-July-28-2018-Super-League,0,0,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2018-2019
+2018-07-28,Grasshopper,Zürich,0,2,NA,NA,16400,Stephan Klossner,https://fbref.com/en/matches/0bd6276c/Grasshopper-Zurich-July-28-2018-Super-League,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-07-29,St. Gallen,Sion,2,4,NA,NA,11262,Adrien Jaccottet,https://fbref.com/en/matches/d87f985d/St-Gallen-Sion-July-29-2018-Super-League,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-07-29,Thun,Luzern,2,1,NA,NA,5153,Lionel Tschudi,https://fbref.com/en/matches/1ce12742/Thun-Luzern-July-29-2018-Super-League,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-07-29,Lugano,Young Boys,0,2,NA,NA,4126,Pascal Erlachner,https://fbref.com/en/matches/373fe99b/Lugano-Young-Boys-July-29-2018-Super-League,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-08-04,Luzern,Lugano,4,2,NA,NA,7815,Adrien Jaccottet,https://fbref.com/en/matches/a3dfe47d/Luzern-Lugano-August-4-2018-Super-League,1,1,5,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,2018-2019
+2018-08-04,Basel,Grasshopper,4,2,NA,NA,25313,Sandro Schärer,https://fbref.com/en/matches/26026bdd/Basel-Grasshopper-August-4-2018-Super-League,0,0,2,1,0,0,0,0,0,0,1,2,0,0,0,0,0,0,2018-2019
+2018-08-05,Sion,Xamax,3,0,NA,NA,10800,Alain Bieri,https://fbref.com/en/matches/de458be3/Sion-Xamax-August-5-2018-Super-League,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-08-05,Young Boys,Zürich,4,0,NA,NA,22827,Urs Schnyder,https://fbref.com/en/matches/b6d90cd0/Young-Boys-Zurich-August-5-2018-Super-League,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-08-05,St. Gallen,Thun,3,2,NA,NA,11272,Lukas Fähndrich,https://fbref.com/en/matches/88d70e3c/St-Gallen-Thun-August-5-2018-Super-League,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-08-11,Lugano,Grasshopper,2,2,NA,NA,3035,Lionel Tschudi,https://fbref.com/en/matches/8172d26f/Lugano-Grasshopper-August-11-2018-Super-League,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-08-11,Xamax,Thun,1,5,NA,NA,4718,Sandro Schärer,https://fbref.com/en/matches/4486b099/Xamax-Thun-August-11-2018-Super-League,0,0,2,1,0,0,0,0,0,2,2,1,0,0,0,0,0,0,2018-2019
+2018-08-12,Basel,Sion,3,2,NA,NA,25078,Fedayi San,https://fbref.com/en/matches/9248b439/Basel-Sion-August-12-2018-Super-League,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-08-12,Zürich,St. Gallen,0,0,NA,NA,11648,Nikolaj Hänni,https://fbref.com/en/matches/f18bc57e/Zurich-St-Gallen-August-12-2018-Super-League,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-08-12,Luzern,Young Boys,2,3,NA,NA,9993,Stephan Klossner,https://fbref.com/en/matches/c34b3def/Luzern-Young-Boys-August-12-2018-Super-League,1,1,3,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2018-2019
+2018-08-25,Young Boys,Xamax,5,2,NA,NA,20238,Adrien Jaccottet,https://fbref.com/en/matches/b50ac1a5/Young-Boys-Xamax-August-25-2018-Super-League,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2018-08-25,Grasshopper,Sion,2,1,NA,NA,4200,Lukas Fähndrich,https://fbref.com/en/matches/69085d2d/Grasshopper-Sion-August-25-2018-Super-League,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-08-26,Zürich,Basel,1,1,NA,NA,13162,Alain Bieri,https://fbref.com/en/matches/86ec7285/Zurich-Basel-August-26-2018-Super-League,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-08-26,Thun,Lugano,1,1,NA,NA,5471,Fedayi San,https://fbref.com/en/matches/5bb94f9a/Thun-Lugano-August-26-2018-Super-League,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-08-26,St. Gallen,Luzern,0,1,NA,NA,12076,Urs Schnyder,https://fbref.com/en/matches/4c73eebe/St-Gallen-Luzern-August-26-2018-Super-League,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-09-01,Lugano,Zürich,1,0,NA,NA,3348,Stephan Klossner,https://fbref.com/en/matches/dbd77e6d/Lugano-Zurich-September-1-2018-Super-League,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-09-01,Sion,Young Boys,0,3,NA,NA,10800,Fedayi San,https://fbref.com/en/matches/48df50e5/Sion-Young-Boys-September-1-2018-Super-League,0,1,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-09-02,Basel,Thun,1,1,NA,NA,26117,Lionel Tschudi,https://fbref.com/en/matches/4ed3e26f/Basel-Thun-September-2-2018-Super-League,0,0,2,1,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2018-09-02,Xamax,St. Gallen,2,3,NA,NA,4960,Alain Bieri,https://fbref.com/en/matches/bd590963/Xamax-St-Gallen-September-2-2018-Super-League,1,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-09-02,Luzern,Grasshopper,2,1,NA,NA,10005,Adrien Jaccottet,https://fbref.com/en/matches/783b4683/Luzern-Grasshopper-September-2-2018-Super-League,0,0,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2018-09-22,Thun,Sion,4,1,NA,NA,6227,Lukas Fähndrich,https://fbref.com/en/matches/0e8f08b8/Thun-Sion-September-22-2018-Super-League,1,1,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-09-22,Grasshopper,Xamax,3,1,NA,NA,3700,Urs Schnyder,https://fbref.com/en/matches/0625b811/Grasshopper-Xamax-September-22-2018-Super-League,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-09-23,St. Gallen,Lugano,2,2,NA,NA,12814,Lionel Tschudi,https://fbref.com/en/matches/7bb104e8/St-Gallen-Lugano-September-23-2018-Super-League,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-09-23,Young Boys,Basel,7,1,NA,NA,31120,Fedayi San,https://fbref.com/en/matches/d05b06c3/Young-Boys-Basel-September-23-2018-Super-League,0,0,3,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2018-2019
+2018-09-23,Zürich,Luzern,1,0,NA,NA,10431,Nikolaj Hänni,https://fbref.com/en/matches/e35d2058/Zurich-Luzern-September-23-2018-Super-League,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-09-25,Grasshopper,Thun,0,2,NA,NA,3500,Pascal Erlachner,https://fbref.com/en/matches/603817f0/Grasshopper-Thun-September-25-2018-Super-League,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-09-26,Young Boys,St. Gallen,2,0,NA,NA,22253,Nikolaj Hänni,https://fbref.com/en/matches/bdfcf0a7/Young-Boys-St-Gallen-September-26-2018-Super-League,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2018-2019
+2018-09-26,Basel,Luzern,2,1,NA,NA,23570,Urs Schnyder,https://fbref.com/en/matches/6843a297/Basel-Luzern-September-26-2018-Super-League,0,0,4,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2018-2019
+2018-09-26,Xamax,Lugano,2,1,NA,NA,3004,Lukas Fähndrich,https://fbref.com/en/matches/0d4aa424/Xamax-Lugano-September-26-2018-Super-League,0,0,7,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-09-27,Sion,Zürich,1,2,NA,NA,8000,Adrien Jaccottet,https://fbref.com/en/matches/b7456f42/Sion-Zurich-September-27-2018-Super-League,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-09-29,St. Gallen,Grasshopper,2,1,NA,NA,11836,Benoît Millot,https://fbref.com/en/matches/265c7e32/St-Gallen-Grasshopper-September-29-2018-Super-League,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-09-29,Thun,Young Boys,1,4,NA,NA,9021,Stephan Klossner,https://fbref.com/en/matches/d9486df8/Thun-Young-Boys-September-29-2018-Super-League,0,0,1,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2018-2019
+2018-09-30,Luzern,Sion,1,3,NA,NA,13626,Lionel Tschudi,https://fbref.com/en/matches/e883f8e9/Luzern-Sion-September-30-2018-Super-League,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-09-30,Lugano,Basel,2,2,NA,NA,4364,Pascal Erlachner,https://fbref.com/en/matches/cd68ba2d/Lugano-Basel-September-30-2018-Super-League,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2018-09-30,Zürich,Xamax,0,0,NA,NA,8871,Urs Schnyder,https://fbref.com/en/matches/54dd540a/Zurich-Xamax-September-30-2018-Super-League,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2018-10-06,Young Boys,Luzern,2,3,NA,NA,25786,Lukas Fähndrich,https://fbref.com/en/matches/84d1bf76/Young-Boys-Luzern-October-6-2018-Super-League,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-10-06,St. Gallen,Basel,1,3,NA,NA,14503,Ioannis Papadopoulos,https://fbref.com/en/matches/68d40d05/St-Gallen-Basel-October-6-2018-Super-League,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-10-07,Thun,Zürich,2,2,NA,NA,5526,Lionel Tschudi,https://fbref.com/en/matches/f837c972/Thun-Zurich-October-7-2018-Super-League,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-10-07,Xamax,Sion,1,1,NA,NA,6336,Nikolaj Hänni,https://fbref.com/en/matches/5d16bfdf/Xamax-Sion-October-7-2018-Super-League,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2018-10-07,Grasshopper,Lugano,2,1,NA,NA,3600,Urs Schnyder,https://fbref.com/en/matches/7e6fc0e7/Grasshopper-Lugano-October-7-2018-Super-League,1,2,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-10-20,Luzern,Thun,0,2,NA,NA,8250,Lionel Tschudi,https://fbref.com/en/matches/18f6d9b5/Luzern-Thun-October-20-2018-Super-League,0,0,3,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-10-20,Zürich,Young Boys,3,3,NA,NA,12600,Adrien Jaccottet,https://fbref.com/en/matches/60c6598e/Zurich-Young-Boys-October-20-2018-Super-League,2,2,4,0,0,0,0,0,0,1,1,6,0,0,0,0,0,0,2018-2019
+2018-10-21,Lugano,St. Gallen,3,1,NA,NA,3025,Sandro Schärer,https://fbref.com/en/matches/32bf92b6/Lugano-St-Gallen-October-21-2018-Super-League,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-10-21,Sion,Grasshopper,0,0,NA,NA,9100,Stephan Klossner,https://fbref.com/en/matches/32de9200/Sion-Grasshopper-October-21-2018-Super-League,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-10-21,Basel,Xamax,1,1,NA,NA,24605,Nikolaj Hänni,https://fbref.com/en/matches/d5b8b73d/Basel-Xamax-October-21-2018-Super-League,0,0,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2018-10-27,Grasshopper,Basel,1,3,NA,NA,6900,Alain Bieri,https://fbref.com/en/matches/ecbb6523/Grasshopper-Basel-October-27-2018-Super-League,0,0,5,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2018-2019
+2018-10-27,Young Boys,Sion,3,2,NA,NA,23908,Nikolaj Hänni,https://fbref.com/en/matches/6e4574d8/Young-Boys-Sion-October-27-2018-Super-League,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-10-28,St. Gallen,Zürich,3,2,NA,NA,12120,Stephan Klossner,https://fbref.com/en/matches/385c7de1/St-Gallen-Zurich-October-28-2018-Super-League,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-10-28,Lugano,Thun,2,1,NA,NA,2049,Adrien Jaccottet,https://fbref.com/en/matches/c676d0b8/Lugano-Thun-October-28-2018-Super-League,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-10-28,Xamax,Luzern,1,2,NA,NA,3473,Sandro Schärer,https://fbref.com/en/matches/7c3c610b/Xamax-Luzern-October-28-2018-Super-League,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-11-03,Grasshopper,Young Boys,0,3,NA,NA,5500,Lionel Tschudi,https://fbref.com/en/matches/0e57d6eb/Grasshopper-Young-Boys-November-3-2018-Super-League,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-11-03,Thun,Xamax,2,2,NA,NA,4605,Alessandro Dudic,https://fbref.com/en/matches/a6c3a5a6/Thun-Xamax-November-3-2018-Super-League,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2018-11-04,Basel,Lugano,3,2,NA,NA,23835,Fedayi San,https://fbref.com/en/matches/12e21d05/Basel-Lugano-November-4-2018-Super-League,0,0,3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2018-2019
+2018-11-04,Sion,St. Gallen,0,1,NA,NA,9200,Urs Schnyder,https://fbref.com/en/matches/de982941/Sion-St-Gallen-November-4-2018-Super-League,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-11-04,Luzern,Zürich,2,5,NA,NA,10124,Nikolaj Hänni,https://fbref.com/en/matches/b44fddd3/Luzern-Zurich-November-4-2018-Super-League,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-11-10,Thun,Basel,4,2,NA,NA,7144,Stephan Klossner,https://fbref.com/en/matches/5985460f/Thun-Basel-November-10-2018-Super-League,1,2,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-11-10,Lugano,Luzern,1,4,NA,NA,2350,Urs Schnyder,https://fbref.com/en/matches/339f113a/Lugano-Luzern-November-10-2018-Super-League,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-11-11,Zürich,Sion,1,2,NA,NA,10407,Anastasios Papapetrou,https://fbref.com/en/matches/9919f1b6/Zurich-Sion-November-11-2018-Super-League,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-11-11,Xamax,Grasshopper,2,3,NA,NA,4708,Lukas Fähndrich,https://fbref.com/en/matches/6408dc9a/Xamax-Grasshopper-November-11-2018-Super-League,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-11-11,St. Gallen,Young Boys,2,3,NA,NA,14597,Alain Bieri,https://fbref.com/en/matches/47dc3fa8/St-Gallen-Young-Boys-November-11-2018-Super-League,1,1,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2018-11-24,Young Boys,Lugano,1,0,NA,NA,21839,Stephan Klossner,https://fbref.com/en/matches/67284351/Young-Boys-Lugano-November-24-2018-Super-League,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-11-24,Xamax,Zürich,3,3,NA,NA,4065,Fedayi San,https://fbref.com/en/matches/54f7bd6d/Xamax-Zurich-November-24-2018-Super-League,0,0,3,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2018-2019
+2018-11-25,Grasshopper,St. Gallen,2,1,NA,NA,6600,Sandro Schärer,https://fbref.com/en/matches/7b62e1fb/Grasshopper-St-Gallen-November-25-2018-Super-League,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-11-25,Luzern,Basel,1,1,NA,NA,10702,Alain Bieri,https://fbref.com/en/matches/6b90af1f/Luzern-Basel-November-25-2018-Super-League,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2018-11-25,Sion,Thun,2,1,NA,NA,8200,Lukas Fähndrich,https://fbref.com/en/matches/ef709753/Sion-Thun-November-25-2018-Super-League,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-12-01,Sion,Luzern,2,0,NA,NA,7800,Adrien Jaccottet,https://fbref.com/en/matches/0e32c5ad/Sion-Luzern-December-1-2018-Super-League,0,0,6,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-12-01,Thun,St. Gallen,2,0,NA,NA,4530,Alain Bieri,https://fbref.com/en/matches/2a61168a/Thun-St-Gallen-December-1-2018-Super-League,0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2018-2019
+2018-12-02,Basel,Young Boys,1,3,NA,NA,29491,Sandro Schärer,https://fbref.com/en/matches/42ce29a3/Basel-Young-Boys-December-2-2018-Super-League,0,0,4,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2018-2019
+2018-12-02,Zürich,Grasshopper,2,0,NA,NA,14101,Urs Schnyder,https://fbref.com/en/matches/32c97940/Zurich-Grasshopper-December-2-2018-Super-League,0,0,4,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2018-12-02,Lugano,Xamax,2,2,NA,NA,2466,Nikolaj Hänni,https://fbref.com/en/matches/ba74c920/Lugano-Xamax-December-2-2018-Super-League,0,1,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-12-08,Young Boys,Thun,3,2,NA,NA,27314,Adrien Jaccottet,https://fbref.com/en/matches/c1b59813/Young-Boys-Thun-December-8-2018-Super-League,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-12-08,St. Gallen,Xamax,3,2,NA,NA,11521,Stephan Klossner,https://fbref.com/en/matches/db879361/St-Gallen-Xamax-December-8-2018-Super-League,0,0,1,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2018-2019
+2018-12-09,Lugano,Sion,2,2,NA,NA,3865,Fedayi San,https://fbref.com/en/matches/088ecb27/Lugano-Sion-December-9-2018-Super-League,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-12-09,Grasshopper,Luzern,2,3,NA,NA,4800,Lukas Fähndrich,https://fbref.com/en/matches/b06896ea/Grasshopper-Luzern-December-9-2018-Super-League,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-12-09,Basel,Zürich,2,0,NA,NA,26760,Nikolaj Hänni,https://fbref.com/en/matches/e9e44eb8/Basel-Zurich-December-9-2018-Super-League,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-12-15,Thun,Grasshopper,1,0,NA,NA,4692,Lionel Tschudi,https://fbref.com/en/matches/31dbe921/Thun-Grasshopper-December-15-2018-Super-League,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-12-15,Sion,Basel,1,2,NA,NA,10200,Urs Schnyder,https://fbref.com/en/matches/eec1b088/Sion-Basel-December-15-2018-Super-League,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-12-16,Zürich,Lugano,0,0,NA,NA,7769,Alain Bieri,https://fbref.com/en/matches/b03ab8a3/Zurich-Lugano-December-16-2018-Super-League,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-12-16,Luzern,St. Gallen,2,1,NA,NA,8509,Sandro Schärer,https://fbref.com/en/matches/931433e0/Luzern-St-Gallen-December-16-2018-Super-League,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-12-16,Xamax,Young Boys,1,4,NA,NA,7451,Nikolaj Hänni,https://fbref.com/en/matches/cc1fe4b5/Xamax-Young-Boys-December-16-2018-Super-League,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2019-02-02,Young Boys,Xamax,2,0,NA,NA,24038,Adrien Jaccottet,https://fbref.com/en/matches/02a31d74/Young-Boys-Xamax-February-2-2019-Super-League,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-02-03,Grasshopper,Basel,0,4,NA,NA,5200,Stephan Klossner,https://fbref.com/en/matches/48580751/Grasshopper-Basel-February-3-2019-Super-League,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-02-06,Lugano,Thun,1,3,NA,NA,2377,Fedayi San,https://fbref.com/en/matches/b4196b9b/Lugano-Thun-February-6-2019-Super-League,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-02-06,St. Gallen,Zürich,3,1,NA,NA,9824,Alain Bieri,https://fbref.com/en/matches/4a77e1c5/St-Gallen-Zurich-February-6-2019-Super-League,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-02-09,Basel,St. Gallen,1,1,NA,NA,27543,Urs Schnyder,https://fbref.com/en/matches/26bbd520/Basel-St-Gallen-February-9-2019-Super-League,0,1,4,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,2018-2019
+2019-02-09,Zürich,Grasshopper,3,1,NA,NA,11013,Adrien Jaccottet,https://fbref.com/en/matches/d750ceff/Zurich-Grasshopper-February-9-2019-Super-League,0,0,4,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2018-2019
+2019-02-10,Xamax,Luzern,2,1,NA,NA,3312,Nikolaj Hänni,https://fbref.com/en/matches/bad194ec/Xamax-Luzern-February-10-2019-Super-League,0,0,2,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2018-2019
+2019-02-10,Sion,Lugano,2,2,NA,NA,7000,Lionel Tschudi,https://fbref.com/en/matches/9afc1560/Sion-Lugano-February-10-2019-Super-League,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-02-10,Thun,Young Boys,1,1,NA,NA,8140,Stephan Klossner,https://fbref.com/en/matches/ad4e8a95/Thun-Young-Boys-February-10-2019-Super-League,0,0,2,0,0,0,0,0,0,1,1,6,0,0,0,0,0,0,2018-2019
+2019-02-13,Luzern,Sion,1,3,NA,NA,7298,Urs Schnyder,https://fbref.com/en/matches/a302537a/Luzern-Sion-February-13-2019-Super-League,0,0,4,1,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2018-2019
+2019-02-16,St. Gallen,Thun,1,3,NA,NA,11016,Lukas Fähndrich,https://fbref.com/en/matches/50c65e83/St-Gallen-Thun-February-16-2019-Super-League,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-02-16,Luzern,Lugano,0,3,NA,NA,7758,Adrien Jaccottet,https://fbref.com/en/matches/d6215583/Luzern-Lugano-February-16-2019-Super-League,0,0,2,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-02-17,Basel,Sion,1,0,NA,NA,21339,Alain Bieri,https://fbref.com/en/matches/54cc146d/Basel-Sion-February-17-2019-Super-League,1,1,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-02-17,Young Boys,Zürich,2,0,NA,NA,27023,Fedayi San,https://fbref.com/en/matches/f7f14975/Young-Boys-Zurich-February-17-2019-Super-League,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-02-17,Grasshopper,Xamax,0,1,NA,NA,4900,Pascal Erlachner,https://fbref.com/en/matches/6cab71c8/Grasshopper-Xamax-February-17-2019-Super-League,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-02-23,Xamax,Basel,0,2,NA,NA,6121,Alessandro Dudic,https://fbref.com/en/matches/68321285/Xamax-Basel-February-23-2019-Super-League,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-02-23,Sion,St. Gallen,2,2,NA,NA,7000,Nikolaj Hänni,https://fbref.com/en/matches/ba764da7/Sion-St-Gallen-February-23-2019-Super-League,0,0,3,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2018-2019
+2019-02-24,Lugano,Young Boys,0,1,NA,NA,4071,Alain Bieri,https://fbref.com/en/matches/e8e8c346/Lugano-Young-Boys-February-24-2019-Super-League,0,0,3,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2018-2019
+2019-02-24,Thun,Grasshopper,1,1,NA,NA,5360,Lionel Tschudi,https://fbref.com/en/matches/0cc9ebf0/Thun-Grasshopper-February-24-2019-Super-League,0,1,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-02-24,Zürich,Luzern,1,1,NA,NA,9174,Stephan Klossner,https://fbref.com/en/matches/5d7ed03a/Zurich-Luzern-February-24-2019-Super-League,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-03-02,Young Boys,Sion,1,0,NA,NA,25365,Nikolaj Hänni,https://fbref.com/en/matches/bbbf738a/Young-Boys-Sion-March-2-2019-Super-League,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-03-02,Grasshopper,Luzern,1,3,NA,NA,3700,Fedayi San,https://fbref.com/en/matches/04eeea6d/Grasshopper-Luzern-March-2-2019-Super-League,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-03-03,Zürich,Lugano,0,1,NA,NA,8434,Sandro Schärer,https://fbref.com/en/matches/161cb64d/Zurich-Lugano-March-3-2019-Super-League,0,0,2,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,2018-2019
+2019-03-03,St. Gallen,Xamax,3,0,NA,NA,11613,Adrien Jaccottet,https://fbref.com/en/matches/ed74dde1/St-Gallen-Xamax-March-3-2019-Super-League,1,1,1,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-03-03,Basel,Thun,3,1,NA,NA,20717,Lukas Fähndrich,https://fbref.com/en/matches/97669071/Basel-Thun-March-3-2019-Super-League,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2019-03-09,Grasshopper,Young Boys,0,1,NA,NA,5300,Alessandro Dudic,https://fbref.com/en/matches/1b4177a9/Grasshopper-Young-Boys-March-9-2019-Super-League,0,0,3,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,2018-2019
+2019-03-09,Xamax,Sion,3,1,NA,NA,4371,Urs Schnyder,https://fbref.com/en/matches/9d415c95/Xamax-Sion-March-9-2019-Super-League,1,1,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-03-10,Luzern,St. Gallen,3,0,NA,NA,8991,Nikolaj Hänni,https://fbref.com/en/matches/f77fc37c/Luzern-St-Gallen-March-10-2019-Super-League,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-03-10,Thun,Zürich,2,2,NA,NA,5116,Alain Bieri,https://fbref.com/en/matches/1b20abfe/Thun-Zurich-March-10-2019-Super-League,0,0,1,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2018-2019
+2019-03-10,Lugano,Basel,1,1,NA,NA,4188,Fedayi San,https://fbref.com/en/matches/a624916f/Lugano-Basel-March-10-2019-Super-League,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-03-16,Sion,Grasshopper,3,0,NA,NA,25,Lionel Tschudi,https://fbref.com/en/matches/49c05894/Sion-Grasshopper-March-16-2019-Super-League,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-03-16,St. Gallen,Lugano,0,2,NA,NA,12644,Lukas Fähndrich,https://fbref.com/en/matches/fcc7b2ba/St-Gallen-Lugano-March-16-2019-Super-League,0,0,4,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2019-03-17,Thun,Luzern,1,1,NA,NA,7274,Pascal Erlachner,https://fbref.com/en/matches/d65eefda/Thun-Luzern-March-17-2019-Super-League,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-03-17,Zürich,Xamax,2,1,NA,NA,8562,Adrien Jaccottet,https://fbref.com/en/matches/cd023ffd/Zurich-Xamax-March-17-2019-Super-League,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2019-03-17,Basel,Young Boys,2,2,NA,NA,28103,Sandro Schärer,https://fbref.com/en/matches/61110bf1/Basel-Young-Boys-March-17-2019-Super-League,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-03-30,Luzern,Basel,0,1,NA,NA,11549,Nikolaj Hänni,https://fbref.com/en/matches/3dcdbc47/Luzern-Basel-March-30-2019-Super-League,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-03-30,Sion,Zürich,1,0,NA,NA,8400,Sandro Schärer,https://fbref.com/en/matches/de81d758/Sion-Zurich-March-30-2019-Super-League,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-03-31,Grasshopper,Lugano,1,1,NA,NA,4700,Stephan Klossner,https://fbref.com/en/matches/d6c27778/Grasshopper-Lugano-March-31-2019-Super-League,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-03-31,Young Boys,St. Gallen,3,2,NA,NA,31120,Lionel Tschudi,https://fbref.com/en/matches/9c68d871/Young-Boys-St-Gallen-March-31-2019-Super-League,1,1,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-03-31,Xamax,Thun,3,2,NA,NA,4769,Pascal Erlachner,https://fbref.com/en/matches/4bb709dd/Xamax-Thun-March-31-2019-Super-League,0,1,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-04-03,Zürich,Basel,0,2,NA,NA,10324,Stephan Klossner,https://fbref.com/en/matches/8b48e688/Zurich-Basel-April-3-2019-Super-League,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-04-03,St. Gallen,Grasshopper,0,0,NA,NA,11683,Alain Bieri,https://fbref.com/en/matches/6f9ede37/St-Gallen-Grasshopper-April-3-2019-Super-League,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2019-04-03,Lugano,Xamax,0,0,NA,NA,3655,Adrien Jaccottet,https://fbref.com/en/matches/5774c152/Lugano-Xamax-April-3-2019-Super-League,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-04-04,Thun,Sion,1,2,NA,NA,4129,Lukas Fähndrich,https://fbref.com/en/matches/3004916b/Thun-Sion-April-4-2019-Super-League,0,0,1,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2018-2019
+2019-04-06,Grasshopper,Zürich,1,1,NA,NA,12700,Pascal Erlachner,https://fbref.com/en/matches/70e37c87/Grasshopper-Zurich-April-6-2019-Super-League,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-04-06,Xamax,St. Gallen,0,1,NA,NA,4005,Amaury Delerue,https://fbref.com/en/matches/f3ece593/Xamax-St-Gallen-April-6-2019-Super-League,0,1,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-04-07,Young Boys,Thun,5,1,NA,NA,27695,Fedayi San,https://fbref.com/en/matches/784167a5/Young-Boys-Thun-April-7-2019-Super-League,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-04-07,Basel,Lugano,1,1,NA,NA,21533,Urs Schnyder,https://fbref.com/en/matches/699fbf04/Basel-Lugano-April-7-2019-Super-League,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-04-07,Sion,Luzern,2,2,NA,NA,9800,Lionel Tschudi,https://fbref.com/en/matches/c980b85c/Sion-Luzern-April-7-2019-Super-League,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-04-10,Luzern,Young Boys,1,3,NA,NA,8793,,https://fbref.com/en/matches/e7fa42b5/Luzern-Young-Boys-April-10-2019-Super-League,1,1,2,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2018-2019
+2019-04-13,Luzern,Xamax,0,1,NA,NA,8080,Nikolaj Hänni,https://fbref.com/en/matches/0455a8af/Luzern-Xamax-April-13-2019-Super-League,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-04-13,Basel,Grasshopper,0,0,NA,NA,22004,Sandro Schärer,https://fbref.com/en/matches/603227dd/Basel-Grasshopper-April-13-2019-Super-League,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-04-14,Zürich,Young Boys,0,1,NA,NA,16372,Lukas Fähndrich,https://fbref.com/en/matches/92fdf3da/Zurich-Young-Boys-April-14-2019-Super-League,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-04-14,Thun,St. Gallen,0,0,NA,NA,5340,Stephan Klossner,https://fbref.com/en/matches/6dfae758/Thun-St-Gallen-April-14-2019-Super-League,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-04-14,Lugano,Sion,1,1,NA,NA,2812,Alessandro Dudic,https://fbref.com/en/matches/bac94c77/Lugano-Sion-April-14-2019-Super-League,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-04-19,Sion,Basel,0,3,NA,NA,12800,Urs Schnyder,https://fbref.com/en/matches/f5cae5d5/Sion-Basel-April-19-2019-Super-League,0,0,4,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2018-2019
+2019-04-19,Lugano,Zürich,3,0,NA,NA,4219,Sandro Schärer,https://fbref.com/en/matches/1095f26b/Lugano-Zurich-April-19-2019-Super-League,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-04-20,Grasshopper,Thun,1,1,NA,NA,4300,Fedayi San,https://fbref.com/en/matches/03c4b5f1/Grasshopper-Thun-April-20-2019-Super-League,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-04-20,St. Gallen,Luzern,1,2,NA,NA,18790,Alessandro Dudic,https://fbref.com/en/matches/f0162e0b/St-Gallen-Luzern-April-20-2019-Super-League,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-04-22,Xamax,Young Boys,1,0,NA,NA,12000,Nikolaj Hänni,https://fbref.com/en/matches/b0e397fc/Xamax-Young-Boys-April-22-2019-Super-League,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-04-27,Luzern,Thun,3,1,NA,NA,8064,Lionel Tschudi,https://fbref.com/en/matches/11d1110d/Luzern-Thun-April-27-2019-Super-League,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-04-27,Xamax,Grasshopper,1,1,NA,NA,7137,Adrien Jaccottet,https://fbref.com/en/matches/110d0fe2/Xamax-Grasshopper-April-27-2019-Super-League,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-04-28,St. Gallen,Basel,0,3,NA,NA,13755,Pascal Erlachner,https://fbref.com/en/matches/64b9385a/St-Gallen-Basel-April-28-2019-Super-League,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2019-04-28,Zürich,Sion,1,0,NA,NA,8904,Fedayi San,https://fbref.com/en/matches/2f179953/Zurich-Sion-April-28-2019-Super-League,0,0,2,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2018-2019
+2019-04-28,Young Boys,Lugano,2,2,NA,NA,27053,Alain Bieri,https://fbref.com/en/matches/8931c25e/Young-Boys-Lugano-April-28-2019-Super-League,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-05-04,Basel,Zürich,3,0,NA,NA,23099,Lionel Tschudi,https://fbref.com/en/matches/12ea148e/Basel-Zurich-May-4-2019-Super-League,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-05-04,Grasshopper,St. Gallen,0,1,NA,NA,5400,Alain Bieri,https://fbref.com/en/matches/2bea6db8/Grasshopper-St-Gallen-May-4-2019-Super-League,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2019-05-05,Thun,Xamax,0,2,NA,NA,5244,Urs Schnyder,https://fbref.com/en/matches/cf13b8b2/Thun-Xamax-May-5-2019-Super-League,0,0,2,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-05-05,Sion,Young Boys,0,4,NA,NA,10800,Adrien Jaccottet,https://fbref.com/en/matches/bd7ef81d/Sion-Young-Boys-May-5-2019-Super-League,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-05-05,Lugano,Luzern,1,0,NA,NA,4150,Fedayi San,https://fbref.com/en/matches/10af6ad8/Lugano-Luzern-May-5-2019-Super-League,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-05-11,Xamax,Zürich,1,2,NA,NA,8744,Sandro Schärer,https://fbref.com/en/matches/6794b02d/Xamax-Zurich-May-11-2019-Super-League,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-05-11,Thun,Lugano,1,0,NA,NA,4567,Lukas Fähndrich,https://fbref.com/en/matches/fc38b008/Thun-Lugano-May-11-2019-Super-League,1,1,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-05-12,St. Gallen,Sion,2,1,NA,NA,13178,Stephan Klossner,https://fbref.com/en/matches/6f675cf1/St-Gallen-Sion-May-12-2019-Super-League,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-05-12,Young Boys,Basel,3,1,NA,NA,31120,Urs Schnyder,https://fbref.com/en/matches/ee813d5e/Young-Boys-Basel-May-12-2019-Super-League,0,0,3,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2018-2019
+2019-05-12,Luzern,Grasshopper,4,0,NA,NA,10469,Alessandro Dudic,https://fbref.com/en/matches/8e8e3055/Luzern-Grasshopper-May-12-2019-Super-League,0,1,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2018-2019
+2019-05-15,Sion,Xamax,1,0,NA,NA,10000,Nikolaj Hänni,https://fbref.com/en/matches/030d5c43/Sion-Xamax-May-15-2019-Super-League,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-05-15,Zürich,Thun,3,0,NA,NA,8727,Pascal Erlachner,https://fbref.com/en/matches/16814441/Zurich-Thun-May-15-2019-Super-League,1,1,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-05-15,Basel,Luzern,3,2,NA,NA,20631,Lukas Fähndrich,https://fbref.com/en/matches/a0583e56/Basel-Luzern-May-15-2019-Super-League,1,1,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-05-16,Lugano,St. Gallen,1,0,NA,NA,5109,Alain Bieri,https://fbref.com/en/matches/0e0bdb5c/Lugano-St-Gallen-May-16-2019-Super-League,0,0,5,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-05-16,Young Boys,Grasshopper,6,1,NA,NA,22330,Lionel Tschudi,https://fbref.com/en/matches/7825da82/Young-Boys-Grasshopper-May-16-2019-Super-League,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-05-22,St. Gallen,Young Boys,4,1,NA,NA,13957,Lukas Fähndrich,https://fbref.com/en/matches/0ad742ed/St-Gallen-Young-Boys-May-22-2019-Super-League,1,2,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2019-05-22,Thun,Basel,1,2,NA,NA,5151,Stephan Klossner,https://fbref.com/en/matches/c679c93f/Thun-Basel-May-22-2019-Super-League,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-05-22,Luzern,Zürich,3,0,NA,NA,9616,Lionel Tschudi,https://fbref.com/en/matches/2f0ae2b4/Luzern-Zurich-May-22-2019-Super-League,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-05-22,Grasshopper,Sion,0,3,NA,NA,0,Alessandro Dudic,https://fbref.com/en/matches/2185dd36/Grasshopper-Sion-May-22-2019-Super-League,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-05-22,Xamax,Lugano,1,1,NA,NA,6882,Pascal Erlachner,https://fbref.com/en/matches/e7ec2a01/Xamax-Lugano-May-22-2019-Super-League,0,1,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-05-25,Lugano,Grasshopper,3,3,NA,NA,4819,Stephan Klossner,https://fbref.com/en/matches/97eb4e67/Lugano-Grasshopper-May-25-2019-Super-League,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2018-2019
+2019-05-25,Sion,Thun,0,1,NA,NA,8500,Adrien Jaccottet,https://fbref.com/en/matches/98820a9f/Sion-Thun-May-25-2019-Super-League,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-05-25,Young Boys,Luzern,4,0,NA,NA,31120,Alain Bieri,https://fbref.com/en/matches/5832e2a0/Young-Boys-Luzern-May-25-2019-Super-League,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-05-25,Basel,Xamax,4,1,NA,NA,21275,Urs Schnyder,https://fbref.com/en/matches/781ec9a1/Basel-Xamax-May-25-2019-Super-League,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2019-05-25,Zürich,St. Gallen,1,1,NA,NA,12013,Fedayi San,https://fbref.com/en/matches/64944d31/Zurich-St-Gallen-May-25-2019-Super-League,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
 2019-05-30,Xamax,Aarau,0,4,NA,NA,0,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
 2019-06-02,Aarau,Xamax,0,4,NA,NA,0,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
-2019-03-16,Sion,Grasshopper,3,0,NA,NA,0,Lionel Tschudi,https://fbref.com/en/matches/49c05894/Sion-Grasshopper-March-16-2019-Super-League,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-16,Sion,Grasshopper,3,0,NA,NA,0,Lionel Tschudi,https://fbref.com/en/matches/49c05894/Sion-Grasshopper-March-16-2019-Super-League,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019

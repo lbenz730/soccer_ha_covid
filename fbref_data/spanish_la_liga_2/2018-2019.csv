@@ -1,472 +1,472 @@
 date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_report_url,home_pk_goals,home_pk_attempts,home_yellow_cards,home_red_cards,home_shots,home_shots_on_target,home_tackles,home_interceptions,home_fouls_committed,away_pk_goals,away_pk_attempts,away_yellow_cards,away_red_cards,away_shots,away_shots_on_target,away_tackles,away_interceptions,away_fouls_committed,season
-2018-08-17,Cádiz,Almería,1,0,NA,NA,13582,Daniel Trujillo,https://fbref.com/en/matches/75f4720e/Cadiz-Almeria-August-17-2018-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-17,Albacete,La Coruña,1,1,NA,NA,5934,Valentín Pizarro,https://fbref.com/en/matches/c5bace8b/Albacete-Deportivo-La-Coruna-August-17-2018-Segunda-Division,1,1,2,0,NA,NA,NA,NA,NA,0,0,5,1,NA,NA,NA,NA,NA,2018-2019
-2018-08-18,Elche,Granada,0,0,NA,NA,11025,Santiago Varón,https://fbref.com/en/matches/86c39257/Elche-Granada-August-18-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-18,Lugo,Málaga,1,2,NA,NA,3290,Víctor Areces,https://fbref.com/en/matches/b5165819/Lugo-Malaga-August-18-2018-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-18,Alcorcón,Sporting Gijón,1,1,NA,NA,2483,Jorge Figueroa,https://fbref.com/en/matches/37a5a6b9/Alcorcon-Sporting-Gijon-August-18-2018-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-18,Córdoba,Numancia,3,3,NA,NA,11685,Isidro Díaz de Mera,https://fbref.com/en/matches/bd448a27/Cordoba-Numancia-August-18-2018-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-19,Oviedo,Extremadura,1,1,NA,NA,13315,Javier Villanueva,https://fbref.com/en/matches/8b642605/Oviedo-Extremadura-August-19-2018-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-19,Mallorca,Osasuna,1,0,NA,NA,9450,Dámaso Arcediano,https://fbref.com/en/matches/f8e7764b/Mallorca-Osasuna-August-19-2018-Segunda-Division,1,1,5,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-19,Zaragoza,Majadahonda,2,1,NA,NA,18433,César Soto,https://fbref.com/en/matches/f4499373/Zaragoza-Majadahonda-August-19-2018-Segunda-Division,1,1,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-19,Las Palmas,Reus,2,0,NA,NA,12408,Luis Milla,https://fbref.com/en/matches/9f14f027/Las-Palmas-Reus-August-19-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-20,Gimnàstic,Tenerife,1,1,NA,NA,5483,Saúl Ais,https://fbref.com/en/matches/b91d474b/Gimnastic-Tenerife-August-20-2018-Segunda-Division,0,0,5,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-24,Málaga,Alcorcón,1,0,NA,NA,18626,Juan Pulido,https://fbref.com/en/matches/ac1057c8/Malaga-Alcorcon-August-24-2018-Segunda-Division,0,0,1,1,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
-2018-08-24,Extremadura,La Coruña,0,1,NA,NA,10827,Oliver De La Fuente,https://fbref.com/en/matches/4fa52d39/Extremadura-Deportivo-La-Coruna-August-24-2018-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-25,Numancia,Cádiz,1,1,NA,NA,3251,Iñaki Bikandi,https://fbref.com/en/matches/02b5eb8c/Numancia-Cadiz-August-25-2018-Segunda-Division,1,1,4,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
-2018-08-25,Reus,Zaragoza,0,0,NA,NA,6397,José López,https://fbref.com/en/matches/82fbd1b8/Reus-Zaragoza-August-25-2018-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-25,Las Palmas,Albacete,1,1,NA,NA,12457,Rubén Ávalos,https://fbref.com/en/matches/c1d3dcc0/Las-Palmas-Albacete-August-25-2018-Segunda-Division,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-25,Córdoba,Oviedo,2,4,NA,NA,12754,Gorka Sagues,https://fbref.com/en/matches/873b5e7d/Cordoba-Oviedo-August-25-2018-Segunda-Division,0,1,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-26,Sporting Gijón,Gimnàstic,2,0,NA,NA,21586,David Pérez,https://fbref.com/en/matches/2a8c25c6/Sporting-Gijon-Gimnastic-August-26-2018-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-26,Osasuna,Elche,1,1,NA,NA,14064,Daniel Ocón,https://fbref.com/en/matches/7b7edca7/Osasuna-Elche-August-26-2018-Segunda-Division,0,0,2,1,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-26,Granada,Lugo,1,1,NA,NA,8307,Aitor Gorostegui,https://fbref.com/en/matches/47e9709d/Granada-Lugo-August-26-2018-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-26,Almería,Tenerife,1,1,NA,NA,6737,Isidro Díaz de Mera,https://fbref.com/en/matches/af98f18b/Almeria-Tenerife-August-26-2018-Segunda-Division,0,0,4,1,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-27,Majadahonda,Mallorca,0,1,NA,NA,3424,Abraham Domínguez,https://fbref.com/en/matches/a6eb8c00/Majadahonda-Mallorca-August-27-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-08-31,Alcorcón,Mallorca,1,0,NA,NA,2428,Víctor Areces,https://fbref.com/en/matches/d4577479/Alcorcon-Mallorca-August-31-2018-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-01,Lugo,Numancia,3,2,NA,NA,2682,Luis Milla,https://fbref.com/en/matches/b23f2612/Lugo-Numancia-September-1-2018-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-01,Zaragoza,Las Palmas,1,1,NA,NA,22292,Aitor Gorostegui,https://fbref.com/en/matches/d0b68d44/Zaragoza-Las-Palmas-September-1-2018-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-01,Elche,Reus,0,2,NA,NA,10657,Javier Villanueva,https://fbref.com/en/matches/8e5c973c/Elche-Reus-September-1-2018-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-01,Cádiz,Oviedo,1,1,NA,NA,13888,Dámaso Arcediano,https://fbref.com/en/matches/2a8a75ae/Cadiz-Oviedo-September-1-2018-Segunda-Division,1,1,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-01,Tenerife,La Coruña,2,2,NA,NA,12139,Jorge Figueroa,https://fbref.com/en/matches/3a889fbd/Tenerife-Deportivo-La-Coruna-September-1-2018-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,1,1,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-02,Gimnàstic,Majadahonda,0,1,NA,NA,4854,Santiago Varón,https://fbref.com/en/matches/f128c619/Gimnastic-Majadahonda-September-2-2018-Segunda-Division,0,0,4,1,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-02,Sporting Gijón,Extremadura,2,0,NA,NA,20652,César Soto,https://fbref.com/en/matches/80a6be03/Sporting-Gijon-Extremadura-September-2-2018-Segunda-Division,1,1,0,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
-2018-09-02,Albacete,Córdoba,3,0,NA,NA,7735,Álvaro Moreno,https://fbref.com/en/matches/d21352bc/Albacete-Cordoba-September-2-2018-Segunda-Division,2,2,5,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-02,Granada,Osasuna,2,0,NA,NA,8713,Daniel Trujillo,https://fbref.com/en/matches/648a56e1/Granada-Osasuna-September-2-2018-Segunda-Division,1,1,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-03,Almería,Málaga,0,1,NA,NA,8955,Valentín Pizarro,https://fbref.com/en/matches/33c43e84/Almeria-Malaga-September-3-2018-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-07,Las Palmas,Gimnàstic,4,0,NA,NA,12119,Abraham Domínguez,https://fbref.com/en/matches/665ca318/Las-Palmas-Gimnastic-September-7-2018-Segunda-Division,0,0,5,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
-2018-09-07,Mallorca,Cádiz,1,0,NA,NA,8907,Isidro Díaz de Mera,https://fbref.com/en/matches/cdaaed6f/Mallorca-Cadiz-September-7-2018-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-08,Osasuna,Almería,3,1,NA,NA,12765,David Pérez,https://fbref.com/en/matches/8172f2bf/Osasuna-Almeria-September-8-2018-Segunda-Division,1,1,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-08,Oviedo,Zaragoza,0,4,NA,NA,13770,Daniel Ocón,https://fbref.com/en/matches/6c905174/Oviedo-Zaragoza-September-8-2018-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-08,Málaga,Tenerife,1,0,NA,NA,15408,Iñaki Bikandi,https://fbref.com/en/matches/0996a89f/Malaga-Tenerife-September-8-2018-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-09,Reus,Albacete,1,2,NA,NA,2230,Saúl Ais,https://fbref.com/en/matches/72c66e2e/Reus-Albacete-September-9-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-09,Numancia,Elche,1,0,NA,NA,2855,Álvaro Moreno,https://fbref.com/en/matches/d230973f/Numancia-Elche-September-9-2018-Segunda-Division,1,1,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-09,Extremadura,Granada,1,3,NA,NA,9343,José López,https://fbref.com/en/matches/9a2e8027/Extremadura-Granada-September-9-2018-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-09,Córdoba,Alcorcón,0,0,NA,NA,12312,Oliver De La Fuente,https://fbref.com/en/matches/f81b7391/Cordoba-Alcorcon-September-9-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-09,La Coruña,Sporting Gijón,1,0,NA,NA,15908,Gorka Sagues,https://fbref.com/en/matches/09edfb5a/Deportivo-La-Coruna-Sporting-Gijon-September-9-2018-Segunda-Division,0,1,2,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2018-2019
-2018-09-10,Majadahonda,Lugo,1,0,NA,NA,3370,Juan Pulido,https://fbref.com/en/matches/6de2c62c/Majadahonda-Lugo-September-10-2018-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-15,Gimnàstic,Osasuna,1,0,NA,NA,4576,Javier Villanueva,https://fbref.com/en/matches/a03f01d6/Gimnastic-Osasuna-September-15-2018-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-15,Tenerife,Reus,0,1,NA,NA,9532,Dámaso Arcediano,https://fbref.com/en/matches/f5dddee0/Tenerife-Reus-September-15-2018-Segunda-Division,0,0,0,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-15,Málaga,Córdoba,3,0,NA,NA,19047,Santiago Varón,https://fbref.com/en/matches/c2e0618b/Malaga-Cordoba-September-15-2018-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-15,Alcorcón,La Coruña,1,0,NA,NA,3233,Aitor Gorostegui,https://fbref.com/en/matches/e0ddf96e/Alcorcon-Deportivo-La-Coruna-September-15-2018-Segunda-Division,0,0,6,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2018-2019
-2018-09-16,Elche,Mallorca,1,1,NA,NA,10817,Luis Milla,https://fbref.com/en/matches/90f44010/Elche-Mallorca-September-16-2018-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2018-2019
-2018-09-16,Lugo,Oviedo,0,2,NA,NA,4508,Valentín Pizarro,https://fbref.com/en/matches/771e8ad0/Lugo-Oviedo-September-16-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-16,Extremadura,Las Palmas,1,2,NA,NA,9710,Jorge Figueroa,https://fbref.com/en/matches/6bccacf7/Extremadura-Las-Palmas-September-16-2018-Segunda-Division,0,1,6,0,NA,NA,NA,NA,NA,1,1,4,1,NA,NA,NA,NA,NA,2018-2019
-2018-09-16,Almería,Zaragoza,2,1,NA,NA,7251,Víctor Areces,https://fbref.com/en/matches/376c9108/Almeria-Zaragoza-September-16-2018-Segunda-Division,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-16,Granada,Majadahonda,3,0,NA,NA,9077,Rubén Ávalos,https://fbref.com/en/matches/2b30c45e/Granada-Majadahonda-September-16-2018-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-16,Sporting Gijón,Numancia,1,1,NA,NA,19240,Daniel Trujillo,https://fbref.com/en/matches/9d23a98c/Sporting-Gijon-Numancia-September-16-2018-Segunda-Division,0,0,7,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2018-2019
-2018-09-17,Albacete,Cádiz,1,1,NA,NA,6770,César Soto,https://fbref.com/en/matches/8b83e4df/Albacete-Cadiz-September-17-2018-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-22,Osasuna,Sporting Gijón,1,0,NA,NA,13354,Isidro Díaz de Mera,https://fbref.com/en/matches/3cafe77a/Osasuna-Sporting-Gijon-September-22-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-22,Zaragoza,Lugo,0,2,NA,NA,23111,Saúl Ais,https://fbref.com/en/matches/e3fa8227/Zaragoza-Lugo-September-22-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-22,Majadahonda,Extremadura,1,4,NA,NA,5352,Iñaki Bikandi,https://fbref.com/en/matches/6bf6e98e/Majadahonda-Extremadura-September-22-2018-Segunda-Division,1,1,2,1,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-22,Córdoba,Tenerife,1,1,NA,NA,11085,David Pérez,https://fbref.com/en/matches/faee015d/Cordoba-Tenerife-September-22-2018-Segunda-Division,0,1,6,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
-2018-09-23,Mallorca,Albacete,1,3,NA,NA,7682,Gorka Sagues,https://fbref.com/en/matches/a8c0be41/Mallorca-Albacete-September-23-2018-Segunda-Division,0,0,2,1,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-23,Oviedo,Elche,1,1,NA,NA,14008,Abraham Domínguez,https://fbref.com/en/matches/712c1457/Oviedo-Elche-September-23-2018-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-23,Las Palmas,Málaga,1,0,NA,NA,21350,Daniel Ocón,https://fbref.com/en/matches/7bf346ab/Las-Palmas-Malaga-September-23-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-23,Reus,Gimnàstic,1,1,NA,NA,4195,Oliver De La Fuente,https://fbref.com/en/matches/ffe6c2d4/Reus-Gimnastic-September-23-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-23,Numancia,Almería,0,2,NA,NA,3159,César Soto,https://fbref.com/en/matches/e9535152/Numancia-Almeria-September-23-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-23,Cádiz,Alcorcón,0,2,NA,NA,13207,José López,https://fbref.com/en/matches/2d49577f/Cadiz-Alcorcon-September-23-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,6,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-24,La Coruña,Granada,2,1,NA,NA,13716,Álvaro Moreno,https://fbref.com/en/matches/e47b95d8/Deportivo-La-Coruna-Granada-September-24-2018-Segunda-Division,1,1,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-28,Albacete,Zaragoza,2,2,NA,NA,8246,Daniel Trujillo,https://fbref.com/en/matches/928da759/Albacete-Zaragoza-September-28-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-29,Lugo,Mallorca,1,1,NA,NA,3100,Rubén Ávalos,https://fbref.com/en/matches/bd88084a/Lugo-Mallorca-September-29-2018-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-29,Sporting Gijón,Las Palmas,1,0,NA,NA,20576,Dámaso Arcediano,https://fbref.com/en/matches/8e88bef2/Sporting-Gijon-Las-Palmas-September-29-2018-Segunda-Division,0,1,1,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-29,Granada,Córdoba,4,2,NA,NA,9931,Valentín Pizarro,https://fbref.com/en/matches/9e75e958/Granada-Cordoba-September-29-2018-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,1,1,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-29,Tenerife,Cádiz,1,0,NA,NA,10013,Aitor Gorostegui,https://fbref.com/en/matches/228cf9ad/Tenerife-Cadiz-September-29-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-30,Alcorcón,Oviedo,2,0,NA,NA,3393,Luis Milla,https://fbref.com/en/matches/b6faac4f/Alcorcon-Oviedo-September-30-2018-Segunda-Division,0,0,3,1,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-30,Málaga,Majadahonda,1,0,NA,NA,18365,Javier Villanueva,https://fbref.com/en/matches/f3fe89ac/Malaga-Majadahonda-September-30-2018-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-30,Almería,Reus,2,0,NA,NA,7543,Juan Pulido,https://fbref.com/en/matches/beb4cfea/Almeria-Reus-September-30-2018-Segunda-Division,1,1,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-30,Osasuna,Numancia,0,0,NA,NA,14392,Jorge Figueroa,https://fbref.com/en/matches/17e0f083/Osasuna-Numancia-September-30-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,1,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-09-30,Extremadura,Elche,2,2,NA,NA,9723,Santiago Varón,https://fbref.com/en/matches/77b4ea07/Extremadura-Elche-September-30-2018-Segunda-Division,2,2,2,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
-2018-09-30,Gimnàstic,La Coruña,1,3,NA,NA,5790,Víctor Areces,https://fbref.com/en/matches/c3eb9a5d/Gimnastic-Deportivo-La-Coruna-September-30-2018-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-06,Mallorca,Tenerife,4,1,NA,NA,7404,Daniel Ocón,https://fbref.com/en/matches/2ab2cc4b/Mallorca-Tenerife-October-6-2018-Segunda-Division,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-06,Numancia,Extremadura,1,0,NA,NA,3053,Abraham Domínguez,https://fbref.com/en/matches/a54d97c2/Numancia-Extremadura-October-6-2018-Segunda-Division,0,1,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-06,Córdoba,Almería,1,0,NA,NA,11284,Álvaro Moreno,https://fbref.com/en/matches/7c8a2e91/Cordoba-Almeria-October-6-2018-Segunda-Division,0,0,7,1,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
-2018-10-06,Las Palmas,Alcorcón,0,0,NA,NA,13718,Iñaki Bikandi,https://fbref.com/en/matches/6a8ec4fe/Las-Palmas-Alcorcon-October-6-2018-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-07,Reus,Granada,1,2,NA,NA,2475,David Pérez,https://fbref.com/en/matches/2d02ab97/Reus-Granada-October-7-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-07,Oviedo,Albacete,1,0,NA,NA,12728,Oliver De La Fuente,https://fbref.com/en/matches/947a9c61/Oviedo-Albacete-October-7-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-07,La Coruña,Málaga,1,1,NA,NA,18296,Isidro Díaz de Mera,https://fbref.com/en/matches/6c404c8c/Deportivo-La-Coruna-Malaga-October-7-2018-Segunda-Division,0,0,1,1,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-07,Elche,Lugo,2,1,NA,NA,10679,César Soto,https://fbref.com/en/matches/96cf3473/Elche-Lugo-October-7-2018-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-07,Cádiz,Gimnàstic,1,1,NA,NA,12450,Saúl Ais,https://fbref.com/en/matches/118a557f/Cadiz-Gimnastic-October-7-2018-Segunda-Division,1,1,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-08,Majadahonda,Sporting Gijón,2,1,NA,NA,4508,José López,https://fbref.com/en/matches/70a41793/Majadahonda-Sporting-Gijon-October-8-2018-Segunda-Division,0,0,7,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-08,Zaragoza,Osasuna,1,1,NA,NA,23850,Gorka Sagues,https://fbref.com/en/matches/0969e6ce/Zaragoza-Osasuna-October-8-2018-Segunda-Division,0,0,5,0,NA,NA,NA,NA,NA,0,1,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-12,Málaga,Albacete,2,1,NA,NA,18709,Aitor Gorostegui,https://fbref.com/en/matches/40049b00/Malaga-Albacete-October-12-2018-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,1,1,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-12,Extremadura,Cádiz,2,1,NA,NA,11023,Rubén Ávalos,https://fbref.com/en/matches/1d48813f/Extremadura-Cadiz-October-12-2018-Segunda-Division,0,0,7,0,NA,NA,NA,NA,NA,0,0,7,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-12,La Coruña,Elche,4,0,NA,NA,17092,Valentín Pizarro,https://fbref.com/en/matches/f43249ff/Deportivo-La-Coruna-Elche-October-12-2018-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-13,Osasuna,Córdoba,3,1,NA,NA,12996,Víctor Areces,https://fbref.com/en/matches/c61eaab4/Osasuna-Cordoba-October-13-2018-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-13,Sporting Gijón,Reus,1,1,NA,NA,19026,Santiago Varón,https://fbref.com/en/matches/0c041d10/Sporting-Gijon-Reus-October-13-2018-Segunda-Division,1,2,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-13,Numancia,Zaragoza,1,0,NA,NA,4953,Dámaso Arcediano,https://fbref.com/en/matches/853667ff/Numancia-Zaragoza-October-13-2018-Segunda-Division,1,1,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-13,Almería,Las Palmas,3,0,NA,NA,7339,Javier Villanueva,https://fbref.com/en/matches/0bff39e4/Almeria-Las-Palmas-October-13-2018-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-14,Tenerife,Lugo,0,0,NA,NA,10044,Luis Milla,https://fbref.com/en/matches/5d43602d/Tenerife-Lugo-October-14-2018-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-14,Majadahonda,Oviedo,1,0,NA,NA,7217,Jorge Figueroa,https://fbref.com/en/matches/c89b73e9/Majadahonda-Oviedo-October-14-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-14,Granada,Mallorca,1,0,NA,NA,9454,Juan Pulido,https://fbref.com/en/matches/1154e71b/Granada-Mallorca-October-14-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-15,Gimnàstic,Alcorcón,1,3,NA,NA,3505,Daniel Trujillo,https://fbref.com/en/matches/1a589b32/Gimnastic-Alcorcon-October-15-2018-Segunda-Division,0,0,4,1,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-19,Elche,Málaga,2,0,NA,NA,9565,Juan Pulido,https://fbref.com/en/matches/a36455c1/Elche-Malaga-October-19-2018-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-20,Oviedo,Osasuna,2,1,NA,NA,12325,Iñaki Bikandi,https://fbref.com/en/matches/cc2b932e/Oviedo-Osasuna-October-20-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
-2018-10-20,Las Palmas,Numancia,3,0,NA,NA,13413,Gorka Sagues,https://fbref.com/en/matches/5f1c95bf/Las-Palmas-Numancia-October-20-2018-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2018-2019
-2018-10-20,Alcorcón,Granada,1,0,NA,NA,3020,Isidro Díaz de Mera,https://fbref.com/en/matches/8aa4cdef/Alcorcon-Granada-October-20-2018-Segunda-Division,1,1,2,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2018-2019
-2018-10-20,Córdoba,La Coruña,1,1,NA,NA,10604,Saúl Ais,https://fbref.com/en/matches/cf160b75/Cordoba-Deportivo-La-Coruna-October-20-2018-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,2,NA,NA,NA,NA,NA,2018-2019
-2018-10-21,Mallorca,Extremadura,1,1,NA,NA,8100,Álvaro Moreno,https://fbref.com/en/matches/feecc9f4/Mallorca-Extremadura-October-21-2018-Segunda-Division,0,0,4,1,NA,NA,NA,NA,NA,1,1,6,1,NA,NA,NA,NA,NA,2018-2019
-2018-10-21,Lugo,Gimnàstic,1,0,NA,NA,3161,José López,https://fbref.com/en/matches/4404bd43/Lugo-Gimnastic-October-21-2018-Segunda-Division,0,0,6,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-21,Reus,Majadahonda,2,1,NA,NA,2345,Abraham Domínguez,https://fbref.com/en/matches/9b8be385/Reus-Majadahonda-October-21-2018-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-21,Albacete,Almería,1,1,NA,NA,8075,Daniel Ocón,https://fbref.com/en/matches/c8c536a9/Albacete-Almeria-October-21-2018-Segunda-Division,0,0,2,1,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-21,Zaragoza,Tenerife,1,1,NA,NA,21887,Oliver De La Fuente,https://fbref.com/en/matches/61af5f49/Zaragoza-Tenerife-October-21-2018-Segunda-Division,1,1,3,0,NA,NA,NA,NA,NA,0,0,6,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-21,Cádiz,Sporting Gijón,0,0,NA,NA,11703,César Soto,https://fbref.com/en/matches/6f556b81/Cadiz-Sporting-Gijon-October-21-2018-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-26,Sporting Gijón,Córdoba,0,0,NA,NA,16282,Javier Villanueva,https://fbref.com/en/matches/4ab0279a/Sporting-Gijon-Cordoba-October-26-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-27,La Coruña,Reus,2,0,NA,NA,15482,Daniel Trujillo,https://fbref.com/en/matches/92b1edc2/Deportivo-La-Coruna-Reus-October-27-2018-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-27,Mallorca,Las Palmas,2,2,NA,NA,5835,David Pérez,https://fbref.com/en/matches/2a0819b9/Mallorca-Las-Palmas-October-27-2018-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-27,Granada,Almería,1,0,NA,NA,10228,Dámaso Arcediano,https://fbref.com/en/matches/612d8c7b/Granada-Almeria-October-27-2018-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-27,Tenerife,Alcorcón,3,2,NA,NA,8964,Rubén Ávalos,https://fbref.com/en/matches/c39e648f/Tenerife-Alcorcon-October-27-2018-Segunda-Division,0,0,6,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-27,Lugo,Cádiz,1,2,NA,NA,3774,Daniel Ocón,https://fbref.com/en/matches/dd5388c4/Lugo-Cadiz-October-27-2018-Segunda-Division,1,1,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-28,Gimnàstic,Oviedo,2,1,NA,NA,4631,Aitor Gorostegui,https://fbref.com/en/matches/074d0da8/Gimnastic-Oviedo-October-28-2018-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2018-2019
-2018-10-28,Extremadura,Albacete,1,2,NA,NA,8673,Víctor Areces,https://fbref.com/en/matches/296b79b5/Extremadura-Albacete-October-28-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-28,Majadahonda,Osasuna,1,1,NA,NA,2482,Luis Milla,https://fbref.com/en/matches/1ef806fb/Majadahonda-Osasuna-October-28-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-28,Elche,Zaragoza,2,0,NA,NA,9342,Jorge Figueroa,https://fbref.com/en/matches/abb314ca/Elche-Zaragoza-October-28-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-10-29,Málaga,Numancia,2,0,NA,NA,14554,Valentín Pizarro,https://fbref.com/en/matches/17fb92c1/Malaga-Numancia-October-29-2018-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-02,Albacete,Gimnàstic,2,0,NA,NA,7099,Santiago Varón,https://fbref.com/en/matches/56a3c628/Albacete-Gimnastic-November-2-2018-Segunda-Division,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-03,Reus,Lugo,0,0,NA,NA,2420,Álvaro Moreno,https://fbref.com/en/matches/e5c36aeb/Reus-Lugo-November-3-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-03,Osasuna,Málaga,2,1,NA,NA,14052,Oliver De La Fuente,https://fbref.com/en/matches/083b505b/Osasuna-Malaga-November-3-2018-Segunda-Division,0,0,1,1,NA,NA,NA,NA,NA,0,0,7,2,NA,NA,NA,NA,NA,2018-2019
-2018-11-03,Numancia,Tenerife,2,0,NA,NA,3191,Víctor Areces,https://fbref.com/en/matches/d6c1703a/Numancia-Tenerife-November-3-2018-Segunda-Division,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-03,Córdoba,Extremadura,4,2,NA,NA,12079,Juan Pulido,https://fbref.com/en/matches/e7ceeacd/Cordoba-Extremadura-November-3-2018-Segunda-Division,0,0,1,1,NA,NA,NA,NA,NA,0,0,7,1,NA,NA,NA,NA,NA,2018-2019
-2018-11-03,Las Palmas,La Coruña,1,1,NA,NA,15499,César Soto,https://fbref.com/en/matches/b2d0914f/Las-Palmas-Deportivo-La-Coruna-November-3-2018-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-04,Cádiz,Elche,5,1,NA,NA,12714,Gorka Sagues,https://fbref.com/en/matches/8bdcd370/Cadiz-Elche-November-4-2018-Segunda-Division,1,1,2,0,NA,NA,NA,NA,NA,0,0,6,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-04,Oviedo,Mallorca,1,1,NA,NA,13038,José López,https://fbref.com/en/matches/e69f6a46/Oviedo-Mallorca-November-4-2018-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-04,Alcorcón,Majadahonda,2,0,NA,NA,3148,David Pérez,https://fbref.com/en/matches/e05e0c0d/Alcorcon-Majadahonda-November-4-2018-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-04,Almería,Sporting Gijón,2,1,NA,NA,7424,Saúl Ais,https://fbref.com/en/matches/ab2dd718/Almeria-Sporting-Gijon-November-4-2018-Segunda-Division,1,1,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-04,Zaragoza,Granada,0,2,NA,NA,19326,Iñaki Bikandi,https://fbref.com/en/matches/1e0cfc65/Zaragoza-Granada-November-4-2018-Segunda-Division,0,0,2,1,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-10,Cádiz,Reus,2,0,NA,NA,13229,Valentín Pizarro,https://fbref.com/en/matches/8cc10c38/Cadiz-Reus-November-10-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-10,Lugo,Alcorcón,0,1,NA,NA,2920,Jorge Figueroa,https://fbref.com/en/matches/8408ba29/Lugo-Alcorcon-November-10-2018-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-10,Extremadura,Osasuna,2,3,NA,NA,8237,Dámaso Arcediano,https://fbref.com/en/matches/97639371/Extremadura-Osasuna-November-10-2018-Segunda-Division,1,1,5,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
-2018-11-10,Elche,Las Palmas,0,0,NA,NA,9740,Isidro Díaz de Mera,https://fbref.com/en/matches/1caa8bec/Elche-Las-Palmas-November-10-2018-Segunda-Division,0,0,5,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-10,La Coruña,Oviedo,4,0,NA,NA,18739,Daniel Ocón,https://fbref.com/en/matches/72326b32/Deportivo-La-Coruna-Oviedo-November-10-2018-Segunda-Division,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-11,Granada,Numancia,0,0,NA,NA,13227,Javier Villanueva,https://fbref.com/en/matches/0d686d6a/Granada-Numancia-November-11-2018-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,5,1,NA,NA,NA,NA,NA,2018-2019
-2018-11-11,Majadahonda,Almería,2,0,NA,NA,2216,Aitor Gorostegui,https://fbref.com/en/matches/c0b23cb6/Majadahonda-Almeria-November-11-2018-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-11,Mallorca,Córdoba,3,0,NA,NA,7989,Daniel Trujillo,https://fbref.com/en/matches/7cddd449/Mallorca-Cordoba-November-11-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-11,Sporting Gijón,Málaga,2,2,NA,NA,18720,Gorka Sagues,https://fbref.com/en/matches/ba7ef3c7/Sporting-Gijon-Malaga-November-11-2018-Segunda-Division,1,1,4,0,NA,NA,NA,NA,NA,0,1,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-11,Tenerife,Albacete,0,0,NA,NA,10528,Abraham Domínguez,https://fbref.com/en/matches/a4d2747f/Tenerife-Albacete-November-11-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-12,Gimnàstic,Zaragoza,1,3,NA,NA,4348,Luis Milla,https://fbref.com/en/matches/837d88b5/Gimnastic-Zaragoza-November-12-2018-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-16,Las Palmas,Granada,2,2,NA,NA,12056,Víctor Areces,https://fbref.com/en/matches/063ac974/Las-Palmas-Granada-November-16-2018-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,1,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-17,Málaga,Gimnàstic,2,0,NA,NA,17256,Álvaro Moreno,https://fbref.com/en/matches/b0dcd431/Malaga-Gimnastic-November-17-2018-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
-2018-11-17,Osasuna,Tenerife,2,0,NA,NA,14182,José López,https://fbref.com/en/matches/c9f58550/Osasuna-Tenerife-November-17-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-17,Reus,Extremadura,1,4,NA,NA,2932,Santiago Varón,https://fbref.com/en/matches/cc5cba28/Reus-Extremadura-November-17-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-17,Zaragoza,Mallorca,2,2,NA,NA,21461,Saúl Ais,https://fbref.com/en/matches/cd4ffd71/Zaragoza-Mallorca-November-17-2018-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-17,Oviedo,Sporting Gijón,2,1,NA,NA,23175,Daniel Trujillo,https://fbref.com/en/matches/007f00a1/Oviedo-Sporting-Gijon-November-17-2018-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,1,1,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-18,Numancia,Majadahonda,1,2,NA,NA,2953,Juan Pulido,https://fbref.com/en/matches/e54f0656/Numancia-Majadahonda-November-18-2018-Segunda-Division,0,1,2,0,NA,NA,NA,NA,NA,1,1,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-18,Córdoba,Cádiz,1,3,NA,NA,13727,David Pérez,https://fbref.com/en/matches/3d104256/Cordoba-Cadiz-November-18-2018-Segunda-Division,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-18,Albacete,Lugo,1,0,NA,NA,6405,Iñaki Bikandi,https://fbref.com/en/matches/ddbc9070/Albacete-Lugo-November-18-2018-Segunda-Division,0,0,3,1,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-18,Alcorcón,Elche,1,0,NA,NA,2171,César Soto,https://fbref.com/en/matches/bbecc94a/Alcorcon-Elche-November-18-2018-Segunda-Division,0,1,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-19,Almería,La Coruña,1,1,NA,NA,5977,Rubén Ávalos,https://fbref.com/en/matches/dab3fee1/Almeria-Deportivo-La-Coruna-November-19-2018-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-23,Granada,Sporting Gijón,1,2,NA,NA,10035,Daniel Ocón,https://fbref.com/en/matches/80588957/Granada-Sporting-Gijon-November-23-2018-Segunda-Division,0,0,6,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-24,Gimnàstic,Almería,2,2,NA,NA,6514,Valentín Pizarro,https://fbref.com/en/matches/11da74ba/Gimnastic-Almeria-November-24-2018-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
-2018-11-24,Lugo,Córdoba,2,1,NA,NA,2639,Dámaso Arcediano,https://fbref.com/en/matches/0c9356f5/Lugo-Cordoba-November-24-2018-Segunda-Division,1,1,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-24,La Coruña,Osasuna,2,0,NA,NA,13511,Aitor Gorostegui,https://fbref.com/en/matches/6104c5ce/Deportivo-La-Coruna-Osasuna-November-24-2018-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-24,Cádiz,Las Palmas,4,1,NA,NA,12517,Oliver De La Fuente,https://fbref.com/en/matches/9c9018a8/Cadiz-Las-Palmas-November-24-2018-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-25,Mallorca,Numancia,1,0,NA,NA,7328,Abraham Domínguez,https://fbref.com/en/matches/bd7c2c8c/Mallorca-Numancia-November-25-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-25,Extremadura,Málaga,1,0,NA,NA,7707,Javier Villanueva,https://fbref.com/en/matches/3b513bb7/Extremadura-Malaga-November-25-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-25,Oviedo,Reus,3,0,NA,NA,15017,Jorge Figueroa,https://fbref.com/en/matches/0caf94fb/Oviedo-Reus-November-25-2018-Segunda-Division,0,1,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-25,Elche,Albacete,0,1,NA,NA,12867,Luis Milla,https://fbref.com/en/matches/360d4180/Elche-Albacete-November-25-2018-Segunda-Division,0,0,5,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
-2018-11-25,Tenerife,Majadahonda,2,1,NA,NA,11775,Isidro Díaz de Mera,https://fbref.com/en/matches/e10f8c85/Tenerife-Majadahonda-November-25-2018-Segunda-Division,1,1,4,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-25,Alcorcón,Zaragoza,2,0,NA,NA,2908,Gorka Sagues,https://fbref.com/en/matches/b9b0cb0c/Alcorcon-Zaragoza-November-25-2018-Segunda-Division,1,1,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-11-30,Zaragoza,Cádiz,0,1,NA,NA,17950,Víctor Areces,https://fbref.com/en/matches/7249971d/Zaragoza-Cadiz-November-30-2018-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-01,Córdoba,Elche,1,1,NA,NA,9875,José López,https://fbref.com/en/matches/486eff21/Cordoba-Elche-December-1-2018-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2018-2019
-2018-12-01,Reus,Mallorca,0,2,NA,NA,2619,Iñaki Bikandi,https://fbref.com/en/matches/dcc77a17/Reus-Mallorca-December-1-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,1,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-01,Málaga,Granada,0,1,NA,NA,22988,César Soto,https://fbref.com/en/matches/34a69b64/Malaga-Granada-December-1-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-01,Almería,Extremadura,1,1,NA,NA,6232,David Pérez,https://fbref.com/en/matches/afaabb51/Almeria-Extremadura-December-1-2018-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-01,Sporting Gijón,Tenerife,2,1,NA,NA,19035,Rubén Ávalos,https://fbref.com/en/matches/1a1111d6/Sporting-Gijon-Tenerife-December-1-2018-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-02,Majadahonda,La Coruña,0,0,NA,NA,2812,Daniel Trujillo,https://fbref.com/en/matches/d415660d/Majadahonda-Deportivo-La-Coruna-December-2-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-02,Osasuna,Lugo,1,0,NA,NA,13301,Santiago Varón,https://fbref.com/en/matches/0f384458/Osasuna-Lugo-December-2-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-02,Numancia,Gimnàstic,3,0,NA,NA,3002,Saúl Ais,https://fbref.com/en/matches/c8ea2747/Numancia-Gimnastic-December-2-2018-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-02,Albacete,Alcorcón,2,1,NA,NA,10470,Juan Pulido,https://fbref.com/en/matches/a5dbbc90/Albacete-Alcorcon-December-2-2018-Segunda-Division,1,1,2,0,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-02,Las Palmas,Oviedo,0,0,NA,NA,11612,Álvaro Moreno,https://fbref.com/en/matches/56976bbf/Las-Palmas-Oviedo-December-2-2018-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2018-2019
-2018-12-07,Tenerife,Extremadura,0,0,NA,NA,9275,Oliver De La Fuente,https://fbref.com/en/matches/6d5a6973/Tenerife-Extremadura-December-7-2018-Segunda-Division,0,0,5,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-08,La Coruña,Numancia,2,2,NA,NA,15576,Dámaso Arcediano,https://fbref.com/en/matches/8f3b4d3b/Deportivo-La-Coruna-Numancia-December-8-2018-Segunda-Division,0,0,2,1,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-08,Gimnàstic,Granada,0,1,NA,NA,8625,Gorka Sagues,https://fbref.com/en/matches/5c35ff05/Gimnastic-Granada-December-8-2018-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-08,Albacete,Osasuna,2,2,NA,NA,9602,Jorge Figueroa,https://fbref.com/en/matches/d5830e42/Albacete-Osasuna-December-8-2018-Segunda-Division,0,0,3,2,NA,NA,NA,NA,NA,1,1,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-08,Mallorca,Málaga,1,2,NA,NA,9463,Aitor Gorostegui,https://fbref.com/en/matches/a6048783/Mallorca-Malaga-December-8-2018-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-08,Oviedo,Almería,1,2,NA,NA,12408,Javier Villanueva,https://fbref.com/en/matches/1fc492f3/Oviedo-Almeria-December-8-2018-Segunda-Division,0,0,4,1,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-09,Alcorcón,Reus,0,1,NA,NA,3236,Saúl Ais,https://fbref.com/en/matches/bda88599/Alcorcon-Reus-December-9-2018-Segunda-Division,0,0,2,1,NA,NA,NA,NA,NA,1,1,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-09,Cádiz,Majadahonda,1,0,NA,NA,13258,Daniel Ocón,https://fbref.com/en/matches/5f00aa96/Cadiz-Majadahonda-December-9-2018-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-09,Elche,Sporting Gijón,0,0,NA,NA,10156,Valentín Pizarro,https://fbref.com/en/matches/25f0594e/Elche-Sporting-Gijon-December-9-2018-Segunda-Division,0,1,5,0,NA,NA,NA,NA,NA,0,1,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-09,Lugo,Las Palmas,4,2,NA,NA,2864,Luis Milla,https://fbref.com/en/matches/c0d22998/Lugo-Las-Palmas-December-9-2018-Segunda-Division,1,1,3,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-09,Zaragoza,Córdoba,0,0,NA,NA,16296,Isidro Díaz de Mera,https://fbref.com/en/matches/5045abcf/Zaragoza-Cordoba-December-9-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-14,Málaga,Cádiz,1,0,NA,NA,17650,Daniel Trujillo,https://fbref.com/en/matches/4e370f73/Malaga-Cadiz-December-14-2018-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-15,Granada,Oviedo,1,0,NA,NA,10373,David Pérez,https://fbref.com/en/matches/8cff6d5d/Granada-Oviedo-December-15-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-15,Numancia,Albacete,1,2,NA,NA,2884,José López,https://fbref.com/en/matches/e86a0c09/Numancia-Albacete-December-15-2018-Segunda-Division,1,1,5,0,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-15,Reus,Córdoba,1,1,NA,NA,3820,Santiago Varón,https://fbref.com/en/matches/87300216/Reus-Cordoba-December-15-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-15,Sporting Gijón,Mallorca,1,0,NA,NA,18170,Álvaro Moreno,https://fbref.com/en/matches/26d94650/Sporting-Gijon-Mallorca-December-15-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-16,Majadahonda,Elche,1,3,NA,NA,1764,Rubén Ávalos,https://fbref.com/en/matches/47ba65d1/Majadahonda-Elche-December-16-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-16,Osasuna,Alcorcón,2,1,NA,NA,13437,Víctor Areces,https://fbref.com/en/matches/1f513cf3/Osasuna-Alcorcon-December-16-2018-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-16,Las Palmas,Tenerife,1,1,NA,NA,19190,Gorka Sagues,https://fbref.com/en/matches/6eeeb36d/Las-Palmas-Tenerife-December-16-2018-Segunda-Division,0,0,3,1,NA,NA,NA,NA,NA,1,1,5,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-16,Extremadura,Gimnàstic,0,1,NA,NA,10704,Iñaki Bikandi,https://fbref.com/en/matches/30832138/Extremadura-Gimnastic-December-16-2018-Segunda-Division,0,0,5,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-16,Almería,Lugo,1,1,NA,NA,6160,César Soto,https://fbref.com/en/matches/88d17480/Almeria-Lugo-December-16-2018-Segunda-Division,0,0,4,1,NA,NA,NA,NA,NA,1,1,2,1,NA,NA,NA,NA,NA,2018-2019
-2018-12-16,La Coruña,Zaragoza,3,1,NA,NA,14276,Juan Pulido,https://fbref.com/en/matches/0ecfde76/Deportivo-La-Coruna-Zaragoza-December-16-2018-Segunda-Division,1,1,1,0,NA,NA,NA,NA,NA,1,1,5,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-21,Tenerife,Granada,1,1,NA,NA,8952,Valentín Pizarro,https://fbref.com/en/matches/0db299de/Tenerife-Granada-December-21-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-21,Mallorca,Gimnàstic,2,0,NA,NA,5988,Jorge Figueroa,https://fbref.com/en/matches/ad03c9e9/Mallorca-Gimnastic-December-21-2018-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-22,Lugo,Sporting Gijón,0,0,NA,NA,5515,Aitor Gorostegui,https://fbref.com/en/matches/2dde94cd/Lugo-Sporting-Gijon-December-22-2018-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-22,Oviedo,Málaga,0,0,NA,NA,12376,Dámaso Arcediano,https://fbref.com/en/matches/3f20c3c1/Oviedo-Malaga-December-22-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-22,Zaragoza,Extremadura,2,1,NA,NA,23222,Daniel Ocón,https://fbref.com/en/matches/2e408b75/Zaragoza-Extremadura-December-22-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-22,Elche,Almería,2,2,NA,NA,7454,Oliver De La Fuente,https://fbref.com/en/matches/1f51cddd/Elche-Almeria-December-22-2018-Segunda-Division,1,1,6,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-22,Córdoba,Las Palmas,4,1,NA,NA,8548,Javier Villanueva,https://fbref.com/en/matches/5e4b928e/Cordoba-Las-Palmas-December-22-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-22,Cádiz,La Coruña,3,0,NA,NA,14126,Isidro Díaz de Mera,https://fbref.com/en/matches/a39864e4/Cadiz-Deportivo-La-Coruna-December-22-2018-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-23,Reus,Osasuna,0,1,NA,NA,3516,Juan Pulido,https://fbref.com/en/matches/3ba27684/Reus-Osasuna-December-23-2018-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,5,1,NA,NA,NA,NA,NA,2018-2019
-2018-12-23,Albacete,Majadahonda,1,0,NA,NA,10023,Saúl Ais,https://fbref.com/en/matches/5453eb29/Albacete-Majadahonda-December-23-2018-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2018-12-23,Alcorcón,Numancia,1,1,NA,NA,3273,Luis Milla,https://fbref.com/en/matches/0feedc70/Alcorcon-Numancia-December-23-2018-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-04,Tenerife,Elche,2,1,NA,NA,9818,Iñaki Bikandi,https://fbref.com/en/matches/af3407e9/Tenerife-Elche-January-4-2019-Segunda-Division,0,0,5,0,NA,NA,NA,NA,NA,1,1,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-04,Granada,Albacete,1,1,NA,NA,11991,Víctor Areces,https://fbref.com/en/matches/a30595c7/Granada-Albacete-January-4-2019-Segunda-Division,1,1,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-05,Sporting Gijón,Zaragoza,1,2,NA,NA,22106,César Soto,https://fbref.com/en/matches/45d91aeb/Sporting-Gijon-Zaragoza-January-5-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-05,Extremadura,Alcorcón,3,0,NA,NA,8890,Gorka Sagues,https://fbref.com/en/matches/c85b2f92/Extremadura-Alcorcon-January-5-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
-2019-01-06,Almería,Mallorca,2,0,NA,NA,5796,Daniel Trujillo,https://fbref.com/en/matches/b53714f8/Almeria-Mallorca-January-6-2019-Segunda-Division,1,3,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-06,La Coruña,Lugo,0,0,NA,NA,21516,Rubén Ávalos,https://fbref.com/en/matches/7a8b3f97/Deportivo-La-Coruna-Lugo-January-6-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,7,2,NA,NA,NA,NA,NA,2018-2019
-2019-01-06,Osasuna,Cádiz,2,1,NA,NA,14940,Álvaro Moreno,https://fbref.com/en/matches/a1820bc2/Osasuna-Cadiz-January-6-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-06,Gimnàstic,Córdoba,1,0,NA,NA,5211,David Pérez,https://fbref.com/en/matches/67ff6ff0/Gimnastic-Cordoba-January-6-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
-2019-01-06,Málaga,Reus,0,3,NA,NA,16058,José López,https://fbref.com/en/matches/82d9d00d/Malaga-Reus-January-6-2019-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,1,1,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-07,Numancia,Oviedo,2,3,NA,NA,3183,Santiago Varón,https://fbref.com/en/matches/009d25ad/Numancia-Oviedo-January-7-2019-Segunda-Division,0,0,0,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-07,Majadahonda,Las Palmas,0,0,NA,NA,2932,Abraham Domínguez,https://fbref.com/en/matches/7d5104ba/Majadahonda-Las-Palmas-January-7-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-11,Cádiz,Granada,0,0,NA,NA,12538,Juan Pulido,https://fbref.com/en/matches/56a86dd5/Cadiz-Granada-January-11-2019-Segunda-Division,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-12,Albacete,Sporting Gijón,1,1,NA,NA,10837,Luis Milla,https://fbref.com/en/matches/bfa2001e/Albacete-Sporting-Gijon-January-12-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-12,Las Palmas,Osasuna,4,1,NA,NA,11005,Oliver De La Fuente,https://fbref.com/en/matches/11a64d47/Las-Palmas-Osasuna-January-12-2019-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-12,Reus,Numancia,1,1,NA,NA,2629,Daniel Ocón,https://fbref.com/en/matches/c8434970/Reus-Numancia-January-12-2019-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-12,Mallorca,La Coruña,1,0,NA,NA,7593,Saúl Ais,https://fbref.com/en/matches/f31307ac/Mallorca-Deportivo-La-Coruna-January-12-2019-Segunda-Division,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-12,Oviedo,Tenerife,1,0,NA,NA,11554,Isidro Díaz de Mera,https://fbref.com/en/matches/329cd1b4/Oviedo-Tenerife-January-12-2019-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-13,Córdoba,Majadahonda,1,1,NA,NA,10651,Dámaso Arcediano,https://fbref.com/en/matches/35cfe1a8/Cordoba-Majadahonda-January-13-2019-Segunda-Division,0,0,3,1,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-13,Alcorcón,Almería,0,0,NA,NA,2950,Aitor Gorostegui,https://fbref.com/en/matches/8b201339/Alcorcon-Almeria-January-13-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-13,Zaragoza,Málaga,0,2,NA,NA,24898,Valentín Pizarro,https://fbref.com/en/matches/f43c9aab/Zaragoza-Malaga-January-13-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-13,Lugo,Extremadura,1,1,NA,NA,3019,Jorge Figueroa,https://fbref.com/en/matches/b224dbf9/Lugo-Extremadura-January-13-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,1,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-13,Elche,Gimnàstic,1,0,NA,NA,7248,Javier Villanueva,https://fbref.com/en/matches/6f85c89a/Elche-Gimnastic-January-13-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
+2018-08-17,Cádiz,Almería,1,0,NA,NA,13582,Daniel Trujillo,https://fbref.com/en/matches/75f4720e/Cadiz-Almeria-August-17-2018-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-08-17,Albacete,La Coruña,1,1,NA,NA,5934,Valentín Pizarro,https://fbref.com/en/matches/c5bace8b/Albacete-Deportivo-La-Coruna-August-17-2018-Segunda-Division,1,1,2,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,2018-2019
+2018-08-18,Elche,Granada,0,0,NA,NA,11025,Santiago Varón,https://fbref.com/en/matches/86c39257/Elche-Granada-August-18-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-08-18,Lugo,Málaga,1,2,NA,NA,3290,Víctor Areces,https://fbref.com/en/matches/b5165819/Lugo-Malaga-August-18-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-08-18,Alcorcón,Sporting Gijón,1,1,NA,NA,2483,Jorge Figueroa,https://fbref.com/en/matches/37a5a6b9/Alcorcon-Sporting-Gijon-August-18-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2018-08-18,Córdoba,Numancia,3,3,NA,NA,11685,Isidro Díaz de Mera,https://fbref.com/en/matches/bd448a27/Cordoba-Numancia-August-18-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-08-19,Oviedo,Extremadura,1,1,NA,NA,13315,Javier Villanueva,https://fbref.com/en/matches/8b642605/Oviedo-Extremadura-August-19-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-08-19,Mallorca,Osasuna,1,0,NA,NA,9450,Dámaso Arcediano,https://fbref.com/en/matches/f8e7764b/Mallorca-Osasuna-August-19-2018-Segunda-Division,1,1,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-08-19,Zaragoza,Majadahonda,2,1,NA,NA,18433,César Soto,https://fbref.com/en/matches/f4499373/Zaragoza-Majadahonda-August-19-2018-Segunda-Division,1,1,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-08-19,Las Palmas,Reus,2,0,NA,NA,12408,Luis Milla,https://fbref.com/en/matches/9f14f027/Las-Palmas-Reus-August-19-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-08-20,Gimnàstic,Tenerife,1,1,NA,NA,5483,Saúl Ais,https://fbref.com/en/matches/b91d474b/Gimnastic-Tenerife-August-20-2018-Segunda-Division,0,0,5,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-08-24,Málaga,Alcorcón,1,0,NA,NA,18626,Juan Pulido,https://fbref.com/en/matches/ac1057c8/Malaga-Alcorcon-August-24-2018-Segunda-Division,0,0,1,1,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2018-2019
+2018-08-24,Extremadura,La Coruña,0,1,NA,NA,10827,Oliver De La Fuente,https://fbref.com/en/matches/4fa52d39/Extremadura-Deportivo-La-Coruna-August-24-2018-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-08-25,Numancia,Cádiz,1,1,NA,NA,3251,Iñaki Bikandi,https://fbref.com/en/matches/02b5eb8c/Numancia-Cadiz-August-25-2018-Segunda-Division,1,1,4,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2018-2019
+2018-08-25,Reus,Zaragoza,0,0,NA,NA,6397,José López,https://fbref.com/en/matches/82fbd1b8/Reus-Zaragoza-August-25-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-08-25,Las Palmas,Albacete,1,1,NA,NA,12457,Rubén Ávalos,https://fbref.com/en/matches/c1d3dcc0/Las-Palmas-Albacete-August-25-2018-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-08-25,Córdoba,Oviedo,2,4,NA,NA,12754,Gorka Sagues,https://fbref.com/en/matches/873b5e7d/Cordoba-Oviedo-August-25-2018-Segunda-Division,0,1,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-08-26,Sporting Gijón,Gimnàstic,2,0,NA,NA,21586,David Pérez,https://fbref.com/en/matches/2a8c25c6/Sporting-Gijon-Gimnastic-August-26-2018-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-08-26,Osasuna,Elche,1,1,NA,NA,14064,Daniel Ocón,https://fbref.com/en/matches/7b7edca7/Osasuna-Elche-August-26-2018-Segunda-Division,0,0,2,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-08-26,Granada,Lugo,1,1,NA,NA,8307,Aitor Gorostegui,https://fbref.com/en/matches/47e9709d/Granada-Lugo-August-26-2018-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-08-26,Almería,Tenerife,1,1,NA,NA,6737,Isidro Díaz de Mera,https://fbref.com/en/matches/af98f18b/Almeria-Tenerife-August-26-2018-Segunda-Division,0,0,4,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-08-27,Majadahonda,Mallorca,0,1,NA,NA,3424,Abraham Domínguez,https://fbref.com/en/matches/a6eb8c00/Majadahonda-Mallorca-August-27-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-08-31,Alcorcón,Mallorca,1,0,NA,NA,2428,Víctor Areces,https://fbref.com/en/matches/d4577479/Alcorcon-Mallorca-August-31-2018-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-09-01,Lugo,Numancia,3,2,NA,NA,2682,Luis Milla,https://fbref.com/en/matches/b23f2612/Lugo-Numancia-September-1-2018-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-09-01,Zaragoza,Las Palmas,1,1,NA,NA,22292,Aitor Gorostegui,https://fbref.com/en/matches/d0b68d44/Zaragoza-Las-Palmas-September-1-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-09-01,Elche,Reus,0,2,NA,NA,10657,Javier Villanueva,https://fbref.com/en/matches/8e5c973c/Elche-Reus-September-1-2018-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-09-01,Cádiz,Oviedo,1,1,NA,NA,13888,Dámaso Arcediano,https://fbref.com/en/matches/2a8a75ae/Cadiz-Oviedo-September-1-2018-Segunda-Division,1,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-09-01,Tenerife,La Coruña,2,2,NA,NA,12139,Jorge Figueroa,https://fbref.com/en/matches/3a889fbd/Tenerife-Deportivo-La-Coruna-September-1-2018-Segunda-Division,0,0,3,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2018-2019
+2018-09-02,Gimnàstic,Majadahonda,0,1,NA,NA,4854,Santiago Varón,https://fbref.com/en/matches/f128c619/Gimnastic-Majadahonda-September-2-2018-Segunda-Division,0,0,4,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-09-02,Sporting Gijón,Extremadura,2,0,NA,NA,20652,César Soto,https://fbref.com/en/matches/80a6be03/Sporting-Gijon-Extremadura-September-2-2018-Segunda-Division,1,1,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2018-2019
+2018-09-02,Albacete,Córdoba,3,0,NA,NA,7735,Álvaro Moreno,https://fbref.com/en/matches/d21352bc/Albacete-Cordoba-September-2-2018-Segunda-Division,2,2,5,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-09-02,Granada,Osasuna,2,0,NA,NA,8713,Daniel Trujillo,https://fbref.com/en/matches/648a56e1/Granada-Osasuna-September-2-2018-Segunda-Division,1,1,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-09-03,Almería,Málaga,0,1,NA,NA,8955,Valentín Pizarro,https://fbref.com/en/matches/33c43e84/Almeria-Malaga-September-3-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-09-07,Las Palmas,Gimnàstic,4,0,NA,NA,12119,Abraham Domínguez,https://fbref.com/en/matches/665ca318/Las-Palmas-Gimnastic-September-7-2018-Segunda-Division,0,0,5,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2018-2019
+2018-09-07,Mallorca,Cádiz,1,0,NA,NA,8907,Isidro Díaz de Mera,https://fbref.com/en/matches/cdaaed6f/Mallorca-Cadiz-September-7-2018-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-09-08,Osasuna,Almería,3,1,NA,NA,12765,David Pérez,https://fbref.com/en/matches/8172f2bf/Osasuna-Almeria-September-8-2018-Segunda-Division,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-09-08,Oviedo,Zaragoza,0,4,NA,NA,13770,Daniel Ocón,https://fbref.com/en/matches/6c905174/Oviedo-Zaragoza-September-8-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-09-08,Málaga,Tenerife,1,0,NA,NA,15408,Iñaki Bikandi,https://fbref.com/en/matches/0996a89f/Malaga-Tenerife-September-8-2018-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-09-09,Reus,Albacete,1,2,NA,NA,2230,Saúl Ais,https://fbref.com/en/matches/72c66e2e/Reus-Albacete-September-9-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-09-09,Numancia,Elche,1,0,NA,NA,2855,Álvaro Moreno,https://fbref.com/en/matches/d230973f/Numancia-Elche-September-9-2018-Segunda-Division,1,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-09-09,Extremadura,Granada,1,3,NA,NA,9343,José López,https://fbref.com/en/matches/9a2e8027/Extremadura-Granada-September-9-2018-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-09-09,Córdoba,Alcorcón,0,0,NA,NA,12312,Oliver De La Fuente,https://fbref.com/en/matches/f81b7391/Cordoba-Alcorcon-September-9-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-09-09,La Coruña,Sporting Gijón,1,0,NA,NA,15908,Gorka Sagues,https://fbref.com/en/matches/09edfb5a/Deportivo-La-Coruna-Sporting-Gijon-September-9-2018-Segunda-Division,0,1,2,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2018-2019
+2018-09-10,Majadahonda,Lugo,1,0,NA,NA,3370,Juan Pulido,https://fbref.com/en/matches/6de2c62c/Majadahonda-Lugo-September-10-2018-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-09-15,Gimnàstic,Osasuna,1,0,NA,NA,4576,Javier Villanueva,https://fbref.com/en/matches/a03f01d6/Gimnastic-Osasuna-September-15-2018-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-09-15,Tenerife,Reus,0,1,NA,NA,9532,Dámaso Arcediano,https://fbref.com/en/matches/f5dddee0/Tenerife-Reus-September-15-2018-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-09-15,Málaga,Córdoba,3,0,NA,NA,19047,Santiago Varón,https://fbref.com/en/matches/c2e0618b/Malaga-Cordoba-September-15-2018-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-09-15,Alcorcón,La Coruña,1,0,NA,NA,3233,Aitor Gorostegui,https://fbref.com/en/matches/e0ddf96e/Alcorcon-Deportivo-La-Coruna-September-15-2018-Segunda-Division,0,0,6,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2018-2019
+2018-09-16,Elche,Mallorca,1,1,NA,NA,10817,Luis Milla,https://fbref.com/en/matches/90f44010/Elche-Mallorca-September-16-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2018-2019
+2018-09-16,Lugo,Oviedo,0,2,NA,NA,4508,Valentín Pizarro,https://fbref.com/en/matches/771e8ad0/Lugo-Oviedo-September-16-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-09-16,Extremadura,Las Palmas,1,2,NA,NA,9710,Jorge Figueroa,https://fbref.com/en/matches/6bccacf7/Extremadura-Las-Palmas-September-16-2018-Segunda-Division,0,1,6,0,0,0,0,0,0,1,1,4,1,0,0,0,0,0,2018-2019
+2018-09-16,Almería,Zaragoza,2,1,NA,NA,7251,Víctor Areces,https://fbref.com/en/matches/376c9108/Almeria-Zaragoza-September-16-2018-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2018-09-16,Granada,Majadahonda,3,0,NA,NA,9077,Rubén Ávalos,https://fbref.com/en/matches/2b30c45e/Granada-Majadahonda-September-16-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-09-16,Sporting Gijón,Numancia,1,1,NA,NA,19240,Daniel Trujillo,https://fbref.com/en/matches/9d23a98c/Sporting-Gijon-Numancia-September-16-2018-Segunda-Division,0,0,7,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2018-2019
+2018-09-17,Albacete,Cádiz,1,1,NA,NA,6770,César Soto,https://fbref.com/en/matches/8b83e4df/Albacete-Cadiz-September-17-2018-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-09-22,Osasuna,Sporting Gijón,1,0,NA,NA,13354,Isidro Díaz de Mera,https://fbref.com/en/matches/3cafe77a/Osasuna-Sporting-Gijon-September-22-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-09-22,Zaragoza,Lugo,0,2,NA,NA,23111,Saúl Ais,https://fbref.com/en/matches/e3fa8227/Zaragoza-Lugo-September-22-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-09-22,Majadahonda,Extremadura,1,4,NA,NA,5352,Iñaki Bikandi,https://fbref.com/en/matches/6bf6e98e/Majadahonda-Extremadura-September-22-2018-Segunda-Division,1,1,2,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-09-22,Córdoba,Tenerife,1,1,NA,NA,11085,David Pérez,https://fbref.com/en/matches/faee015d/Cordoba-Tenerife-September-22-2018-Segunda-Division,0,1,6,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2018-2019
+2018-09-23,Mallorca,Albacete,1,3,NA,NA,7682,Gorka Sagues,https://fbref.com/en/matches/a8c0be41/Mallorca-Albacete-September-23-2018-Segunda-Division,0,0,2,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-09-23,Oviedo,Elche,1,1,NA,NA,14008,Abraham Domínguez,https://fbref.com/en/matches/712c1457/Oviedo-Elche-September-23-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-09-23,Las Palmas,Málaga,1,0,NA,NA,21350,Daniel Ocón,https://fbref.com/en/matches/7bf346ab/Las-Palmas-Malaga-September-23-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-09-23,Reus,Gimnàstic,1,1,NA,NA,4195,Oliver De La Fuente,https://fbref.com/en/matches/ffe6c2d4/Reus-Gimnastic-September-23-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-09-23,Numancia,Almería,0,2,NA,NA,3159,César Soto,https://fbref.com/en/matches/e9535152/Numancia-Almeria-September-23-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-09-23,Cádiz,Alcorcón,0,2,NA,NA,13207,José López,https://fbref.com/en/matches/2d49577f/Cadiz-Alcorcon-September-23-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,2018-2019
+2018-09-24,La Coruña,Granada,2,1,NA,NA,13716,Álvaro Moreno,https://fbref.com/en/matches/e47b95d8/Deportivo-La-Coruna-Granada-September-24-2018-Segunda-Division,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2018-09-28,Albacete,Zaragoza,2,2,NA,NA,8246,Daniel Trujillo,https://fbref.com/en/matches/928da759/Albacete-Zaragoza-September-28-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-09-29,Lugo,Mallorca,1,1,NA,NA,3100,Rubén Ávalos,https://fbref.com/en/matches/bd88084a/Lugo-Mallorca-September-29-2018-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-09-29,Sporting Gijón,Las Palmas,1,0,NA,NA,20576,Dámaso Arcediano,https://fbref.com/en/matches/8e88bef2/Sporting-Gijon-Las-Palmas-September-29-2018-Segunda-Division,0,1,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2018-09-29,Granada,Córdoba,4,2,NA,NA,9931,Valentín Pizarro,https://fbref.com/en/matches/9e75e958/Granada-Cordoba-September-29-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,1,1,4,0,0,0,0,0,0,2018-2019
+2018-09-29,Tenerife,Cádiz,1,0,NA,NA,10013,Aitor Gorostegui,https://fbref.com/en/matches/228cf9ad/Tenerife-Cadiz-September-29-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-09-30,Alcorcón,Oviedo,2,0,NA,NA,3393,Luis Milla,https://fbref.com/en/matches/b6faac4f/Alcorcon-Oviedo-September-30-2018-Segunda-Division,0,0,3,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-09-30,Málaga,Majadahonda,1,0,NA,NA,18365,Javier Villanueva,https://fbref.com/en/matches/f3fe89ac/Malaga-Majadahonda-September-30-2018-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-09-30,Almería,Reus,2,0,NA,NA,7543,Juan Pulido,https://fbref.com/en/matches/beb4cfea/Almeria-Reus-September-30-2018-Segunda-Division,1,1,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-09-30,Osasuna,Numancia,0,0,NA,NA,14392,Jorge Figueroa,https://fbref.com/en/matches/17e0f083/Osasuna-Numancia-September-30-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,2018-2019
+2018-09-30,Extremadura,Elche,2,2,NA,NA,9723,Santiago Varón,https://fbref.com/en/matches/77b4ea07/Extremadura-Elche-September-30-2018-Segunda-Division,2,2,2,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2018-2019
+2018-09-30,Gimnàstic,La Coruña,1,3,NA,NA,5790,Víctor Areces,https://fbref.com/en/matches/c3eb9a5d/Gimnastic-Deportivo-La-Coruna-September-30-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-10-06,Mallorca,Tenerife,4,1,NA,NA,7404,Daniel Ocón,https://fbref.com/en/matches/2ab2cc4b/Mallorca-Tenerife-October-6-2018-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2018-10-06,Numancia,Extremadura,1,0,NA,NA,3053,Abraham Domínguez,https://fbref.com/en/matches/a54d97c2/Numancia-Extremadura-October-6-2018-Segunda-Division,0,1,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-10-06,Córdoba,Almería,1,0,NA,NA,11284,Álvaro Moreno,https://fbref.com/en/matches/7c8a2e91/Cordoba-Almeria-October-6-2018-Segunda-Division,0,0,7,1,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2018-2019
+2018-10-06,Las Palmas,Alcorcón,0,0,NA,NA,13718,Iñaki Bikandi,https://fbref.com/en/matches/6a8ec4fe/Las-Palmas-Alcorcon-October-6-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-10-07,Reus,Granada,1,2,NA,NA,2475,David Pérez,https://fbref.com/en/matches/2d02ab97/Reus-Granada-October-7-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-10-07,Oviedo,Albacete,1,0,NA,NA,12728,Oliver De La Fuente,https://fbref.com/en/matches/947a9c61/Oviedo-Albacete-October-7-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-10-07,La Coruña,Málaga,1,1,NA,NA,18296,Isidro Díaz de Mera,https://fbref.com/en/matches/6c404c8c/Deportivo-La-Coruna-Malaga-October-7-2018-Segunda-Division,0,0,1,1,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2018-10-07,Elche,Lugo,2,1,NA,NA,10679,César Soto,https://fbref.com/en/matches/96cf3473/Elche-Lugo-October-7-2018-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-10-07,Cádiz,Gimnàstic,1,1,NA,NA,12450,Saúl Ais,https://fbref.com/en/matches/118a557f/Cadiz-Gimnastic-October-7-2018-Segunda-Division,1,1,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-10-08,Majadahonda,Sporting Gijón,2,1,NA,NA,4508,José López,https://fbref.com/en/matches/70a41793/Majadahonda-Sporting-Gijon-October-8-2018-Segunda-Division,0,0,7,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-10-08,Zaragoza,Osasuna,1,1,NA,NA,23850,Gorka Sagues,https://fbref.com/en/matches/0969e6ce/Zaragoza-Osasuna-October-8-2018-Segunda-Division,0,0,5,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2018-2019
+2018-10-12,Málaga,Albacete,2,1,NA,NA,18709,Aitor Gorostegui,https://fbref.com/en/matches/40049b00/Malaga-Albacete-October-12-2018-Segunda-Division,0,0,4,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2018-2019
+2018-10-12,Extremadura,Cádiz,2,1,NA,NA,11023,Rubén Ávalos,https://fbref.com/en/matches/1d48813f/Extremadura-Cadiz-October-12-2018-Segunda-Division,0,0,7,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,2018-2019
+2018-10-12,La Coruña,Elche,4,0,NA,NA,17092,Valentín Pizarro,https://fbref.com/en/matches/f43249ff/Deportivo-La-Coruna-Elche-October-12-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-10-13,Osasuna,Córdoba,3,1,NA,NA,12996,Víctor Areces,https://fbref.com/en/matches/c61eaab4/Osasuna-Cordoba-October-13-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-10-13,Sporting Gijón,Reus,1,1,NA,NA,19026,Santiago Varón,https://fbref.com/en/matches/0c041d10/Sporting-Gijon-Reus-October-13-2018-Segunda-Division,1,2,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-10-13,Numancia,Zaragoza,1,0,NA,NA,4953,Dámaso Arcediano,https://fbref.com/en/matches/853667ff/Numancia-Zaragoza-October-13-2018-Segunda-Division,1,1,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-10-13,Almería,Las Palmas,3,0,NA,NA,7339,Javier Villanueva,https://fbref.com/en/matches/0bff39e4/Almeria-Las-Palmas-October-13-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-10-14,Tenerife,Lugo,0,0,NA,NA,10044,Luis Milla,https://fbref.com/en/matches/5d43602d/Tenerife-Lugo-October-14-2018-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-10-14,Majadahonda,Oviedo,1,0,NA,NA,7217,Jorge Figueroa,https://fbref.com/en/matches/c89b73e9/Majadahonda-Oviedo-October-14-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-10-14,Granada,Mallorca,1,0,NA,NA,9454,Juan Pulido,https://fbref.com/en/matches/1154e71b/Granada-Mallorca-October-14-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-10-15,Gimnàstic,Alcorcón,1,3,NA,NA,3505,Daniel Trujillo,https://fbref.com/en/matches/1a589b32/Gimnastic-Alcorcon-October-15-2018-Segunda-Division,0,0,4,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-10-19,Elche,Málaga,2,0,NA,NA,9565,Juan Pulido,https://fbref.com/en/matches/a36455c1/Elche-Malaga-October-19-2018-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-10-20,Oviedo,Osasuna,2,1,NA,NA,12325,Iñaki Bikandi,https://fbref.com/en/matches/cc2b932e/Oviedo-Osasuna-October-20-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2018-2019
+2018-10-20,Las Palmas,Numancia,3,0,NA,NA,13413,Gorka Sagues,https://fbref.com/en/matches/5f1c95bf/Las-Palmas-Numancia-October-20-2018-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2018-2019
+2018-10-20,Alcorcón,Granada,1,0,NA,NA,3020,Isidro Díaz de Mera,https://fbref.com/en/matches/8aa4cdef/Alcorcon-Granada-October-20-2018-Segunda-Division,1,1,2,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2018-2019
+2018-10-20,Córdoba,La Coruña,1,1,NA,NA,10604,Saúl Ais,https://fbref.com/en/matches/cf160b75/Cordoba-Deportivo-La-Coruna-October-20-2018-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,2018-2019
+2018-10-21,Mallorca,Extremadura,1,1,NA,NA,8100,Álvaro Moreno,https://fbref.com/en/matches/feecc9f4/Mallorca-Extremadura-October-21-2018-Segunda-Division,0,0,4,1,0,0,0,0,0,1,1,6,1,0,0,0,0,0,2018-2019
+2018-10-21,Lugo,Gimnàstic,1,0,NA,NA,3161,José López,https://fbref.com/en/matches/4404bd43/Lugo-Gimnastic-October-21-2018-Segunda-Division,0,0,6,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-10-21,Reus,Majadahonda,2,1,NA,NA,2345,Abraham Domínguez,https://fbref.com/en/matches/9b8be385/Reus-Majadahonda-October-21-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-10-21,Albacete,Almería,1,1,NA,NA,8075,Daniel Ocón,https://fbref.com/en/matches/c8c536a9/Albacete-Almeria-October-21-2018-Segunda-Division,0,0,2,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-10-21,Zaragoza,Tenerife,1,1,NA,NA,21887,Oliver De La Fuente,https://fbref.com/en/matches/61af5f49/Zaragoza-Tenerife-October-21-2018-Segunda-Division,1,1,3,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,2018-2019
+2018-10-21,Cádiz,Sporting Gijón,0,0,NA,NA,11703,César Soto,https://fbref.com/en/matches/6f556b81/Cadiz-Sporting-Gijon-October-21-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-10-26,Sporting Gijón,Córdoba,0,0,NA,NA,16282,Javier Villanueva,https://fbref.com/en/matches/4ab0279a/Sporting-Gijon-Cordoba-October-26-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-10-27,La Coruña,Reus,2,0,NA,NA,15482,Daniel Trujillo,https://fbref.com/en/matches/92b1edc2/Deportivo-La-Coruna-Reus-October-27-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2018-10-27,Granada,Almería,1,0,NA,NA,10228,Dámaso Arcediano,https://fbref.com/en/matches/612d8c7b/Granada-Almeria-October-27-2018-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-10-27,Mallorca,Las Palmas,2,2,NA,NA,5835,David Pérez,https://fbref.com/en/matches/2a0819b9/Mallorca-Las-Palmas-October-27-2018-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2018-10-27,Tenerife,Alcorcón,3,2,NA,NA,8964,Rubén Ávalos,https://fbref.com/en/matches/c39e648f/Tenerife-Alcorcon-October-27-2018-Segunda-Division,0,0,6,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-10-27,Lugo,Cádiz,1,2,NA,NA,3774,Daniel Ocón,https://fbref.com/en/matches/dd5388c4/Lugo-Cadiz-October-27-2018-Segunda-Division,1,1,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-10-28,Gimnàstic,Oviedo,2,1,NA,NA,4631,Aitor Gorostegui,https://fbref.com/en/matches/074d0da8/Gimnastic-Oviedo-October-28-2018-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2018-2019
+2018-10-28,Majadahonda,Osasuna,1,1,NA,NA,2482,Luis Milla,https://fbref.com/en/matches/1ef806fb/Majadahonda-Osasuna-October-28-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2018-10-28,Extremadura,Albacete,1,2,NA,NA,8673,Víctor Areces,https://fbref.com/en/matches/296b79b5/Extremadura-Albacete-October-28-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2018-2019
+2018-10-28,Elche,Zaragoza,2,0,NA,NA,9342,Jorge Figueroa,https://fbref.com/en/matches/abb314ca/Elche-Zaragoza-October-28-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-10-29,Málaga,Numancia,2,0,NA,NA,14554,Valentín Pizarro,https://fbref.com/en/matches/17fb92c1/Malaga-Numancia-October-29-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-11-02,Albacete,Gimnàstic,2,0,NA,NA,7099,Santiago Varón,https://fbref.com/en/matches/56a3c628/Albacete-Gimnastic-November-2-2018-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-11-03,Reus,Lugo,0,0,NA,NA,2420,Álvaro Moreno,https://fbref.com/en/matches/e5c36aeb/Reus-Lugo-November-3-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-11-03,Osasuna,Málaga,2,1,NA,NA,14052,Oliver De La Fuente,https://fbref.com/en/matches/083b505b/Osasuna-Malaga-November-3-2018-Segunda-Division,0,0,1,1,0,0,0,0,0,0,0,7,2,0,0,0,0,0,2018-2019
+2018-11-03,Numancia,Tenerife,2,0,NA,NA,3191,Víctor Areces,https://fbref.com/en/matches/d6c1703a/Numancia-Tenerife-November-3-2018-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2018-11-03,Córdoba,Extremadura,4,2,NA,NA,12079,Juan Pulido,https://fbref.com/en/matches/e7ceeacd/Cordoba-Extremadura-November-3-2018-Segunda-Division,0,0,1,1,0,0,0,0,0,0,0,7,1,0,0,0,0,0,2018-2019
+2018-11-03,Las Palmas,La Coruña,1,1,NA,NA,15499,César Soto,https://fbref.com/en/matches/b2d0914f/Las-Palmas-Deportivo-La-Coruna-November-3-2018-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-11-04,Cádiz,Elche,5,1,NA,NA,12714,Gorka Sagues,https://fbref.com/en/matches/8bdcd370/Cadiz-Elche-November-4-2018-Segunda-Division,1,1,2,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,2018-2019
+2018-11-04,Oviedo,Mallorca,1,1,NA,NA,13038,José López,https://fbref.com/en/matches/e69f6a46/Oviedo-Mallorca-November-4-2018-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-11-04,Alcorcón,Majadahonda,2,0,NA,NA,3148,David Pérez,https://fbref.com/en/matches/e05e0c0d/Alcorcon-Majadahonda-November-4-2018-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-11-04,Almería,Sporting Gijón,2,1,NA,NA,7424,Saúl Ais,https://fbref.com/en/matches/ab2dd718/Almeria-Sporting-Gijon-November-4-2018-Segunda-Division,1,1,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-11-04,Zaragoza,Granada,0,2,NA,NA,19326,Iñaki Bikandi,https://fbref.com/en/matches/1e0cfc65/Zaragoza-Granada-November-4-2018-Segunda-Division,0,0,2,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-11-10,Cádiz,Reus,2,0,NA,NA,13229,Valentín Pizarro,https://fbref.com/en/matches/8cc10c38/Cadiz-Reus-November-10-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2018-11-10,Lugo,Alcorcón,0,1,NA,NA,2920,Jorge Figueroa,https://fbref.com/en/matches/8408ba29/Lugo-Alcorcon-November-10-2018-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-11-10,Extremadura,Osasuna,2,3,NA,NA,8237,Dámaso Arcediano,https://fbref.com/en/matches/97639371/Extremadura-Osasuna-November-10-2018-Segunda-Division,1,1,5,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2018-2019
+2018-11-10,Elche,Las Palmas,0,0,NA,NA,9740,Isidro Díaz de Mera,https://fbref.com/en/matches/1caa8bec/Elche-Las-Palmas-November-10-2018-Segunda-Division,0,0,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-11-10,La Coruña,Oviedo,4,0,NA,NA,18739,Daniel Ocón,https://fbref.com/en/matches/72326b32/Deportivo-La-Coruna-Oviedo-November-10-2018-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2018-11-11,Granada,Numancia,0,0,NA,NA,13227,Javier Villanueva,https://fbref.com/en/matches/0d686d6a/Granada-Numancia-November-11-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,2018-2019
+2018-11-11,Majadahonda,Almería,2,0,NA,NA,2216,Aitor Gorostegui,https://fbref.com/en/matches/c0b23cb6/Majadahonda-Almeria-November-11-2018-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-11-11,Mallorca,Córdoba,3,0,NA,NA,7989,Daniel Trujillo,https://fbref.com/en/matches/7cddd449/Mallorca-Cordoba-November-11-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-11-11,Sporting Gijón,Málaga,2,2,NA,NA,18720,Gorka Sagues,https://fbref.com/en/matches/ba7ef3c7/Sporting-Gijon-Malaga-November-11-2018-Segunda-Division,1,1,4,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,2018-2019
+2018-11-11,Tenerife,Albacete,0,0,NA,NA,10528,Abraham Domínguez,https://fbref.com/en/matches/a4d2747f/Tenerife-Albacete-November-11-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-11-12,Gimnàstic,Zaragoza,1,3,NA,NA,4348,Luis Milla,https://fbref.com/en/matches/837d88b5/Gimnastic-Zaragoza-November-12-2018-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-11-16,Las Palmas,Granada,2,2,NA,NA,12056,Víctor Areces,https://fbref.com/en/matches/063ac974/Las-Palmas-Granada-November-16-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2018-2019
+2018-11-17,Málaga,Gimnàstic,2,0,NA,NA,17256,Álvaro Moreno,https://fbref.com/en/matches/b0dcd431/Malaga-Gimnastic-November-17-2018-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2018-2019
+2018-11-17,Osasuna,Tenerife,2,0,NA,NA,14182,José López,https://fbref.com/en/matches/c9f58550/Osasuna-Tenerife-November-17-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-11-17,Reus,Extremadura,1,4,NA,NA,2932,Santiago Varón,https://fbref.com/en/matches/cc5cba28/Reus-Extremadura-November-17-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2018-11-17,Zaragoza,Mallorca,2,2,NA,NA,21461,Saúl Ais,https://fbref.com/en/matches/cd4ffd71/Zaragoza-Mallorca-November-17-2018-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-11-17,Oviedo,Sporting Gijón,2,1,NA,NA,23175,Daniel Trujillo,https://fbref.com/en/matches/007f00a1/Oviedo-Sporting-Gijon-November-17-2018-Segunda-Division,0,0,3,0,0,0,0,0,0,1,1,4,0,0,0,0,0,0,2018-2019
+2018-11-18,Numancia,Majadahonda,1,2,NA,NA,2953,Juan Pulido,https://fbref.com/en/matches/e54f0656/Numancia-Majadahonda-November-18-2018-Segunda-Division,0,1,2,0,0,0,0,0,0,1,1,4,0,0,0,0,0,0,2018-2019
+2018-11-18,Córdoba,Cádiz,1,3,NA,NA,13727,David Pérez,https://fbref.com/en/matches/3d104256/Cordoba-Cadiz-November-18-2018-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-11-18,Albacete,Lugo,1,0,NA,NA,6405,Iñaki Bikandi,https://fbref.com/en/matches/ddbc9070/Albacete-Lugo-November-18-2018-Segunda-Division,0,0,3,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-11-18,Alcorcón,Elche,1,0,NA,NA,2171,César Soto,https://fbref.com/en/matches/bbecc94a/Alcorcon-Elche-November-18-2018-Segunda-Division,0,1,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-11-19,Almería,La Coruña,1,1,NA,NA,5977,Rubén Ávalos,https://fbref.com/en/matches/dab3fee1/Almeria-Deportivo-La-Coruna-November-19-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-11-23,Granada,Sporting Gijón,1,2,NA,NA,10035,Daniel Ocón,https://fbref.com/en/matches/80588957/Granada-Sporting-Gijon-November-23-2018-Segunda-Division,0,0,6,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-11-24,Gimnàstic,Almería,2,2,NA,NA,6514,Valentín Pizarro,https://fbref.com/en/matches/11da74ba/Gimnastic-Almeria-November-24-2018-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2018-2019
+2018-11-24,Lugo,Córdoba,2,1,NA,NA,2639,Dámaso Arcediano,https://fbref.com/en/matches/0c9356f5/Lugo-Cordoba-November-24-2018-Segunda-Division,1,1,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-11-24,La Coruña,Osasuna,2,0,NA,NA,13511,Aitor Gorostegui,https://fbref.com/en/matches/6104c5ce/Deportivo-La-Coruna-Osasuna-November-24-2018-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-11-24,Cádiz,Las Palmas,4,1,NA,NA,12517,Oliver De La Fuente,https://fbref.com/en/matches/9c9018a8/Cadiz-Las-Palmas-November-24-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-11-25,Mallorca,Numancia,1,0,NA,NA,7328,Abraham Domínguez,https://fbref.com/en/matches/bd7c2c8c/Mallorca-Numancia-November-25-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-11-25,Extremadura,Málaga,1,0,NA,NA,7707,Javier Villanueva,https://fbref.com/en/matches/3b513bb7/Extremadura-Malaga-November-25-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-11-25,Oviedo,Reus,3,0,NA,NA,15017,Jorge Figueroa,https://fbref.com/en/matches/0caf94fb/Oviedo-Reus-November-25-2018-Segunda-Division,0,1,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-11-25,Elche,Albacete,0,1,NA,NA,12867,Luis Milla,https://fbref.com/en/matches/360d4180/Elche-Albacete-November-25-2018-Segunda-Division,0,0,5,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2018-2019
+2018-11-25,Tenerife,Majadahonda,2,1,NA,NA,11775,Isidro Díaz de Mera,https://fbref.com/en/matches/e10f8c85/Tenerife-Majadahonda-November-25-2018-Segunda-Division,1,1,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-11-25,Alcorcón,Zaragoza,2,0,NA,NA,2908,Gorka Sagues,https://fbref.com/en/matches/b9b0cb0c/Alcorcon-Zaragoza-November-25-2018-Segunda-Division,1,1,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-11-30,Zaragoza,Cádiz,0,1,NA,NA,17950,Víctor Areces,https://fbref.com/en/matches/7249971d/Zaragoza-Cadiz-November-30-2018-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-12-01,Córdoba,Elche,1,1,NA,NA,9875,José López,https://fbref.com/en/matches/486eff21/Cordoba-Elche-December-1-2018-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2018-2019
+2018-12-01,Reus,Mallorca,0,2,NA,NA,2619,Iñaki Bikandi,https://fbref.com/en/matches/dcc77a17/Reus-Mallorca-December-1-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,2018-2019
+2018-12-01,Málaga,Granada,0,1,NA,NA,22988,César Soto,https://fbref.com/en/matches/34a69b64/Malaga-Granada-December-1-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-12-01,Almería,Extremadura,1,1,NA,NA,6232,David Pérez,https://fbref.com/en/matches/afaabb51/Almeria-Extremadura-December-1-2018-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-12-01,Sporting Gijón,Tenerife,2,1,NA,NA,19035,Rubén Ávalos,https://fbref.com/en/matches/1a1111d6/Sporting-Gijon-Tenerife-December-1-2018-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-12-02,Majadahonda,La Coruña,0,0,NA,NA,2812,Daniel Trujillo,https://fbref.com/en/matches/d415660d/Majadahonda-Deportivo-La-Coruna-December-2-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-12-02,Osasuna,Lugo,1,0,NA,NA,13301,Santiago Varón,https://fbref.com/en/matches/0f384458/Osasuna-Lugo-December-2-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-12-02,Numancia,Gimnàstic,3,0,NA,NA,3002,Saúl Ais,https://fbref.com/en/matches/c8ea2747/Numancia-Gimnastic-December-2-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-12-02,Albacete,Alcorcón,2,1,NA,NA,10470,Juan Pulido,https://fbref.com/en/matches/a5dbbc90/Albacete-Alcorcon-December-2-2018-Segunda-Division,1,1,2,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2018-2019
+2018-12-02,Las Palmas,Oviedo,0,0,NA,NA,11612,Álvaro Moreno,https://fbref.com/en/matches/56976bbf/Las-Palmas-Oviedo-December-2-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2018-2019
+2018-12-07,Tenerife,Extremadura,0,0,NA,NA,9275,Oliver De La Fuente,https://fbref.com/en/matches/6d5a6973/Tenerife-Extremadura-December-7-2018-Segunda-Division,0,0,5,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-12-08,La Coruña,Numancia,2,2,NA,NA,15576,Dámaso Arcediano,https://fbref.com/en/matches/8f3b4d3b/Deportivo-La-Coruna-Numancia-December-8-2018-Segunda-Division,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2018-12-08,Gimnàstic,Granada,0,1,NA,NA,8625,Gorka Sagues,https://fbref.com/en/matches/5c35ff05/Gimnastic-Granada-December-8-2018-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-12-08,Albacete,Osasuna,2,2,NA,NA,9602,Jorge Figueroa,https://fbref.com/en/matches/d5830e42/Albacete-Osasuna-December-8-2018-Segunda-Division,0,0,3,2,0,0,0,0,0,1,1,4,0,0,0,0,0,0,2018-2019
+2018-12-08,Mallorca,Málaga,1,2,NA,NA,9463,Aitor Gorostegui,https://fbref.com/en/matches/a6048783/Mallorca-Malaga-December-8-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2018-12-08,Oviedo,Almería,1,2,NA,NA,12408,Javier Villanueva,https://fbref.com/en/matches/1fc492f3/Oviedo-Almeria-December-8-2018-Segunda-Division,0,0,4,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-12-09,Alcorcón,Reus,0,1,NA,NA,3236,Saúl Ais,https://fbref.com/en/matches/bda88599/Alcorcon-Reus-December-9-2018-Segunda-Division,0,0,2,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2018-2019
+2018-12-09,Cádiz,Majadahonda,1,0,NA,NA,13258,Daniel Ocón,https://fbref.com/en/matches/5f00aa96/Cadiz-Majadahonda-December-9-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-12-09,Elche,Sporting Gijón,0,0,NA,NA,10156,Valentín Pizarro,https://fbref.com/en/matches/25f0594e/Elche-Sporting-Gijon-December-9-2018-Segunda-Division,0,1,5,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,2018-2019
+2018-12-09,Lugo,Las Palmas,4,2,NA,NA,2864,Luis Milla,https://fbref.com/en/matches/c0d22998/Lugo-Las-Palmas-December-9-2018-Segunda-Division,1,1,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2018-12-09,Zaragoza,Córdoba,0,0,NA,NA,16296,Isidro Díaz de Mera,https://fbref.com/en/matches/5045abcf/Zaragoza-Cordoba-December-9-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-12-14,Málaga,Cádiz,1,0,NA,NA,17650,Daniel Trujillo,https://fbref.com/en/matches/4e370f73/Malaga-Cadiz-December-14-2018-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-12-15,Granada,Oviedo,1,0,NA,NA,10373,David Pérez,https://fbref.com/en/matches/8cff6d5d/Granada-Oviedo-December-15-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-12-15,Numancia,Albacete,1,2,NA,NA,2884,José López,https://fbref.com/en/matches/e86a0c09/Numancia-Albacete-December-15-2018-Segunda-Division,1,1,5,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2018-2019
+2018-12-15,Reus,Córdoba,1,1,NA,NA,3820,Santiago Varón,https://fbref.com/en/matches/87300216/Reus-Cordoba-December-15-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-12-15,Sporting Gijón,Mallorca,1,0,NA,NA,18170,Álvaro Moreno,https://fbref.com/en/matches/26d94650/Sporting-Gijon-Mallorca-December-15-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-12-16,Majadahonda,Elche,1,3,NA,NA,1764,Rubén Ávalos,https://fbref.com/en/matches/47ba65d1/Majadahonda-Elche-December-16-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-12-16,Osasuna,Alcorcón,2,1,NA,NA,13437,Víctor Areces,https://fbref.com/en/matches/1f513cf3/Osasuna-Alcorcon-December-16-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2018-12-16,Las Palmas,Tenerife,1,1,NA,NA,19190,Gorka Sagues,https://fbref.com/en/matches/6eeeb36d/Las-Palmas-Tenerife-December-16-2018-Segunda-Division,0,0,3,1,0,0,0,0,0,1,1,5,0,0,0,0,0,0,2018-2019
+2018-12-16,Extremadura,Gimnàstic,0,1,NA,NA,10704,Iñaki Bikandi,https://fbref.com/en/matches/30832138/Extremadura-Gimnastic-December-16-2018-Segunda-Division,0,0,5,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2018-12-16,Almería,Lugo,1,1,NA,NA,6160,César Soto,https://fbref.com/en/matches/88d17480/Almeria-Lugo-December-16-2018-Segunda-Division,0,0,4,1,0,0,0,0,0,1,1,2,1,0,0,0,0,0,2018-2019
+2018-12-16,La Coruña,Zaragoza,3,1,NA,NA,14276,Juan Pulido,https://fbref.com/en/matches/0ecfde76/Deportivo-La-Coruna-Zaragoza-December-16-2018-Segunda-Division,1,1,1,0,0,0,0,0,0,1,1,5,0,0,0,0,0,0,2018-2019
+2018-12-21,Tenerife,Granada,1,1,NA,NA,8952,Valentín Pizarro,https://fbref.com/en/matches/0db299de/Tenerife-Granada-December-21-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-12-21,Mallorca,Gimnàstic,2,0,NA,NA,5988,Jorge Figueroa,https://fbref.com/en/matches/ad03c9e9/Mallorca-Gimnastic-December-21-2018-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-12-22,Lugo,Sporting Gijón,0,0,NA,NA,5515,Aitor Gorostegui,https://fbref.com/en/matches/2dde94cd/Lugo-Sporting-Gijon-December-22-2018-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-12-22,Oviedo,Málaga,0,0,NA,NA,12376,Dámaso Arcediano,https://fbref.com/en/matches/3f20c3c1/Oviedo-Malaga-December-22-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-12-22,Zaragoza,Extremadura,2,1,NA,NA,23222,Daniel Ocón,https://fbref.com/en/matches/2e408b75/Zaragoza-Extremadura-December-22-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-12-22,Elche,Almería,2,2,NA,NA,7454,Oliver De La Fuente,https://fbref.com/en/matches/1f51cddd/Elche-Almeria-December-22-2018-Segunda-Division,1,1,6,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2018-12-22,Córdoba,Las Palmas,4,1,NA,NA,8548,Javier Villanueva,https://fbref.com/en/matches/5e4b928e/Cordoba-Las-Palmas-December-22-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-12-22,Cádiz,La Coruña,3,0,NA,NA,14126,Isidro Díaz de Mera,https://fbref.com/en/matches/a39864e4/Cadiz-Deportivo-La-Coruna-December-22-2018-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2018-12-23,Reus,Osasuna,0,1,NA,NA,3516,Juan Pulido,https://fbref.com/en/matches/3ba27684/Reus-Osasuna-December-23-2018-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,2018-2019
+2018-12-23,Albacete,Majadahonda,1,0,NA,NA,10023,Saúl Ais,https://fbref.com/en/matches/5453eb29/Albacete-Majadahonda-December-23-2018-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2018-12-23,Alcorcón,Numancia,1,1,NA,NA,3273,Luis Milla,https://fbref.com/en/matches/0feedc70/Alcorcon-Numancia-December-23-2018-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-01-04,Tenerife,Elche,2,1,NA,NA,9818,Iñaki Bikandi,https://fbref.com/en/matches/af3407e9/Tenerife-Elche-January-4-2019-Segunda-Division,0,0,5,0,0,0,0,0,0,1,1,4,0,0,0,0,0,0,2018-2019
+2019-01-04,Granada,Albacete,1,1,NA,NA,11991,Víctor Areces,https://fbref.com/en/matches/a30595c7/Granada-Albacete-January-4-2019-Segunda-Division,1,1,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-01-05,Sporting Gijón,Zaragoza,1,2,NA,NA,22106,César Soto,https://fbref.com/en/matches/45d91aeb/Sporting-Gijon-Zaragoza-January-5-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-01-05,Extremadura,Alcorcón,3,0,NA,NA,8890,Gorka Sagues,https://fbref.com/en/matches/c85b2f92/Extremadura-Alcorcon-January-5-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2018-2019
+2019-01-06,Almería,Mallorca,2,0,NA,NA,5796,Daniel Trujillo,https://fbref.com/en/matches/b53714f8/Almeria-Mallorca-January-6-2019-Segunda-Division,1,3,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-01-06,La Coruña,Lugo,0,0,NA,NA,21516,Rubén Ávalos,https://fbref.com/en/matches/7a8b3f97/Deportivo-La-Coruna-Lugo-January-6-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,7,2,0,0,0,0,0,2018-2019
+2019-01-06,Osasuna,Cádiz,2,1,NA,NA,14940,Álvaro Moreno,https://fbref.com/en/matches/a1820bc2/Osasuna-Cadiz-January-6-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-01-06,Gimnàstic,Córdoba,1,0,NA,NA,5211,David Pérez,https://fbref.com/en/matches/67ff6ff0/Gimnastic-Cordoba-January-6-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2018-2019
+2019-01-06,Málaga,Reus,0,3,NA,NA,16058,José López,https://fbref.com/en/matches/82d9d00d/Malaga-Reus-January-6-2019-Segunda-Division,0,0,4,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2018-2019
+2019-01-07,Numancia,Oviedo,2,3,NA,NA,3183,Santiago Varón,https://fbref.com/en/matches/009d25ad/Numancia-Oviedo-January-7-2019-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-01-07,Majadahonda,Las Palmas,0,0,NA,NA,2932,Abraham Domínguez,https://fbref.com/en/matches/7d5104ba/Majadahonda-Las-Palmas-January-7-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2019-01-11,Cádiz,Granada,0,0,NA,NA,12538,Juan Pulido,https://fbref.com/en/matches/56a86dd5/Cadiz-Granada-January-11-2019-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-01-12,Albacete,Sporting Gijón,1,1,NA,NA,10837,Luis Milla,https://fbref.com/en/matches/bfa2001e/Albacete-Sporting-Gijon-January-12-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-01-12,Las Palmas,Osasuna,4,1,NA,NA,11005,Oliver De La Fuente,https://fbref.com/en/matches/11a64d47/Las-Palmas-Osasuna-January-12-2019-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-01-12,Reus,Numancia,1,1,NA,NA,2629,Daniel Ocón,https://fbref.com/en/matches/c8434970/Reus-Numancia-January-12-2019-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-01-12,Mallorca,La Coruña,1,0,NA,NA,7593,Saúl Ais,https://fbref.com/en/matches/f31307ac/Mallorca-Deportivo-La-Coruna-January-12-2019-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-01-12,Oviedo,Tenerife,1,0,NA,NA,11554,Isidro Díaz de Mera,https://fbref.com/en/matches/329cd1b4/Oviedo-Tenerife-January-12-2019-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-01-13,Córdoba,Majadahonda,1,1,NA,NA,10651,Dámaso Arcediano,https://fbref.com/en/matches/35cfe1a8/Cordoba-Majadahonda-January-13-2019-Segunda-Division,0,0,3,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-01-13,Alcorcón,Almería,0,0,NA,NA,2950,Aitor Gorostegui,https://fbref.com/en/matches/8b201339/Alcorcon-Almeria-January-13-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-01-13,Zaragoza,Málaga,0,2,NA,NA,24898,Valentín Pizarro,https://fbref.com/en/matches/f43c9aab/Zaragoza-Malaga-January-13-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-01-13,Lugo,Extremadura,1,1,NA,NA,3019,Jorge Figueroa,https://fbref.com/en/matches/b224dbf9/Lugo-Extremadura-January-13-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,2018-2019
+2019-01-13,Elche,Gimnàstic,1,0,NA,NA,7248,Javier Villanueva,https://fbref.com/en/matches/6f85c89a/Elche-Gimnastic-January-13-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2018-2019
 2019-01-19,Reus,Las Palmas,0,1,NA,NA,22,,https://fbref.com/en/matches/35c4825c/Reus-Las-Palmas-January-19-2019-Segunda-Division,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
-2019-01-19,Almería,Cádiz,0,0,NA,NA,7716,José López,https://fbref.com/en/matches/b590031e/Almeria-Cadiz-January-19-2019-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,1,3,1,NA,NA,NA,NA,NA,2018-2019
-2019-01-19,Numancia,Córdoba,3,2,NA,NA,4302,Rubén Ávalos,https://fbref.com/en/matches/f099eee6/Numancia-Cordoba-January-19-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-19,Majadahonda,Zaragoza,2,2,NA,NA,2907,David Pérez,https://fbref.com/en/matches/7dbb1df9/Majadahonda-Zaragoza-January-19-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-19,Málaga,Lugo,2,1,NA,NA,12758,Álvaro Moreno,https://fbref.com/en/matches/05d2c3e9/Malaga-Lugo-January-19-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,1,NA,NA,NA,NA,NA,2018-2019
-2019-01-20,Osasuna,Mallorca,2,0,NA,NA,14278,Gorka Sagues,https://fbref.com/en/matches/4f62d02e/Osasuna-Mallorca-January-20-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-20,Sporting Gijón,Alcorcón,2,0,NA,NA,17104,Daniel Trujillo,https://fbref.com/en/matches/9865f48f/Sporting-Gijon-Alcorcon-January-20-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-20,Tenerife,Gimnàstic,2,0,NA,NA,11425,Santiago Varón,https://fbref.com/en/matches/6b7f518a/Tenerife-Gimnastic-January-20-2019-Segunda-Division,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-20,La Coruña,Albacete,2,0,NA,NA,16446,Iñaki Bikandi,https://fbref.com/en/matches/15a91711/Deportivo-La-Coruna-Albacete-January-20-2019-Segunda-Division,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-20,Extremadura,Oviedo,0,2,NA,NA,8724,Abraham Domínguez,https://fbref.com/en/matches/bc84d904/Extremadura-Oviedo-January-20-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-21,Granada,Elche,2,1,NA,NA,8306,César Soto,https://fbref.com/en/matches/dd9adca0/Granada-Elche-January-21-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-25,Zaragoza,Oviedo,2,0,NA,NA,17759,Jorge Figueroa,https://fbref.com/en/matches/118811aa/Zaragoza-Oviedo-January-25-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,1,0,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-26,Almería,Osasuna,0,1,NA,NA,7015,Valentín Pizarro,https://fbref.com/en/matches/734d6bae/Almeria-Osasuna-January-26-2019-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-26,Lugo,Majadahonda,3,2,NA,NA,3357,Oliver De La Fuente,https://fbref.com/en/matches/5507389c/Lugo-Majadahonda-January-26-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-26,Elche,Numancia,1,1,NA,NA,9621,Aitor Gorostegui,https://fbref.com/en/matches/2b289f16/Elche-Numancia-January-26-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-26,Tenerife,Málaga,0,0,NA,NA,14465,Saúl Ais,https://fbref.com/en/matches/14cc2f93/Tenerife-Malaga-January-26-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-26,Cádiz,Mallorca,1,1,NA,NA,13496,Dámaso Arcediano,https://fbref.com/en/matches/1039320e/Cadiz-Mallorca-January-26-2019-Segunda-Division,0,0,5,2,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2019-01-19,Almería,Cádiz,0,0,NA,NA,7716,José López,https://fbref.com/en/matches/b590031e/Almeria-Cadiz-January-19-2019-Segunda-Division,0,0,4,0,0,0,0,0,0,0,1,3,1,0,0,0,0,0,2018-2019
+2019-01-19,Numancia,Córdoba,3,2,NA,NA,4302,Rubén Ávalos,https://fbref.com/en/matches/f099eee6/Numancia-Cordoba-January-19-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-01-19,Majadahonda,Zaragoza,2,2,NA,NA,2907,David Pérez,https://fbref.com/en/matches/7dbb1df9/Majadahonda-Zaragoza-January-19-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2019-01-19,Málaga,Lugo,2,1,NA,NA,12758,Álvaro Moreno,https://fbref.com/en/matches/05d2c3e9/Malaga-Lugo-January-19-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2018-2019
+2019-01-20,Osasuna,Mallorca,2,0,NA,NA,14278,Gorka Sagues,https://fbref.com/en/matches/4f62d02e/Osasuna-Mallorca-January-20-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-01-20,Sporting Gijón,Alcorcón,2,0,NA,NA,17104,Daniel Trujillo,https://fbref.com/en/matches/9865f48f/Sporting-Gijon-Alcorcon-January-20-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-01-20,Tenerife,Gimnàstic,2,0,NA,NA,11425,Santiago Varón,https://fbref.com/en/matches/6b7f518a/Tenerife-Gimnastic-January-20-2019-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-01-20,La Coruña,Albacete,2,0,NA,NA,16446,Iñaki Bikandi,https://fbref.com/en/matches/15a91711/Deportivo-La-Coruna-Albacete-January-20-2019-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-01-20,Extremadura,Oviedo,0,2,NA,NA,8724,Abraham Domínguez,https://fbref.com/en/matches/bc84d904/Extremadura-Oviedo-January-20-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-01-21,Granada,Elche,2,1,NA,NA,8306,César Soto,https://fbref.com/en/matches/dd9adca0/Granada-Elche-January-21-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2018-2019
+2019-01-25,Zaragoza,Oviedo,2,0,NA,NA,17759,Jorge Figueroa,https://fbref.com/en/matches/118811aa/Zaragoza-Oviedo-January-25-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2018-2019
+2019-01-26,Almería,Osasuna,0,1,NA,NA,7015,Valentín Pizarro,https://fbref.com/en/matches/734d6bae/Almeria-Osasuna-January-26-2019-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-01-26,Lugo,Majadahonda,3,2,NA,NA,3357,Oliver De La Fuente,https://fbref.com/en/matches/5507389c/Lugo-Majadahonda-January-26-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-01-26,Elche,Numancia,1,1,NA,NA,9621,Aitor Gorostegui,https://fbref.com/en/matches/2b289f16/Elche-Numancia-January-26-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-01-26,Tenerife,Málaga,0,0,NA,NA,14465,Saúl Ais,https://fbref.com/en/matches/14cc2f93/Tenerife-Malaga-January-26-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-01-26,Cádiz,Mallorca,1,1,NA,NA,13496,Dámaso Arcediano,https://fbref.com/en/matches/1039320e/Cadiz-Mallorca-January-26-2019-Segunda-Division,0,0,5,2,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
 2019-01-27,Albacete,Reus,1,0,NA,NA,23,,https://fbref.com/en/matches/36d194a8/Albacete-Reus-January-27-2019-Segunda-Division,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
-2019-01-27,Granada,Extremadura,0,0,NA,NA,11391,Isidro Díaz de Mera,https://fbref.com/en/matches/e02e9536/Granada-Extremadura-January-27-2019-Segunda-Division,0,0,3,1,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-27,Sporting Gijón,La Coruña,1,2,NA,NA,20740,Juan Pulido,https://fbref.com/en/matches/169d5f4e/Sporting-Gijon-Deportivo-La-Coruna-January-27-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-27,Alcorcón,Córdoba,2,1,NA,NA,2951,Daniel Ocón,https://fbref.com/en/matches/5c44ec06/Alcorcon-Cordoba-January-27-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-01-27,Gimnàstic,Las Palmas,0,0,NA,NA,3392,Luis Milla,https://fbref.com/en/matches/761e4673/Gimnastic-Las-Palmas-January-27-2019-Segunda-Division,0,0,3,1,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-01,Málaga,Almería,1,1,NA,NA,13313,Víctor Areces,https://fbref.com/en/matches/4b892a99/Malaga-Almeria-February-1-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-02,Numancia,Lugo,3,0,NA,NA,2689,Abraham Domínguez,https://fbref.com/en/matches/9a9d95fc/Numancia-Lugo-February-2-2019-Segunda-Division,0,0,1,1,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-02,Córdoba,Albacete,1,3,NA,NA,12003,Álvaro Moreno,https://fbref.com/en/matches/d9718f4e/Cordoba-Albacete-February-2-2019-Segunda-Division,1,1,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-02,Majadahonda,Gimnàstic,1,0,NA,NA,3054,Iñaki Bikandi,https://fbref.com/en/matches/9ddb9193/Majadahonda-Gimnastic-February-2-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
-2019-02-02,La Coruña,Tenerife,0,0,NA,NA,18071,José López,https://fbref.com/en/matches/879d8ac2/Deportivo-La-Coruna-Tenerife-February-2-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2019-01-27,Granada,Extremadura,0,0,NA,NA,11391,Isidro Díaz de Mera,https://fbref.com/en/matches/e02e9536/Granada-Extremadura-January-27-2019-Segunda-Division,0,0,3,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-01-27,Sporting Gijón,La Coruña,1,2,NA,NA,20740,Juan Pulido,https://fbref.com/en/matches/169d5f4e/Sporting-Gijon-Deportivo-La-Coruna-January-27-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-01-27,Alcorcón,Córdoba,2,1,NA,NA,2951,Daniel Ocón,https://fbref.com/en/matches/5c44ec06/Alcorcon-Cordoba-January-27-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-01-27,Gimnàstic,Las Palmas,0,0,NA,NA,3392,Luis Milla,https://fbref.com/en/matches/761e4673/Gimnastic-Las-Palmas-January-27-2019-Segunda-Division,0,0,3,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-02-01,Málaga,Almería,1,1,NA,NA,13313,Víctor Areces,https://fbref.com/en/matches/4b892a99/Malaga-Almeria-February-1-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-02-02,Numancia,Lugo,3,0,NA,NA,2689,Abraham Domínguez,https://fbref.com/en/matches/9a9d95fc/Numancia-Lugo-February-2-2019-Segunda-Division,0,0,1,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-02-02,Córdoba,Albacete,1,3,NA,NA,12003,Álvaro Moreno,https://fbref.com/en/matches/d9718f4e/Cordoba-Albacete-February-2-2019-Segunda-Division,1,1,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-02-02,Majadahonda,Gimnàstic,1,0,NA,NA,3054,Iñaki Bikandi,https://fbref.com/en/matches/9ddb9193/Majadahonda-Gimnastic-February-2-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2018-2019
+2019-02-02,La Coruña,Tenerife,0,0,NA,NA,18071,José López,https://fbref.com/en/matches/879d8ac2/Deportivo-La-Coruna-Tenerife-February-2-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
 2019-02-03,Reus,Elche,0,1,NA,NA,24,,https://fbref.com/en/matches/db40bef5/Reus-Elche-February-3-2019-Segunda-Division,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
-2019-02-03,Mallorca,Alcorcón,2,0,NA,NA,7551,César Soto,https://fbref.com/en/matches/aab6b9a5/Mallorca-Alcorcon-February-3-2019-Segunda-Division,1,1,3,1,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-03,Oviedo,Cádiz,2,1,NA,NA,12738,Gorka Sagues,https://fbref.com/en/matches/39976b92/Oviedo-Cadiz-February-3-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-03,Osasuna,Granada,1,0,NA,NA,15083,Daniel Trujillo,https://fbref.com/en/matches/a688e320/Osasuna-Granada-February-3-2019-Segunda-Division,0,0,5,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-03,Extremadura,Sporting Gijón,0,3,NA,NA,10440,Santiago Varón,https://fbref.com/en/matches/1840d749/Extremadura-Sporting-Gijon-February-3-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-04,Las Palmas,Zaragoza,1,1,NA,NA,10720,Javier Villanueva,https://fbref.com/en/matches/313ecfe0/Las-Palmas-Zaragoza-February-4-2019-Segunda-Division,0,0,6,1,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-08,Sporting Gijón,Osasuna,0,2,NA,NA,17806,Saúl Ais,https://fbref.com/en/matches/d8042ac8/Sporting-Gijon-Osasuna-February-8-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-03,Mallorca,Alcorcón,2,0,NA,NA,7551,César Soto,https://fbref.com/en/matches/aab6b9a5/Mallorca-Alcorcon-February-3-2019-Segunda-Division,1,1,3,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-02-03,Oviedo,Cádiz,2,1,NA,NA,12738,Gorka Sagues,https://fbref.com/en/matches/39976b92/Oviedo-Cadiz-February-3-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2019-02-03,Osasuna,Granada,1,0,NA,NA,15083,Daniel Trujillo,https://fbref.com/en/matches/a688e320/Osasuna-Granada-February-3-2019-Segunda-Division,0,0,5,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-02-03,Extremadura,Sporting Gijón,0,3,NA,NA,10440,Santiago Varón,https://fbref.com/en/matches/1840d749/Extremadura-Sporting-Gijon-February-3-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-02-04,Las Palmas,Zaragoza,1,1,NA,NA,10720,Javier Villanueva,https://fbref.com/en/matches/313ecfe0/Las-Palmas-Zaragoza-February-4-2019-Segunda-Division,0,0,6,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-02-08,Sporting Gijón,Osasuna,0,2,NA,NA,17806,Saúl Ais,https://fbref.com/en/matches/d8042ac8/Sporting-Gijon-Osasuna-February-8-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
 2019-02-09,Gimnàstic,Reus,1,0,NA,NA,25,,https://fbref.com/en/matches/bf4e7449/Gimnastic-Reus-February-9-2019-Segunda-Division,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
-2019-02-09,Extremadura,Majadahonda,1,1,NA,NA,11069,Luis Milla,https://fbref.com/en/matches/05f346f0/Extremadura-Majadahonda-February-9-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-09,Elche,Oviedo,1,2,NA,NA,9298,Dámaso Arcediano,https://fbref.com/en/matches/af15acf7/Elche-Oviedo-February-9-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-09,Tenerife,Córdoba,0,2,NA,NA,12532,Oliver De La Fuente,https://fbref.com/en/matches/bfb8ce3a/Tenerife-Cordoba-February-9-2019-Segunda-Division,0,0,6,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-09,Lugo,Zaragoza,1,2,NA,NA,2998,Juan Pulido,https://fbref.com/en/matches/6c035aed/Lugo-Zaragoza-February-9-2019-Segunda-Division,1,1,4,0,NA,NA,NA,NA,NA,0,1,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-10,Alcorcón,Cádiz,1,2,NA,NA,3765,Rubén Ávalos,https://fbref.com/en/matches/1e5a8075/Alcorcon-Cadiz-February-10-2019-Segunda-Division,0,0,3,1,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-10,Albacete,Mallorca,2,0,NA,NA,11825,Aitor Gorostegui,https://fbref.com/en/matches/fc0be17a/Albacete-Mallorca-February-10-2019-Segunda-Division,1,1,2,0,NA,NA,NA,NA,NA,0,0,1,1,NA,NA,NA,NA,NA,2018-2019
-2019-02-10,Almería,Numancia,1,0,NA,NA,7356,Isidro Díaz de Mera,https://fbref.com/en/matches/9e9bf91f/Almeria-Numancia-February-10-2019-Segunda-Division,1,1,5,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
-2019-02-10,Granada,La Coruña,0,1,NA,NA,13128,Valentín Pizarro,https://fbref.com/en/matches/3e09a59b/Granada-Deportivo-La-Coruna-February-10-2019-Segunda-Division,0,0,5,1,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2018-2019
-2019-02-10,Málaga,Las Palmas,0,0,NA,NA,15842,Daniel Ocón,https://fbref.com/en/matches/59a0ca0e/Malaga-Las-Palmas-February-10-2019-Segunda-Division,0,0,4,1,NA,NA,NA,NA,NA,0,0,1,1,NA,NA,NA,NA,NA,2018-2019
-2019-02-15,Córdoba,Granada,1,2,NA,NA,14242,Gorka Sagues,https://fbref.com/en/matches/b245513b/Cordoba-Granada-February-15-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-16,La Coruña,Gimnàstic,1,1,NA,NA,16818,César Soto,https://fbref.com/en/matches/a6ca6ed4/Deportivo-La-Coruna-Gimnastic-February-16-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-16,Zaragoza,Albacete,0,0,NA,NA,25977,Daniel Trujillo,https://fbref.com/en/matches/24053cba/Zaragoza-Albacete-February-16-2019-Segunda-Division,0,0,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-16,Elche,Extremadura,2,0,NA,NA,9479,José López,https://fbref.com/en/matches/e6fde2af/Elche-Extremadura-February-16-2019-Segunda-Division,1,1,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-16,Oviedo,Alcorcón,1,0,NA,NA,14405,Santiago Varón,https://fbref.com/en/matches/14c846cb/Oviedo-Alcorcon-February-16-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-16,Cádiz,Tenerife,2,0,NA,NA,12939,Iñaki Bikandi,https://fbref.com/en/matches/ce65de22/Cadiz-Tenerife-February-16-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2018-2019
+2019-02-09,Elche,Oviedo,1,2,NA,NA,9298,Dámaso Arcediano,https://fbref.com/en/matches/af15acf7/Elche-Oviedo-February-9-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2018-2019
+2019-02-09,Extremadura,Majadahonda,1,1,NA,NA,11069,Luis Milla,https://fbref.com/en/matches/05f346f0/Extremadura-Majadahonda-February-9-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-02-09,Tenerife,Córdoba,0,2,NA,NA,12532,Oliver De La Fuente,https://fbref.com/en/matches/bfb8ce3a/Tenerife-Cordoba-February-9-2019-Segunda-Division,0,0,6,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-02-09,Lugo,Zaragoza,1,2,NA,NA,2998,Juan Pulido,https://fbref.com/en/matches/6c035aed/Lugo-Zaragoza-February-9-2019-Segunda-Division,1,1,4,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,2018-2019
+2019-02-10,Alcorcón,Cádiz,1,2,NA,NA,3765,Rubén Ávalos,https://fbref.com/en/matches/1e5a8075/Alcorcon-Cadiz-February-10-2019-Segunda-Division,0,0,3,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-02-10,Albacete,Mallorca,2,0,NA,NA,11825,Aitor Gorostegui,https://fbref.com/en/matches/fc0be17a/Albacete-Mallorca-February-10-2019-Segunda-Division,1,1,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2018-2019
+2019-02-10,Almería,Numancia,1,0,NA,NA,7356,Isidro Díaz de Mera,https://fbref.com/en/matches/9e9bf91f/Almeria-Numancia-February-10-2019-Segunda-Division,1,1,5,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2018-2019
+2019-02-10,Granada,La Coruña,0,1,NA,NA,13128,Valentín Pizarro,https://fbref.com/en/matches/3e09a59b/Granada-Deportivo-La-Coruna-February-10-2019-Segunda-Division,0,0,5,1,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2018-2019
+2019-02-10,Málaga,Las Palmas,0,0,NA,NA,15842,Daniel Ocón,https://fbref.com/en/matches/59a0ca0e/Malaga-Las-Palmas-February-10-2019-Segunda-Division,0,0,4,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2018-2019
+2019-02-15,Córdoba,Granada,1,2,NA,NA,14242,Gorka Sagues,https://fbref.com/en/matches/b245513b/Cordoba-Granada-February-15-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-02-16,La Coruña,Gimnàstic,1,1,NA,NA,16818,César Soto,https://fbref.com/en/matches/a6ca6ed4/Deportivo-La-Coruna-Gimnastic-February-16-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-02-16,Zaragoza,Albacete,0,0,NA,NA,25977,Daniel Trujillo,https://fbref.com/en/matches/24053cba/Zaragoza-Albacete-February-16-2019-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-02-16,Elche,Extremadura,2,0,NA,NA,9479,José López,https://fbref.com/en/matches/e6fde2af/Elche-Extremadura-February-16-2019-Segunda-Division,1,1,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-02-16,Oviedo,Alcorcón,1,0,NA,NA,14405,Santiago Varón,https://fbref.com/en/matches/14c846cb/Oviedo-Alcorcon-February-16-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-02-16,Cádiz,Tenerife,2,0,NA,NA,12939,Iñaki Bikandi,https://fbref.com/en/matches/ce65de22/Cadiz-Tenerife-February-16-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2018-2019
 2019-02-17,Reus,Almería,0,1,NA,NA,26,,https://fbref.com/en/matches/73b4efe3/Reus-Almeria-February-17-2019-Segunda-Division,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
-2019-02-17,Mallorca,Lugo,3,0,NA,NA,7433,Víctor Areces,https://fbref.com/en/matches/ae409f56/Mallorca-Lugo-February-17-2019-Segunda-Division,1,1,1,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-17,Numancia,Osasuna,1,1,NA,NA,6024,Jorge Figueroa,https://fbref.com/en/matches/492725b2/Numancia-Osasuna-February-17-2019-Segunda-Division,0,0,4,1,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-17,Majadahonda,Málaga,0,1,NA,NA,3137,Javier Villanueva,https://fbref.com/en/matches/62405574/Majadahonda-Malaga-February-17-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-17,Las Palmas,Sporting Gijón,1,0,NA,NA,12277,David Pérez,https://fbref.com/en/matches/ae20148e/Las-Palmas-Sporting-Gijon-February-17-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-22,Tenerife,Mallorca,2,2,NA,NA,9734,Daniel Ocón,https://fbref.com/en/matches/545ae2ec/Tenerife-Mallorca-February-22-2019-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
-2019-02-23,Albacete,Oviedo,0,0,NA,NA,11457,Oliver De La Fuente,https://fbref.com/en/matches/19ea477c/Albacete-Oviedo-February-23-2019-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-23,Gimnàstic,Cádiz,2,3,NA,NA,7494,Álvaro Moreno,https://fbref.com/en/matches/24523f99/Gimnastic-Cadiz-February-23-2019-Segunda-Division,1,1,5,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-23,Alcorcón,Las Palmas,2,0,NA,NA,3225,Dámaso Arcediano,https://fbref.com/en/matches/46329281/Alcorcon-Las-Palmas-February-23-2019-Segunda-Division,1,1,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-23,Osasuna,Zaragoza,1,0,NA,NA,16750,Rubén Ávalos,https://fbref.com/en/matches/c2f9ada9/Osasuna-Zaragoza-February-23-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
+2019-02-17,Mallorca,Lugo,3,0,NA,NA,7433,Víctor Areces,https://fbref.com/en/matches/ae409f56/Mallorca-Lugo-February-17-2019-Segunda-Division,1,1,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2019-02-17,Numancia,Osasuna,1,1,NA,NA,6024,Jorge Figueroa,https://fbref.com/en/matches/492725b2/Numancia-Osasuna-February-17-2019-Segunda-Division,0,0,4,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-02-17,Majadahonda,Málaga,0,1,NA,NA,3137,Javier Villanueva,https://fbref.com/en/matches/62405574/Majadahonda-Malaga-February-17-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-02-17,Las Palmas,Sporting Gijón,1,0,NA,NA,12277,David Pérez,https://fbref.com/en/matches/ae20148e/Las-Palmas-Sporting-Gijon-February-17-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-02-22,Tenerife,Mallorca,2,2,NA,NA,9734,Daniel Ocón,https://fbref.com/en/matches/545ae2ec/Tenerife-Mallorca-February-22-2019-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2018-2019
+2019-02-23,Albacete,Oviedo,0,0,NA,NA,11457,Oliver De La Fuente,https://fbref.com/en/matches/19ea477c/Albacete-Oviedo-February-23-2019-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-02-23,Gimnàstic,Cádiz,2,3,NA,NA,7494,Álvaro Moreno,https://fbref.com/en/matches/24523f99/Gimnastic-Cadiz-February-23-2019-Segunda-Division,1,1,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-02-23,Alcorcón,Las Palmas,2,0,NA,NA,3225,Dámaso Arcediano,https://fbref.com/en/matches/46329281/Alcorcon-Las-Palmas-February-23-2019-Segunda-Division,1,1,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-02-23,Osasuna,Zaragoza,1,0,NA,NA,16750,Rubén Ávalos,https://fbref.com/en/matches/c2f9ada9/Osasuna-Zaragoza-February-23-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2018-2019
 2019-02-24,Granada,Reus,1,0,NA,NA,27,,https://fbref.com/en/matches/50243f57/Granada-Reus-February-24-2019-Segunda-Division,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
-2019-02-24,Sporting Gijón,Majadahonda,2,3,NA,NA,17296,Abraham Domínguez,https://fbref.com/en/matches/9494882f/Sporting-Gijon-Majadahonda-February-24-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-24,Almería,Córdoba,3,1,NA,NA,8571,Juan Pulido,https://fbref.com/en/matches/320854a8/Almeria-Cordoba-February-24-2019-Segunda-Division,0,0,0,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-24,Málaga,La Coruña,0,0,NA,NA,22414,Aitor Gorostegui,https://fbref.com/en/matches/347ba6a2/Malaga-Deportivo-La-Coruna-February-24-2019-Segunda-Division,0,0,5,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-24,Lugo,Elche,2,2,NA,NA,3670,Isidro Díaz de Mera,https://fbref.com/en/matches/145cec27/Lugo-Elche-February-24-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-02-24,Extremadura,Numancia,0,1,NA,NA,10873,Saúl Ais,https://fbref.com/en/matches/9ff05510/Extremadura-Numancia-February-24-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-02,Cádiz,Albacete,1,0,NA,NA,13515,Javier Villanueva,https://fbref.com/en/matches/c19ff86a/Cadiz-Albacete-March-2-2019-Segunda-Division,1,1,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-02,Córdoba,Málaga,1,1,NA,NA,13885,Iñaki Bikandi,https://fbref.com/en/matches/ee5cd768/Cordoba-Malaga-March-2-2019-Segunda-Division,0,0,5,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-02,Osasuna,Gimnàstic,1,0,NA,NA,15389,José López,https://fbref.com/en/matches/d52c5ff7/Osasuna-Gimnastic-March-2-2019-Segunda-Division,0,0,0,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-02-24,Sporting Gijón,Majadahonda,2,3,NA,NA,17296,Abraham Domínguez,https://fbref.com/en/matches/9494882f/Sporting-Gijon-Majadahonda-February-24-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-02-24,Almería,Córdoba,3,1,NA,NA,8571,Juan Pulido,https://fbref.com/en/matches/320854a8/Almeria-Cordoba-February-24-2019-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-02-24,Málaga,La Coruña,0,0,NA,NA,22414,Aitor Gorostegui,https://fbref.com/en/matches/347ba6a2/Malaga-Deportivo-La-Coruna-February-24-2019-Segunda-Division,0,0,5,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-02-24,Lugo,Elche,2,2,NA,NA,3670,Isidro Díaz de Mera,https://fbref.com/en/matches/145cec27/Lugo-Elche-February-24-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-02-24,Extremadura,Numancia,0,1,NA,NA,10873,Saúl Ais,https://fbref.com/en/matches/9ff05510/Extremadura-Numancia-February-24-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-03-02,Cádiz,Albacete,1,0,NA,NA,13515,Javier Villanueva,https://fbref.com/en/matches/c19ff86a/Cadiz-Albacete-March-2-2019-Segunda-Division,1,1,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-03-02,Córdoba,Málaga,1,1,NA,NA,13885,Iñaki Bikandi,https://fbref.com/en/matches/ee5cd768/Cordoba-Malaga-March-2-2019-Segunda-Division,0,0,5,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-03-02,Osasuna,Gimnàstic,1,0,NA,NA,15389,José López,https://fbref.com/en/matches/d52c5ff7/Osasuna-Gimnastic-March-2-2019-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
 2019-03-03,Reus,Tenerife,0,1,NA,NA,28,,https://fbref.com/en/matches/977c2929/Reus-Tenerife-March-3-2019-Segunda-Division,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
-2019-03-03,Mallorca,Elche,1,1,NA,NA,7335,Valentín Pizarro,https://fbref.com/en/matches/a00c12ed/Mallorca-Elche-March-3-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,7,1,NA,NA,NA,NA,NA,2018-2019
-2019-03-03,Numancia,Sporting Gijón,1,2,NA,NA,4071,Daniel Trujillo,https://fbref.com/en/matches/50a68cb6/Numancia-Sporting-Gijon-March-3-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-03,Majadahonda,Granada,0,3,NA,NA,2891,Víctor Areces,https://fbref.com/en/matches/21f4bbd9/Majadahonda-Granada-March-3-2019-Segunda-Division,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-03,Oviedo,Lugo,1,1,NA,NA,15655,Jorge Figueroa,https://fbref.com/en/matches/45a1da8b/Oviedo-Lugo-March-3-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-03,Las Palmas,Extremadura,1,1,NA,NA,10892,Gorka Sagues,https://fbref.com/en/matches/34439c36/Las-Palmas-Extremadura-March-3-2019-Segunda-Division,0,0,4,1,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-03,Zaragoza,Almería,1,2,NA,NA,20400,Santiago Varón,https://fbref.com/en/matches/38c43c4f/Zaragoza-Almeria-March-3-2019-Segunda-Division,0,0,4,1,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-04,La Coruña,Alcorcón,2,2,NA,NA,15901,Luis Milla,https://fbref.com/en/matches/93b1e865/Deportivo-La-Coruna-Alcorcon-March-4-2019-Segunda-Division,1,1,2,0,NA,NA,NA,NA,NA,1,1,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-09,Mallorca,Oviedo,1,0,NA,NA,8032,Álvaro Moreno,https://fbref.com/en/matches/fb4c3cd4/Mallorca-Oviedo-March-9-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-09,Sporting Gijón,Almería,1,0,NA,NA,17490,Dámaso Arcediano,https://fbref.com/en/matches/dd5aa8ed/Sporting-Gijon-Almeria-March-9-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,1,NA,NA,NA,NA,NA,2018-2019
-2019-03-09,Gimnàstic,Albacete,1,0,NA,NA,4118,Daniel Ocón,https://fbref.com/en/matches/44935095/Gimnastic-Albacete-March-9-2019-Segunda-Division,1,1,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-09,Elche,Cádiz,1,0,NA,NA,10005,César Soto,https://fbref.com/en/matches/d0ab2bc7/Elche-Cadiz-March-9-2019-Segunda-Division,0,0,2,1,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-03,Mallorca,Elche,1,1,NA,NA,7335,Valentín Pizarro,https://fbref.com/en/matches/a00c12ed/Mallorca-Elche-March-3-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,7,1,0,0,0,0,0,2018-2019
+2019-03-03,Numancia,Sporting Gijón,1,2,NA,NA,4071,Daniel Trujillo,https://fbref.com/en/matches/50a68cb6/Numancia-Sporting-Gijon-March-3-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-03-03,Majadahonda,Granada,0,3,NA,NA,2891,Víctor Areces,https://fbref.com/en/matches/21f4bbd9/Majadahonda-Granada-March-3-2019-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2019-03-03,Oviedo,Lugo,1,1,NA,NA,15655,Jorge Figueroa,https://fbref.com/en/matches/45a1da8b/Oviedo-Lugo-March-3-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2019-03-03,Las Palmas,Extremadura,1,1,NA,NA,10892,Gorka Sagues,https://fbref.com/en/matches/34439c36/Las-Palmas-Extremadura-March-3-2019-Segunda-Division,0,0,4,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-03-03,Zaragoza,Almería,1,2,NA,NA,20400,Santiago Varón,https://fbref.com/en/matches/38c43c4f/Zaragoza-Almeria-March-3-2019-Segunda-Division,0,0,4,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-03-04,La Coruña,Alcorcón,2,2,NA,NA,15901,Luis Milla,https://fbref.com/en/matches/93b1e865/Deportivo-La-Coruna-Alcorcon-March-4-2019-Segunda-Division,1,1,2,0,0,0,0,0,0,1,1,4,0,0,0,0,0,0,2018-2019
+2019-03-09,Mallorca,Oviedo,1,0,NA,NA,8032,Álvaro Moreno,https://fbref.com/en/matches/fb4c3cd4/Mallorca-Oviedo-March-9-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2019-03-09,Sporting Gijón,Almería,1,0,NA,NA,17490,Dámaso Arcediano,https://fbref.com/en/matches/dd5aa8ed/Sporting-Gijon-Almeria-March-9-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2018-2019
+2019-03-09,Gimnàstic,Albacete,1,0,NA,NA,4118,Daniel Ocón,https://fbref.com/en/matches/44935095/Gimnastic-Albacete-March-9-2019-Segunda-Division,1,1,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-03-09,Elche,Cádiz,1,0,NA,NA,10005,César Soto,https://fbref.com/en/matches/d0ab2bc7/Elche-Cadiz-March-9-2019-Segunda-Division,0,0,2,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
 2019-03-10,Lugo,Reus,1,0,NA,NA,29,,https://fbref.com/en/matches/a3f84132/Lugo-Reus-March-10-2019-Segunda-Division,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
-2019-03-10,Majadahonda,Alcorcón,2,0,NA,NA,3081,Juan Pulido,https://fbref.com/en/matches/dc353045/Majadahonda-Alcorcon-March-10-2019-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-10,Extremadura,Córdoba,3,0,NA,NA,11483,Aitor Gorostegui,https://fbref.com/en/matches/fb87fb19/Extremadura-Cordoba-March-10-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,6,1,NA,NA,NA,NA,NA,2018-2019
-2019-03-10,Tenerife,Numancia,1,1,NA,NA,9337,David Pérez,https://fbref.com/en/matches/d528136d/Tenerife-Numancia-March-10-2019-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-10,Granada,Zaragoza,1,0,NA,NA,13139,Saúl Ais,https://fbref.com/en/matches/26cf2577/Granada-Zaragoza-March-10-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-10,La Coruña,Las Palmas,0,1,NA,NA,16215,Oliver De La Fuente,https://fbref.com/en/matches/30850820/Deportivo-La-Coruna-Las-Palmas-March-10-2019-Segunda-Division,0,0,3,1,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-11,Málaga,Osasuna,1,2,NA,NA,22178,Isidro Díaz de Mera,https://fbref.com/en/matches/f761f946/Malaga-Osasuna-March-11-2019-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-16,Albacete,Extremadura,1,0,NA,NA,9814,Víctor Areces,https://fbref.com/en/matches/3f80bcdc/Albacete-Extremadura-March-16-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2018-2019
-2019-03-16,Cádiz,Lugo,1,1,NA,NA,12595,José López,https://fbref.com/en/matches/6da42595/Cadiz-Lugo-March-16-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
-2019-03-16,Alcorcón,Tenerife,1,1,NA,NA,2742,Abraham Domínguez,https://fbref.com/en/matches/158ed976/Alcorcon-Tenerife-March-16-2019-Segunda-Division,1,1,3,0,NA,NA,NA,NA,NA,0,0,6,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-16,Zaragoza,Elche,1,0,NA,NA,20833,Luis Milla,https://fbref.com/en/matches/1998f16a/Zaragoza-Elche-March-16-2019-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-10,Majadahonda,Alcorcón,2,0,NA,NA,3081,Juan Pulido,https://fbref.com/en/matches/dc353045/Majadahonda-Alcorcon-March-10-2019-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-03-10,Extremadura,Córdoba,3,0,NA,NA,11483,Aitor Gorostegui,https://fbref.com/en/matches/fb87fb19/Extremadura-Cordoba-March-10-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,6,1,0,0,0,0,0,2018-2019
+2019-03-10,Tenerife,Numancia,1,1,NA,NA,9337,David Pérez,https://fbref.com/en/matches/d528136d/Tenerife-Numancia-March-10-2019-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-03-10,Granada,Zaragoza,1,0,NA,NA,13139,Saúl Ais,https://fbref.com/en/matches/26cf2577/Granada-Zaragoza-March-10-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-03-10,La Coruña,Las Palmas,0,1,NA,NA,16215,Oliver De La Fuente,https://fbref.com/en/matches/30850820/Deportivo-La-Coruna-Las-Palmas-March-10-2019-Segunda-Division,0,0,3,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-03-11,Málaga,Osasuna,1,2,NA,NA,22178,Isidro Díaz de Mera,https://fbref.com/en/matches/f761f946/Malaga-Osasuna-March-11-2019-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-03-16,Albacete,Extremadura,1,0,NA,NA,9814,Víctor Areces,https://fbref.com/en/matches/3f80bcdc/Albacete-Extremadura-March-16-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2018-2019
+2019-03-16,Cádiz,Lugo,1,1,NA,NA,12595,José López,https://fbref.com/en/matches/6da42595/Cadiz-Lugo-March-16-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2018-2019
+2019-03-16,Alcorcón,Tenerife,1,1,NA,NA,2742,Abraham Domínguez,https://fbref.com/en/matches/158ed976/Alcorcon-Tenerife-March-16-2019-Segunda-Division,1,1,3,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,2018-2019
+2019-03-16,Zaragoza,Elche,1,0,NA,NA,20833,Luis Milla,https://fbref.com/en/matches/1998f16a/Zaragoza-Elche-March-16-2019-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
 2019-03-17,Reus,La Coruña,0,1,NA,NA,30,,https://fbref.com/en/matches/a1f23e44/Reus-Deportivo-La-Coruna-March-17-2019-Segunda-Division,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
-2019-03-17,Oviedo,Gimnàstic,2,0,NA,NA,12354,Valentín Pizarro,https://fbref.com/en/matches/3b220d1d/Oviedo-Gimnastic-March-17-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-17,Córdoba,Sporting Gijón,1,2,NA,NA,10196,Rubén Ávalos,https://fbref.com/en/matches/3d14af15/Cordoba-Sporting-Gijon-March-17-2019-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-17,Almería,Granada,0,0,NA,NA,13273,Iñaki Bikandi,https://fbref.com/en/matches/4088892c/Almeria-Granada-March-17-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-17,Osasuna,Majadahonda,3,0,NA,NA,16048,Santiago Varón,https://fbref.com/en/matches/732bec99/Osasuna-Majadahonda-March-17-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-17,Las Palmas,Mallorca,1,2,NA,NA,14594,Jorge Figueroa,https://fbref.com/en/matches/47cb690b/Las-Palmas-Mallorca-March-17-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-18,Numancia,Málaga,1,1,NA,NA,2576,Gorka Sagues,https://fbref.com/en/matches/98f908e3/Numancia-Malaga-March-18-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-22,Tenerife,Osasuna,3,2,NA,NA,9268,Javier Villanueva,https://fbref.com/en/matches/672c36a3/Tenerife-Osasuna-March-22-2019-Segunda-Division,0,0,5,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-22,La Coruña,Almería,0,0,NA,NA,16086,Daniel Trujillo,https://fbref.com/en/matches/7ecd994c/Deportivo-La-Coruna-Almeria-March-22-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-23,Elche,Alcorcón,3,1,NA,NA,9329,Aitor Gorostegui,https://fbref.com/en/matches/c18215d6/Elche-Alcorcon-March-23-2019-Segunda-Division,1,1,5,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-23,Lugo,Albacete,0,3,NA,NA,3626,Saúl Ais,https://fbref.com/en/matches/526ff52f/Lugo-Albacete-March-23-2019-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-17,Oviedo,Gimnàstic,2,0,NA,NA,12354,Valentín Pizarro,https://fbref.com/en/matches/3b220d1d/Oviedo-Gimnastic-March-17-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-03-17,Córdoba,Sporting Gijón,1,2,NA,NA,10196,Rubén Ávalos,https://fbref.com/en/matches/3d14af15/Cordoba-Sporting-Gijon-March-17-2019-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-03-17,Almería,Granada,0,0,NA,NA,13273,Iñaki Bikandi,https://fbref.com/en/matches/4088892c/Almeria-Granada-March-17-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-03-17,Osasuna,Majadahonda,3,0,NA,NA,16048,Santiago Varón,https://fbref.com/en/matches/732bec99/Osasuna-Majadahonda-March-17-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-03-17,Las Palmas,Mallorca,1,2,NA,NA,14594,Jorge Figueroa,https://fbref.com/en/matches/47cb690b/Las-Palmas-Mallorca-March-17-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-03-18,Numancia,Málaga,1,1,NA,NA,2576,Gorka Sagues,https://fbref.com/en/matches/98f908e3/Numancia-Malaga-March-18-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-03-22,Tenerife,Osasuna,3,2,NA,NA,9268,Javier Villanueva,https://fbref.com/en/matches/672c36a3/Tenerife-Osasuna-March-22-2019-Segunda-Division,0,0,5,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-03-22,La Coruña,Almería,0,0,NA,NA,16086,Daniel Trujillo,https://fbref.com/en/matches/7ecd994c/Deportivo-La-Coruna-Almeria-March-22-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-03-23,Elche,Alcorcón,3,1,NA,NA,9329,Aitor Gorostegui,https://fbref.com/en/matches/c18215d6/Elche-Alcorcon-March-23-2019-Segunda-Division,1,1,5,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-03-23,Lugo,Albacete,0,3,NA,NA,3626,Saúl Ais,https://fbref.com/en/matches/526ff52f/Lugo-Albacete-March-23-2019-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
 2019-03-24,Extremadura,Reus,1,0,NA,NA,31,,https://fbref.com/en/matches/704c690d/Extremadura-Reus-March-24-2019-Segunda-Division,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
-2019-03-24,Majadahonda,Numancia,4,0,NA,NA,3047,Dámaso Arcediano,https://fbref.com/en/matches/b6ec8279/Majadahonda-Numancia-March-24-2019-Segunda-Division,1,2,4,1,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-24,Gimnàstic,Málaga,0,1,NA,NA,6212,Juan Pulido,https://fbref.com/en/matches/898b4af4/Gimnastic-Malaga-March-24-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-24,Cádiz,Córdoba,1,1,NA,NA,13615,David Pérez,https://fbref.com/en/matches/2905dd16/Cadiz-Cordoba-March-24-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-24,Granada,Las Palmas,1,1,NA,NA,11253,Álvaro Moreno,https://fbref.com/en/matches/70161858/Granada-Las-Palmas-March-24-2019-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-24,Sporting Gijón,Oviedo,1,0,NA,NA,26748,Isidro Díaz de Mera,https://fbref.com/en/matches/79017a6e/Sporting-Gijon-Oviedo-March-24-2019-Segunda-Division,0,1,5,0,NA,NA,NA,NA,NA,0,0,8,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-25,Mallorca,Zaragoza,3,0,NA,NA,7837,Oliver De La Fuente,https://fbref.com/en/matches/63ba2304/Mallorca-Zaragoza-March-25-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
-2019-03-29,Málaga,Sporting Gijón,1,1,NA,NA,16996,Valentín Pizarro,https://fbref.com/en/matches/01089ade/Malaga-Sporting-Gijon-March-29-2019-Segunda-Division,0,0,5,1,NA,NA,NA,NA,NA,1,1,6,1,NA,NA,NA,NA,NA,2018-2019
-2019-03-30,Almería,Majadahonda,2,2,NA,NA,6858,Rubén Ávalos,https://fbref.com/en/matches/065ca251/Almeria-Majadahonda-March-30-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-30,Numancia,Granada,2,1,NA,NA,3053,Daniel Ocón,https://fbref.com/en/matches/f66b6e04/Numancia-Granada-March-30-2019-Segunda-Division,1,1,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-30,Albacete,Tenerife,2,2,NA,NA,10565,Jorge Figueroa,https://fbref.com/en/matches/6bf5b7ba/Albacete-Tenerife-March-30-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-24,Majadahonda,Numancia,4,0,NA,NA,3047,Dámaso Arcediano,https://fbref.com/en/matches/b6ec8279/Majadahonda-Numancia-March-24-2019-Segunda-Division,1,2,4,1,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2019-03-24,Gimnàstic,Málaga,0,1,NA,NA,6212,Juan Pulido,https://fbref.com/en/matches/898b4af4/Gimnastic-Malaga-March-24-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-03-24,Cádiz,Córdoba,1,1,NA,NA,13615,David Pérez,https://fbref.com/en/matches/2905dd16/Cadiz-Cordoba-March-24-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2019-03-24,Granada,Las Palmas,1,1,NA,NA,11253,Álvaro Moreno,https://fbref.com/en/matches/70161858/Granada-Las-Palmas-March-24-2019-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2019-03-24,Sporting Gijón,Oviedo,1,0,NA,NA,26748,Isidro Díaz de Mera,https://fbref.com/en/matches/79017a6e/Sporting-Gijon-Oviedo-March-24-2019-Segunda-Division,0,1,5,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,2018-2019
+2019-03-25,Mallorca,Zaragoza,3,0,NA,NA,7837,Oliver De La Fuente,https://fbref.com/en/matches/63ba2304/Mallorca-Zaragoza-March-25-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2018-2019
+2019-03-29,Málaga,Sporting Gijón,1,1,NA,NA,16996,Valentín Pizarro,https://fbref.com/en/matches/01089ade/Malaga-Sporting-Gijon-March-29-2019-Segunda-Division,0,0,5,1,0,0,0,0,0,1,1,6,1,0,0,0,0,0,2018-2019
+2019-03-30,Almería,Majadahonda,2,2,NA,NA,6858,Rubén Ávalos,https://fbref.com/en/matches/065ca251/Almeria-Majadahonda-March-30-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-03-30,Numancia,Granada,2,1,NA,NA,3053,Daniel Ocón,https://fbref.com/en/matches/f66b6e04/Numancia-Granada-March-30-2019-Segunda-Division,1,1,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-03-30,Albacete,Tenerife,2,2,NA,NA,10565,Jorge Figueroa,https://fbref.com/en/matches/6bf5b7ba/Albacete-Tenerife-March-30-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
 2019-03-31,Reus,Cádiz,0,1,NA,NA,32,,https://fbref.com/en/matches/5c1519de/Reus-Cadiz-March-31-2019-Segunda-Division,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
-2019-03-31,Córdoba,Mallorca,3,2,NA,NA,8148,José López,https://fbref.com/en/matches/9cdfaaa9/Cordoba-Mallorca-March-31-2019-Segunda-Division,0,1,4,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-31,Osasuna,Extremadura,1,0,NA,NA,16032,Abraham Domínguez,https://fbref.com/en/matches/e3d7408b/Osasuna-Extremadura-March-31-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-31,Oviedo,La Coruña,1,1,NA,NA,18035,César Soto,https://fbref.com/en/matches/69acf200/Oviedo-Deportivo-La-Coruna-March-31-2019-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-31,Alcorcón,Lugo,0,0,NA,NA,2537,Santiago Varón,https://fbref.com/en/matches/4eb474ae/Alcorcon-Lugo-March-31-2019-Segunda-Division,0,1,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-03-31,Las Palmas,Elche,0,1,NA,NA,10404,Víctor Areces,https://fbref.com/en/matches/cdbd6748/Las-Palmas-Elche-March-31-2019-Segunda-Division,0,0,5,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-01,Zaragoza,Gimnàstic,3,0,NA,NA,14809,Gorka Sagues,https://fbref.com/en/matches/f4e387b3/Zaragoza-Gimnastic-April-1-2019-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-05,Tenerife,Sporting Gijón,0,1,NA,NA,10083,Álvaro Moreno,https://fbref.com/en/matches/5c0b3848/Tenerife-Sporting-Gijon-April-5-2019-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-06,La Coruña,Majadahonda,0,2,NA,NA,15658,Aitor Gorostegui,https://fbref.com/en/matches/6e9a0d3f/Deportivo-La-Coruna-Majadahonda-April-6-2019-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-06,Extremadura,Almería,1,0,NA,NA,9754,Juan Pulido,https://fbref.com/en/matches/6d303009/Extremadura-Almeria-April-6-2019-Segunda-Division,1,1,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-06,Granada,Málaga,1,0,NA,NA,15211,Daniel Trujillo,https://fbref.com/en/matches/10021b5d/Granada-Malaga-April-6-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2018-2019
-2019-04-06,Oviedo,Las Palmas,1,1,NA,NA,12022,Saúl Ais,https://fbref.com/en/matches/8b5fc91a/Oviedo-Las-Palmas-April-6-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
+2019-03-31,Córdoba,Mallorca,3,2,NA,NA,8148,José López,https://fbref.com/en/matches/9cdfaaa9/Cordoba-Mallorca-March-31-2019-Segunda-Division,0,1,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-03-31,Osasuna,Extremadura,1,0,NA,NA,16032,Abraham Domínguez,https://fbref.com/en/matches/e3d7408b/Osasuna-Extremadura-March-31-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-03-31,Oviedo,La Coruña,1,1,NA,NA,18035,César Soto,https://fbref.com/en/matches/69acf200/Oviedo-Deportivo-La-Coruna-March-31-2019-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-03-31,Alcorcón,Lugo,0,0,NA,NA,2537,Santiago Varón,https://fbref.com/en/matches/4eb474ae/Alcorcon-Lugo-March-31-2019-Segunda-Division,0,1,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-03-31,Las Palmas,Elche,0,1,NA,NA,10404,Víctor Areces,https://fbref.com/en/matches/cdbd6748/Las-Palmas-Elche-March-31-2019-Segunda-Division,0,0,5,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-04-01,Zaragoza,Gimnàstic,3,0,NA,NA,14809,Gorka Sagues,https://fbref.com/en/matches/f4e387b3/Zaragoza-Gimnastic-April-1-2019-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-04-05,Tenerife,Sporting Gijón,0,1,NA,NA,10083,Álvaro Moreno,https://fbref.com/en/matches/5c0b3848/Tenerife-Sporting-Gijon-April-5-2019-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-04-06,La Coruña,Majadahonda,0,2,NA,NA,15658,Aitor Gorostegui,https://fbref.com/en/matches/6e9a0d3f/Deportivo-La-Coruna-Majadahonda-April-6-2019-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-04-06,Extremadura,Almería,1,0,NA,NA,9754,Juan Pulido,https://fbref.com/en/matches/6d303009/Extremadura-Almeria-April-6-2019-Segunda-Division,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-04-06,Granada,Málaga,1,0,NA,NA,15211,Daniel Trujillo,https://fbref.com/en/matches/10021b5d/Granada-Malaga-April-6-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2018-2019
+2019-04-06,Oviedo,Las Palmas,1,1,NA,NA,12022,Saúl Ais,https://fbref.com/en/matches/8b5fc91a/Oviedo-Las-Palmas-April-6-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
 2019-04-07,Mallorca,Reus,1,0,NA,NA,33,,https://fbref.com/en/matches/6c0252eb/Mallorca-Reus-April-7-2019-Segunda-Division,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
-2019-04-07,Alcorcón,Albacete,0,1,NA,NA,3902,Luis Milla,https://fbref.com/en/matches/c38f329e/Alcorcon-Albacete-April-7-2019-Segunda-Division,0,0,5,0,NA,NA,NA,NA,NA,0,0,7,1,NA,NA,NA,NA,NA,2018-2019
-2019-04-07,Lugo,Osasuna,2,2,NA,NA,3572,Dámaso Arcediano,https://fbref.com/en/matches/bb9dfa65/Lugo-Osasuna-April-7-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-07,Gimnàstic,Numancia,2,0,NA,NA,4118,Iñaki Bikandi,https://fbref.com/en/matches/697eb3ab/Gimnastic-Numancia-April-7-2019-Segunda-Division,0,0,5,0,NA,NA,NA,NA,NA,0,1,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-07,Elche,Córdoba,1,0,NA,NA,9392,Javier Villanueva,https://fbref.com/en/matches/790576c9/Elche-Cordoba-April-7-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-08,Cádiz,Zaragoza,3,3,NA,NA,10401,Isidro Díaz de Mera,https://fbref.com/en/matches/958f810e/Cadiz-Zaragoza-April-8-2019-Segunda-Division,1,1,2,0,NA,NA,NA,NA,NA,0,0,7,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-12,Sporting Gijón,Granada,1,0,NA,NA,20052,Gorka Sagues,https://fbref.com/en/matches/78aafb8d/Sporting-Gijon-Granada-April-12-2019-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-13,Málaga,Extremadura,1,2,NA,NA,18910,Rubén Ávalos,https://fbref.com/en/matches/9345f51b/Malaga-Extremadura-April-13-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-13,Almería,Gimnàstic,3,0,NA,NA,6133,Víctor Areces,https://fbref.com/en/matches/8832a48a/Almeria-Gimnastic-April-13-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-13,Osasuna,La Coruña,2,1,NA,NA,16383,Jorge Figueroa,https://fbref.com/en/matches/497fd924/Osasuna-Deportivo-La-Coruna-April-13-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-13,Majadahonda,Tenerife,1,3,NA,NA,2716,César Soto,https://fbref.com/en/matches/6b0a3ac8/Majadahonda-Tenerife-April-13-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-07,Alcorcón,Albacete,0,1,NA,NA,3902,Luis Milla,https://fbref.com/en/matches/c38f329e/Alcorcon-Albacete-April-7-2019-Segunda-Division,0,0,5,0,0,0,0,0,0,0,0,7,1,0,0,0,0,0,2018-2019
+2019-04-07,Lugo,Osasuna,2,2,NA,NA,3572,Dámaso Arcediano,https://fbref.com/en/matches/bb9dfa65/Lugo-Osasuna-April-7-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-04-07,Gimnàstic,Numancia,2,0,NA,NA,4118,Iñaki Bikandi,https://fbref.com/en/matches/697eb3ab/Gimnastic-Numancia-April-7-2019-Segunda-Division,0,0,5,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2018-2019
+2019-04-07,Elche,Córdoba,1,0,NA,NA,9392,Javier Villanueva,https://fbref.com/en/matches/790576c9/Elche-Cordoba-April-7-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2019-04-08,Cádiz,Zaragoza,3,3,NA,NA,10401,Isidro Díaz de Mera,https://fbref.com/en/matches/958f810e/Cadiz-Zaragoza-April-8-2019-Segunda-Division,1,1,2,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,2018-2019
+2019-04-12,Sporting Gijón,Granada,1,0,NA,NA,20052,Gorka Sagues,https://fbref.com/en/matches/78aafb8d/Sporting-Gijon-Granada-April-12-2019-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-04-13,Málaga,Extremadura,1,2,NA,NA,18910,Rubén Ávalos,https://fbref.com/en/matches/9345f51b/Malaga-Extremadura-April-13-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-04-13,Almería,Gimnàstic,3,0,NA,NA,6133,Víctor Areces,https://fbref.com/en/matches/8832a48a/Almeria-Gimnastic-April-13-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-04-13,Osasuna,La Coruña,2,1,NA,NA,16383,Jorge Figueroa,https://fbref.com/en/matches/497fd924/Osasuna-Deportivo-La-Coruna-April-13-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-04-13,Majadahonda,Tenerife,1,3,NA,NA,2716,César Soto,https://fbref.com/en/matches/6b0a3ac8/Majadahonda-Tenerife-April-13-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
 2019-04-14,Reus,Oviedo,0,1,NA,NA,34,,https://fbref.com/en/matches/73d1542b/Reus-Oviedo-April-14-2019-Segunda-Division,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
-2019-04-14,Albacete,Elche,1,1,NA,NA,13323,Abraham Domínguez,https://fbref.com/en/matches/e966f8e2/Albacete-Elche-April-14-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-14,Numancia,Mallorca,1,1,NA,NA,3008,Valentín Pizarro,https://fbref.com/en/matches/f6931da9/Numancia-Mallorca-April-14-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-14,Córdoba,Lugo,0,4,NA,NA,9786,Daniel Ocón,https://fbref.com/en/matches/2106f7bf/Cordoba-Lugo-April-14-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-14,Las Palmas,Cádiz,0,3,NA,NA,10188,Santiago Varón,https://fbref.com/en/matches/9c0ff679/Las-Palmas-Cadiz-April-14-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-14,Zaragoza,Alcorcón,0,2,NA,NA,20650,David Pérez,https://fbref.com/en/matches/0d3c119c/Zaragoza-Alcorcon-April-14-2019-Segunda-Division,0,0,0,0,NA,NA,NA,NA,NA,0,0,6,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-19,Alcorcón,Málaga,1,4,NA,NA,1607,Saúl Ais,https://fbref.com/en/matches/3bdc9108/Alcorcon-Malaga-April-19-2019-Segunda-Division,1,1,4,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-20,Lugo,Granada,1,2,NA,NA,3826,Isidro Díaz de Mera,https://fbref.com/en/matches/f5f4a026/Lugo-Granada-April-20-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,1,1,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-20,Albacete,Las Palmas,4,2,NA,NA,7247,Iñaki Bikandi,https://fbref.com/en/matches/4f1a1005/Albacete-Las-Palmas-April-20-2019-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-20,Gimnàstic,Sporting Gijón,0,0,NA,NA,3112,Oliver De La Fuente,https://fbref.com/en/matches/4ffb952e/Gimnastic-Sporting-Gijon-April-20-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-20,Mallorca,Majadahonda,2,0,NA,NA,7649,Javier Villanueva,https://fbref.com/en/matches/7e2e5a65/Mallorca-Majadahonda-April-20-2019-Segunda-Division,1,1,0,0,NA,NA,NA,NA,NA,0,1,4,1,NA,NA,NA,NA,NA,2018-2019
+2019-04-14,Albacete,Elche,1,1,NA,NA,13323,Abraham Domínguez,https://fbref.com/en/matches/e966f8e2/Albacete-Elche-April-14-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-04-14,Numancia,Mallorca,1,1,NA,NA,3008,Valentín Pizarro,https://fbref.com/en/matches/f6931da9/Numancia-Mallorca-April-14-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-04-14,Córdoba,Lugo,0,4,NA,NA,9786,Daniel Ocón,https://fbref.com/en/matches/2106f7bf/Cordoba-Lugo-April-14-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-04-14,Las Palmas,Cádiz,0,3,NA,NA,10188,Santiago Varón,https://fbref.com/en/matches/9c0ff679/Las-Palmas-Cadiz-April-14-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-04-14,Zaragoza,Alcorcón,0,2,NA,NA,20650,David Pérez,https://fbref.com/en/matches/0d3c119c/Zaragoza-Alcorcon-April-14-2019-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,2018-2019
+2019-04-19,Alcorcón,Málaga,1,4,NA,NA,1607,Saúl Ais,https://fbref.com/en/matches/3bdc9108/Alcorcon-Malaga-April-19-2019-Segunda-Division,1,1,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-04-20,Lugo,Granada,1,2,NA,NA,3826,Isidro Díaz de Mera,https://fbref.com/en/matches/f5f4a026/Lugo-Granada-April-20-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,1,1,4,0,0,0,0,0,0,2018-2019
+2019-04-20,Albacete,Las Palmas,4,2,NA,NA,7247,Iñaki Bikandi,https://fbref.com/en/matches/4f1a1005/Albacete-Las-Palmas-April-20-2019-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-04-20,Gimnàstic,Sporting Gijón,0,0,NA,NA,3112,Oliver De La Fuente,https://fbref.com/en/matches/4ffb952e/Gimnastic-Sporting-Gijon-April-20-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-04-20,Mallorca,Majadahonda,2,0,NA,NA,7649,Javier Villanueva,https://fbref.com/en/matches/7e2e5a65/Mallorca-Majadahonda-April-20-2019-Segunda-Division,1,1,0,0,0,0,0,0,0,0,1,4,1,0,0,0,0,0,2018-2019
 2019-04-21,Zaragoza,Reus,1,0,NA,NA,35,,https://fbref.com/en/matches/84155434/Zaragoza-Reus-April-21-2019-Segunda-Division,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
-2019-04-21,Cádiz,Numancia,2,1,NA,NA,13116,Álvaro Moreno,https://fbref.com/en/matches/1720e73d/Cadiz-Numancia-April-21-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,5,1,NA,NA,NA,NA,NA,2018-2019
-2019-04-21,La Coruña,Extremadura,1,2,NA,NA,16552,José López,https://fbref.com/en/matches/13e578c4/Deportivo-La-Coruna-Extremadura-April-21-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-21,Oviedo,Córdoba,3,3,NA,NA,13363,Dámaso Arcediano,https://fbref.com/en/matches/77cdc6f0/Oviedo-Cordoba-April-21-2019-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-21,Tenerife,Almería,1,3,NA,NA,10339,Aitor Gorostegui,https://fbref.com/en/matches/9a4da3eb/Tenerife-Almeria-April-21-2019-Segunda-Division,0,0,6,0,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-22,Elche,Osasuna,1,2,NA,NA,10741,Daniel Trujillo,https://fbref.com/en/matches/ac01e567/Elche-Osasuna-April-22-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-26,Numancia,La Coruña,1,2,NA,NA,3505,Luis Milla,https://fbref.com/en/matches/92a691b5/Numancia-Deportivo-La-Coruna-April-26-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
-2019-04-27,Málaga,Mallorca,0,1,NA,NA,23621,David Pérez,https://fbref.com/en/matches/088acf05/Malaga-Mallorca-April-27-2019-Segunda-Division,0,0,0,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-27,Almería,Oviedo,0,1,NA,NA,7911,Gorka Sagues,https://fbref.com/en/matches/d5642a08/Almeria-Oviedo-April-27-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-27,Osasuna,Albacete,2,0,NA,NA,16819,Juan Pulido,https://fbref.com/en/matches/cd556ee0/Osasuna-Albacete-April-27-2019-Segunda-Division,1,1,2,0,NA,NA,NA,NA,NA,0,0,3,2,NA,NA,NA,NA,NA,2018-2019
-2019-04-27,Extremadura,Tenerife,1,0,NA,NA,11546,Valentín Pizarro,https://fbref.com/en/matches/9782cfde/Extremadura-Tenerife-April-27-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,1,NA,NA,NA,NA,NA,2018-2019
+2019-04-21,Cádiz,Numancia,2,1,NA,NA,13116,Álvaro Moreno,https://fbref.com/en/matches/1720e73d/Cadiz-Numancia-April-21-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,2018-2019
+2019-04-21,La Coruña,Extremadura,1,2,NA,NA,16552,José López,https://fbref.com/en/matches/13e578c4/Deportivo-La-Coruna-Extremadura-April-21-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-04-21,Oviedo,Córdoba,3,3,NA,NA,13363,Dámaso Arcediano,https://fbref.com/en/matches/77cdc6f0/Oviedo-Cordoba-April-21-2019-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-04-21,Tenerife,Almería,1,3,NA,NA,10339,Aitor Gorostegui,https://fbref.com/en/matches/9a4da3eb/Tenerife-Almeria-April-21-2019-Segunda-Division,0,0,6,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2018-2019
+2019-04-22,Elche,Osasuna,1,2,NA,NA,10741,Daniel Trujillo,https://fbref.com/en/matches/ac01e567/Elche-Osasuna-April-22-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-04-26,Numancia,La Coruña,1,2,NA,NA,3505,Luis Milla,https://fbref.com/en/matches/92a691b5/Numancia-Deportivo-La-Coruna-April-26-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2018-2019
+2019-04-27,Málaga,Mallorca,0,1,NA,NA,23621,David Pérez,https://fbref.com/en/matches/088acf05/Malaga-Mallorca-April-27-2019-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-04-27,Almería,Oviedo,0,1,NA,NA,7911,Gorka Sagues,https://fbref.com/en/matches/d5642a08/Almeria-Oviedo-April-27-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2019-04-27,Osasuna,Albacete,2,0,NA,NA,16819,Juan Pulido,https://fbref.com/en/matches/cd556ee0/Osasuna-Albacete-April-27-2019-Segunda-Division,1,1,2,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,2018-2019
+2019-04-27,Extremadura,Tenerife,1,0,NA,NA,11546,Valentín Pizarro,https://fbref.com/en/matches/9782cfde/Extremadura-Tenerife-April-27-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2018-2019
 2019-04-28,Reus,Alcorcón,0,1,NA,NA,36,,https://fbref.com/en/matches/161f9354/Reus-Alcorcon-April-28-2019-Segunda-Division,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
-2019-04-28,Majadahonda,Cádiz,1,1,NA,NA,3440,Daniel Ocón,https://fbref.com/en/matches/d0705383/Majadahonda-Cadiz-April-28-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-28,Sporting Gijón,Elche,1,1,NA,NA,20094,Jorge Figueroa,https://fbref.com/en/matches/0d7b6c90/Sporting-Gijon-Elche-April-28-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-28,Las Palmas,Lugo,4,1,NA,NA,8938,Abraham Domínguez,https://fbref.com/en/matches/f018d619/Las-Palmas-Lugo-April-28-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-28,Granada,Gimnàstic,2,0,NA,NA,12489,César Soto,https://fbref.com/en/matches/da159c8a/Granada-Gimnastic-April-28-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-04-28,Córdoba,Zaragoza,0,3,NA,NA,6688,Santiago Varón,https://fbref.com/en/matches/96de5277/Cordoba-Zaragoza-April-28-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-04-28,Majadahonda,Cádiz,1,1,NA,NA,3440,Daniel Ocón,https://fbref.com/en/matches/d0705383/Majadahonda-Cadiz-April-28-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-04-28,Sporting Gijón,Elche,1,1,NA,NA,20094,Jorge Figueroa,https://fbref.com/en/matches/0d7b6c90/Sporting-Gijon-Elche-April-28-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-04-28,Las Palmas,Lugo,4,1,NA,NA,8938,Abraham Domínguez,https://fbref.com/en/matches/f018d619/Las-Palmas-Lugo-April-28-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-04-28,Granada,Gimnàstic,2,0,NA,NA,12489,César Soto,https://fbref.com/en/matches/da159c8a/Granada-Gimnastic-April-28-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-04-28,Córdoba,Zaragoza,0,3,NA,NA,6688,Santiago Varón,https://fbref.com/en/matches/96de5277/Cordoba-Zaragoza-April-28-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
 2019-05-03,Reus,Sporting Gijón,0,1,NA,NA,41,,https://fbref.com/en/matches/d4d7b6c3/Reus-Sporting-Gijon-May-3-2019-Segunda-Division,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
-2019-05-04,Alcorcón,Osasuna,0,0,NA,NA,3210,José López,https://fbref.com/en/matches/e5fab0c2/Alcorcon-Osasuna-May-4-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-04,Gimnàstic,Extremadura,0,1,NA,NA,3522,Javier Villanueva,https://fbref.com/en/matches/d7c1435f/Gimnastic-Extremadura-May-4-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-04,Zaragoza,La Coruña,0,1,NA,NA,21404,Iñaki Bikandi,https://fbref.com/en/matches/0064b072/Zaragoza-Deportivo-La-Coruna-May-4-2019-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-04,Tenerife,Las Palmas,2,1,NA,NA,18717,Rubén Ávalos,https://fbref.com/en/matches/4e823317/Tenerife-Las-Palmas-May-4-2019-Segunda-Division,0,0,6,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
+2019-05-04,Alcorcón,Osasuna,0,0,NA,NA,3210,José López,https://fbref.com/en/matches/e5fab0c2/Alcorcon-Osasuna-May-4-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-05-04,Zaragoza,La Coruña,0,1,NA,NA,21404,Iñaki Bikandi,https://fbref.com/en/matches/0064b072/Zaragoza-Deportivo-La-Coruna-May-4-2019-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-05-04,Gimnàstic,Extremadura,0,1,NA,NA,3522,Javier Villanueva,https://fbref.com/en/matches/d7c1435f/Gimnastic-Extremadura-May-4-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-05-04,Tenerife,Las Palmas,2,1,NA,NA,18717,Rubén Ávalos,https://fbref.com/en/matches/4e823317/Tenerife-Las-Palmas-May-4-2019-Segunda-Division,0,0,6,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2018-2019
 2019-05-05,Córdoba,Reus,1,0,NA,NA,37,,https://fbref.com/en/matches/ab13716f/Cordoba-Reus-May-5-2019-Segunda-Division,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
-2019-05-05,Lugo,Almería,4,2,NA,NA,4667,Saúl Ais,https://fbref.com/en/matches/f6d6aacc/Lugo-Almeria-May-5-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-05,Mallorca,Sporting Gijón,2,1,NA,NA,11302,Isidro Díaz de Mera,https://fbref.com/en/matches/b299e9da/Mallorca-Sporting-Gijon-May-5-2019-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-05,Albacete,Numancia,0,0,NA,NA,11456,Daniel Trujillo,https://fbref.com/en/matches/f20dd22d/Albacete-Numancia-May-5-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-05,Elche,Majadahonda,2,1,NA,NA,10405,Víctor Areces,https://fbref.com/en/matches/848a403f/Elche-Majadahonda-May-5-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-05,Oviedo,Granada,1,1,NA,NA,12770,Oliver De La Fuente,https://fbref.com/en/matches/b2ff9d26/Oviedo-Granada-May-5-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,7,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-06,Cádiz,Málaga,1,1,NA,NA,14320,Aitor Gorostegui,https://fbref.com/en/matches/ac4e6c34/Cadiz-Malaga-May-6-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-10,Granada,Tenerife,2,1,NA,NA,14302,Daniel Ocón,https://fbref.com/en/matches/e0a11497/Granada-Tenerife-May-10-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-11,Gimnàstic,Mallorca,2,1,NA,NA,2865,Abraham Domínguez,https://fbref.com/en/matches/0e32338a/Gimnastic-Mallorca-May-11-2019-Segunda-Division,0,1,6,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-11,Sporting Gijón,Lugo,0,0,NA,NA,16206,Luis Milla,https://fbref.com/en/matches/5bd36f20/Sporting-Gijon-Lugo-May-11-2019-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-11,Extremadura,Zaragoza,0,3,NA,NA,11328,Jorge Figueroa,https://fbref.com/en/matches/8f6f1fca/Extremadura-Zaragoza-May-11-2019-Segunda-Division,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-11,Numancia,Alcorcón,2,0,NA,NA,4403,Dámaso Arcediano,https://fbref.com/en/matches/e122a413/Numancia-Alcorcon-May-11-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-05,Lugo,Almería,4,2,NA,NA,4667,Saúl Ais,https://fbref.com/en/matches/f6d6aacc/Lugo-Almeria-May-5-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-05-05,Mallorca,Sporting Gijón,2,1,NA,NA,11302,Isidro Díaz de Mera,https://fbref.com/en/matches/b299e9da/Mallorca-Sporting-Gijon-May-5-2019-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-05-05,Albacete,Numancia,0,0,NA,NA,11456,Daniel Trujillo,https://fbref.com/en/matches/f20dd22d/Albacete-Numancia-May-5-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-05-05,Elche,Majadahonda,2,1,NA,NA,10405,Víctor Areces,https://fbref.com/en/matches/848a403f/Elche-Majadahonda-May-5-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-05-05,Oviedo,Granada,1,1,NA,NA,12770,Oliver De La Fuente,https://fbref.com/en/matches/b2ff9d26/Oviedo-Granada-May-5-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,2018-2019
+2019-05-06,Cádiz,Málaga,1,1,NA,NA,14320,Aitor Gorostegui,https://fbref.com/en/matches/ac4e6c34/Cadiz-Malaga-May-6-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2019-05-10,Granada,Tenerife,2,1,NA,NA,14302,Daniel Ocón,https://fbref.com/en/matches/e0a11497/Granada-Tenerife-May-10-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-05-11,Gimnàstic,Mallorca,2,1,NA,NA,2865,Abraham Domínguez,https://fbref.com/en/matches/0e32338a/Gimnastic-Mallorca-May-11-2019-Segunda-Division,0,1,6,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-05-11,Sporting Gijón,Lugo,0,0,NA,NA,16206,Luis Milla,https://fbref.com/en/matches/5bd36f20/Sporting-Gijon-Lugo-May-11-2019-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2019-05-11,Extremadura,Zaragoza,0,3,NA,NA,11328,Jorge Figueroa,https://fbref.com/en/matches/8f6f1fca/Extremadura-Zaragoza-May-11-2019-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-05-11,Numancia,Alcorcón,2,0,NA,NA,4403,Dámaso Arcediano,https://fbref.com/en/matches/e122a413/Numancia-Alcorcon-May-11-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
 2019-05-12,Osasuna,Reus,1,0,NA,NA,38,,https://fbref.com/en/matches/6cfb20f2/Osasuna-Reus-May-12-2019-Segunda-Division,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
-2019-05-12,Almería,Elche,5,3,NA,NA,5127,David Pérez,https://fbref.com/en/matches/4184cf1f/Almeria-Elche-May-12-2019-Segunda-Division,1,1,1,0,NA,NA,NA,NA,NA,2,2,5,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-12,La Coruña,Cádiz,1,1,NA,NA,18399,César Soto,https://fbref.com/en/matches/20888641/Deportivo-La-Coruna-Cadiz-May-12-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-12,Majadahonda,Albacete,2,3,NA,NA,3258,Santiago Varón,https://fbref.com/en/matches/32870ef6/Majadahonda-Albacete-May-12-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-12,Las Palmas,Córdoba,1,0,NA,NA,8681,Álvaro Moreno,https://fbref.com/en/matches/0ce3ed39/Las-Palmas-Cordoba-May-12-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-13,Málaga,Oviedo,3,0,NA,NA,15894,Juan Pulido,https://fbref.com/en/matches/b6f48a69/Malaga-Oviedo-May-13-2019-Segunda-Division,1,1,0,1,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-17,Zaragoza,Sporting Gijón,4,2,NA,NA,19963,Saúl Ais,https://fbref.com/en/matches/29e62959/Zaragoza-Sporting-Gijon-May-17-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-18,Alcorcón,Extremadura,0,1,NA,NA,2840,Daniel Trujillo,https://fbref.com/en/matches/1f56090d/Alcorcon-Extremadura-May-18-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-18,Elche,Tenerife,3,0,NA,NA,7348,Isidro Díaz de Mera,https://fbref.com/en/matches/020fd317/Elche-Tenerife-May-18-2019-Segunda-Division,1,1,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-12,Almería,Elche,5,3,NA,NA,5127,David Pérez,https://fbref.com/en/matches/4184cf1f/Almeria-Elche-May-12-2019-Segunda-Division,1,1,1,0,0,0,0,0,0,2,2,5,0,0,0,0,0,0,2018-2019
+2019-05-12,La Coruña,Cádiz,1,1,NA,NA,18399,César Soto,https://fbref.com/en/matches/20888641/Deportivo-La-Coruna-Cadiz-May-12-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-05-12,Majadahonda,Albacete,2,3,NA,NA,3258,Santiago Varón,https://fbref.com/en/matches/32870ef6/Majadahonda-Albacete-May-12-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-05-12,Las Palmas,Córdoba,1,0,NA,NA,8681,Álvaro Moreno,https://fbref.com/en/matches/0ce3ed39/Las-Palmas-Cordoba-May-12-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-05-13,Málaga,Oviedo,3,0,NA,NA,15894,Juan Pulido,https://fbref.com/en/matches/b6f48a69/Malaga-Oviedo-May-13-2019-Segunda-Division,1,1,0,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-05-17,Zaragoza,Sporting Gijón,4,2,NA,NA,19963,Saúl Ais,https://fbref.com/en/matches/29e62959/Zaragoza-Sporting-Gijon-May-17-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-05-18,Alcorcón,Extremadura,0,1,NA,NA,2840,Daniel Trujillo,https://fbref.com/en/matches/1f56090d/Alcorcon-Extremadura-May-18-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-05-18,Elche,Tenerife,3,0,NA,NA,7348,Isidro Díaz de Mera,https://fbref.com/en/matches/020fd317/Elche-Tenerife-May-18-2019-Segunda-Division,1,1,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
 2019-05-19,Reus,Málaga,0,1,NA,NA,39,,https://fbref.com/en/matches/ce13fdaf/Reus-Malaga-May-19-2019-Segunda-Division,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
-2019-05-19,Mallorca,Almería,1,0,NA,NA,9645,José López,https://fbref.com/en/matches/cb7d0be8/Mallorca-Almeria-May-19-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,3,NA,NA,NA,NA,NA,2018-2019
-2019-05-19,Oviedo,Numancia,1,0,NA,NA,10103,Rubén Ávalos,https://fbref.com/en/matches/dcd9f086/Oviedo-Numancia-May-19-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-19,Las Palmas,Majadahonda,3,2,NA,NA,7815,Iñaki Bikandi,https://fbref.com/en/matches/c6a4e287/Las-Palmas-Majadahonda-May-19-2019-Segunda-Division,1,1,6,0,NA,NA,NA,NA,NA,2,2,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-19,Cádiz,Osasuna,0,0,NA,NA,15882,Dámaso Arcediano,https://fbref.com/en/matches/a77b56b5/Cadiz-Osasuna-May-19-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-19,Lugo,La Coruña,1,0,NA,NA,6093,Gorka Sagues,https://fbref.com/en/matches/75535cc8/Lugo-Deportivo-La-Coruna-May-19-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-19,Córdoba,Gimnàstic,4,3,NA,NA,2986,Oliver De La Fuente,https://fbref.com/en/matches/f673efcb/Cordoba-Gimnastic-May-19-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-20,Albacete,Granada,0,1,NA,NA,15014,Valentín Pizarro,https://fbref.com/en/matches/33f846a8/Albacete-Granada-May-20-2019-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,2,1,NA,NA,NA,NA,NA,2018-2019
-2019-05-24,Málaga,Zaragoza,3,1,NA,NA,18970,Daniel Trujillo,https://fbref.com/en/matches/1d363837/Malaga-Zaragoza-May-24-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-25,Majadahonda,Córdoba,0,0,NA,NA,3512,David Pérez,https://fbref.com/en/matches/a9f02bd9/Majadahonda-Cordoba-May-25-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2018-2019
-2019-05-25,Sporting Gijón,Albacete,0,2,NA,NA,11135,Iñaki Bikandi,https://fbref.com/en/matches/c20eb393/Sporting-Gijon-Albacete-May-25-2019-Segunda-Division,0,0,5,1,NA,NA,NA,NA,NA,1,1,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-25,Osasuna,Las Palmas,2,0,NA,NA,16758,Abraham Domínguez,https://fbref.com/en/matches/11909cad/Osasuna-Las-Palmas-May-25-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
+2019-05-19,Mallorca,Almería,1,0,NA,NA,9645,José López,https://fbref.com/en/matches/cb7d0be8/Mallorca-Almeria-May-19-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,3,0,0,0,0,0,2018-2019
+2019-05-19,Oviedo,Numancia,1,0,NA,NA,10103,Rubén Ávalos,https://fbref.com/en/matches/dcd9f086/Oviedo-Numancia-May-19-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-05-19,Las Palmas,Majadahonda,3,2,NA,NA,7815,Iñaki Bikandi,https://fbref.com/en/matches/c6a4e287/Las-Palmas-Majadahonda-May-19-2019-Segunda-Division,1,1,6,0,0,0,0,0,0,2,2,4,0,0,0,0,0,0,2018-2019
+2019-05-19,Cádiz,Osasuna,0,0,NA,NA,15882,Dámaso Arcediano,https://fbref.com/en/matches/a77b56b5/Cadiz-Osasuna-May-19-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-05-19,Lugo,La Coruña,1,0,NA,NA,6093,Gorka Sagues,https://fbref.com/en/matches/75535cc8/Lugo-Deportivo-La-Coruna-May-19-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-05-19,Córdoba,Gimnàstic,4,3,NA,NA,2986,Oliver De La Fuente,https://fbref.com/en/matches/f673efcb/Cordoba-Gimnastic-May-19-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-05-20,Albacete,Granada,0,1,NA,NA,15014,Valentín Pizarro,https://fbref.com/en/matches/33f846a8/Albacete-Granada-May-20-2019-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2018-2019
+2019-05-24,Málaga,Zaragoza,3,1,NA,NA,18970,Daniel Trujillo,https://fbref.com/en/matches/1d363837/Malaga-Zaragoza-May-24-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-05-25,Majadahonda,Córdoba,0,0,NA,NA,3512,David Pérez,https://fbref.com/en/matches/a9f02bd9/Majadahonda-Cordoba-May-25-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2018-2019
+2019-05-25,Sporting Gijón,Albacete,0,2,NA,NA,11135,Iñaki Bikandi,https://fbref.com/en/matches/c20eb393/Sporting-Gijon-Albacete-May-25-2019-Segunda-Division,0,0,5,1,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2018-2019
+2019-05-25,Osasuna,Las Palmas,2,0,NA,NA,16758,Abraham Domínguez,https://fbref.com/en/matches/11909cad/Osasuna-Las-Palmas-May-25-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
 2019-05-26,Numancia,Reus,1,0,NA,NA,40,,https://fbref.com/en/matches/2695a33a/Numancia-Reus-May-26-2019-Segunda-Division,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
-2019-05-26,Almería,Alcorcón,0,0,NA,NA,4286,Santiago Varón,https://fbref.com/en/matches/04f5fd76/Almeria-Alcorcon-May-26-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,1,3,1,NA,NA,NA,NA,NA,2018-2019
-2019-05-26,Gimnàstic,Elche,3,3,NA,NA,1669,Álvaro Moreno,https://fbref.com/en/matches/b649cb46/Gimnastic-Elche-May-26-2019-Segunda-Division,0,0,1,1,NA,NA,NA,NA,NA,1,1,3,1,NA,NA,NA,NA,NA,2018-2019
-2019-05-26,Tenerife,Oviedo,2,1,NA,NA,16389,César Soto,https://fbref.com/en/matches/9fe2dbad/Tenerife-Oviedo-May-26-2019-Segunda-Division,1,1,3,0,NA,NA,NA,NA,NA,1,1,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-26,Granada,Cádiz,1,1,NA,NA,18262,Juan Pulido,https://fbref.com/en/matches/0415a87b/Granada-Cadiz-May-26-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-26,Extremadura,Lugo,0,0,NA,NA,11580,Daniel Ocón,https://fbref.com/en/matches/f2bc9b02/Extremadura-Lugo-May-26-2019-Segunda-Division,0,0,0,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-27,La Coruña,Mallorca,1,0,NA,NA,13480,Aitor Gorostegui,https://fbref.com/en/matches/d949e0bc/Deportivo-La-Coruna-Mallorca-May-27-2019-Segunda-Division,1,1,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-05-31,Córdoba,Osasuna,2,3,NA,NA,2313,Víctor Areces,https://fbref.com/en/matches/04a2d559/Cordoba-Osasuna-May-31-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,1,1,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-06-01,Alcorcón,Gimnàstic,0,1,NA,NA,1894,David Pérez,https://fbref.com/en/matches/6596ccad/Alcorcon-Gimnastic-June-1-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-06-02,Las Palmas,Almería,0,0,NA,NA,7288,Valentín Pizarro,https://fbref.com/en/matches/a30a2b4d/Las-Palmas-Almeria-June-2-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-06-04,Oviedo,Majadahonda,4,3,NA,NA,5683,Luis Milla,https://fbref.com/en/matches/7d6af2dc/Oviedo-Majadahonda-June-4-2019-Segunda-Division,0,0,5,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-06-04,Cádiz,Extremadura,0,1,NA,NA,14547,Oliver De La Fuente,https://fbref.com/en/matches/ba48ab5b/Cadiz-Extremadura-June-4-2019-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-06-04,Zaragoza,Numancia,0,0,NA,NA,17118,Javier Villanueva,https://fbref.com/en/matches/ddeea501/Zaragoza-Numancia-June-4-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-06-04,Lugo,Tenerife,0,0,NA,NA,5482,Jorge Figueroa,https://fbref.com/en/matches/2d13351c/Lugo-Tenerife-June-4-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-06-04,Elche,La Coruña,0,0,NA,NA,5914,Rubén Ávalos,https://fbref.com/en/matches/75ba4cd0/Elche-Deportivo-La-Coruna-June-4-2019-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-06-04,Mallorca,Granada,1,1,NA,NA,13839,Dámaso Arcediano,https://fbref.com/en/matches/f2499748/Mallorca-Granada-June-4-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-06-04,Albacete,Málaga,1,2,NA,NA,11649,Gorka Sagues,https://fbref.com/en/matches/d06e859f/Albacete-Malaga-June-4-2019-Segunda-Division,0,0,5,0,NA,NA,NA,NA,NA,0,0,4,1,NA,NA,NA,NA,NA,2018-2019
+2019-05-26,Almería,Alcorcón,0,0,NA,NA,4286,Santiago Varón,https://fbref.com/en/matches/04f5fd76/Almeria-Alcorcon-May-26-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,1,3,1,0,0,0,0,0,2018-2019
+2019-05-26,Gimnàstic,Elche,3,3,NA,NA,1669,Álvaro Moreno,https://fbref.com/en/matches/b649cb46/Gimnastic-Elche-May-26-2019-Segunda-Division,0,0,1,1,0,0,0,0,0,1,1,3,1,0,0,0,0,0,2018-2019
+2019-05-26,Tenerife,Oviedo,2,1,NA,NA,16389,César Soto,https://fbref.com/en/matches/9fe2dbad/Tenerife-Oviedo-May-26-2019-Segunda-Division,1,1,3,0,0,0,0,0,0,1,1,4,0,0,0,0,0,0,2018-2019
+2019-05-26,Granada,Cádiz,1,1,NA,NA,18262,Juan Pulido,https://fbref.com/en/matches/0415a87b/Granada-Cadiz-May-26-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-05-26,Extremadura,Lugo,0,0,NA,NA,11580,Daniel Ocón,https://fbref.com/en/matches/f2bc9b02/Extremadura-Lugo-May-26-2019-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-05-27,La Coruña,Mallorca,1,0,NA,NA,13480,Aitor Gorostegui,https://fbref.com/en/matches/d949e0bc/Deportivo-La-Coruna-Mallorca-May-27-2019-Segunda-Division,1,1,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-05-31,Córdoba,Osasuna,2,3,NA,NA,2313,Víctor Areces,https://fbref.com/en/matches/04a2d559/Cordoba-Osasuna-May-31-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2018-2019
+2019-06-01,Alcorcón,Gimnàstic,0,1,NA,NA,1894,David Pérez,https://fbref.com/en/matches/6596ccad/Alcorcon-Gimnastic-June-1-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-06-02,Las Palmas,Almería,0,0,NA,NA,7288,Valentín Pizarro,https://fbref.com/en/matches/a30a2b4d/Las-Palmas-Almeria-June-2-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-06-04,Oviedo,Majadahonda,4,3,NA,NA,5683,Luis Milla,https://fbref.com/en/matches/7d6af2dc/Oviedo-Majadahonda-June-4-2019-Segunda-Division,0,0,5,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-06-04,Cádiz,Extremadura,0,1,NA,NA,14547,Oliver De La Fuente,https://fbref.com/en/matches/ba48ab5b/Cadiz-Extremadura-June-4-2019-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-06-04,Zaragoza,Numancia,0,0,NA,NA,17118,Javier Villanueva,https://fbref.com/en/matches/ddeea501/Zaragoza-Numancia-June-4-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-06-04,Lugo,Tenerife,0,0,NA,NA,5482,Jorge Figueroa,https://fbref.com/en/matches/2d13351c/Lugo-Tenerife-June-4-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-06-04,Elche,La Coruña,0,0,NA,NA,5914,Rubén Ávalos,https://fbref.com/en/matches/75ba4cd0/Elche-Deportivo-La-Coruna-June-4-2019-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-06-04,Mallorca,Granada,1,1,NA,NA,13839,Dámaso Arcediano,https://fbref.com/en/matches/f2499748/Mallorca-Granada-June-4-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-06-04,Albacete,Málaga,1,2,NA,NA,11649,Gorka Sagues,https://fbref.com/en/matches/d06e859f/Albacete-Malaga-June-4-2019-Segunda-Division,0,0,5,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2018-2019
 2019-06-07,Majadahonda,Reus,1,0,NA,NA,42,,https://fbref.com/en/matches/cd4ef52f/Majadahonda-Reus-June-7-2019-Segunda-Division,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
-2019-06-08,Málaga,Elche,3,0,NA,NA,17739,Rubén Ávalos,https://fbref.com/en/matches/38315c82/Malaga-Elche-June-8-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2019-06-08,Granada,Alcorcón,2,1,NA,NA,15162,Javier Villanueva,https://fbref.com/en/matches/a165a6e5/Granada-Alcorcon-June-8-2019-Segunda-Division,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-06-08,La Coruña,Córdoba,2,0,NA,NA,22127,Iñaki Bikandi,https://fbref.com/en/matches/3bdd52e1/Deportivo-La-Coruna-Cordoba-June-8-2019-Segunda-Division,0,0,0,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-06-08,Almería,Albacete,3,0,NA,NA,4375,Aitor Gorostegui,https://fbref.com/en/matches/96b848bd/Almeria-Albacete-June-8-2019-Segunda-Division,1,1,0,0,NA,NA,NA,NA,NA,0,0,2,0,NA,NA,NA,NA,NA,2018-2019
-2019-06-08,Extremadura,Mallorca,0,0,NA,NA,9732,Saúl Ais,https://fbref.com/en/matches/900f6a06/Extremadura-Mallorca-June-8-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,2018-2019
-2019-06-08,Osasuna,Oviedo,1,0,NA,NA,14866,Oliver De La Fuente,https://fbref.com/en/matches/085df678/Osasuna-Oviedo-June-8-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-06-08,Sporting Gijón,Cádiz,1,0,NA,NA,8602,Daniel Ocón,https://fbref.com/en/matches/f00766cb/Sporting-Gijon-Cadiz-June-8-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2019-06-09,Gimnàstic,Lugo,1,1,NA,NA,2526,José López,https://fbref.com/en/matches/18fbe70f/Gimnastic-Lugo-June-9-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-06-09,Numancia,Las Palmas,1,1,NA,NA,2561,Álvaro Moreno,https://fbref.com/en/matches/190bde7a/Numancia-Las-Palmas-June-9-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,5,0,NA,NA,NA,NA,NA,2018-2019
-2019-06-09,Tenerife,Zaragoza,1,0,NA,NA,11593,Abraham Domínguez,https://fbref.com/en/matches/513d03f4/Tenerife-Zaragoza-June-9-2019-Segunda-Division,0,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,2018-2019
-2019-06-12,La Coruña,Málaga,4,2,NA,NA,24140,César Soto,https://fbref.com/en/matches/77a51e98/Deportivo-La-Coruna-Malaga-June-12-2019-Segunda-Division,1,1,1,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-06-13,Mallorca,Albacete,2,0,NA,NA,15103,Juan Pulido,https://fbref.com/en/matches/5d354e23/Mallorca-Albacete-June-13-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
-2019-06-15,Málaga,La Coruña,0,1,NA,NA,27275,Isidro Díaz de Mera,https://fbref.com/en/matches/1b0179bc/Malaga-Deportivo-La-Coruna-June-15-2019-Segunda-Division,0,0,4,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-06-16,Albacete,Mallorca,1,0,NA,NA,13306,Jorge Figueroa,https://fbref.com/en/matches/faf5c254/Albacete-Mallorca-June-16-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,3,0,NA,NA,NA,NA,NA,2018-2019
-2019-06-20,La Coruña,Mallorca,2,0,NA,NA,29271,Daniel Trujillo,https://fbref.com/en/matches/24ed8cda/Deportivo-La-Coruna-Mallorca-June-20-2019-Segunda-Division,0,0,2,0,NA,NA,NA,NA,NA,0,0,6,1,NA,NA,NA,NA,NA,2018-2019
-2019-06-23,Mallorca,La Coruña,3,0,NA,NA,21210,Valentín Pizarro,https://fbref.com/en/matches/042c58ac/Mallorca-Deportivo-La-Coruna-June-23-2019-Segunda-Division,0,0,3,0,NA,NA,NA,NA,NA,0,0,4,0,NA,NA,NA,NA,NA,2018-2019
+2019-06-08,Almería,Albacete,3,0,NA,NA,4375,Aitor Gorostegui,https://fbref.com/en/matches/96b848bd/Almeria-Albacete-June-8-2019-Segunda-Division,1,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2018-2019
+2019-06-08,Granada,Alcorcón,2,1,NA,NA,15162,Javier Villanueva,https://fbref.com/en/matches/a165a6e5/Granada-Alcorcon-June-8-2019-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-06-08,Málaga,Elche,3,0,NA,NA,17739,Rubén Ávalos,https://fbref.com/en/matches/38315c82/Malaga-Elche-June-8-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2019-06-08,La Coruña,Córdoba,2,0,NA,NA,22127,Iñaki Bikandi,https://fbref.com/en/matches/3bdd52e1/Deportivo-La-Coruna-Cordoba-June-8-2019-Segunda-Division,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-06-08,Extremadura,Mallorca,0,0,NA,NA,9732,Saúl Ais,https://fbref.com/en/matches/900f6a06/Extremadura-Mallorca-June-8-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2018-2019
+2019-06-08,Osasuna,Oviedo,1,0,NA,NA,14866,Oliver De La Fuente,https://fbref.com/en/matches/085df678/Osasuna-Oviedo-June-8-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-06-08,Sporting Gijón,Cádiz,1,0,NA,NA,8602,Daniel Ocón,https://fbref.com/en/matches/f00766cb/Sporting-Gijon-Cadiz-June-8-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2019-06-09,Gimnàstic,Lugo,1,1,NA,NA,2526,José López,https://fbref.com/en/matches/18fbe70f/Gimnastic-Lugo-June-9-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-06-09,Numancia,Las Palmas,1,1,NA,NA,2561,Álvaro Moreno,https://fbref.com/en/matches/190bde7a/Numancia-Las-Palmas-June-9-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2018-2019
+2019-06-09,Tenerife,Zaragoza,1,0,NA,NA,11593,Abraham Domínguez,https://fbref.com/en/matches/513d03f4/Tenerife-Zaragoza-June-9-2019-Segunda-Division,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018-2019
+2019-06-12,La Coruña,Málaga,4,2,NA,NA,24140,César Soto,https://fbref.com/en/matches/77a51e98/Deportivo-La-Coruna-Malaga-June-12-2019-Segunda-Division,1,1,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-06-13,Mallorca,Albacete,2,0,NA,NA,15103,Juan Pulido,https://fbref.com/en/matches/5d354e23/Mallorca-Albacete-June-13-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
+2019-06-15,Málaga,La Coruña,0,1,NA,NA,27275,Isidro Díaz de Mera,https://fbref.com/en/matches/1b0179bc/Malaga-Deportivo-La-Coruna-June-15-2019-Segunda-Division,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-06-16,Albacete,Mallorca,1,0,NA,NA,13306,Jorge Figueroa,https://fbref.com/en/matches/faf5c254/Albacete-Mallorca-June-16-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2018-2019
+2019-06-20,La Coruña,Mallorca,2,0,NA,NA,29271,Daniel Trujillo,https://fbref.com/en/matches/24ed8cda/Deportivo-La-Coruna-Mallorca-June-20-2019-Segunda-Division,0,0,2,0,0,0,0,0,0,0,0,6,1,0,0,0,0,0,2018-2019
+2019-06-23,Mallorca,La Coruña,3,0,NA,NA,21210,Valentín Pizarro,https://fbref.com/en/matches/042c58ac/Mallorca-Deportivo-La-Coruna-June-23-2019-Segunda-Division,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2018-2019
 2019-01-19,Reus,Las Palmas,0,1,NA,NA,0,,https://fbref.com/en/matches/35c4825c/Reus-Las-Palmas-January-19-2019-Segunda-Division,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
 2019-01-27,Albacete,Reus,1,0,NA,NA,0,,https://fbref.com/en/matches/36d194a8/Albacete-Reus-January-27-2019-Segunda-Division,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019
 2019-02-03,Reus,Elche,0,1,NA,NA,0,,https://fbref.com/en/matches/db40bef5/Reus-Elche-February-3-2019-Segunda-Division,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-2019

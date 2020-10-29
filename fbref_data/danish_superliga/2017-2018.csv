@@ -1,12 +1,12 @@
 date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_report_url,home_pk_goals,home_pk_attempts,home_yellow_cards,home_red_cards,home_shots,home_shots_on_target,home_tackles,home_interceptions,home_fouls_committed,away_pk_goals,away_pk_attempts,away_yellow_cards,away_red_cards,away_shots,away_shots_on_target,away_tackles,away_interceptions,away_fouls_committed,season
-2017-07-14,Aarhus,Horsens,1,2,NA,NA,9623,,https://fbref.com/en/matches/fd2331ff/Aarhus-Horsens-July-14-2017-Superliga,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
+2017-07-14,AGF,Horsens,1,2,NA,NA,9623,,https://fbref.com/en/matches/fd2331ff/AGF-Horsens-July-14-2017-Superliga,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-07-15,FC Copenhagen,Aalborg,1,1,NA,NA,11006,Jørgen Burchardt,https://fbref.com/en/matches/7bc31977/FC-Copenhagen-Aalborg-July-15-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-07-15,SønderjyskE,Randers,0,0,NA,NA,4095,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/a834d33a/SonderjyskE-Randers-July-15-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2017-2018
 2017-07-16,Lyngby,Silkeborg,2,1,NA,NA,1387,Michael Johansen,https://fbref.com/en/matches/89f7e7e2/Lyngby-Silkeborg-July-16-2017-Superliga,1,1,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-07-16,Hobro,Helsingør,2,1,NA,NA,2476,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/d9dbeac1/Hobro-Helsingor-July-16-2017-Superliga,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-07-16,Brøndby,Midtjylland,4,0,NA,NA,10288,Anders Poulsen,https://fbref.com/en/matches/a63a0976/Brondby-Midtjylland-July-16-2017-Superliga,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-07-17,Odense,Nordsjælland,1,2,NA,NA,6993,Jens Maae,https://fbref.com/en/matches/1f65fc1d/Odense-Nordsjaelland-July-17-2017-Superliga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
-2017-07-21,Aarhus,Hobro,2,0,NA,NA,6730,,https://fbref.com/en/matches/4fba0d6b/Aarhus-Hobro-July-21-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
+2017-07-21,AGF,Hobro,2,0,NA,NA,6730,,https://fbref.com/en/matches/4fba0d6b/AGF-Hobro-July-21-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2017-07-22,Randers,FC Copenhagen,0,3,NA,NA,4227,Anders Poulsen,https://fbref.com/en/matches/2f12fb4a/Randers-FC-Copenhagen-July-22-2017-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-07-23,Horsens,Lyngby,4,1,NA,NA,1828,Dennis Mogensen,https://fbref.com/en/matches/7cfe6e0c/Horsens-Lyngby-July-23-2017-Superliga,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-07-23,Aalborg,SønderjyskE,1,4,NA,NA,6016,Morten Krogh,https://fbref.com/en/matches/0678f4ed/Aalborg-SonderjyskE-July-23-2017-Superliga,1,1,1,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2017-2018
@@ -19,38 +19,38 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-07-30,Midtjylland,Randers,2,1,NA,NA,5372,Michael Tykgaard,https://fbref.com/en/matches/0f598961/Midtjylland-Randers-July-30-2017-Superliga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2017-07-30,Nordsjælland,Aalborg,3,2,NA,NA,2309,Peter Larsen,https://fbref.com/en/matches/8f524bdd/Nordsjaelland-Aalborg-July-30-2017-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2017-07-30,Brøndby,Lyngby,5,3,NA,NA,11834,Jakob Kehlet,https://fbref.com/en/matches/b589c4ef/Brondby-Lyngby-July-30-2017-Superliga,0,1,3,0,0,0,0,0,0,1,1,3,1,0,0,0,0,0,2017-2018
-2017-07-31,Silkeborg,Aarhus,2,1,NA,NA,9411,Jørgen Burchardt,https://fbref.com/en/matches/31847849/Silkeborg-Aarhus-July-31-2017-Superliga,0,0,3,1,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2017-2018
+2017-07-31,Silkeborg,AGF,2,1,NA,NA,9411,Jørgen Burchardt,https://fbref.com/en/matches/31847849/Silkeborg-AGF-July-31-2017-Superliga,0,0,3,1,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2017-2018
 2017-08-04,Horsens,Silkeborg,1,0,NA,NA,2711,Michael Johansen,https://fbref.com/en/matches/ce9b92f3/Horsens-Silkeborg-August-4-2017-Superliga,1,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-08-05,Hobro,Randers,2,0,NA,NA,3016,Peter Larsen,https://fbref.com/en/matches/8881815c/Hobro-Randers-August-5-2017-Superliga,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-08-06,Lyngby,Nordsjælland,1,4,NA,NA,2255,Jørgen Burchardt,https://fbref.com/en/matches/32de8cc4/Lyngby-Nordsjaelland-August-6-2017-Superliga,0,0,1,2,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2017-2018
 2017-08-06,Helsingør,Midtjylland,2,1,NA,NA,2227,Jakob Kehlet,https://fbref.com/en/matches/978c3e72/Helsingor-Midtjylland-August-6-2017-Superliga,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-08-06,Odense,Aalborg,0,0,NA,NA,4824,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/9c99fe7a/Odense-Aalborg-August-6-2017-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-08-06,Brøndby,FC Copenhagen,1,0,NA,NA,21169,Anders Poulsen,https://fbref.com/en/matches/831bc92b/Brondby-FC-Copenhagen-August-6-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
-2017-08-07,SønderjyskE,Aarhus,3,0,NA,NA,6015,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/c4bc4fc2/SonderjyskE-Aarhus-August-7-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
+2017-08-07,SønderjyskE,AGF,3,0,NA,NA,6015,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/c4bc4fc2/SonderjyskE-AGF-August-7-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-08-11,Silkeborg,Helsingør,4,1,NA,NA,5246,Sandi Putros,https://fbref.com/en/matches/2dd022a1/Silkeborg-Helsingor-August-11-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-08-12,Lyngby,SønderjyskE,1,1,NA,NA,2089,Jens Maae,https://fbref.com/en/matches/c7cda4b4/Lyngby-SonderjyskE-August-12-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2017-08-12,FC Copenhagen,Horsens,1,1,NA,NA,7918,Michael Tykgaard,https://fbref.com/en/matches/eae74e76/FC-Copenhagen-Horsens-August-12-2017-Superliga,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-08-13,Midtjylland,Nordsjælland,4,3,NA,NA,5628,Michael Johansen,https://fbref.com/en/matches/e51c0d33/Midtjylland-Nordsjaelland-August-13-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2017-08-13,Randers,Brøndby,0,0,NA,NA,6107,Morten Krogh,https://fbref.com/en/matches/56cd89d0/Randers-Brondby-August-13-2017-Superliga,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2017-08-13,Aarhus,Odense,0,0,NA,NA,6519,Dennis Mogensen,https://fbref.com/en/matches/5a8ead66/Aarhus-Odense-August-13-2017-Superliga,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
+2017-08-13,AGF,Odense,0,0,NA,NA,6519,Dennis Mogensen,https://fbref.com/en/matches/5a8ead66/AGF-Odense-August-13-2017-Superliga,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-08-14,Aalborg,Hobro,1,1,NA,NA,7283,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/a8908acd/Aalborg-Hobro-August-14-2017-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-08-18,Horsens,Aalborg,0,0,NA,NA,3129,Peter Larsen,https://fbref.com/en/matches/ec888871/Horsens-Aalborg-August-18-2017-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-08-18,Randers,Silkeborg,1,1,NA,NA,3359,Michael Tykgaard,https://fbref.com/en/matches/a31b9589/Randers-Silkeborg-August-18-2017-Superliga,0,0,2,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2017-2018
 2017-08-19,FC Copenhagen,SønderjyskE,3,2,NA,NA,7953,Anders Poulsen,https://fbref.com/en/matches/5726f478/FC-Copenhagen-SonderjyskE-August-19-2017-Superliga,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-08-20,Odense,Midtjylland,0,2,NA,NA,7427,Jørgen Burchardt,https://fbref.com/en/matches/e677f89b/Odense-Midtjylland-August-20-2017-Superliga,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-08-20,Hobro,Lyngby,3,0,NA,NA,3937,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/a181f26e/Hobro-Lyngby-August-20-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2017-08-20,Aarhus,Brøndby,2,0,NA,NA,12156,Jens Maae,https://fbref.com/en/matches/07a0306c/Aarhus-Brondby-August-20-2017-Superliga,0,0,4,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2017-2018
+2017-08-20,AGF,Brøndby,2,0,NA,NA,12156,Jens Maae,https://fbref.com/en/matches/07a0306c/AGF-Brondby-August-20-2017-Superliga,0,0,4,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2017-2018
 2017-08-21,Nordsjælland,Helsingør,1,0,NA,NA,3520,Jakob Kehlet,https://fbref.com/en/matches/c0354f7c/Nordsjaelland-Helsingor-August-21-2017-Superliga,0,1,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-08-25,SønderjyskE,Odense,2,2,NA,NA,5642,Sandi Putros,https://fbref.com/en/matches/f04b4a45/SonderjyskE-Odense-August-25-2017-Superliga,0,0,3,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2017-2018
 2017-08-25,Silkeborg,Hobro,0,2,NA,NA,4975,Jørgen Burchardt,https://fbref.com/en/matches/61343dc6/Silkeborg-Hobro-August-25-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-08-26,Helsingør,Randers,2,0,NA,NA,1619,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/485591d6/Helsingor-Randers-August-26-2017-Superliga,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
-2017-08-26,Aalborg,Aarhus,0,0,NA,NA,5718,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/832357fa/Aalborg-Aarhus-August-26-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
+2017-08-26,Aalborg,AGF,0,0,NA,NA,5718,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/832357fa/Aalborg-AGF-August-26-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-08-27,Midtjylland,Lyngby,1,1,NA,NA,4512,Morten Krogh,https://fbref.com/en/matches/ef9b01a0/Midtjylland-Lyngby-August-27-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-08-27,Brøndby,Horsens,2,0,NA,NA,12175,Jakob Kehlet,https://fbref.com/en/matches/cfff9272/Brondby-Horsens-August-27-2017-Superliga,0,1,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-08-27,Nordsjælland,FC Copenhagen,3,0,NA,NA,6392,Michael Tykgaard,https://fbref.com/en/matches/ea70a9a5/Nordsjaelland-FC-Copenhagen-August-27-2017-Superliga,0,0,3,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2017-2018
 2017-09-08,Horsens,Nordsjælland,2,2,NA,NA,2207,Morten Krogh,https://fbref.com/en/matches/3f66e574/Horsens-Nordsjaelland-September-8-2017-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-09-08,Hobro,SønderjyskE,3,2,NA,NA,2074,Jørgen Burchardt,https://fbref.com/en/matches/02997adc/Hobro-SonderjyskE-September-8-2017-Superliga,0,0,2,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2017-2018
-2017-09-09,Aarhus,Randers,1,4,NA,NA,10567,Michael Tykgaard,https://fbref.com/en/matches/0104083b/Aarhus-Randers-September-9-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
+2017-09-09,AGF,Randers,1,4,NA,NA,10567,Michael Tykgaard,https://fbref.com/en/matches/0104083b/AGF-Randers-September-9-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-09-10,Lyngby,Helsingør,3,1,NA,NA,3327,Peter Larsen,https://fbref.com/en/matches/93ab0a02/Lyngby-Helsingor-September-10-2017-Superliga,1,1,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2017-2018
 2017-09-10,FC Copenhagen,Midtjylland,4,3,NA,NA,19308,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/01a3559a/FC-Copenhagen-Midtjylland-September-10-2017-Superliga,0,0,5,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-09-10,Odense,Brøndby,1,1,NA,NA,10717,Jakob Kehlet,https://fbref.com/en/matches/2eae4a0a/Odense-Brondby-September-10-2017-Superliga,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
@@ -61,15 +61,15 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-09-17,Midtjylland,Hobro,5,1,NA,NA,6714,Anders Poulsen,https://fbref.com/en/matches/f3c057b5/Midtjylland-Hobro-September-17-2017-Superliga,1,1,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2017-2018
 2017-09-17,Helsingør,FC Copenhagen,0,4,NA,NA,5308,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/cbc6ee37/Helsingor-FC-Copenhagen-September-17-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-09-17,Brøndby,Aalborg,0,0,NA,NA,13138,Michael Johansen,https://fbref.com/en/matches/791f4981/Brondby-Aalborg-September-17-2017-Superliga,0,0,1,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
-2017-09-18,Nordsjælland,Aarhus,1,2,NA,NA,3041,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/e2da9adc/Nordsjaelland-Aarhus-September-18-2017-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
+2017-09-18,Nordsjælland,AGF,1,2,NA,NA,3041,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/e2da9adc/Nordsjaelland-AGF-September-18-2017-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-09-22,Nordsjælland,SønderjyskE,2,2,NA,NA,2187,Anders Poulsen,https://fbref.com/en/matches/11f10cad/Nordsjaelland-SonderjyskE-September-22-2017-Superliga,0,0,4,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2017-2018
 2017-09-23,Horsens,Helsingør,2,0,NA,NA,2943,Michael Tykgaard,https://fbref.com/en/matches/4a934e14/Horsens-Helsingor-September-23-2017-Superliga,0,0,1,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2017-2018
 2017-09-23,FC Copenhagen,Silkeborg,4,0,NA,NA,14403,Jakob Kehlet,https://fbref.com/en/matches/6b0464cc/FC-Copenhagen-Silkeborg-September-23-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-09-24,Aalborg,Lyngby,3,1,NA,NA,5280,Jørgen Burchardt,https://fbref.com/en/matches/9aa2376f/Aalborg-Lyngby-September-24-2017-Superliga,0,0,1,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2017-2018
 2017-09-24,Odense,Randers,3,1,NA,NA,5032,Morten Krogh,https://fbref.com/en/matches/076daae6/Odense-Randers-September-24-2017-Superliga,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-09-24,Hobro,Brøndby,1,2,NA,NA,4546,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/7a8d357d/Hobro-Brondby-September-24-2017-Superliga,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
-2017-09-25,Aarhus,Midtjylland,0,3,NA,NA,9083,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/2d6da4af/Aarhus-Midtjylland-September-25-2017-Superliga,0,0,3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2017-2018
-2017-09-29,Helsingør,Aarhus,1,5,NA,NA,3281,Sandi Putros,https://fbref.com/en/matches/a917aefd/Helsingor-Aarhus-September-29-2017-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
+2017-09-25,AGF,Midtjylland,0,3,NA,NA,9083,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/2d6da4af/AGF-Midtjylland-September-25-2017-Superliga,0,0,3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2017-2018
+2017-09-29,Helsingør,AGF,1,5,NA,NA,3281,Sandi Putros,https://fbref.com/en/matches/a917aefd/Helsingor-AGF-September-29-2017-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-09-29,Randers,Horsens,0,1,NA,NA,2878,Peter Larsen,https://fbref.com/en/matches/3ec5c3e5/Randers-Horsens-September-29-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2017-09-30,Hobro,Odense,1,1,NA,NA,2090,Michael Johansen,https://fbref.com/en/matches/007b1040/Hobro-Odense-September-30-2017-Superliga,1,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-10-01,Silkeborg,Nordsjælland,2,4,NA,NA,3608,Jørgen Burchardt,https://fbref.com/en/matches/1c160c17/Silkeborg-Nordsjaelland-October-1-2017-Superliga,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
@@ -82,15 +82,15 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-10-15,Aalborg,Helsingør,1,0,NA,NA,6972,Dennis Mogensen,https://fbref.com/en/matches/9115d4af/Aalborg-Helsingor-October-15-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-10-15,Brøndby,Silkeborg,4,1,NA,NA,13778,Anders Poulsen,https://fbref.com/en/matches/583dc614/Brondby-Silkeborg-October-15-2017-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2017-2018
 2017-10-15,Odense,FC Copenhagen,1,0,NA,NA,9231,Michael Tykgaard,https://fbref.com/en/matches/7e4bf9f0/Odense-FC-Copenhagen-October-15-2017-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
-2017-10-16,Aarhus,Lyngby,0,2,NA,NA,9787,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/02f66e75/Aarhus-Lyngby-October-16-2017-Superliga,0,0,2,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
+2017-10-16,AGF,Lyngby,0,2,NA,NA,9787,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/02f66e75/AGF-Lyngby-October-16-2017-Superliga,0,0,2,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-10-20,Midtjylland,Horsens,4,2,NA,NA,7134,Morten Krogh,https://fbref.com/en/matches/92aa73ca/Midtjylland-Horsens-October-20-2017-Superliga,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-10-21,Silkeborg,SønderjyskE,1,0,NA,NA,3013,Jakob Kehlet,https://fbref.com/en/matches/38869f02/Silkeborg-SonderjyskE-October-21-2017-Superliga,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-10-22,Hobro,Nordsjælland,4,0,NA,NA,2261,Peter Larsen,https://fbref.com/en/matches/9fe233cc/Hobro-Nordsjaelland-October-22-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2017-2018
 2017-10-22,Lyngby,Odense,1,1,NA,NA,2316,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/ca0613c1/Lyngby-Odense-October-22-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2017-10-22,Helsingør,Brøndby,0,1,NA,NA,5189,Jørgen Burchardt,https://fbref.com/en/matches/a4328b98/Helsingor-Brondby-October-22-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2017-2018
-2017-10-22,FC Copenhagen,Aarhus,4,0,NA,NA,17481,Michael Johansen,https://fbref.com/en/matches/214c6d73/FC-Copenhagen-Aarhus-October-22-2017-Superliga,0,1,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
+2017-10-22,FC Copenhagen,AGF,4,0,NA,NA,17481,Michael Johansen,https://fbref.com/en/matches/214c6d73/FC-Copenhagen-AGF-October-22-2017-Superliga,0,1,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-10-23,Randers,Aalborg,1,1,NA,NA,4121,Anders Poulsen,https://fbref.com/en/matches/24044e1e/Randers-Aalborg-October-23-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
-2017-10-27,Aarhus,Nordsjælland,1,4,NA,NA,5173,Morten Krogh,https://fbref.com/en/matches/a71bcbd4/Aarhus-Nordsjaelland-October-27-2017-Superliga,0,1,1,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2017-2018
+2017-10-27,AGF,Nordsjælland,1,4,NA,NA,5173,Morten Krogh,https://fbref.com/en/matches/a71bcbd4/AGF-Nordsjaelland-October-27-2017-Superliga,0,1,1,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2017-2018
 2017-10-28,Helsingør,Silkeborg,2,0,NA,NA,1159,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/9e800fcd/Helsingor-Silkeborg-October-28-2017-Superliga,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2017-10-29,SønderjyskE,Hobro,1,1,NA,NA,3848,Michael Johansen,https://fbref.com/en/matches/f7e7ebe5/SonderjyskE-Hobro-October-29-2017-Superliga,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2017-10-29,Lyngby,Midtjylland,2,2,NA,NA,2311,Jakob Kehlet,https://fbref.com/en/matches/205eb6fa/Lyngby-Midtjylland-October-29-2017-Superliga,1,1,1,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2017-2018
@@ -102,10 +102,10 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-11-04,Nordsjælland,Lyngby,2,2,NA,NA,3080,Michael Johansen,https://fbref.com/en/matches/8312a61b/Nordsjaelland-Lyngby-November-4-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2017-2018
 2017-11-05,FC Copenhagen,Brøndby,0,1,NA,NA,24446,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/4df6be36/FC-Copenhagen-Brondby-November-5-2017-Superliga,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2017-11-05,Odense,SønderjyskE,0,3,NA,NA,6035,Michael Tykgaard,https://fbref.com/en/matches/2a46a358/Odense-SonderjyskE-November-5-2017-Superliga,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2017-11-05,Randers,Aarhus,1,0,NA,NA,7532,Dennis Mogensen,https://fbref.com/en/matches/c4c60d0a/Randers-Aarhus-November-5-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2017-2018
+2017-11-05,Randers,AGF,1,0,NA,NA,7532,Dennis Mogensen,https://fbref.com/en/matches/c4c60d0a/Randers-AGF-November-5-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2017-2018
 2017-11-05,Hobro,Aalborg,0,1,NA,NA,4115,Jens Maae,https://fbref.com/en/matches/d26ebdb5/Hobro-Aalborg-November-5-2017-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2017-11-17,Helsingør,Hobro,0,1,NA,NA,1119,Morten Krogh,https://fbref.com/en/matches/df8d1a1e/Helsingor-Hobro-November-17-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2017-11-18,Aarhus,Silkeborg,3,1,NA,NA,6728,Michael Tykgaard,https://fbref.com/en/matches/dd042575/Aarhus-Silkeborg-November-18-2017-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
+2017-11-18,AGF,Silkeborg,3,1,NA,NA,6728,Michael Tykgaard,https://fbref.com/en/matches/dd042575/AGF-Silkeborg-November-18-2017-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-11-19,Lyngby,Randers,1,3,NA,NA,1568,Anders Poulsen,https://fbref.com/en/matches/04550123/Lyngby-Randers-November-19-2017-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-11-19,Horsens,Odense,0,0,NA,NA,2452,Peter Larsen,https://fbref.com/en/matches/71d7edc1/Horsens-Odense-November-19-2017-Superliga,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2017-11-19,SønderjyskE,FC Copenhagen,3,0,NA,NA,6337,Jakob Kehlet,https://fbref.com/en/matches/b284888b/SonderjyskE-FC-Copenhagen-November-19-2017-Superliga,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
@@ -117,8 +117,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-11-26,Odense,Hobro,3,0,NA,NA,4068,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/b1014f8e/Odense-Hobro-November-26-2017-Superliga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2017-11-26,FC Copenhagen,Lyngby,5,1,NA,NA,16678,Morten Krogh,https://fbref.com/en/matches/09983a94/FC-Copenhagen-Lyngby-November-26-2017-Superliga,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2017-11-26,Silkeborg,Brøndby,1,3,NA,NA,5777,Jørgen Burchardt,https://fbref.com/en/matches/8c741996/Silkeborg-Brondby-November-26-2017-Superliga,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
-2017-11-27,Midtjylland,Aarhus,4,0,NA,NA,8024,Jens Maae,https://fbref.com/en/matches/194fc51e/Midtjylland-Aarhus-November-27-2017-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2017-12-01,Aarhus,Helsingør,0,0,NA,NA,4192,Peter Larsen,https://fbref.com/en/matches/455ec4c4/Aarhus-Helsingor-December-1-2017-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
+2017-11-27,Midtjylland,AGF,4,0,NA,NA,8024,Jens Maae,https://fbref.com/en/matches/194fc51e/Midtjylland-AGF-November-27-2017-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
+2017-12-01,AGF,Helsingør,0,0,NA,NA,4192,Peter Larsen,https://fbref.com/en/matches/455ec4c4/AGF-Helsingor-December-1-2017-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2017-12-02,Lyngby,Aalborg,1,2,NA,NA,1610,Sandi Putros,https://fbref.com/en/matches/dc8c9832/Lyngby-Aalborg-December-2-2017-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-12-03,Hobro,Horsens,1,1,NA,NA,1802,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/880ca9f9/Hobro-Horsens-December-3-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-12-03,Silkeborg,Randers,3,2,NA,NA,2861,Jakob Kehlet,https://fbref.com/en/matches/d7e18eb4/Silkeborg-Randers-December-3-2017-Superliga,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
@@ -130,7 +130,7 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-12-10,Odense,Silkeborg,1,2,NA,NA,3856,Jens Maae,https://fbref.com/en/matches/f05a8c46/Odense-Silkeborg-December-10-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2017-12-10,Nordsjælland,Hobro,3,2,NA,NA,2843,Michael Tykgaard,https://fbref.com/en/matches/2851a390/Nordsjaelland-Hobro-December-10-2017-Superliga,1,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2017-12-10,Aalborg,FC Copenhagen,1,1,NA,NA,6835,Jørgen Burchardt,https://fbref.com/en/matches/65dfb686/Aalborg-FC-Copenhagen-December-10-2017-Superliga,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
-2017-12-10,Brøndby,Aarhus,2,2,NA,NA,16235,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/766c25cb/Brondby-Aarhus-December-10-2017-Superliga,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2017-2018
+2017-12-10,Brøndby,AGF,2,2,NA,NA,16235,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/766c25cb/Brondby-AGF-December-10-2017-Superliga,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2017-2018
 2017-12-11,Randers,Midtjylland,0,4,NA,NA,3098,Dennis Mogensen,https://fbref.com/en/matches/d6d7052c/Randers-Midtjylland-December-11-2017-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-02-09,Horsens,Midtjylland,0,2,NA,NA,3487,Michael Tykgaard,https://fbref.com/en/matches/a3feaaa8/Horsens-Midtjylland-February-9-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2018-02-10,Silkeborg,Aalborg,3,2,NA,NA,2487,Michael Johansen,https://fbref.com/en/matches/f06ecb66/Silkeborg-Aalborg-February-10-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
@@ -138,22 +138,22 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2018-02-11,Odense,Helsingør,6,1,NA,NA,2611,Sandi Putros,https://fbref.com/en/matches/7f19fd73/Odense-Helsingor-February-11-2018-Superliga,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2018-02-11,SønderjyskE,Nordsjælland,2,1,NA,NA,2835,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/c082de07/SonderjyskE-Nordsjaelland-February-11-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-02-11,Lyngby,Brøndby,1,3,NA,NA,3342,Peter Larsen,https://fbref.com/en/matches/356ff480/Lyngby-Brondby-February-11-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2018-02-12,Hobro,Aarhus,0,1,NA,NA,2543,Anders Poulsen,https://fbref.com/en/matches/3a8ba074/Hobro-Aarhus-February-12-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
+2018-02-12,Hobro,AGF,0,1,NA,NA,2543,Anders Poulsen,https://fbref.com/en/matches/3a8ba074/Hobro-AGF-February-12-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-02-16,Nordsjælland,Odense,2,1,NA,NA,1930,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/e7a5ee51/Nordsjaelland-Odense-February-16-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-02-17,Silkeborg,Lyngby,1,1,NA,NA,2540,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/2710bc49/Silkeborg-Lyngby-February-17-2018-Superliga,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-02-18,Helsingør,Horsens,0,2,NA,NA,568,Jørgen Burchardt,https://fbref.com/en/matches/568cee85/Helsingor-Horsens-February-18-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2018-02-18,Randers,Hobro,0,0,NA,NA,3076,Jakob Kehlet,https://fbref.com/en/matches/11ac58e3/Randers-Hobro-February-18-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-02-18,Midtjylland,FC Copenhagen,3,1,NA,NA,10654,Anders Poulsen,https://fbref.com/en/matches/cb840428/Midtjylland-FC-Copenhagen-February-18-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-02-18,Aalborg,Brøndby,1,1,NA,NA,6711,Sandi Putros,https://fbref.com/en/matches/20fc3ed3/Aalborg-Brondby-February-18-2018-Superliga,0,1,2,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2017-2018
-2018-02-19,Aarhus,SønderjyskE,0,0,NA,NA,4418,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/e80d07d1/Aarhus-SonderjyskE-February-19-2018-Superliga,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
+2018-02-19,AGF,SønderjyskE,0,0,NA,NA,4418,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/e80d07d1/AGF-SonderjyskE-February-19-2018-Superliga,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-02-23,Horsens,Randers,1,1,NA,NA,2086,Peter Larsen,https://fbref.com/en/matches/352f613e/Horsens-Randers-February-23-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2018-02-24,Lyngby,Aarhus,0,0,NA,NA,2314,Michael Tykgaard,https://fbref.com/en/matches/53457f51/Lyngby-Aarhus-February-24-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
+2018-02-24,Lyngby,AGF,0,0,NA,NA,2314,Michael Tykgaard,https://fbref.com/en/matches/53457f51/Lyngby-AGF-February-24-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-02-25,Hobro,Midtjylland,1,2,NA,NA,1927,Jens Maae,https://fbref.com/en/matches/1db404ed/Hobro-Midtjylland-February-25-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2017-2018
 2018-02-25,Aalborg,Nordsjælland,1,1,NA,NA,4358,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/03f26501/Aalborg-Nordsjaelland-February-25-2018-Superliga,1,1,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2017-2018
 2018-02-25,Brøndby,Helsingør,6,1,NA,NA,11547,Michael Johansen,https://fbref.com/en/matches/bf5d311e/Brondby-Helsingor-February-25-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-02-25,FC Copenhagen,Odense,1,0,NA,NA,9903,Jakob Kehlet,https://fbref.com/en/matches/9506f129/FC-Copenhagen-Odense-February-25-2018-Superliga,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2018-02-26,SønderjyskE,Silkeborg,0,1,NA,NA,2803,Anders Poulsen,https://fbref.com/en/matches/abbf6f30/SonderjyskE-Silkeborg-February-26-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2017-2018
-2018-02-27,Horsens,Aarhus,1,1,NA,NA,1878,Sandi Putros,https://fbref.com/en/matches/0e87b8d6/Horsens-Aarhus-February-27-2018-Superliga,0,0,2,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,2017-2018
+2018-02-27,Horsens,AGF,1,1,NA,NA,1878,Sandi Putros,https://fbref.com/en/matches/0e87b8d6/Horsens-AGF-February-27-2018-Superliga,0,0,2,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,2017-2018
 2018-02-28,Randers,Helsingør,0,0,NA,NA,1339,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/97cb581c/Randers-Helsingor-February-28-2018-Superliga,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-02-28,Odense,Lyngby,3,1,NA,NA,1673,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/67289ad5/Odense-Lyngby-February-28-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-02-28,Hobro,FC Copenhagen,0,2,NA,NA,1013,Jørgen Burchardt,https://fbref.com/en/matches/ef48361f/Hobro-FC-Copenhagen-February-28-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
@@ -163,11 +163,11 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2018-03-03,Lyngby,Hobro,0,3,NA,NA,1056,,https://fbref.com/en/matches/552b9103/Lyngby-Hobro-March-3-2018-Superliga,0,0,1,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,2017-2018
 2018-03-04,Helsingør,SønderjyskE,1,2,NA,NA,779,Jakob Kehlet,https://fbref.com/en/matches/51a2a961/Helsingor-SonderjyskE-March-4-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-03-04,Randers,Nordsjælland,0,3,NA,NA,1691,Jørgen Burchardt,https://fbref.com/en/matches/78283551/Randers-Nordsjaelland-March-4-2018-Superliga,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
-2018-03-04,Aarhus,FC Copenhagen,0,1,NA,NA,8787,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/983dcebe/Aarhus-FC-Copenhagen-March-4-2018-Superliga,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
+2018-03-04,AGF,FC Copenhagen,0,1,NA,NA,8787,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/983dcebe/AGF-FC-Copenhagen-March-4-2018-Superliga,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-03-04,Brøndby,Odense,2,1,NA,NA,10030,Jens Maae,https://fbref.com/en/matches/5505c8d9/Brondby-Odense-March-4-2018-Superliga,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-03-05,Aalborg,Horsens,1,1,NA,NA,2116,Peter Larsen,https://fbref.com/en/matches/451adb41/Aalborg-Horsens-March-5-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-03-05,Silkeborg,Midtjylland,1,2,NA,NA,2917,Anders Poulsen,https://fbref.com/en/matches/70c70a10/Silkeborg-Midtjylland-March-5-2018-Superliga,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
-2018-03-09,Odense,Aarhus,0,1,NA,NA,3682,Peter Larsen,https://fbref.com/en/matches/e9d5313a/Odense-Aarhus-March-9-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
+2018-03-09,Odense,AGF,0,1,NA,NA,3682,Peter Larsen,https://fbref.com/en/matches/e9d5313a/Odense-AGF-March-9-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-03-10,Hobro,Silkeborg,1,1,NA,NA,1650,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/40604549/Hobro-Silkeborg-March-10-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-03-11,SønderjyskE,Lyngby,1,0,NA,NA,3555,Sandi Putros,https://fbref.com/en/matches/df48cc40/SonderjyskE-Lyngby-March-11-2018-Superliga,0,0,3,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-03-11,Aalborg,Randers,4,0,NA,NA,4100,Michael Johansen,https://fbref.com/en/matches/06fa24c3/Aalborg-Randers-March-11-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2017-2018
@@ -180,9 +180,9 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2018-03-18,Brøndby,Hobro,2,1,NA,NA,13467,Jørgen Burchardt,https://fbref.com/en/matches/3a8fd6bd/Brondby-Hobro-March-18-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-03-18,Randers,Odense,4,1,NA,NA,2027,Jakob Kehlet,https://fbref.com/en/matches/8f0c96a3/Randers-Odense-March-18-2018-Superliga,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2018-03-18,Midtjylland,SønderjyskE,2,1,NA,NA,8378,Michael Johansen,https://fbref.com/en/matches/a7b03bbb/Midtjylland-SonderjyskE-March-18-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2018-03-18,Aarhus,Aalborg,0,0,NA,NA,8387,Jens Maae,https://fbref.com/en/matches/9d219b7f/Aarhus-Aalborg-March-18-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
+2018-03-18,AGF,Aalborg,0,0,NA,NA,8387,Jens Maae,https://fbref.com/en/matches/9d219b7f/AGF-Aalborg-March-18-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-03-31,Silkeborg,Helsingør,2,3,NA,NA,2208,Peter Larsen,https://fbref.com/en/matches/208f50f3/Silkeborg-Helsingor-March-31-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2018-04-01,Hobro,Aarhus,1,3,NA,NA,3186,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/15337ee7/Hobro-Aarhus-April-1-2018-Superliga,0,0,3,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2017-2018
+2018-04-01,Hobro,AGF,1,3,NA,NA,3186,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/15337ee7/Hobro-AGF-April-1-2018-Superliga,0,0,3,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2017-2018
 2018-04-01,Randers,Lyngby,2,0,NA,NA,2240,Anders Poulsen,https://fbref.com/en/matches/3239b22a/Randers-Lyngby-April-1-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2017-2018
 2018-04-02,Odense,SønderjyskE,2,1,NA,NA,2933,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/eb648f88/Odense-SonderjyskE-April-2-2018-Superliga,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2017-2018
 2018-04-02,FC Copenhagen,Nordsjælland,2,1,NA,NA,12542,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/dff888bd/FC-Copenhagen-Nordsjaelland-April-2-2018-Superliga,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2017-2018
@@ -193,16 +193,16 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2018-04-08,Helsingør,Hobro,0,1,NA,NA,1543,Michael Johansen,https://fbref.com/en/matches/de33326e/Helsingor-Hobro-April-8-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2017-2018
 2018-04-08,SønderjyskE,Randers,1,0,NA,NA,3651,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/d287d2c8/SonderjyskE-Randers-April-8-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-04-08,Brøndby,Horsens,5,1,NA,NA,15807,Anders Poulsen,https://fbref.com/en/matches/3478f561/Brondby-Horsens-April-8-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
-2018-04-08,Aarhus,Silkeborg,2,1,NA,NA,9110,Jørgen Burchardt,https://fbref.com/en/matches/37c540af/Aarhus-Silkeborg-April-8-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
+2018-04-08,AGF,Silkeborg,2,1,NA,NA,9110,Jørgen Burchardt,https://fbref.com/en/matches/37c540af/AGF-Silkeborg-April-8-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-04-09,Midtjylland,FC Copenhagen,3,2,NA,NA,9755,Jens Maae,https://fbref.com/en/matches/dd11a071/Midtjylland-FC-Copenhagen-April-9-2018-Superliga,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
-2018-04-13,Aarhus,Helsingør,2,1,NA,NA,6652,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/563fa48c/Aarhus-Helsingor-April-13-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
+2018-04-13,AGF,Helsingør,2,1,NA,NA,6652,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/563fa48c/AGF-Helsingor-April-13-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2018-04-14,SønderjyskE,Lyngby,1,0,NA,NA,3744,Sandi Putros,https://fbref.com/en/matches/50ff8ab4/SonderjyskE-Lyngby-April-14-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-04-15,Odense,Randers,3,0,NA,NA,2748,Peter Larsen,https://fbref.com/en/matches/bcb9f19b/Odense-Randers-April-15-2018-Superliga,1,1,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-04-15,Aalborg,Horsens,2,0,NA,NA,3175,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/765b42fd/Aalborg-Horsens-April-15-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-04-15,Brøndby,FC Copenhagen,2,1,NA,NA,25335,Jakob Kehlet,https://fbref.com/en/matches/4e01880f/Brondby-FC-Copenhagen-April-15-2018-Superliga,0,0,4,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,2017-2018
 2018-04-15,Nordsjælland,Midtjylland,1,2,NA,NA,4421,Michael Tykgaard,https://fbref.com/en/matches/5c9e4943/Nordsjaelland-Midtjylland-April-15-2018-Superliga,0,0,4,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-04-16,Hobro,Silkeborg,1,0,NA,NA,2013,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/9500b2a4/Hobro-Silkeborg-April-16-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2018-04-17,Helsingør,Aarhus,1,0,NA,NA,1726,Morten Krogh,https://fbref.com/en/matches/845fb28f/Helsingor-Aarhus-April-17-2018-Superliga,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
+2018-04-17,Helsingør,AGF,1,0,NA,NA,1726,Morten Krogh,https://fbref.com/en/matches/845fb28f/Helsingor-AGF-April-17-2018-Superliga,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2018-04-18,Horsens,Nordsjælland,2,2,NA,NA,2081,Michael Johansen,https://fbref.com/en/matches/86fdd36f/Horsens-Nordsjaelland-April-18-2018-Superliga,0,0,2,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,2017-2018
 2018-04-18,Randers,Odense,1,1,NA,NA,2257,Jens Maae,https://fbref.com/en/matches/8dccf370/Randers-Odense-April-18-2018-Superliga,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-04-18,FC Copenhagen,Aalborg,2,1,NA,NA,9789,Anders Poulsen,https://fbref.com/en/matches/574ea781/FC-Copenhagen-Aalborg-April-18-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
@@ -215,16 +215,16 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2018-04-22,Aalborg,Midtjylland,3,3,NA,NA,4652,Jørgen Burchardt,https://fbref.com/en/matches/8d952953/Aalborg-Midtjylland-April-22-2018-Superliga,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2018-04-22,Randers,SønderjyskE,3,0,NA,NA,2254,Benjamin Willaume-Jantzen,https://fbref.com/en/matches/db649c54/Randers-SonderjyskE-April-22-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-04-22,Nordsjælland,Brøndby,3,4,NA,NA,8893,Sandi Putros,https://fbref.com/en/matches/0b25f451/Nordsjaelland-Brondby-April-22-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
-2018-04-23,Aarhus,Hobro,0,1,NA,NA,6172,Anders Poulsen,https://fbref.com/en/matches/07b64e27/Aarhus-Hobro-April-23-2018-Superliga,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
+2018-04-23,AGF,Hobro,0,1,NA,NA,6172,Anders Poulsen,https://fbref.com/en/matches/07b64e27/AGF-Hobro-April-23-2018-Superliga,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-04-27,Horsens,FC Copenhagen,2,3,NA,NA,3433,Peter Larsen,https://fbref.com/en/matches/96910d86/Horsens-FC-Copenhagen-April-27-2018-Superliga,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2018-04-29,SønderjyskE,Odense,2,0,NA,NA,4242,Michael Johansen,https://fbref.com/en/matches/db1a9412/SonderjyskE-Odense-April-29-2018-Superliga,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-04-29,Lyngby,Randers,1,3,NA,NA,1589,Sandi Putros,https://fbref.com/en/matches/b7c93ab2/Lyngby-Randers-April-29-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2018-04-29,Midtjylland,Aalborg,3,0,NA,NA,7695,Jens Maae,https://fbref.com/en/matches/47e41488/Midtjylland-Aalborg-April-29-2018-Superliga,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-04-29,Brøndby,Nordsjælland,3,1,NA,NA,19527,Michael Tykgaard,https://fbref.com/en/matches/ba396555/Brondby-Nordsjaelland-April-29-2018-Superliga,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2018-04-30,Hobro,Helsingør,4,1,NA,NA,1740,Jørgen Burchardt,https://fbref.com/en/matches/947c88b2/Hobro-Helsingor-April-30-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
-2018-04-30,Silkeborg,Aarhus,2,5,NA,NA,3420,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/7b31376c/Silkeborg-Aarhus-April-30-2018-Superliga,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
+2018-04-30,Silkeborg,AGF,2,5,NA,NA,3420,Peter Kjærsgaard-Andersen,https://fbref.com/en/matches/7b31376c/Silkeborg-AGF-April-30-2018-Superliga,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017-2018
 2018-05-04,Horsens,Aalborg,2,1,NA,NA,2420,Morten Krogh,https://fbref.com/en/matches/8737a09e/Horsens-Aalborg-May-4-2018-Superliga,1,1,2,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2017-2018
-2018-05-06,Aarhus,Odense,3,2,NA,NA,9770,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/d4e356df/Aarhus-Odense-May-6-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
+2018-05-06,AGF,Odense,3,2,NA,NA,9770,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/d4e356df/AGF-Odense-May-6-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2017-2018
 2018-05-06,Helsingør,Randers,1,1,NA,NA,2189,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2017-2018
 2018-05-06,FC Copenhagen,Brøndby,1,1,NA,NA,28410,Jens Maae,https://fbref.com/en/matches/13b8ec48/FC-Copenhagen-Brondby-May-6-2018-Superliga,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-05-06,SønderjyskE,Hobro,1,0,NA,NA,5011,Jakob Kehlet,https://fbref.com/en/matches/b6e9de1e/SonderjyskE-Hobro-May-6-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
@@ -234,7 +234,7 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2018-05-13,Randers,Helsingør,2,1,NA,NA,6260,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2017-2018
 2018-05-13,Silkeborg,Lyngby,2,2,NA,NA,3700,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2017-2018
 2018-05-13,Hobro,SønderjyskE,3,2,NA,NA,3017,Morten Krogh,https://fbref.com/en/matches/0a06782e/Hobro-SonderjyskE-May-13-2018-Superliga,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2018-05-13,Odense,Aarhus,2,3,NA,NA,8107,Jørgen Burchardt,https://fbref.com/en/matches/d1836cba/Odense-Aarhus-May-13-2018-Superliga,1,1,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
+2018-05-13,Odense,AGF,2,3,NA,NA,8107,Jørgen Burchardt,https://fbref.com/en/matches/d1836cba/Odense-AGF-May-13-2018-Superliga,1,1,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2018-05-13,Aalborg,FC Copenhagen,1,0,NA,NA,5148,Michael Tykgaard,https://fbref.com/en/matches/23c95008/Aalborg-FC-Copenhagen-May-13-2018-Superliga,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2018-05-14,Brøndby,Midtjylland,0,1,NA,NA,25848,Jakob Kehlet,https://fbref.com/en/matches/7a442de2/Brondby-Midtjylland-May-14-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-05-17,Helsingør,Silkeborg,1,1,NA,NA,2060,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2017-2018
@@ -242,11 +242,11 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2018-05-18,Aalborg,Nordsjælland,0,0,NA,NA,5067,Morten Krogh,https://fbref.com/en/matches/8d935a74/Aalborg-Nordsjaelland-May-18-2018-Superliga,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
 2018-05-18,FC Copenhagen,Midtjylland,0,2,NA,NA,17167,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/307933a4/FC-Copenhagen-Midtjylland-May-18-2018-Superliga,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2018-05-18,Horsens,Brøndby,2,2,NA,NA,9604,Michael Johansen,https://fbref.com/en/matches/5a8bd3bb/Horsens-Brondby-May-18-2018-Superliga,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2018-05-19,Aarhus,SønderjyskE,2,2,NA,NA,10768,Sandi Putros,https://fbref.com/en/matches/6dc1b577/Aarhus-SonderjyskE-May-19-2018-Superliga,1,1,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
+2018-05-19,AGF,SønderjyskE,2,2,NA,NA,10768,Sandi Putros,https://fbref.com/en/matches/6dc1b577/AGF-SonderjyskE-May-19-2018-Superliga,1,1,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2017-2018
 2018-05-21,Randers,Lyngby,2,1,NA,NA,8113,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2017-2018
 2018-05-21,Silkeborg,Helsingør,4,3,NA,NA,5396,,https://fbref.com/en/matches/NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2017-2018
 2018-05-21,Nordsjælland,FC Copenhagen,0,0,NA,NA,10124,Jakob Kehlet,https://fbref.com/en/matches/fe77cecf/Nordsjaelland-FC-Copenhagen-May-21-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-05-21,Brøndby,Aalborg,1,1,NA,NA,25730,Mads-Kristoffer Kristoffersen,https://fbref.com/en/matches/741b53a5/Brondby-Aalborg-May-21-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
 2018-05-21,Midtjylland,Horsens,1,0,NA,NA,11432,Michael Tykgaard,https://fbref.com/en/matches/f8013511/Midtjylland-Horsens-May-21-2018-Superliga,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2017-2018
-2018-05-22,SønderjyskE,Aarhus,0,2,NA,NA,6342,,https://fbref.com/en/matches/da36a73c/SonderjyskE-Aarhus-May-22-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2017-2018
-2018-05-25,FC Copenhagen,Aarhus,4,1,NA,NA,16379,Michael Tykgaard,https://fbref.com/en/matches/e24118c1/FC-Copenhagen-Aarhus-May-25-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018
+2018-05-22,SønderjyskE,AGF,0,2,NA,NA,6342,,https://fbref.com/en/matches/da36a73c/SonderjyskE-AGF-May-22-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2017-2018
+2018-05-25,FC Copenhagen,AGF,4,1,NA,NA,16379,Michael Tykgaard,https://fbref.com/en/matches/e24118c1/FC-Copenhagen-AGF-May-25-2018-Superliga,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2017-2018

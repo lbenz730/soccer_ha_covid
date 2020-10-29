@@ -111,8 +111,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2016-12-10,Belenenses,Marítimo,1,0,NA,NA,2159,Jorge Ferreira,https://fbref.com/en/matches/1119ce3c/Belenenses-Maritimo-December-10-2016-Primeira-Liga,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2016-2017
 2016-12-10,Chaves,Moreirense,2,1,NA,NA,2184,Artur Soares Dias,https://fbref.com/en/matches/e05c4f74/Chaves-Moreirense-December-10-2016-Primeira-Liga,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
 2016-12-10,Boavista,Vitória,1,2,NA,NA,4699,Hugo Miguel,https://fbref.com/en/matches/a0dff39e/Boavista-Vitoria-Guimaraes-December-10-2016-Primeira-Liga,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
-2016-12-11,Feirense,Porto,0,4,NA,NA,4635,Luís Ferreira,https://fbref.com/en/matches/8e603cc8/Feirense-Porto-December-11-2016-Primeira-Liga,0,0,2,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2016-2017
 2016-12-11,Nacional,Tondela,3,2,NA,NA,1192,Tiago Antunes,https://fbref.com/en/matches/55907307/Nacional-Tondela-December-11-2016-Primeira-Liga,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2016-12-11,Feirense,Porto,0,4,NA,NA,4635,Luís Ferreira,https://fbref.com/en/matches/8e603cc8/Feirense-Porto-December-11-2016-Primeira-Liga,0,0,2,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2016-2017
 2016-12-11,Benfica,Sporting CP,2,1,NA,NA,63312,Jorge de Sousa,https://fbref.com/en/matches/5d05e019/Benfica-Sporting-CP-December-11-2016-Primeira-Liga,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
 2016-12-11,Braga,Paços,3,0,NA,NA,7543,Nuno Miguel Serrano Almeida,https://fbref.com/en/matches/c6314acf/Braga-Pacos-de-Ferreira-December-11-2016-Primeira-Liga,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2016-12-12,Arouca,Rio Ave,0,2,NA,NA,1360,Bruno Duarte Paixão,https://fbref.com/en/matches/44bd8406/Arouca-Rio-Ave-December-12-2016-Primeira-Liga,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
@@ -270,8 +270,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-04-23,Porto,Feirense,0,0,NA,NA,39229,Rui Costa,https://fbref.com/en/matches/02321610/Porto-Feirense-April-23-2017-Primeira-Liga,0,0,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
 2017-04-24,Moreirense,Chaves,0,0,NA,NA,2767,Hugo Miguel,https://fbref.com/en/matches/1893a810/Moreirense-Chaves-April-24-2017-Primeira-Liga,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2017-04-28,Vitória Setúbal,Vitória,0,2,NA,NA,2556,Manuel Oliveira,https://fbref.com/en/matches/169442c0/Vitoria-Setubal-Vitoria-Guimaraes-April-28-2017-Primeira-Liga,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2016-2017
-2017-04-29,Nacional,Rio Ave,0,2,NA,NA,1743,Jorge de Sousa,https://fbref.com/en/matches/2fa8541b/Nacional-Rio-Ave-April-29-2017-Primeira-Liga,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
 2017-04-29,Boavista,Tondela,1,0,NA,NA,4502,Vasco Santos,https://fbref.com/en/matches/35329d70/Boavista-Tondela-April-29-2017-Primeira-Liga,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-04-29,Nacional,Rio Ave,0,2,NA,NA,1743,Jorge de Sousa,https://fbref.com/en/matches/2fa8541b/Nacional-Rio-Ave-April-29-2017-Primeira-Liga,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-2017
 2017-04-29,Benfica,Estoril,2,1,NA,NA,59314,Hugo Miguel,https://fbref.com/en/matches/e7250843/Benfica-Estoril-April-29-2017-Primeira-Liga,1,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2017-04-29,Chaves,Porto,0,2,NA,NA,6550,Carlos Taborda Xistra,https://fbref.com/en/matches/bb912edf/Chaves-Porto-April-29-2017-Primeira-Liga,0,0,5,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2016-2017
 2017-04-30,Feirense,Marítimo,2,1,NA,NA,2908,João Pedro Pinheiro,https://fbref.com/en/matches/ee00d48c/Feirense-Maritimo-April-30-2017-Primeira-Liga,1,1,4,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
@@ -291,8 +291,8 @@ date,home,away,home_score,away_score,home_xg,away_xg,attendance,referee,match_re
 2017-05-13,Arouca,Tondela,1,2,NA,NA,1580,Carlos Taborda Xistra,https://fbref.com/en/matches/f54c6284/Arouca-Tondela-May-13-2017-Primeira-Liga,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2017-05-13,Benfica,Vitória,5,0,NA,NA,64591,Jorge de Sousa,https://fbref.com/en/matches/65e60b0d/Benfica-Vitoria-Guimaraes-May-13-2017-Primeira-Liga,1,1,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
 2017-05-13,Feirense,Sporting CP,2,1,NA,NA,3458,Vasco Santos,https://fbref.com/en/matches/73139673/Feirense-Sporting-CP-May-13-2017-Primeira-Liga,1,1,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2016-2017
-2017-05-14,Marítimo,Estoril,1,1,NA,NA,8104,Hélder Malheiro,https://fbref.com/en/matches/94dae14e/Maritimo-Estoril-May-14-2017-Primeira-Liga,0,0,4,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
 2017-05-14,Chaves,Rio Ave,2,2,NA,NA,2356,Bruno Duarte Paixão,https://fbref.com/en/matches/83509181/Chaves-Rio-Ave-May-14-2017-Primeira-Liga,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
+2017-05-14,Marítimo,Estoril,1,1,NA,NA,8104,Hélder Malheiro,https://fbref.com/en/matches/94dae14e/Maritimo-Estoril-May-14-2017-Primeira-Liga,0,0,4,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
 2017-05-14,Porto,Paços,4,1,NA,NA,25416,Artur Soares Dias,https://fbref.com/en/matches/ab6e0d02/Porto-Pacos-de-Ferreira-May-14-2017-Primeira-Liga,2,2,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2016-2017
 2017-05-14,Braga,Nacional,4,0,NA,NA,8732,João Pedro Mendes,https://fbref.com/en/matches/e22bd4ef/Braga-Nacional-May-14-2017-Primeira-Liga,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2016-2017
 2017-05-15,Vitória Setúbal,Boavista,0,1,NA,NA,2304,Manuel Mota,https://fbref.com/en/matches/52c0f450/Vitoria-Setubal-Boavista-May-15-2017-Primeira-Liga,0,0,2,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,2016-2017

@@ -20,8 +20,8 @@ ggplot(goal_stats, aes(x = home_field_mean, y = league)) +
   labs(x = 'Home Field Advantage Coefficient',
        y = 'League',
        title = 'Home Field Advantage for Selected European Leagues',
-       subtitle = 'Bivariate Possion Model')
-ggsave(here('eda/bvp_goals_hfa_fixed_intercept.png'), width = 16/1.2, height = 9/1.2)
+       subtitle = 'Bivariate Poisson Model: Goals')
+ggsave(here('eda/figures/bvp_goals_hfa_fixed_intercept.png'), width = 16/1.2, height = 9/1.2)
 
 write_csv(goal_stats, here('eda/goal_stats.csv'))
 
@@ -30,6 +30,6 @@ ggplot(goal_stats, aes(x = avg_goal_diff, y = home_field_mean)) +
   labs(x = 'Average (Home - Away) Goal Differential',
        y = 'Home Field Advantage Posterior Mean',
        title = 'Home Field Advantage for Selected European Leagues',
-       subtitle = 'Bivariate Possion Model')
-ggsave(here('eda/bvp_goals_hfa_vs_gd.png'), width = 16/1.2, height = 9/1.2)
+       subtitle = 'Bivariate Poisson Model: Goals')
+ggsave(here('eda/figures/bvp_goals_hfa_vs_gd.png'), width = 16/1.2, height = 9/1.2)
 

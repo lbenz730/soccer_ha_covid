@@ -129,7 +129,7 @@ get_match_stats <- function(game_html) {
                "fouls_committed" = Fls) %>% 
         mutate_all(as.character) %>% 
         mutate_all(as.numeric) %>% 
-        apply(2, sum) %>% 
+        apply(2, sum, na.rm = T) %>% 
         tibble::enframe(.) %>% 
         pivot_wider(names_from = name,
                     values_from = value)
@@ -147,7 +147,7 @@ get_match_stats <- function(game_html) {
                "fouls_committed" = Fls) %>% 
         mutate_all(as.character) %>% 
         mutate_all(as.numeric) %>% 
-        apply(2, sum) %>% 
+        apply(2, sum, na.rm = T) %>% 
         tibble::enframe(.) %>% 
         pivot_wider(names_from = name,
                     values_from = value)

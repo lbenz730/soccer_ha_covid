@@ -54,6 +54,3 @@ for(i in 1:nrow(league_info)) {
   posterior <- extract(model)
   write_rds(posterior, here(paste0('posteriors/bvp_goals/', gsub("\\s", "_", tolower(league)), '.rds')))
 }
-
-
-
