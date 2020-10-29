@@ -1,2 +1,2 @@
-# soccer_hfa_data
-Game level statistics from fbref.com to analyze home field advantage in soccer w/out fans
+# Soccer HFA Covid
+Analysis of home field advantage (HFA) in soccer w/ no fans due to the COVID-19 Pandemic.
