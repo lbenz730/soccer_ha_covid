@@ -2,8 +2,7 @@ library(tidyverse)
 library(here)
 source(here('helpers.R'))
 
-league_info <- read_csv(here('league_info.csv')) %>% 
-  head(5)
+league_info <- read_csv(here('league_info.csv')) 
 yc_stats <- map_dfr(league_info$alias, wld_rates)
 yc_stats  <- 
   yc_stats %>% 
@@ -21,7 +20,7 @@ ggplot(yc_stats, aes(x = home_field_mean, y = league)) +
   labs(x = 'Home Field Advantage Coefficient',
        y = 'League',
        title = 'Home Field Advantage for Selected European Leagues',
-       subtitle = 'Bivariate Poisson Model')
+       subtitle = 'Bivariate Poisson Model: Yellow Cards')
 ggsave(here('eda/figures/bvp_yc_hfa_fixed_intercept.png'), width = 16/1.2, height = 9/1.2)
 
 write_csv(yc_stats, here('eda/yc_stats.csv'))
@@ -31,6 +30,6 @@ ggplot(yc_stats, aes(x = avg_yc_diff, y = home_field_mean)) +
   labs(x = 'Average (Home - Away) Yellow Card Differential',
        y = 'Home Field Advantage Posterior Mean',
        title = 'Home Field Advantage for Selected European Leagues',
-       subtitle = 'Bivariate Poisson Model')
+       subtitle = 'Bivariate Poisson Model: Yellow Cards')
 ggsave(here('eda/figures/bvp_yc_hfa_vs_ycd.png'), width = 16/1.2, height = 9/1.2)
 
