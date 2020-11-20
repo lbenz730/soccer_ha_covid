@@ -23,7 +23,7 @@ ggplot(rc_stats, aes(x = home_field_mean, y = league)) +
        subtitle = 'Bivariate Poisson Model: Red Cards')
 ggsave(here('eda/figures/bvp_rc_hfa_fixed_intercept.png'), width = 16/1.2, height = 9/1.2)
 
-write_csv(rc_stats, here('eda/rc_stats.csv'))
+write_csv(rc_stats, here('eda/stats/rc_stats.csv'))
 
 ggplot(rc_stats, aes(x = avg_rc_diff, y = home_field_mean)) +
   geom_point(aes(col = league), size = 2.5) +

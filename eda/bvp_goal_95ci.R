@@ -23,7 +23,7 @@ ggplot(goal_stats, aes(x = home_field_mean, y = league)) +
        subtitle = 'Bivariate Poisson Model: Goals')
 ggsave(here('eda/figures/bvp_goals_hfa_fixed_intercept.png'), width = 16/1.2, height = 9/1.2)
 
-write_csv(goal_stats, here('eda/goal_stats.csv'))
+write_csv(goal_stats, here('eda/stats/goal_stats.csv'))
 
 ggplot(goal_stats, aes(x = avg_goal_diff, y = home_field_mean)) +
   geom_point(aes(col = league), size = 2.5) +

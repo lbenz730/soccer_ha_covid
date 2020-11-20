@@ -23,7 +23,7 @@ ggplot(yc_stats, aes(x = home_field_mean, y = league)) +
        subtitle = 'Bivariate Poisson Model: Yellow Cards')
 ggsave(here('eda/figures/bvp_yc_hfa_fixed_intercept.png'), width = 16/1.2, height = 9/1.2)
 
-write_csv(yc_stats, here('eda/yc_stats.csv'))
+write_csv(yc_stats, here('eda/stats/yc_stats.csv'))
 
 ggplot(yc_stats, aes(x = avg_yc_diff, y = home_field_mean)) +
   geom_point(aes(col = league), size = 2.5) +

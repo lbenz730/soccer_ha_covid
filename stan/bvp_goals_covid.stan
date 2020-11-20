@@ -13,7 +13,8 @@ parameters {
   vector[num_clubs] rho;                    // covariance intercepts
 
   real mu;                                      // fixed intercept
-  real home_field;                              // home field advantage
+  real home_field_pre;                              // home field advantage (pre-covid)
+  real home_field_post;                              // home field advantage (post-covid)
   real fixed_cov;                             // covariance intercept
   real<lower=0> sigma_a;                        // attacking sd
   real<lower=0> sigma_d;                        // defending sd
