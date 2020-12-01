@@ -45,8 +45,8 @@ for(i in 1:nrow(league_info)) {
                 data = stan_data, 
                 seed = 73097,
                 chains = 3, 
-                iter = 7000, 
-                warmup = 2000, 
+                iter = 7000 * 3, 
+                warmup = 2000 * 3, 
                 control = list(adapt_delta = 0.95))
   
   ### Save Model and Posterior

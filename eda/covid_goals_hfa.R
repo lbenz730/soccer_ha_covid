@@ -7,7 +7,7 @@ league_info <- read_csv(here('league_info.csv'))
 draws <- 
   map_dfr(league_info$alias, ~{
     league_ <- gsub("\\s", "_", tolower(.x))
-    posterior <- read_rds(here(glue('posteriors/bvp_goals_covid/{league_}.rds')))
+    posterior <- read_rds(here(glue('posteriors/bvp_goals_covid_lambda3_season/{league_}.rds')))
     n_draw <-  length(posterior$home_field_pre)
     tibble('league' = .x,
            'posterior_draw' = c(posterior$home_field_pre, posterior$home_field_post),
@@ -32,7 +32,7 @@ ggplot(draws, aes(x = posterior_draw, y = league_f)) +
        fill = '',
        title = 'Home Field Advantage for Selected European Leagues',
        subtitle = 'Bivariate Poisson Model: Goals') +
-  scale_x_continuous(limits = c(-0.75, 0.75)) 
+  scale_x_continuous(limits = c(-0.5, 0.75)) 
 ggsave(here('eda/figures/bvp_goals_covid_1.png'), width = 16/1.2, height = 9/1.2)
 
 
@@ -65,7 +65,7 @@ ggplot(df_means, aes(x = mean_pre, y = mean_post)) +
   scale_y_continuous(limits = c(-0.25, 0.5)) +
   geom_hline(yintercept = 0, alpha = 0.4, lty = 2) +
   # geom_label(aes(label = league)) +
-  geom_label(aes(label = league, fill = mean_post - mean_pre), size = 2.2, alpha = 0.6) +
+  ggrepel::geom_label_repel(aes(label = league, fill = mean_post - mean_pre), size = 2.2, alpha = 0.6) +
   scale_fill_viridis_c(option = 'C') +
   labs(x = 'HFA Posterior Mean Pre-COVID (Log Scale)',
        y = 'HFA Posterior Mean Post-COVID (Log Scale)',
@@ -78,7 +78,7 @@ ggsave(here('eda/figures/bvp_goals_covid_means.png'), width = 16/1.2, height = 9
 probs <- 
   map_dfr(league_info$alias, ~{
     league_ <- gsub("\\s", "_", tolower(.x))
-    posterior <- read_rds(here(glue('posteriors/bvp_goals_covid/{league_}.rds')))
+    posterior <- read_rds(here(glue('posteriors/bvp_goals_covid_lambda3_season/{league_}.rds')))
     tibble('league' = .x,
            'p_decrease' = mean(posterior$home_field_pre > posterior$home_field_post))
   }) 
@@ -86,10 +86,10 @@ probs <-
 
 ggplot(probs, aes(x = p_decrease, y = fct_reorder(league, p_decrease))) +
   geom_col(fill = 'seagreen') + 
-  labs(x = 'P(HFA Post-COVID < HFA Pre-COVID',
+  labs(x = 'P(HFA Post-COVID < HFA Pre-COVID)',
        y = 'League',
        title = 'Probability of Decline in Home Field Advantage') +
-  geom_text(aes(label = sprintf('%0.1f', 100*p_decrease)), nudge_x = 0.025) +
+  geom_text(aes(label = paste0(sprintf('%0.1f', 100*p_decrease), '%')), nudge_x = 0.035) +
   scale_x_continuous(labels = scales::percent)
 ggsave(here('eda/figures/p_hfa_decline_goals.png'), width = 16/1.2, height = 9/1.2)
     

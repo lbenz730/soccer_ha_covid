@@ -44,9 +44,3 @@ ggplot(filter(df_means, hfa_type == 'Post-COVID (w/out Fans)'),
 ggsave(here('eda/figures/reestimation.png'), width = 16/1.2, height = 9/1.2)       
 
 
-library(loo)
-league_ <- "german_bundesliga"
-model_1 <- read_rds(here(glue('model_objects/bvp_goals_covid/{league_}.rds')))
-model_2 <- read_rds(here(glue('model_objects/bvp_goals_covid_no_reestimation/{league_}.rds')))
-log_lik_1 <- extract_log_lik(model_1)
-loo_1 <- loo(model_1)

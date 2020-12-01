@@ -14,7 +14,6 @@ parameters {
   real home_field;                              // home field advantage
   real fixed_cov;                             // covariance intercept
   real<lower=0> sigma_g;                        // team_strength
-  real<lower=0> sigma_r;                        // covariance sd
 }
 model {
   vector[num_games] lambda1;
@@ -23,19 +22,16 @@ model {
 
   // priors
   gamma ~ normal(0, sigma_g);
-  rho ~ normal(0, sigma_r);
   mu ~ normal(0, 10);
   fixed_cov ~ normal(0, 10);
   home_field ~ normal(0, 10); 
   sigma_g ~ inv_gamma(1,1);
-  sigma_r ~ inv_gamma(1,1);
 
   // likelihood
   for (g in 1:num_games) {
     lambda1[g] = exp(mu + home_field + gamma[home_team_code[g]] + gamma[away_team_code[g]]);
     lambda2[g] = exp(mu + gamma[away_team_code[g]] + gamma[home_team_code[g]]);
-    // lambda3[g] = exp(rho[home_team_code[g]] + rho[away_team_code[g]]); // no intercept
-    lambda3[g] = exp(fixed_cov + rho[home_team_code[g]] + rho[away_team_code[g]]); // intercept
+    lambda3[g] = exp(fixed_cov); // intercept
   }
   h_yc ~ poisson(lambda1 + lambda3);
   a_yc ~ poisson(lambda2 + lambda3);

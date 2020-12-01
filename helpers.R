@@ -19,6 +19,7 @@ team_codes <- function(df) {
   teams <- sort(unique(c(df$home, df$away)))
   codes <- 1:length(teams)
   names(codes) <- teams
+  
   return(codes)
 }
 
