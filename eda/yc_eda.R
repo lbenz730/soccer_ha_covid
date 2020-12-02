@@ -14,13 +14,22 @@ for(i in 1:nrow(league_info)) {
   ### In the Bundesliga, the last 2 games of the seaon is a promotion/regaltion game
   ### between 3rd place in 2nd division and 3rd from last in top division. Filtering out for now
   ### It's likely this is the ccould be the case in other leagues but not worrying as much about that now
-  if(league == "German Bundesliga") {
-    df <-
-      group_by(df, season) %>%
-      mutate('game_id' = 1:n()) %>%
-      filter(game_id < max(game_id) - 1) %>%
-      ungroup()
-  }
+  ### Filter Out Games for relegation playoffs
+  keep <- 
+    df %>% 
+    select(home, away, season) %>% 
+    pivot_longer(c('home', 'away'),
+                 values_to = 'team') %>% 
+    group_by(team, season) %>% 
+    count() %>% 
+    ungroup() %>% 
+    filter(n > 3) 
+  
+  
+  df <- 
+    df %>% 
+    semi_join(keep, by = c('home' = 'team', 'season' = 'season')) %>% 
+    semi_join(keep, by = c('away' = 'team', 'season' = 'season'))
   
   df_yc <- 
     bind_rows(
@@ -116,3 +125,63 @@ df_yc_all %>%
        title = 'Away',
        fill = '')
 ggsave(here('eda/figures/league_home_yc.png'), width = 16/1.2, height = 9/1.2)
+
+
+
+library(tidyverse)
+library(here)
+source(here('helpers.R'))
+
+league_info <- read_csv(here("league_info.csv"))
+
+df_yc_all <- NULL
+
+for(i in 1:nrow(league_info)) {
+  league <- league_info$alias[i]
+  df <- read_leage_csvs(league) %>% 
+    filter(!is.na(home_yellow_cards), !is.na(away_yellow_cards))
+  
+  
+  keep <- 
+    df %>% 
+    select(home, away, season) %>% 
+    pivot_longer(c('home', 'away'),
+                 values_to = 'team') %>% 
+    group_by(team, season) %>% 
+    count() %>% 
+    ungroup() %>% 
+    filter(n > 3) 
+  
+  
+  df <- 
+    df %>% 
+    semi_join(keep, by = c('home' = 'team', 'season' = 'season')) %>% 
+    semi_join(keep, by = c('away' = 'team', 'season' = 'season'))
+  
+  df_yc <- 
+    bind_rows(
+      select(df, 'team' = home, season, 'yc' = home_yellow_cards) %>% mutate('home' = T),
+      select(df, 'team' = away, season, 'yc' = away_yellow_cards) %>% mutate('home' = F)
+    ) %>% 
+    mutate('league' = league,
+           'season' = gsub('\\d+-', '', as.character(season)))
+  
+  
+  
+  
+  
+  
+  df_yc_all <- bind_rows(df_yc, df_yc_all)
+}
+
+
+df_yc_all %>% 
+  group_by(team, season, league) %>% 
+  summarise('mean_yc' = mean(yc),
+            'n_games' = n()) %>% 
+  view()
+  ungroup() %>% 
+  ggplot(aes(x = mean_yc, y = season)) +
+  facet_wrap(~league) +
+  geom_point()
+

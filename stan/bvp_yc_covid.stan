@@ -5,12 +5,14 @@ data {
   int<lower=1,upper=num_clubs> away_team_code[num_games];     // away club for game g
   int<lower=0> h_yc[num_games];                               // yellow cards for game g
   int<lower=0> a_yc[num_games];                            // away yellow goals for game g
+  int<lower=0,upper=1> ind_pre[num_games];                    // indicator if game is pre/post covid
 }
 parameters {
-
+  
   real mu;                                      // fixed intercept
-  real home_field;                              // home field advantage
- // real fixed_cov;                             // covariance intercept
+  real home_field_pre;                              // home field advantage (pre-covid)
+  real home_field_post;  
+  // real fixed_cov;                             // covariance intercept
   real<lower=0> sigma_g;                        // team_strength
   
   vector[num_clubs] gamma;   
@@ -19,17 +21,18 @@ model {
   vector[num_games] lambda1;
   vector[num_games] lambda2;
   //vector[num_games] lambda3;
-
+  
   // priors
   gamma ~ normal(0, sigma_g);
   mu ~ normal(0, 10);
   //fixed_cov ~ normal(0, 10);
-  home_field ~ normal(0, 10); 
+  home_field_pre ~ normal(0, 10); 
+  home_field_post ~ normal(0, 10); 
   sigma_g ~ inv_gamma(1,1);
-
+  
   // likelihood
   for (g in 1:num_games) {
-    lambda1[g] = exp(mu + home_field + gamma[home_team_code[g]]);
+    lambda1[g] = exp(mu + home_field_pre * ind_pre[g] + home_field_post * (1 - ind_pre[g]) + gamma[home_team_code[g]]);
     lambda2[g] = exp(mu + gamma[away_team_code[g]]);
     //lambda3[g] = exp(fixed_cov); // intercept
   }

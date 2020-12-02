@@ -25,6 +25,14 @@ ggsave(here('eda/figures/bvp_yc_hfa_fixed_intercept.png'), width = 16/1.2, heigh
 
 write_csv(yc_stats, here('eda/stats/yc_stats.csv'))
 
+ggplot(yc_stats, aes(x = avg_yc_diff/yc_per_game, y = home_field_mean)) +
+  geom_point(aes(col = league), size = 2.5) +
+  labs(x = 'Average (Home - Away)/Average (Home + Away) Yellow Card Differential',
+       y = 'Home Field Advantage Posterior Mean',
+       title = 'Home Field Advantage for Selected European Leagues',
+       subtitle = 'Bivariate Poisson Model: Yellow Cards')
+ggsave(here('eda/figures/bvp_yc_hfa_vs_ycd_rel.png'), width = 16/1.2, height = 9/1.2)
+
 ggplot(yc_stats, aes(x = avg_yc_diff, y = home_field_mean)) +
   geom_point(aes(col = league), size = 2.5) +
   labs(x = 'Average (Home - Away) Yellow Card Differential',
@@ -32,4 +40,19 @@ ggplot(yc_stats, aes(x = avg_yc_diff, y = home_field_mean)) +
        title = 'Home Field Advantage for Selected European Leagues',
        subtitle = 'Bivariate Poisson Model: Yellow Cards')
 ggsave(here('eda/figures/bvp_yc_hfa_vs_ycd.png'), width = 16/1.2, height = 9/1.2)
+
+
+select(yc_stats, league, contains('yc'), contains('goal'), contains('diff')) %>% 
+  mutate('yc_pct' = avg_yc_diff/yc_per_game,
+         'goal_pct' = avg_goal_diff/goals_per_game) %>% 
+  select(league, contains('pct')) %>% 
+  pivot_longer(-league,
+               names_to = 'stat') %>% 
+  ggplot(aes(x = league, y = value)) +
+  facet_wrap(~stat) +
+  geom_col(aes(fill = league)) +
+  coord_flip() +
+  theme(legend.position = 'none') +
+  labs(x = 'League', 
+       y = 'Value')
 
