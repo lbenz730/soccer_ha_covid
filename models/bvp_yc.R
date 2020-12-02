@@ -12,16 +12,23 @@ for(i in 1:nrow(league_info)) {
   df <- read_leage_csvs(league) %>% 
     filter(!is.na(home_yellow_cards), !is.na(away_yellow_cards))
   
-  ### In the Bundesliga, the last 2 games of the seaon is a promotion/regaltion game
-  ### between 3rd place in 2nd division and 3rd from last in top division. Filtering out for now
-  ### It's likely this is the ccould be the case in other leagues but not worrying as much about that now
-  if(league == "German Bundesliga") {
-    df <-
-      group_by(df, season) %>%
-      mutate('game_id' = 1:n()) %>%
-      filter(game_id < max(game_id) - 1) %>%
-      ungroup()
-  }
+  ### Filter Out Games for relegation playoffs
+  keep <- 
+    df %>% 
+    select(home, away, season) %>% 
+    pivot_longer(c('home', 'away'),
+                 values_to = 'team') %>% 
+    group_by(team, season) %>% 
+    count() %>% 
+    ungroup() %>% 
+    filter(n > 3) 
+  
+  
+  df <- 
+    df %>% 
+    semi_join(keep, by = c('home' = 'team', 'season' = 'season')) %>% 
+    semi_join(keep, by = c('away' = 'team', 'season' = 'season'))
+  
   
   ### Team IDs
   team_ids <- team_codes(df)
@@ -45,8 +52,8 @@ for(i in 1:nrow(league_info)) {
                 data = stan_data, 
                 seed = 73097,
                 chains = 3, 
-                iter = 7000 * 3, 
-                warmup = 2000 * 3, 
+                iter = 700, 
+                warmup = 200, 
                 control = list(adapt_delta = 0.95))
   
   ### Save Model and Posterior
