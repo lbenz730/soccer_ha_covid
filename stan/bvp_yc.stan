@@ -8,7 +8,6 @@ data {
 }
 parameters {
   vector[num_clubs] gamma;                  // team strength intercepts
-  vector[num_clubs] rho;                    // covariance intercepts
 
   real mu;                                      // fixed intercept
   real home_field;                              // home field advantage
