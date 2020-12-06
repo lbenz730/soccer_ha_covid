@@ -42,9 +42,6 @@ for(i in 1:nrow(league_info)) {
     semi_join(keep, by = c('home' = 'team', 'season' = 'season')) %>% 
     semi_join(keep, by = c('away' = 'team', 'season' = 'season'))
   
-  
-  
-  
   ### Team IDs
   covid_date <- as.Date(league_info$restart_date[i], '%m/%d/%y')
   df <- 

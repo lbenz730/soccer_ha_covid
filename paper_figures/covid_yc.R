@@ -7,7 +7,7 @@ league_info <- read_csv(here('league_info.csv'))
 draws <- 
   map_dfr(league_info$alias, ~{
     league_ <- gsub("\\s", "_", tolower(.x))
-    posterior <- read_rds(here(glue('posteriors/bvp_yc_covid/{league_}.rds')))
+    posterior <- read_rds(here(glue('posteriors/bvp_yc_covid_lambda3_season/{league_}.rds')))
     n_draw <-  length(posterior$home_field_pre)
     tibble('league' = .x,
            'posterior_draw' = c(posterior$home_field_pre, posterior$home_field_post),
@@ -32,7 +32,7 @@ ggplot(draws, aes(x = posterior_draw, y = league_f)) +
        fill = '',
        title = 'Home Field Advantage for Selected European Leagues',
        subtitle = 'Bivariate Poisson Model: Yellow Cards') +
-  scale_x_continuous(limits = c(-0.5, 0.75)) 
+  scale_x_continuous(limits = c(-2, 2)) 
 ggsave(here('paper_figures/figures/yc_ridge.png'), width = 16/1.2, height = 9/1.2)
 
 

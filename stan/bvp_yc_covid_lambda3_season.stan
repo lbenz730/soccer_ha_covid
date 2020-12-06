@@ -26,9 +26,9 @@ model {
   // priors
   gamma ~ normal(0, sigma_g);
   mu ~ normal(0, 10);
-  fixed_cov ~ normal(0, 10);
-  home_field_pre ~ normal(0, 10); 
-  home_field_post ~ normal(0, 10); 
+  fixed_cov ~ normal(0, 2);
+  home_field_pre ~ uniform(-2,2);
+  home_field_post ~ uniform(-2,2);
   sigma_g ~ inv_gamma(1,1);
   
   // likelihood

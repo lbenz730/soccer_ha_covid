@@ -8,7 +8,7 @@ draws <-
   map_dfr(league_info$alias, ~{
 
     league_ <- gsub("\\s", "_", tolower(.x))
-    posterior <- read_rds(here(glue('posteriors/bvp_goals_covid_lambda3_season/{league_}.rds')))
+    posterior <- read_rds(here(glue('posteriors/bvp_yc_covid_lambda3_season/{league_}.rds')))
     seasons <- 
       read_leage_csvs(league_) %>% 
       pull(season) %>% 
