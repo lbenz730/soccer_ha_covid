@@ -5,7 +5,7 @@ source(here('helpers.R'))
 options(mc.cores=parallel::detectCores())
 
 
-directory <- 'bvp_yc_covid'
+directory <- 'bvp_yc_empirical_bayes'
 
 if(!dir.exists(here(glue('model_objects/{directory}')))) {
   dir.create(here(glue('model_objects/{directory}')))
@@ -16,6 +16,7 @@ if(!dir.exists(here(glue('posteriors/{directory}')))) {
 
 
 league_info <- read_csv(here("league_info.csv"))
+empirical_baselines <- read.csv(here("eda/baseline.csv"))
 
 for(i in 1:nrow(league_info)) {
   league <- league_info$alias[i]
@@ -67,16 +68,21 @@ for(i in 1:nrow(league_info)) {
     away_team_code = df$away_id,
     h_yc = df$home_yellow_cards,
     a_yc = df$away_yellow_cards,
-    ind_pre = df$pre_covid
+    ind_pre = df$pre_covid,
+    obs_mu = mean(c(df$home_yellow_cards, df$away_yellow_cards)),
+    mu_hf_pre = empirical_baselines$mean_pre_yc[empirical_baselines$league == league],
+    mu_hf_post = empirical_baselines$mean_post_yc[empirical_baselines$league == league],
+    sd_hf_pre = 3 * sd(empirical_baselines$mean_pre_yc),
+    sd_hf_post = 3 * sd(empirical_baselines$mean_post_yc)
   )
   
   ### Fit Model
-  model <- stan(file = here('stan/cards/bvp_yc_covid.stan'), 
+  model <- stan(file = here('stan/cards/bvp_yc_empirical_bayes.stan'), 
                 data = stan_data, 
                 seed = 73097,
                 chains = 3, 
-                iter = 7000, 
-                warmup = 2000, 
+                iter = 30000, 
+                warmup = 10000, 
                 control = list(adapt_delta = 0.95))
   
   ### Save Model and Posterior

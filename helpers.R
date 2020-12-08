@@ -30,6 +30,7 @@ wld_rates <- function(league) {
          'home_win_rate' = mean(df$home_score > df$away_score, na.rm = T),
          'away_win_rate' = mean(df$home_score < df$away_score, na.rm = T),
          'draw_rate' = mean(df$home_score == df$away_score, na.rm = T),
+         'yc_draw_rate' = mean(df$home_yellow_cards == df$away_yellow_cards, na.rm = T),
          'goals_per_game' = mean(df$home_score + df$away_score, na.rm = T),
          'yc_per_game' = mean(df$home_yellow_cards + df$away_yellow_cards, na.rm = T),
          'rc_per_game' = mean(df$home_red_cards + df$away_red_cards, na.rm = T),

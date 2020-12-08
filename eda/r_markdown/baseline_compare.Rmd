@@ -1,0 +1,206 @@
+---
+title: "Baseline Comparison"
+author: "Luke Benz"
+date: "12/7/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F, warning = F, message = F)
+```
+
+```{r}
+library(tidyverse)
+library(here)
+library(ggridges)
+library(knitr)
+library(kableExtra)
+library(formattable)
+source(here('helpers.R'))
+```
+
+```{r}
+directory <- "bvp_goals_covid_baseline"
+
+league_info <- read_csv(here('league_info.csv'))
+draws <- 
+  map_dfr(league_info$alias, ~{
+    league_ <- gsub("\\s", "_", tolower(.x))
+    posterior <- read_rds(here(glue('posteriors/{directory}/{league_}.rds')))
+    n_draw <-  length(posterior$home_field_pre)
+    tibble('league' = .x,
+           'posterior_draw' = c(posterior$home_field_pre, posterior$home_field_post),
+           'hfa_type' = rep(c('Pre-COVID (w/ Fans)', 'Post-COVID (w/out Fans)'), each = n_draw))
+  }) 
+
+
+df_medians <- 
+  group_by(draws, league, hfa_type) %>% 
+  summarise('median' = median(posterior_draw),
+            'mean' = mean(posterior_draw))
+
+draws$league_f <- factor(draws$league, 
+                         levels = df_medians$league[df_medians$hfa_type == 'Pre-COVID (w/ Fans)'][order(df_medians$median[df_medians$hfa_type == 'Pre-COVID (w/ Fans)'], decreasing = F)])
+
+
+
+ggplot(draws, aes(x = posterior_draw, y = league_f)) +
+  geom_vline(lty = 2, xintercept = 0) +
+  geom_density_ridges(aes(fill = hfa_type), alpha = 0.5, quantiles = 0.5, quantile_lines = T) +
+  labs(x = 'Home Advantage Coefficient (Log Scale)',
+       y = 'League',
+       fill = '',
+       title = 'Home Advantage for Selected European Leagues',
+       subtitle = 'Bivariate Poisson Model: Goals [Baseline]') +
+  scale_x_continuous(limits = c(-0.5, 0.75)) 
+
+
+
+df_means <- 
+  group_by(draws, league) %>% 
+  summarise('mean_pre' = mean(posterior_draw[hfa_type == 'Pre-COVID (w/ Fans)']),
+            'mean_post'  = mean(posterior_draw[hfa_type == 'Post-COVID (w/out Fans)']),
+            'sd_pre' = sd(posterior_draw[hfa_type == 'Pre-COVID (w/ Fans)']),
+            'sd_post' = sd(posterior_draw[hfa_type == 'Post-COVID (w/out Fans)'])) %>% 
+  inner_join(select(league_info, 'league' = alias, logo_url))
+
+ggplot(df_means, aes(x = mean_pre, y = mean_post)) +
+  geom_abline(slope = 1, intercept = 0) +
+  scale_x_continuous(limits = c(0.01, 0.5)) +
+  scale_y_continuous(limits = c(-0.25, 0.5)) +
+  geom_hline(yintercept = 0, alpha = 0.4, lty = 2) +
+  # geom_label(aes(label = league)) +
+  ggrepel::geom_label_repel(aes(label = league, fill = mean_post - mean_pre), size = 2.2, alpha = 0.6) +
+  scale_fill_viridis_c(option = 'C') +
+  labs(x = 'HA Posterior Mean Pre-COVID (Log Scale)',
+       y = 'HA Posterior Mean Post-COVID (Log Scale)',
+       fill = 'Change in Posterior Mean',
+       title = 'Change in Home Advantage for Select European Leagues',
+       subtitle = 'Bivariate Poisson Model: Goals [Baseline]') +
+  theme(legend.text = element_text(size = 7)) 
+
+probs <- 
+  map_dfr(league_info$alias, ~{
+    league_ <- gsub("\\s", "_", tolower(.x))
+    posterior <- read_rds(here(glue('posteriors/{directory}/{league_}.rds')))
+    tibble('league' = .x,
+           'p_decrease' = mean(posterior$home_field_pre > posterior$home_field_post))
+  }) 
+
+
+ggplot(probs, aes(x = p_decrease, y = fct_reorder(league, p_decrease))) +
+  geom_col(fill = 'seagreen') + 
+  labs(x = 'P(HA Post-COVID < HA Pre-COVID)',
+       y = 'League',
+       title = 'Probability of Decline in Home Advantage (Goals) [Baseline]') +
+  geom_text(aes(label = paste0(sprintf('%0.1f', 100*p_decrease), '%')), nudge_x = 0.035) +
+  scale_x_continuous(labels = scales::percent)
+
+goals <- df_means %>% select(-logo_url)
+```
+
+```{r}
+directory <- "bvp_yc_covid"
+
+league_info <- read_csv(here('league_info.csv'))
+draws <- 
+  map_dfr(league_info$alias, ~{
+    league_ <- gsub("\\s", "_", tolower(.x))
+    posterior <- read_rds(here(glue('posteriors/{directory}/{league_}.rds')))
+    n_draw <-  length(posterior$home_field_pre)
+    tibble('league' = .x,
+           'posterior_draw' = c(posterior$home_field_pre, posterior$home_field_post),
+           'hfa_type' = rep(c('Pre-COVID (w/ Fans)', 'Post-COVID (w/out Fans)'), each = n_draw))
+  }) 
+
+
+df_medians <- 
+  group_by(draws, league, hfa_type) %>% 
+  summarise('median' = median(posterior_draw))
+
+draws$league_f <- factor(draws$league, 
+                         levels = df_medians$league[df_medians$hfa_type == 'Pre-COVID (w/ Fans)'][order(df_medians$median[df_medians$hfa_type == 'Pre-COVID (w/ Fans)'], decreasing = F)])
+
+
+
+ggplot(draws, aes(x = posterior_draw, y = league_f)) +
+  geom_vline(lty = 2, xintercept = 0) +
+  geom_density_ridges(aes(fill = hfa_type), alpha = 0.5, quantiles = 0.5, quantile_lines = T) +
+  labs(x = 'Home Advantage Coefficient (Log Scale)',
+       y = 'League',
+       fill = '',
+       title = 'Home Advantage for Selected European Leagues',
+       subtitle = 'Bivariate Poisson Model: Yellow Cards [Baseline]') 
+
+
+df_means <- 
+  group_by(draws, league) %>% 
+  summarise('mean_pre' = mean(posterior_draw[hfa_type == 'Pre-COVID (w/ Fans)']),
+            'mean_post'  = mean(posterior_draw[hfa_type == 'Post-COVID (w/out Fans)']),
+            'sd_pre' = sd(posterior_draw[hfa_type == 'Pre-COVID (w/ Fans)']),
+            'sd_post' = sd(posterior_draw[hfa_type == 'Post-COVID (w/out Fans)'])) %>% 
+  inner_join(select(league_info, 'league' = alias, logo_url))
+
+ggplot(df_means, aes(x = mean_pre, y = mean_post)) +
+  geom_abline(slope = 1, intercept = 0) +
+  # scale_x_continuous(limits = c(0.01, 0.5)) +
+  # scale_y_continuous(limits = c(-0.25, 0.5)) +
+  geom_hline(yintercept = 0, alpha = 0.4, lty = 2) +
+  # geom_label(aes(label = league)) +
+  ggrepel::geom_label_repel(aes(label = league, fill = mean_post - mean_pre), size = 2.2, alpha = 0.6) +
+  scale_fill_viridis_c(option = 'C') +
+  labs(x = 'HA Posterior Mean Pre-COVID (Log Scale)',
+       y = 'HA Posterior Mean Post-COVID (Log Scale)',
+       fill = 'Change in Posterior Mean',
+       title = 'Change in Home Advantage for Select European Leagues',
+       subtitle = 'Bivariate Poisson Model: Yellow Cards') +
+  theme(legend.text = element_text(size = 7)) 
+
+probs <- 
+  map_dfr(league_info$alias, ~{
+    league_ <- gsub("\\s", "_", tolower(.x))
+    posterior <- read_rds(here(glue('posteriors/{directory}/{league_}.rds')))
+    tibble('league' = .x,
+           'p_decrease' = mean(posterior$home_field_pre < posterior$home_field_post))
+  }) 
+
+
+ggplot(probs, aes(x = p_decrease, y = fct_reorder(league, p_decrease))) +
+  geom_col(fill = 'seagreen') + 
+  labs(x = 'P(HA Post-COVID < HA Pre-COVID)',
+       y = 'League',
+       title = 'Probability of Decline in Home Advantage: Yellow Cards [Baseline]') +
+  geom_text(aes(label = paste0(sprintf('%0.1f', 100*p_decrease), '%')), nudge_x = 0.035) +
+  scale_x_continuous(labels = scales::percent)
+
+yc <- df_means %>% select(-logo_url)
+
+
+```
+
+
+```{r}
+
+df <- 
+  left_join(goals, yc, by = 'league', suffix = c('_goals', '_yc'))  %>%
+  select(-contains('sd')) %>% 
+  mutate_at(vars(contains("goals")),
+            ~{color_tile("pink", "lightgreen")(sprintf("%0.3f", .x))}) %>% 
+  mutate_at(vars(contains("yc")), 
+            ~{color_tile("lightgreen", "pink")(sprintf("%0.3f", .x))}) 
+
+names(df) <- c("League", "Pre-COVID", "Post-COVID","Pre-COVID", "Post-COVID")
+df %>% 
+  
+  kable(escape = F, align = 'c') %>% 
+  kable_styling("striped") %>%
+  
+  add_header_above(c(" " = 1, "Goals" = 2, "Yellow Cards" = 2), bold = T) %>%
+  add_header_above(c("Baseline Posterior Means (No Correlation)" = 5), bold = T, font_size = 24)
+
+
+left_join(goals, yc, by = 'league', suffix = c('_goals', '_yc')) %>% 
+  write_csv(here('eda/baseline.csv'))
+```
+
+

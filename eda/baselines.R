@@ -3,7 +3,7 @@ library(here)
 library(ggridges)
 source(here('helpers.R'))
 
-directory <- "bvp_yc_empirical_bayes"
+directory <- "bvp_yc_covid_small"
 
 league_info <- read_csv(here('league_info.csv'))
 draws <- 

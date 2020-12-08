@@ -46,7 +46,7 @@ stan_data <- list(
 )
 
 ### Fit Model
-m1 <- stan(file = here('stan/bvp_goals_covid_lambda3_fixed.stan'), 
+m1 <- stan(file = here('stan/goals/bvp_goals_covid_lambda3_fixed.stan'), 
            data = stan_data, 
            seed = 73097,
            chains = 3, 
@@ -90,7 +90,7 @@ stan_data <- list(
 )
 
 ### Fit Model
-m0 <- stan(file = here('stan/bvp_goals_covid_lambda3_fixed.stan'), 
+m0 <- stan(file = here('stan/goalsbvp_goals_covid_lambda3_fixed.stan'), 
           data = stan_data, 
           seed = 73097,
           chains = 3, 

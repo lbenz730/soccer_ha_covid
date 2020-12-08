@@ -71,7 +71,7 @@ for(i in 1:nrow(league_info)) {
   )
   
   ### Fit Model
-  model <- stan(file = here('stan/bvp_goals_covid_lambda3_season.stan'), 
+  model <- stan(file = here('stan/goals/bvp_goals_covid_lambda3_season.stan'), 
                 data = stan_data, 
                 seed = 73097,
                 chains = 3, 

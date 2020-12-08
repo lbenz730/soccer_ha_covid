@@ -1,11 +1,11 @@
 library(tidyverse)
 library(rstan)
 library(here)
-library(glue) 
 source(here('helpers.R'))
 options(mc.cores=parallel::detectCores())
 
-directory <- 'bvp_goals_covid_lambda3_fixed'
+
+directory <- 'bvp_yc_covid_small'
 
 if(!dir.exists(here(glue('model_objects/{directory}')))) {
   dir.create(here(glue('model_objects/{directory}')))
@@ -17,24 +17,29 @@ if(!dir.exists(here(glue('posteriors/{directory}')))) {
 
 league_info <- read_csv(here("league_info.csv"))
 
-### Don't Re-estimate team strength for COVID by splitting into 2 seasons
-
 for(i in 1:nrow(league_info)) {
   league <- league_info$alias[i]
   print(league)
   df <- read_leage_csvs(league) %>% 
-    filter(!is.na(home_score), !is.na(away_score))
+    filter(!is.na(home_yellow_cards), !is.na(away_yellow_cards))
   
-  ### In the Bundesliga, the last 2 games of the seaon is a promotion/regaltion game
-  ### between 3rd place in 2nd division and 3rd from last in top division. Filtering out for now
-  ### It's likely this is the ccould be the case in other leagues but not worrying as much about that now
-  if(league == "German Bundesliga") {
-    df <-
-      group_by(df, season) %>%
-      mutate('game_id' = 1:n()) %>%
-      filter(game_id < max(game_id) - 1) %>%
-      ungroup()
-  }
+  ### Filter Out Games for relegation playoffs
+  keep <- 
+    df %>% 
+    select(home, away, season) %>% 
+    pivot_longer(c('home', 'away'),
+                 values_to = 'team') %>% 
+    group_by(team, season) %>% 
+    count() %>% 
+    ungroup() %>% 
+    filter(n > 3) 
+  
+  
+  df <- 
+    df %>% 
+    semi_join(keep, by = c('home' = 'team', 'season' = 'season')) %>% 
+    semi_join(keep, by = c('away' = 'team', 'season' = 'season'))
+  
   
   ### Team IDs
   covid_date <- as.Date(league_info$restart_date[i], '%m/%d/%y')
@@ -42,13 +47,17 @@ for(i in 1:nrow(league_info)) {
     df %>% 
     mutate('season' = as.character(season)) %>% 
     mutate('home' = paste(home, season, sep = '_'),
-           'away' = paste(away, season, sep = '_'))
+           'away' = paste(away, season, sep = '_')) %>% 
+    mutate('season_numeric' = as.numeric(as.factor(season))) 
+  
   team_ids <- team_codes(df)
+  
   df <- 
-    select(df, home, away, home_score, away_score, season, date) %>% 
+    select(df, home, away, home_yellow_cards, away_yellow_cards, season, date) %>% 
     mutate('home_id' = team_ids[home],
            'away_id' = team_ids[away],
            'pre_covid' = as.numeric(date < covid_date))
+  
   
   ### List of Stan Params
   stan_data <- list(
@@ -56,13 +65,13 @@ for(i in 1:nrow(league_info)) {
     num_games = nrow(df),
     home_team_code = df$home_id,
     away_team_code = df$away_id,
-    h_goals = df$home_score,
-    a_goals = df$away_score,
+    h_yc = df$home_yellow_cards,
+    a_yc = df$away_yellow_cards,
     ind_pre = df$pre_covid
   )
   
   ### Fit Model
-  model <- stan(file = here('stan/bvp_goals_covid_lambda3_fixed.stan'), 
+  model <- stan(file = here('stan/cards/bvp_yc_covid.stan'), 
                 data = stan_data, 
                 seed = 73097,
                 chains = 3, 
