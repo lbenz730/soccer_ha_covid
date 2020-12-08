@@ -5,7 +5,7 @@ source(here('helpers.R'))
 
 directory <- "bvp_goals_emprical_bayes"
 
-league_info <- read_csv(here('league_info.csv')) %>% head(2)
+league_info <- read_csv(here('league_info.csv'))
 draws <- 
   map_dfr(league_info$alias, ~{
     league_ <- gsub("\\s", "_", tolower(.x))
@@ -34,7 +34,7 @@ ggplot(draws, aes(x = posterior_draw, y = league_f)) +
        y = 'League',
        fill = '',
        title = 'Home Advantage for Selected European Leagues',
-       subtitle = 'Bivariate Poisson Model: Goals') +
+       subtitle = 'Bivariate Poisson Model: Goals [Empirical Bayes]') +
   scale_x_continuous(limits = c(-0.75, 1.25)) 
 ggsave(here('paper_figures/figures/goals_ridge.png'), width = 16/1.2, height = 9/1.2)
 
