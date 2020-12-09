@@ -53,23 +53,28 @@ for(i in 1:nrow(league_info)) {
   team_ids <- team_codes(df)
   df <- 
     select(df, home, away, home_score, away_score, season, date) %>% 
+    filter(season > "2016-17") %>% 
     mutate('home_id' = team_ids[home],
            'away_id' = team_ids[away],
-           'pre_covid' = as.numeric(date < covid_date))
+           'pre_covid' = as.numeric(date < covid_date),
+           'season_numeric' = as.numeric(as.factor(season)))
   
   ### List of Stan Params
   stan_data <- list(
     num_clubs = length(team_ids),
     num_games = nrow(df),
     num_seasons = n_distinct(df$season_numeric),
+    season = df$season_numeric,
     home_team_code = df$home_id,
     away_team_code = df$away_id,
+    
     h_goals = df$home_score,
     a_goals = df$away_score,
     ind_pre = df$pre_covid,
-    obs_mu = mean(c(df$home_score, df$away_score)),
-    mu_hf_pre = empirical_baselines$mean_pre_goals[empirical_baselines$league == league],
-    mu_hf_post = empirical_baselines$mean_post_goals[empirical_baselines$league == league],
+    
+    # Empirical Bayes Parameters
+    mu_hf_pre = mean(empirical_baselines$mean_pre_goals),
+    mu_hf_post = mean(empirical_baselines$mean_post_goals),
     sd_hf_pre = 3 * sd(empirical_baselines$mean_pre_goals),
     sd_hf_post = 3 * sd(empirical_baselines$mean_post_goals)
   )

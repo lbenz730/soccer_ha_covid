@@ -48,8 +48,7 @@ for(i in 1:nrow(league_info)) {
     df %>% 
     mutate('season' = as.character(season)) %>% 
     mutate('home' = paste(home, season, sep = '_'),
-           'away' = paste(away, season, sep = '_')) %>% 
-    mutate('season_numeric' = as.numeric(as.factor(season)))
+           'away' = paste(away, season, sep = '_')) 
   
   team_ids <- team_codes(df)
   
@@ -57,21 +56,25 @@ for(i in 1:nrow(league_info)) {
     select(df, home, away, home_yellow_cards, away_yellow_cards, season, date) %>% 
     mutate('home_id' = team_ids[home],
            'away_id' = team_ids[away],
-           'pre_covid' = as.numeric(date < covid_date))
+           'pre_covid' = as.numeric(date < covid_date),
+           'season_numeric' = as.numeric(as.factor(season)))
   
   
   ### List of Stan Params
   stan_data <- list(
     num_clubs = length(team_ids),
     num_games = nrow(df),
+    num_seasons = n_distinct(df$season_numeric),
+    season = df$season_numeric,
     home_team_code = df$home_id,
     away_team_code = df$away_id,
+    
     h_yc = df$home_yellow_cards,
     a_yc = df$away_yellow_cards,
     ind_pre = df$pre_covid,
-    obs_mu = mean(c(df$home_yellow_cards, df$away_yellow_cards)),
-    mu_hf_pre = empirical_baselines$mean_pre_yc[empirical_baselines$league == league],
-    mu_hf_post = empirical_baselines$mean_post_yc[empirical_baselines$league == league],
+    
+    mu_hf_pre = mean(empirical_baselines$mean_pre_yc),
+    mu_hf_post = mean(empirical_baselines$mean_post_yc),
     sd_hf_pre = 3 * sd(empirical_baselines$mean_pre_yc),
     sd_hf_post = 3 * sd(empirical_baselines$mean_post_yc)
   )
