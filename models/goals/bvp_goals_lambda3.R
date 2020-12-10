@@ -5,7 +5,8 @@ library(glue)
 source(here('helpers.R'))
 options(mc.cores=parallel::detectCores())
 
-directory <- 'bvp_goals_emprical_bayes'
+directory <- 'bvp_goals_lambda3'
+
 
 if(!dir.exists(here(glue('model_objects/{directory}')))) {
   dir.create(here(glue('model_objects/{directory}')))
@@ -16,13 +17,14 @@ if(!dir.exists(here(glue('posteriors/{directory}')))) {
 
 
 league_info <- read_csv(here("league_info.csv"))
-empirical_baselines <- read.csv(here("eda/baseline.csv"))
+empirical_baselines <- read_csv(here('models/empirical_baselines.csv'))
 
-### Don't Re-estimate team strength for COVID by splitting into 2 seasons
-
+### Iterate Over Leagues
 for(i in 1:nrow(league_info)) {
   league <- league_info$alias[i]
   print(league)
+  
+  ### Read in League Data
   df <- read_leage_csvs(league) %>% 
     filter(!is.na(home_score), !is.na(away_score))
   
@@ -36,7 +38,6 @@ for(i in 1:nrow(league_info)) {
     count() %>% 
     ungroup() %>% 
     filter(n > 3) 
-  
   
   df <- 
     df %>% 
@@ -72,21 +73,24 @@ for(i in 1:nrow(league_info)) {
     a_goals = df$away_score,
     ind_pre = df$pre_covid,
     
-    # Empirical Bayes Parameters
-    mu_hf_pre = mean(empirical_baselines$mean_pre_goals),
-    mu_hf_post = mean(empirical_baselines$mean_post_goals),
-    sd_hf_pre = 3 * sd(empirical_baselines$mean_pre_goals),
-    sd_hf_post = 3 * sd(empirical_baselines$mean_post_goals)
+    mu_hf_pre = mean(empirical_baselines$goals_ha_pre),
+    mu_hf_post = mean(empirical_baselines$goals_ha_post),
+    sd_hf_pre = 3 * sd(empirical_baselines$goals_ha_pre),
+    sd_hf_post = 3 * sd(empirical_baselines$goals_ha_post)
   )
   
   ### Fit Model
-  model <- stan(file = here('stan/goals/bvp_goals_empirical_bayes.stan'), 
+  model <- stan(file = here(glue('stan/goals/{directory}.stan')), 
                 data = stan_data, 
                 seed = 73097,
                 chains = 3, 
-                iter = 30000, 
+                iter = 20000, 
                 warmup = 10000, 
-                control = list(adapt_delta = 0.95))
+                control = list(adapt_delta = 0.95),
+                
+                ### Don't return lambda1/lambda2 for each game x iteration to save space
+                pars = c('lambda1', 'lambda2'),
+                include = F)
   
   ### Save Model and Posterior
   write_rds(model, here(paste0(glue('model_objects/{directory}/'), gsub("\\s", "_", tolower(league)), '.rds')))

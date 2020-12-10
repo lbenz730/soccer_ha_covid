@@ -33,8 +33,6 @@ model {
   mu ~ normal(0, 5);
   sigma_a ~ inv_gamma(1,1);
   sigma_d ~ inv_gamma(1,1);
-  
-  // Empirical Bayes Priors
   home_field_pre ~ normal(0, 5);
   home_field_post ~ normal(0, 5);
   

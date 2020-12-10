@@ -5,7 +5,7 @@ library(glue)
 source(here('helpers.R'))
 options(mc.cores=parallel::detectCores())
 
-directory <- 'bvp_goals_no_corr'
+directory <- 'bvp_yc_no_corr'
 
 if(!dir.exists(here(glue('model_objects/{directory}')))) {
   dir.create(here(glue('model_objects/{directory}')))
@@ -17,14 +17,14 @@ if(!dir.exists(here(glue('posteriors/{directory}')))) {
 
 league_info <- read_csv(here("league_info.csv"))
 
-### Iterate Over Leagues
+### Iterate over leagues
 for(i in 1:nrow(league_info)) {
   league <- league_info$alias[i]
   print(league)
   
-  ### Read in League Data
+  ### Read in league data
   df <- read_leage_csvs(league) %>% 
-    filter(!is.na(home_score), !is.na(away_score))
+    filter(!is.na(home_yellow_cards), !is.na(away_yellow_cards))
   
   ### Filter Out Games for relegation playoffs
   keep <- 
@@ -42,6 +42,7 @@ for(i in 1:nrow(league_info)) {
     semi_join(keep, by = c('home' = 'team', 'season' = 'season')) %>% 
     semi_join(keep, by = c('away' = 'team', 'season' = 'season'))
   
+  
   ### Team IDs
   covid_date <- as.Date(league_info$restart_date[i], '%m/%d/%y')
   df <- 
@@ -49,14 +50,16 @@ for(i in 1:nrow(league_info)) {
     mutate('season' = as.character(season)) %>% 
     mutate('home' = paste(home, season, sep = '_'),
            'away' = paste(away, season, sep = '_')) 
+  
   team_ids <- team_codes(df)
+  
   df <- 
-    select(df, home, away, home_score, away_score, season, date) %>% 
-    filter(season > "2016-17") %>% 
+    select(df, home, away, home_yellow_cards, away_yellow_cards, season, date) %>% 
     mutate('home_id' = team_ids[home],
            'away_id' = team_ids[away],
            'pre_covid' = as.numeric(date < covid_date),
            'season_numeric' = as.numeric(as.factor(season)))
+  
   
   ### List of Stan Params
   stan_data <- list(
@@ -67,13 +70,13 @@ for(i in 1:nrow(league_info)) {
     home_team_code = df$home_id,
     away_team_code = df$away_id,
     
-    h_goals = df$home_score,
-    a_goals = df$away_score,
+    h_yc = df$home_yellow_cards,
+    a_yc = df$away_yellow_cards,
     ind_pre = df$pre_covid
   )
   
   ### Fit Model
-  model <- stan(file = here(glue('stan/goals/{directory}.stan')), 
+  model <- stan(file = here(glue('stan/cards/{directory}.stan')), 
                 data = stan_data, 
                 seed = 73097,
                 chains = 3, 
