@@ -24,13 +24,13 @@ team_codes <- function(df) {
 }
 
 ### Home win, away win, draw rates by league
-wld_rates <- function(league) {
-  df <- read_leage_csvs(league) 
+wld_rates <- function(league, covid_date) {
+  df <- read_leage_csvs(league) %>% filter(date < covid_date)
   tibble('league' = league,
          'home_win_rate' = mean(df$home_score > df$away_score, na.rm = T),
          'away_win_rate' = mean(df$home_score < df$away_score, na.rm = T),
          'draw_rate' = mean(df$home_score == df$away_score, na.rm = T),
-         'yc_draw_rate' = mean(df$home_yellow_cards == df$away_yellow_cards, na.rm = T),
+         # 'yc_draw_rate' = mean(df$home_yellow_cards == df$away_yellow_cards, na.rm = T),
          'goals_per_game' = mean(df$home_score + df$away_score, na.rm = T),
          'yc_per_game' = mean(df$home_yellow_cards + df$away_yellow_cards, na.rm = T),
          'rc_per_game' = mean(df$home_red_cards + df$away_red_cards, na.rm = T),

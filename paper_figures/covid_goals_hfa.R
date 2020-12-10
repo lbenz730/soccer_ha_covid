@@ -9,11 +9,27 @@ league_info <- read_csv(here('league_info.csv'))
 draws <- 
   map_dfr(league_info$alias, ~{
     league_ <- gsub("\\s", "_", tolower(.x))
-    posterior <- read_rds(here(glue('posteriors/{directory}/{league_}.rds')))
-    n_draw <-  length(posterior$home_field_pre)
-    tibble('league' = .x,
-           'posterior_draw' = c(posterior$home_field_pre, posterior$home_field_post),
-           'hfa_type' = rep(c('Pre-COVID (w/ Fans)', 'Post-COVID (w/out Fans)'), each = n_draw))
+    posterior <- try(suppressWarnings(read_rds(here(glue('posteriors/{directory}/{league_}.rds')))))
+    if(any(class(posterior) == 'try-error')) {
+      NULL
+    } else {
+      n_draw <-  length(posterior$home_field_pre)
+      tibble('league' = .x,
+             'posterior_draw' = c(posterior$home_field_pre, posterior$home_field_post),
+             'hfa_type' = rep(c('Pre-COVID (w/ Fans)', 'Post-COVID (w/out Fans)'), each = n_draw))
+    }
+  }) 
+
+lambda_draws <- 
+  map_dfr(league_info$alias, ~{
+    league_ <- gsub("\\s", "_", tolower(.x))
+    posterior <- try(suppressWarnings(read_rds(here(glue('posteriors/{directory}/{league_}.rds')))))
+    if(any(class(posterior) == 'try-error')) {
+      NULL
+    } else {
+      tibble('league' = .x,
+             'lambda_3' = posterior$lambda3)
+    }
   }) 
 
 
@@ -39,6 +55,18 @@ ggplot(draws, aes(x = posterior_draw, y = league_f)) +
 ggsave(here('paper_figures/figures/goals_ridge.png'), width = 16/1.2, height = 9/1.2)
 
 
+ggplot(lambda_draws, aes(x = lambda_3, y = league)) +
+  geom_density_ridges(fill = 'seagreen', alpha = 0.5, quantiles = 0.5, quantile_lines = T) +
+  labs(x = 'Lambda 3',
+       y = 'League',
+       fill = '',
+       title = 'Posterior Distributions for Lambda 3',
+       subtitle = 'Bivariate Poisson Model: Goals [Empirical Bayes]')
+ggsave(here('paper_figures/figures/lambda3_goals_ridge.png'), width = 16/1.2, height = 9/1.2)
+
+
+
+
 
 df_means <- 
   group_by(draws, league) %>% 
@@ -48,8 +76,8 @@ df_means <-
 
 ggplot(df_means, aes(x = mean_pre, y = mean_post)) +
   geom_abline(slope = 1, intercept = 0) +
-  scale_x_continuous(limits = c(0.01, 0.6)) +
-  scale_y_continuous(limits = c(-0.25, 0.6)) +
+  scale_x_continuous(limits = c(0.01, 0.8)) +
+  scale_y_continuous(limits = c(-0.25, 0.8)) +
   geom_hline(yintercept = 0, alpha = 0.4, lty = 2) +
   # geom_label(aes(label = league)) +
   ggrepel::geom_label_repel(aes(label = league, fill = mean_post - mean_pre), size = 2.2, alpha = 0.6) +

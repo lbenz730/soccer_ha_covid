@@ -4,31 +4,41 @@ source(here('helpers.R'))
 
 league_info <- read_csv(here("league_info.csv"))
 
+# league <- "German 2. Bundesliga"
 league <- "English Premier League"
 
 league_ <- gsub("\\s", "_", tolower(league))
 df <- read_leage_csvs(league_)
-posterior <- read_rds(here(glue('posteriors/bvp_goals_covid_lambda3_season/{league_}.rds')))
+posterior <- read_rds(here(glue('posteriors/bvp_goals_emprical_bayes/{league_}.rds')))
 
-if(league == "German Bundesliga") {
-  df <-
-    group_by(df, season) %>%
-    mutate('game_id' = 1:n()) %>%
-    filter(game_id < max(game_id) - 1) %>%
-    ungroup()
-}
+df <- read_leage_csvs(league) %>% 
+  filter(!is.na(home_score), !is.na(away_score))
 
+### Filter Out Games for relegation playoffs
+keep <- 
+  df %>% 
+  select(home, away, season) %>% 
+  pivot_longer(c('home', 'away'),
+               values_to = 'team') %>% 
+  group_by(team, season) %>% 
+  count() %>% 
+  ungroup() %>% 
+  filter(n > 3) 
+
+
+df <- 
+  df %>% 
+  semi_join(keep, by = c('home' = 'team', 'season' = 'season')) %>% 
+  semi_join(keep, by = c('away' = 'team', 'season' = 'season'))
+
+### Team IDs
 df <- 
   df %>% 
   mutate('season' = as.character(season)) %>% 
   mutate('home' = paste(home, season, sep = '_'),
-         'away' = paste(away, season, sep = '_')) %>% 
-  mutate('season_numeric' = as.numeric(as.factor(season)))
+         'away' = paste(away, season, sep = '_')) 
 team_ids <- team_codes(df)
-df <- 
-  select(df, home, away, home_score, away_score, season, date, season_numeric) %>% 
-  mutate('home_id' = team_ids[home],
-         'away_id' = team_ids[away])
+
 
 alphas <- posterior$alpha
 deltas <- posterior$delta
@@ -67,12 +77,12 @@ ggplot(team_strengths, aes(x = alpha, y = delta)) +
   geom_vline(xintercept = 0, lty = 2, alpha = 0.8, col = 'seagreen') +
   geom_hline(yintercept = 0, lty = 2, alpha = 0.8, col = 'seagreen') +
   ggrepel::geom_label_repel(aes(label = team), size = 2) +
-  scale_x_continuous(limits  = c(-0.75, 0.75)) +
-  scale_y_continuous(limits  = c(-0.6, 0.6)) +
-  annotate(geom = 'text', x = 0.5, y = -0.6, label = 'Good Offense/Good Defense') +
-  annotate(geom = 'text', x = -0.5, y = -0.6, label = 'Bad Offense/Good Defense') +
-  annotate(geom = 'text', x = 0.5, y = 0.6, label = 'Good Offense/Bad Defense') +
-  annotate(geom = 'text', x = -0.5, y = 0.6, label = 'Bad Offense/Bad Defense') +
+  scale_x_continuous(limits  = c(-0.9, 0.9)) +
+  scale_y_continuous(limits  = c(-0.9, 0.9)) +
+  annotate(geom = 'text', x = 0.5, y = -0.85, label = 'Good Offense/Good Defense') +
+  annotate(geom = 'text', x = -0.5, y = -0.85, label = 'Bad Offense/Good Defense') +
+  annotate(geom = 'text', x = 0.5, y = 0.85, label = 'Good Offense/Bad Defense') +
+  annotate(geom = 'text', x = -0.5, y = 0.85, label = 'Bad Offense/Bad Defense') +
   labs(x = 'Offensive Team Strength',
        y = 'Defensive Team Strength',
        title = 'English Premier League Team Strengths',

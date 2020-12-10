@@ -9,12 +9,29 @@ league_info <- read_csv(here('league_info.csv'))
 draws <- 
   map_dfr(league_info$alias, ~{
     league_ <- gsub("\\s", "_", tolower(.x))
-    posterior <- read_rds(here(glue('posteriors/{directory}/{league_}.rds')))
-    n_draw <-  length(posterior$home_field_pre)
-    tibble('league' = .x,
-           'posterior_draw' = c(posterior$home_field_pre, posterior$home_field_post),
-           'hfa_type' = rep(c('Pre-COVID (w/ Fans)', 'Post-COVID (w/out Fans)'), each = n_draw))
+    posterior <- try(suppressWarnings(read_rds(here(glue('posteriors/{directory}/{league_}.rds')))))
+    if(any(class(posterior) == 'try-error')) {
+      NULL
+    } else {
+      n_draw <-  length(posterior$home_field_pre)
+      tibble('league' = .x,
+             'posterior_draw' = c(posterior$home_field_pre, posterior$home_field_post),
+             'hfa_type' = rep(c('Pre-COVID (w/ Fans)', 'Post-COVID (w/out Fans)'), each = n_draw))
+    }
   }) 
+
+lambda_draws <- 
+  map_dfr(league_info$alias, ~{
+    league_ <- gsub("\\s", "_", tolower(.x))
+    posterior <- try(suppressWarnings(read_rds(here(glue('posteriors/{directory}/{league_}.rds')))))
+    if(any(class(posterior) == 'try-error')) {
+      NULL
+    } else {
+      tibble('league' = .x,
+             'lambda_3' = posterior$lambda3)
+    }
+  }) 
+
 
 
 df_medians <- 
@@ -33,8 +50,20 @@ ggplot(draws, aes(x = posterior_draw, y = league_f)) +
        y = 'League',
        fill = '',
        title = 'Home Advantage for Selected European Leagues',
-       subtitle = 'Bivariate Poisson Model: Yellow Cards') 
+       subtitle = 'Bivariate Poisson Model: Yellow Cards') +
+  scale_x_continuous(limits = c(-1, 1.25)) 
 ggsave(here('paper_figures/figures/yc_ridge.png'), width = 16/1.2, height = 9/1.2)
+
+ggplot(lambda_draws, aes(x = lambda_3, y = league)) +
+  geom_density_ridges(fill = 'seagreen', alpha = 0.5, quantiles = 0.5, quantile_lines = T) +
+  labs(x = 'Lambda 3',
+       y = 'League',
+       fill = '',
+       title = 'Posterior Distributions for Lambda 3',
+       subtitle = 'Bivariate Poisson Model: Yellow Cards [Empirical Bayes]')
+ggsave(here('paper_figures/figures/lambda3_yc_ridge.png'), width = 16/1.2, height = 9/1.2)
+
+
 
 
 df_means <- 
@@ -58,7 +87,7 @@ ggplot(df_means, aes(x = mean_pre, y = mean_post)) +
        subtitle = 'Bivariate Poisson Model: Yellow Cards') +
   theme(legend.text = element_text(size = 7)) 
 ggsave(here('paper_figures/figures/yc_posterior_means.png'), width = 16/1.2, height = 9/1.2)
-  
+
 probs <- 
   map_dfr(league_info$alias, ~{
     league_ <- gsub("\\s", "_", tolower(.x))
@@ -76,4 +105,3 @@ ggplot(probs, aes(x = p_decrease, y = fct_reorder(league, p_decrease))) +
   geom_text(aes(label = paste0(sprintf('%0.1f', 100*p_decrease), '%')), nudge_x = 0.035) +
   scale_x_continuous(labels = scales::percent)
 ggsave(here('paper_figures/figures/p_hfa_decline_yc.png'), width = 16/1.2, height = 9/1.2)
-    

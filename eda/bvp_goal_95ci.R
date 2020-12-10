@@ -3,7 +3,7 @@ library(here)
 source(here('helpers.R'))
 
 league_info <- read_csv(here('league_info.csv'))
-goal_stats <- map_dfr(league_info$alias, wld_rates)
+goal_stats <- map2_dfr(league_info$alias, league_info$restart_date %>%  as.Date('%m/%d/%y'), wld_rates)
 goal_stats  <- 
   goal_stats %>% 
   mutate('home_field_mean' = map_dbl(league, ~posterior_quantile('bvp_goals', .x, 'home_field', mean = T)),
