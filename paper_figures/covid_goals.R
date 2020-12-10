@@ -3,7 +3,7 @@ library(here)
 library(ggridges)
 source(here('helpers.R'))
 
-directory <- "bvp_goals_emprical_bayes"
+directory <- "bvp_goals_no_corr"
 
 league_info <- read_csv(here('league_info.csv'))
 draws <- 
@@ -50,7 +50,7 @@ ggplot(draws, aes(x = posterior_draw, y = league_f)) +
        y = 'League',
        fill = '',
        title = 'Home Advantage for Selected European Leagues',
-       subtitle = 'Bivariate Poisson Model: Goals [Empirical Bayes]') +
+       subtitle = 'Bivariate Poisson Model: Goals') +
   scale_x_continuous(limits = c(-0.75, 1.25)) 
 ggsave(here('paper_figures/figures/goals_ridge.png'), width = 16/1.2, height = 9/1.2)
 
@@ -61,12 +61,8 @@ ggplot(lambda_draws, aes(x = lambda_3, y = league)) +
        y = 'League',
        fill = '',
        title = 'Posterior Distributions for Lambda 3',
-       subtitle = 'Bivariate Poisson Model: Goals [Empirical Bayes]')
+       subtitle = 'Bivariate Poisson Model: Goals')
 ggsave(here('paper_figures/figures/lambda3_goals_ridge.png'), width = 16/1.2, height = 9/1.2)
-
-
-
-
 
 df_means <- 
   group_by(draws, league) %>% 
