@@ -6,7 +6,8 @@ source(here('helpers.R'))
 league_info <- read_csv(here('league_info.csv'))
 
 ### Directory to Read in From
-directory <- "bvp_yc_no_corr"
+# directory <- "bvp_yc_no_corr"
+directory <- "bvp_yc_lambda3"
 
 if(!dir.exists(here(glue('paper_figures/figures/cards/{directory}')))) {
   dir.create(here(glue('paper_figures/figures/cards/{directory}')))

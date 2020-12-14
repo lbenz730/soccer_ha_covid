@@ -8,7 +8,7 @@ league <- "English Premier League"
 
 league_ <- gsub("\\s", "_", tolower(league))
 df <- read_leage_csvs(league_)
-posterior <- read_rds(here(glue('posteriors/bvp_goals_covid_lambda3_season/{league_}.rds')))
+posterior <- read_rds(here(glue('posteriors/bvp_goals_no_corr/{league_}.rds')))
 
 df <- 
   df %>% 
