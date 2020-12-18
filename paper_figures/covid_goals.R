@@ -6,8 +6,8 @@ source(here('helpers.R'))
 league_info <- read_csv(here('league_info.csv'))
 
 ### Directory to Read in From
-# directory <- "bvp_goals_no_corr"
-directory <- "bvp_goals_lambda3"
+directory <- "bvp_goals_no_corr"
+# directory <- "bvp_goals_lambda3"
 
 if(!dir.exists(here(glue('paper_figures/figures/goals/{directory}')))) {
   dir.create(here(glue('paper_figures/figures/goals/{directory}')))
@@ -44,11 +44,11 @@ draws$league_f <- factor(draws$league,
 ggplot(draws, aes(x = posterior_draw, y = league_f)) +
   geom_vline(lty = 2, xintercept = 0) +
   geom_density_ridges(aes(fill = hfa_type), alpha = 0.5, quantiles = 0.5, quantile_lines = T) +
-  labs(x = 'Home Advantage Coefficient (Log Scale)',
+  labs(x = 'Home Advantage',
        y = 'League',
        fill = '',
        title = 'Home Advantage for Selected European Leagues',
-       subtitle = 'Bivariate Poisson Model: Goals') 
+       subtitle = 'Goals') 
 ggsave(here(glue('paper_figures/figures/goals/{directory}/goals_ridge.png')), width = 16/1.2, height = 9/1.2)
 
 ### Lambda 3 plot, if applicable
@@ -71,7 +71,7 @@ if(str_detect(directory, 'lambda3')) {
          y = 'League',
          fill = '',
          title = 'Posterior Distributions for Lambda 3',
-         subtitle = 'Bivariate Poisson Model: Goals')
+         subtitle = 'Goals')
   ggsave(here(glue('paper_figures/figures/goals/{directory}/lambda3_goals_ridge.png')), width = 16/1.2, height = 9/1.2)
 }
 
@@ -84,17 +84,18 @@ df_means <-
 
 ggplot(df_means, aes(x = mean_pre, y = mean_post)) +
   geom_abline(slope = 1, intercept = 0) +
-  # scale_x_continuous(limits = c(0.01, 0.8)) +
-  # scale_y_continuous(limits = c(-0.25, 0.8)) +
+  scale_x_continuous(limits = c(0.1, 0.5)) +
+  scale_y_continuous(limits = c(-0.25, 0.45)) +
   geom_hline(yintercept = 0, alpha = 0.4, lty = 2) +
-  # geom_label(aes(label = league)) +
+  # annotate('text', x = 0.15, y = 0.4, label = "Increase in HA", size= 6) +
+  # annotate('text', x = 0.4, y = -0.2, label = "Decrease in HA", size= 6) +
   ggrepel::geom_label_repel(aes(label = league, fill = mean_post - mean_pre), size = 2.2, alpha = 0.6) +
   scale_fill_viridis_c(option = 'C') +
-  labs(x = 'HA Posterior Mean Pre-COVID (Log Scale)',
-       y = 'HA Posterior Mean Post-COVID (Log Scale)',
+  labs(x = 'HA Posterior Mean Pre-COVID',
+       y = 'HA Posterior Mean Post-COVID',
        fill = 'Change in Posterior Mean',
        title = 'Change in Home Advantage for Select European Leagues',
-       subtitle = 'Bivariate Poisson Model: Goals') +
+       subtitle = 'Goals') +
   theme(legend.text = element_text(size = 7)) 
 ggsave(here(glue('paper_figures/figures/goals/{directory}/goals_posterior_means.png')), width = 16/1.2, height = 9/1.2)
 
@@ -117,7 +118,8 @@ ggplot(probs, aes(x = p_decrease, y = fct_reorder(league, p_decrease))) +
   geom_col(fill = 'seagreen') + 
   labs(x = 'P(HA Post-COVID < HA Pre-COVID)',
        y = 'League',
-       title = 'Probability of Decline in Home Advantage (Goals)') +
+       title = 'Probability of Decline in Home Advantage',
+       subtitle = 'Goals') +
   geom_text(aes(label = paste0(sprintf('%0.1f', 100*p_decrease), '%')), nudge_x = 0.035) +
   scale_x_continuous(labels = scales::percent)
 ggsave(here(glue('paper_figures/figures/goals/{directory}/p_hfa_decline_goals.png')), width = 16/1.2, height = 9/1.2)

@@ -69,4 +69,4 @@ ggplot(team_strengths, aes(x = alpha, y = delta)) +
        y = 'Defensive Team Strength',
        title = 'English Premier League Team Strengths',
        subtitle = '2016-17 Through 2019-20')
-ggsave('figures/epl_team_strengths.png', height = 9/1.2, width = 16/1.2)
+ggsave('figures/epl_team_strengths.png', height = 9/1.5, width = 16/1.5)
