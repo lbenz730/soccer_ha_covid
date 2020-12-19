@@ -1,6 +1,8 @@
 library(tidyverse)
 library(here)
 library(ggridges)
+library(kableExtra)
+library(knitr)
 source(here('helpers.R'))
 
 league_info <- read_csv(here('league_info.csv'))
@@ -123,3 +125,49 @@ ggplot(probs, aes(x = p_decrease, y = fct_reorder(league, p_decrease))) +
   geom_text(aes(label = paste0(sprintf('%0.1f', 100*p_decrease), '%')), nudge_x = 0.035) +
   scale_x_continuous(labels = scales::percent)
 ggsave(here(glue('paper_figures/figures/goals/{directory}/p_hfa_decline_goals.png')), width = 16/1.2, height = 9/1.2)
+
+
+### Table:
+df_means %>% 
+  select(-logo_url) %>% 
+  mutate('delta' = mean_post -mean_pre) %>% 
+  mutate('pct' = paste0(sprintf('%0.1f', delta/abs(mean_pre) * 100), '%')) %>%  
+  inner_join(probs) %>% 
+  arrange(desc(p_decrease)) %>% 
+  xtable::xtable(digits = c(0, 0, 3,3,3,1,3)) %>%
+  print(include.rownames = F)
+  # mutate_at(vars(contains('mean')), ~{
+  #   cell_spec(sprintf('%0.3f', .x),
+  #             color = "white", 
+  #             bold = T,
+  #             background = spec_color(.x, scale_from = c(-0.25, 0.5), end = 0.9, option = "C", direction = )
+  #             )
+  # }) %>% 
+  # mutate_at(vars(matches('delta|decrease')), ~{
+  #   cell_spec(sprintf('%0.3f', .x),
+  #             color = "white", 
+  #             bold = T,
+  #             background = spec_color(.x, end = 0.9, option = "C", direction = )
+  #   )
+  # }) %>% 
+  # mutate_at(vars(contains('pct')), ~{
+  #   cell_spec(paste0(sprintf('%0.1f', 100 * .x), '%'),
+  #             color = "white", 
+  #             bold = T,
+  #             background = spec_color(.x, end = 0.9, option = "C", direction = )
+  #   )
+  # }) %>% 
+  # kable(escape = T, 'latex') %>% 
+  # kable_styling('striped')
+
+
+
+
+
+
+
+
+
+
+
+

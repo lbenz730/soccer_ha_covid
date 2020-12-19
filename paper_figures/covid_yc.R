@@ -43,11 +43,11 @@ draws$league_f <- factor(draws$league,
 ggplot(draws, aes(x = posterior_draw, y = league_f)) +
   geom_vline(lty = 2, xintercept = 0) +
   geom_density_ridges(aes(fill = hfa_type), alpha = 0.5, quantiles = 0.5, quantile_lines = T) +
-  labs(x = 'Home Advantage Coefficient (Log Scale)',
+  labs(x = 'Home Advantage',
        y = 'League',
        fill = '',
        title = 'Home Advantage for Selected European Leagues',
-       subtitle = 'Bivariate Poisson Model: Yellow Cards') 
+       subtitle = 'Yellow Cards') 
 ggsave(here(glue('paper_figures/figures/cards/{directory}/yc_ridge.png')), width = 16/1.2, height = 9/1.2)
 
 ### Lambda 3 plot, if applicable
@@ -89,11 +89,11 @@ ggplot(df_means, aes(x = mean_pre, y = mean_post)) +
   # geom_label(aes(label = league)) +
   ggrepel::geom_label_repel(aes(label = league, fill = mean_post - mean_pre), size = 2.2, alpha = 0.6) +
   scale_fill_viridis_c(option = 'C') +
-  labs(x = 'HA Posterior Mean Pre-COVID (Log Scale)',
-       y = 'HA Posterior Mean Post-COVID (Log Scale)',
+  labs(x = 'HA Posterior Mean Pre-COVID',
+       y = 'HA Posterior Mean Post-COVID',
        fill = 'Change in Posterior Mean',
        title = 'Change in Home Advantage for Select European Leagues',
-       subtitle = 'Bivariate Poisson Model: Yellow Cards') +
+       subtitle = 'Yellow Cards') +
   theme(legend.text = element_text(size = 7)) 
 ggsave(here(glue('paper_figures/figures/cards/{directory}/yc_posterior_means.png')), width = 16/1.2, height = 9/1.2)
 
@@ -107,7 +107,7 @@ probs <-
       NULL
     } else {
       tibble('league' = .x,
-             'p_decrease' = mean(posterior$home_field_pre > posterior$home_field_post))
+             'p_decrease' = mean(posterior$home_field_pre < posterior$home_field_post))
     }
   }) 
 
@@ -120,3 +120,14 @@ ggplot(probs, aes(x = p_decrease, y = fct_reorder(league, p_decrease))) +
   geom_text(aes(label = paste0(sprintf('%0.1f', 100*p_decrease), '%')), nudge_x = 0.035) +
   scale_x_continuous(labels = scales::percent)
 ggsave(here(glue('paper_figures/figures/cards/{directory}/p_hfa_decline_yc.png')), width = 16/1.2, height = 9/1.2)
+
+
+### Table:
+df_means %>% 
+  select(-logo_url) %>% 
+  mutate('delta' = mean_post -mean_pre) %>% 
+  mutate('pct' = paste0(sprintf('%0.1f', delta/abs(mean_pre) * 100), '%')) %>%  
+  inner_join(probs) %>% 
+  arrange(desc(p_decrease)) %>% 
+  xtable::xtable(digits = c(0, 0, 3,3,3,1,3)) %>%
+  print(include.rownames = F)
