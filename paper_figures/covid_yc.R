@@ -47,7 +47,13 @@ ggplot(draws, aes(x = posterior_draw, y = league_f)) +
        y = 'League',
        fill = '',
        title = 'Home Advantage for Selected European Leagues',
-       subtitle = 'Yellow Cards') 
+       subtitle = 'Yellow Cards') +
+  theme(axis.text = element_text(size = 16),
+        axis.title = element_text(size = 24),
+        plot.title = element_text(hjust = 0.5, size = 30),
+        plot.subtitle = element_text(hjust = 0.5, size = 24),
+        legend.text = element_text(size = 16)) +
+  scale_x_continuous(limits = c(-1, 0.75)) 
 ggsave(here(glue('paper_figures/figures/cards/{directory}/yc_ridge.png')), width = 16/1.2, height = 9/1.2)
 
 ### Lambda 3 plot, if applicable

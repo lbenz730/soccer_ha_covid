@@ -1,4 +1,7 @@
 library(tidyverse)
+library(patchwork)
+library(grid)
+library(gridExtra)
 library(here)
 source(here('helpers.R'))
 
@@ -11,7 +14,7 @@ posterior_means <-
     goals_posterior <- try(suppressWarnings(read_rds(here(glue('posteriors/bvp_goals_no_corr/{league_}.rds')))))
     yc_posterior <- try(suppressWarnings(read_rds(here(glue('posteriors/bvp_yc_lambda3/{league_}.rds')))))
     
-    tibble('league' = .x,
+    tibble('league' = ifelse(.x == 'English League Championship', 'English Championship', .x),
            'goals_ha_pre' = mean(goals_posterior$home_field_pre),
            'goals_ha_post' = mean(goals_posterior$home_field_post),
            'yc_ha_pre' = mean(yc_posterior$home_field_pre),
@@ -21,11 +24,8 @@ posterior_means <-
         goals_ha_post > goals_ha_pre & yc_ha_pre > yc_ha_post ~ "Goals HA Increase | Yellow Cards HA Increase",
         goals_ha_post < goals_ha_pre & yc_ha_pre > yc_ha_post ~ "Goals HA Decrease | Yellow Cards HA Increase",
         goals_ha_post > goals_ha_pre & yc_ha_pre < yc_ha_post ~ "Goals HA Increase | Yellow Cards HA Decrease",
-        goals_ha_post < goals_ha_pre & yc_ha_pre < yc_ha_post ~ "Goals HA Decrease | Yellow Cards HA Decrease"))  %>% 
-      mutate('cluster' = factor(cluster, levels = c("Goals HA Decrease | Yellow Cards HA Decrease",
-                                                    "Goals HA Decrease | Yellow Cards HA Increase",
-                                                    "Goals HA Increase | Yellow Cards HA Increase",
-                                                    "Goals HA Increase | Yellow Cards HA Decrease")))
+        goals_ha_post < goals_ha_pre & yc_ha_pre < yc_ha_post ~ "Goals HA Decrease | Yellow Cards HA Decrease")) %>% 
+      mutate('magnitude' = sqrt((goals_ha_post-goals_ha_pre)^2 + (yc_ha_post - yc_ha_pre)^2))
     
   })
 
@@ -39,43 +39,116 @@ df_means <-
   pivot_wider(names_from = stat,
               values_from = value)
 
+theme_set(theme_bw() + 
+            theme(plot.title = element_text(size = 40, vjust = 3, hjust = 0.5),
+                  strip.text = element_text(size = 28),
+                  axis.text = element_text(size = 22),
+                  plot.margin = unit(c(2,0.5,0.5,0.5), "cm")
+            ))
 
-ggplot(df_means, aes(x = goals, y = yc)) + 
-  facet_wrap(~league, ncol = 4) +
+
+p1 <- 
+  df_means %>% 
+  filter(cluster == 'Goals HA Decrease | Yellow Cards HA Decrease') %>% 
+  ggplot(aes(x = yc, y = goals)) + 
+  facet_wrap(~fct_reorder(league, desc(magnitude)), ncol = 4) +
   geom_vline(xintercept = 0, lty = 2) +
   geom_hline(yintercept = 0, lty = 2) +
-  geom_point(data = select(df_means, -league), alpha = 0.2, size = 2) +
-  geom_point(aes(color = cluster), size = 6, alpha = 0.4) +
-  geom_segment(data = posterior_means,
-               aes(x = goals_ha_pre,
-                   xend = goals_ha_post,
-                   y = yc_ha_pre,
-                   yend = yc_ha_post,
-                   color = cluster,),
-               arrow = arrow(length = unit(0.5, "cm")), lwd = 2, show.legend = F) +
-  scale_x_continuous(limits = c(-0.425, 0.6)) +
-  scale_y_continuous(limits = c(-0.7, 0.3)) +
-  annotate('text', x = 0.45, y = -0.6, label = 'Increasing HA', size = 3.5) +
-  annotate('segment', x = 0.3, y = -0.675, xend = 0.6, yend = -0.675, arrow = arrow(length = unit(0.3, 'cm'))) +
-  annotate('text', x = -0.2, y = -0.6, label = 'Decreasing HA', size = 3.5) +
-  annotate('segment', x = -0.05, y = -0.675, xend = -0.35, yend = -0.675, arrow = arrow(length = unit(0.3, 'cm'))) +
-  annotate('text', x = -0.42, y = -0.425, label = 'Increasing HA', size = 3.25, angle = 90) +
-  annotate('segment', x = -0.375, y = -0.25, xend = -0.375, yend = -0.65, arrow = arrow(length = unit(0.3, 'cm'))) +
-  annotate('text', x = -0.42, y = 0.025, label = 'Decreasing HA', size = 3.25, angle = 90) +
-  annotate('segment', x = -0.375, y = -0.15, xend = -0.375, yend = 0.25, arrow = arrow(length = unit(0.3, 'cm'))) +
-  scale_color_manual(labels = c("Goals HA Decrease | Yellow Cards HA Decrease",
-                                "Goals HA Decrease | Yellow Cards HA Increase",
-                                "Goals HA Increase | Yellow Cards HA Increase",
-                                "Goals HA Increase | Yellow Cards HA Decrease"),
-                     values = scales::hue_pal()(4),
-                     drop = F) +
-  theme(legend.position = 'bottom') +
-  labs(x = 'Goals Home Advantage Posterior Mean',
-       y = 'Yellow Cards Home Advantage Posterior Mean',
-       title = 'Change in Home Advantage',
+  geom_point(data = select(df_means, -league), alpha = 0.2, size = 3) +
+  geom_point(color = "#F8766D", size = 10, alpha = 0.4) +
+  geom_segment(data = posterior_means %>% filter(cluster == 'Goals HA Decrease | Yellow Cards HA Decrease'),
+               color = "#F8766D",
+               aes(x = yc_ha_pre,
+                   xend = yc_ha_post,
+                   y = goals_ha_pre,
+                   yend = goals_ha_post),
+               arrow = arrow(length = unit(0.7, "cm")), lwd = 4, show.legend = F) +
+  scale_x_continuous(limits = c(-0.65, 0.2)) +
+  scale_y_continuous(limits = c(-0.4, 0.5)) +
+  annotate('text', x = -0.555, y = 0.17, label = 'Decreasing HA\n(Goals)', size = 7, angle = 90) +
+  annotate('segment', x = -0.625, y = 0.475, xend = -0.625, yend = -0.16, arrow = arrow(length = unit(0.4, 'cm')), lwd = 1.5) +
+  annotate('text', x = -0.275, y = -0.305, label = 'Decreasing HA (Yellow Cards)', size = 7) +
+  annotate('segment', x = -0.635, y = -0.375, xend = 0.1, yend = -0.375,  arrow = arrow(length = unit(0.4, 'cm')), lwd = 1.5) +
+  labs(x = '',
+       y = '',
+       title = 'Yellow Cards HA Decrease + Goals HA Decrease',
        color = '',
-       fill = '',
-       subtitle = 'Arrow from Pre-Covid HA to Post-Covid HA') +
-  guides(color=guide_legend(ncol=2)) 
-ggsave('figures/arrow_plot.png', height = 15, width = 15)
+       fill = '')
+
+p2 <-
+  df_means %>% 
+  filter(cluster == 'Goals HA Increase | Yellow Cards HA Decrease') %>% 
+  ggplot(aes(x = yc, y = goals)) + 
+  facet_wrap(~fct_reorder(league, desc(magnitude)), ncol = 4) +
+  geom_vline(xintercept = 0, lty = 2) +
+  geom_hline(yintercept = 0, lty = 2) +
+  geom_point(data = select(df_means, -league), alpha = 0.2, size = 3) +
+  geom_point(color = "#C77CFF", size = 10, alpha = 0.4) +
+  geom_segment(data = posterior_means %>% filter(cluster == 'Goals HA Increase | Yellow Cards HA Decrease'),
+               color = "#C77CFF",
+               aes(x = yc_ha_pre,
+                   xend = yc_ha_post,
+                   y = goals_ha_pre,
+                   yend = goals_ha_post),
+               arrow = arrow(length = unit(0.7, "cm")), lwd = 4, show.legend = F) +
+  scale_x_continuous(limits = c(-0.65, 0.2)) +
+  scale_y_continuous(limits = c(-0.4, 0.5)) +
+  annotate('text', x = -0.555, y = 0.17, label = 'Decreasing HA\n(Goals)', size = 7, angle = 90) +
+  annotate('segment', x = -0.625, y = 0.475, xend = -0.625, yend = -0.15, arrow = arrow(length = unit(0.4, 'cm')), lwd = 1.5) +
+  annotate('text', x = -0.275, y = -0.305, label = 'Decreasing HA (Yellow Cards)', size = 7) +
+  annotate('segment', x = -0.635, y = -0.375, xend = 0.1, yend = -0.375,  arrow = arrow(length = unit(0.4, 'cm')), lwd = 1.5) +
+  labs(x = '',
+       y = '',
+       title = 'Yellow Cards HA Decrease + Goals HA Increase',
+       caption = 'Yellow Cards HA Increase + Goals HA Increase',
+       color = '',
+       fill = '') +
+  theme(plot.caption = element_text(hjust = 0.5, size = 40, vjust = -8))
+
+p3 <- 
+  df_means %>% 
+  filter(cluster == 'Goals HA Increase | Yellow Cards HA Increase') %>% 
+  ggplot(aes(x = yc, y = goals)) + 
+  facet_wrap(~fct_reorder(league, desc(magnitude)), ncol = 4) +
+  geom_vline(xintercept = 0, lty = 2) +
+  geom_hline(yintercept = 0, lty = 2) +
+  geom_point(data = select(df_means, -league), alpha = 0.2, size = 3) +
+  geom_point(color = "#00BFC4", size = 10, alpha = 0.4) +
+  geom_segment(data = posterior_means %>% filter(cluster == 'Goals HA Increase | Yellow Cards HA Increase'),
+               color = "#00BFC4",
+               aes(x = yc_ha_pre,
+                   xend = yc_ha_post,
+                   y = goals_ha_pre,
+                   yend = goals_ha_post),
+               arrow = arrow(length = unit(0.7, "cm")), lwd = 4, show.legend = F) +
+  scale_x_continuous(limits = c(-0.65, 0.2)) +
+  scale_y_continuous(limits = c(-0.4, 0.5)) +
+  annotate('text', x = -0.555, y = 0.17, label = 'Decreasing HA\n(Goals)', size = 7, angle = 90) +
+  annotate('segment', x = -0.625, y = 0.475, xend = -0.625, yend = -0.15, arrow = arrow(length = unit(0.4, 'cm')), lwd = 1.5) +
+  annotate('text', x = -0.275, y = -0.305, label = 'Decreasing HA (Yellow Cards)', size = 7) +
+  annotate('segment', x = -0.635, y = -0.375, xend = 0.1, yend = -0.375,  arrow = arrow(length = unit(0.4, 'cm')), lwd = 1.5) +
+  labs(x = '',
+       y = '',
+       title = '',
+       color = '',
+       fill = '')
+
+
+design <-"
+11
+11
+11
+33
+2#"
+
+
+p1 + p3 + p2 + plot_layout(design = design) + 
+  plot_annotation(title = 'Change in Home Advantages:\nGoals and Yellow Cards',
+                  subtitle = 'Arrows reflect Pre-Covid to Post-Covid posterior means in HA',
+                  theme = theme(plot.title = element_text(size = 72, hjust = 0.5, face = 'bold'),
+                                plot.subtitle = element_text(size = 48, hjust = 0.5, face = 'bold')))
+
+ggsave('figures/arrow_plot.png', height = 30, width = 22)
+
+
 

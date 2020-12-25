@@ -52,21 +52,20 @@ team_strengths <-
   ungroup() %>% 
   pivot_wider(names_from ='parameter', 
               values_from = 'posterior_mean') %>% 
-  filter(season != "2015-2016")
+  filter(season == "2016-2017")
 
 ggplot(team_strengths, aes(x = alpha, y = delta)) +
-  facet_wrap(~season) +
   geom_vline(xintercept = 0, lty = 2, alpha = 0.8, col = 'seagreen') +
   geom_hline(yintercept = 0, lty = 2, alpha = 0.8, col = 'seagreen') +
-  ggrepel::geom_label_repel(aes(label = team), size = 2) +
+  ggrepel::geom_label_repel(aes(label = team), size = 4) +
   scale_x_continuous(limits  = c(-0.75, 0.75)) +
   scale_y_continuous(limits  = c(-0.6, 0.6)) +
-  annotate(geom = 'text', x = 0.5, y = -0.6, label = 'Good Attack/Good Defense') +
-  annotate(geom = 'text', x = -0.5, y = -0.6, label = 'Bad Attack/Good Defense') +
-  annotate(geom = 'text', x = 0.5, y = 0.6, label = 'Good Attack/Bad Defense') +
-  annotate(geom = 'text', x = -0.5, y = 0.6, label = 'Bad Attack/Bad Defense') +
+  annotate(geom = 'text', x = 0.5, y = -0.6, label = 'Good Attack/Good Defense', fontface = 'bold') +
+  annotate(geom = 'text', x = -0.5, y = -0.6, label = 'Bad Attack/Good Defense', fontface = 'bold') +
+  annotate(geom = 'text', x = 0.5, y = 0.6, label = 'Good Attack/Bad Defense', fontface = 'bold') +
+  annotate(geom = 'text', x = -0.5, y = 0.6, label = 'Bad Attack/Bad Defense', fontface = 'bold') +
   labs(x = 'Attacking Team Strength',
        y = 'Defensive Team Strength',
        title = 'English Premier League Team Strengths',
-       subtitle = '2016-17 Through 2019-20')
+       subtitle = '2016-17')
 ggsave('figures/epl_team_strengths.png', height = 9/1.5, width = 16/1.5)

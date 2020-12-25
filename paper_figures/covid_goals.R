@@ -45,12 +45,19 @@ draws$league_f <- factor(draws$league,
 
 ggplot(draws, aes(x = posterior_draw, y = league_f)) +
   geom_vline(lty = 2, xintercept = 0) +
+  scale_x_continuous(limits = c(-0.5, 0.6)) +
   geom_density_ridges(aes(fill = hfa_type), alpha = 0.5, quantiles = 0.5, quantile_lines = T) +
   labs(x = 'Home Advantage',
        y = 'League',
        fill = '',
        title = 'Home Advantage for Selected European Leagues',
-       subtitle = 'Goals') 
+       subtitle = 'Goals') +
+  theme(axis.text = element_text(size = 16),
+        axis.title = element_text(size = 24),
+        plot.title = element_text(hjust = 0.5, size = 30),
+        plot.subtitle = element_text(hjust = 0.5, size = 24),
+        legend.text = element_text(size = 16))
+
 ggsave(here(glue('paper_figures/figures/goals/{directory}/goals_ridge.png')), width = 16/1.2, height = 9/1.2)
 
 ### Lambda 3 plot, if applicable
