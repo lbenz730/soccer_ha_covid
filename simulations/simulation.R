@@ -134,9 +134,6 @@ simulation_fun <- function(x) {
   )
 }
 
-
-
-
 simulation <- map_df(.x = simulation_data, .f = simulation_fun)
 
 
