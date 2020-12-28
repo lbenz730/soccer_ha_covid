@@ -20,8 +20,8 @@ parameters {
   real<lower=0> sigma_d;                  // defending sd
   
   vector[num_seasons] mu;                   // mean goals/game
-  real home_field_pre;                     // home field advantage (pre-covid)
-  real home_field_post;                    // home field advantage (post-covid)
+  real home_field_pre;                     // home field advantage (pre-covid) [T in Model (3)]
+  real home_field_post;                    // home field advantage (post-covid) [T' in Model (3)]
 }
 model {
   vector[num_games] lambda1;

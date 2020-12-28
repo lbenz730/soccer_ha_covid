@@ -19,13 +19,13 @@ data {
   real sd_hf_post;
 }
 parameters {
-  vector[num_clubs] gamma;                  // team intercepts
-  real<lower=0> sigma_g;                  // team intercept sd
+  vector[num_clubs] gamma;                  // team intercepts [tau in Model (4)]
+  real<lower=0> sigma_g;                  // team intercept sd [sigma_team in Model (4)]
   
   vector[num_seasons] mu;                   // mean yc/game
-  real home_field_pre;                     // home field advantage (pre-covid)
-  real home_field_post;                    // home field advantage (post-covid)
-  real fixed_cov;                         // covariance intercept
+  real home_field_pre;                     // home field advantage (pre-covid) [T in Model (4)]
+  real home_field_post;                    // home field advantage (post-covid) [T' in Model (4)
+  real fixed_cov;                         // covariance intercept [gamma in Model (4)]
 }
 model {
   vector[num_games] lambda1;

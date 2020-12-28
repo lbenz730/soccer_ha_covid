@@ -13,12 +13,12 @@ data {
   int<lower=0,upper=1> ind_pre[num_games];                    // indicator if game is pre/post covid
 }
 parameters {
-  vector[num_clubs] gamma;                  // team intercepts
-  real<lower=0> sigma_g;                  // team intercept sd
+  vector[num_clubs] gamma;                  // team intercepts [tau in Model (4)]
+  real<lower=0> sigma_g;                  // team intercept sd [sigma_team in Model (4)]
   
   vector[num_seasons] mu;                   // mean yc/game
-  real home_field_pre;                     // home field advantage (pre-covid)
-  real home_field_post;                    // home field advantage (post-covid)
+  real home_field_pre;                     // home field advantage (post-covid) [T' in Model (4)
+  real home_field_post;                    // home field advantage (post-covid) [T' in Model (4)
 }
 model {
   vector[num_games] lambda1;
