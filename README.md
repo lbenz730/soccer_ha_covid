@@ -15,6 +15,9 @@ This repository contains the data and code used in a manuscript _Estimating the 
 * __stan/cards/__ STAN files for fitting goal card models (Model (3) in paper)
 * __models/empirical_baselines.R:__ Saves __models/empirical_baselines.csv__ for empirical Bayes priors in Models (3) and (4) with no-zero correlation.
 
+### Posteriors
+`.rds` files of posterior draws are available for both.
+
 ### Simulations
 
 * __simulations/simulation.R__ R script for running simulations described in Section (4).
