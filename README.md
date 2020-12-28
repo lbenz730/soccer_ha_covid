@@ -15,8 +15,19 @@ This repository contains the data and code used in a manuscript _Estimating the 
 * __stan/cards/__ STAN files for fitting goal card models (Model (3) in paper)
 * __models/empirical_baselines.R:__ Saves __models/empirical_baselines.csv__ for empirical Bayes priors in Models (3) and (4) with no-zero correlation.
 
+In order to replicate the entire model fitting process simply run one the appropriate R script from above. For example [models/goals/bvp_goals_no_corr.R](https://github.com/lbenz730/soccer_ha_covid/blob/master/models/goals/bvp_goals_no_corr.R) is Model (3) presented in our manuscript while [models/cards/bvp_goals_lambda3.R] is Model (4) presented in our manuscript.
+
 ### Posteriors
-`.rds` files of posterior draws are available for both.
+`.rds` files of posterior draws are available for goals and yellow card models for each league. 
+
+* __bvp_goals_no_corr/:__ Folder of posterior draw `.rds` objects for Model (3) in paper
+* __bvp_goals_lambda_3/:__ Folder of posterior draw `.rds` objects for Model (4) in paper
+
+### Model Objects
+`.rds` files of model objects are available for goals and yellow card models for each league. Note `rstan` is required to work with these objects. For assistance 
+
+* __bvp_goals_no_corr/:__ Folder of `.rds` model objects for Model (3) in paper
+* __bvp_goals_lambda_3/:__ Folder of `.rds` model objects for Model (4) in paper
 
 ### Simulations
 
