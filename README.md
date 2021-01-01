@@ -1,5 +1,5 @@
 # Soccer HA Covid
-This repository contains the data and code used in a manuscript _Estimating the change in soccer's home advantage during the Covid-19 pandemic using bivariate Poisson regression_ by Luke Benz and Michael Lopez. A pre-print of our manuscript is available [here]().
+This repository contains the data and code used in a manuscript _Estimating the change in soccer's home advantage during the Covid-19 pandemic using bivariate Poisson regression_ by Luke Benz and Michael Lopez. A pre-print of our manuscript is available [here](https://arxiv.org/abs/2012.14949).
 
 ### Data:
 
