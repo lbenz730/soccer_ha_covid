@@ -79,6 +79,6 @@ df_means %>%
   mutate('delta' = mean_post -mean_pre) %>% 
   mutate('pct' = paste0(sprintf('%0.1f', delta/abs(mean_pre) * 100), '%')) %>%  
   inner_join(probs) %>% 
-  arrange(desc(p_decrease)) 
+  arrange(desc(p_decrease)) %>% 
   xtable::xtable(digits = c(0, 0, 3,3,3,1,3)) %>%
   print(include.rownames = F)
