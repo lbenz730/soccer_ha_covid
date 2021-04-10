@@ -54,7 +54,6 @@ for(i in 1:nrow(league_info)) {
   team_ids <- team_codes(df)
   df <- 
     select(df, home, away, home_score, away_score, season, date) %>% 
-    filter(season > "2016-17") %>% 
     mutate('home_id' = team_ids[home],
            'away_id' = team_ids[away],
            'pre_covid' = as.numeric(date < covid_date),
