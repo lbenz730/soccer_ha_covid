@@ -1,0 +1,2 @@
+true_params,bivpois_eta,bivpois_estimated_ha,bivpois_eta_bias,bivpois_eta_mse,lm_eta,lm_eta_bias,lm_eta_mse,team_strength_correlation,lambda3
+0.2978477324674299,0.24035833435218096,0.27170476418832035,-0.026142968279109557,6.834547904425285e-4,-0.309941520467832,-0.607789252935262,0.36940777598360386,0,0.1
