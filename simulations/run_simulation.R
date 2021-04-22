@@ -43,8 +43,29 @@ run_simulation <- function(x) {
   bivpois_params <- rstan::extract(bivpois, pars = c("mu", "eta", "alpha", "delta"))
   bivpois_eta <- mean(bivpois_params$eta)
   bivpois_estimated_ha <- exp(bivpois_eta)-1
-  bivpois_eta_bias <- mean(bivpois_estimated_ha - x$home_advantage)
-  bivpois_eta_mse <- mean((bivpois_estimated_ha - x$home_advantage)^2)
+  bivpois_bias <- mean(bivpois_estimated_ha -  x$home_advantage)
+  bivpois_mse <- mean((bivpois_estimated_ha -  x$home_advantage)^2)
+  
+  ### Fit Bayes LM Paired Comparison
+  pc_stan_data <- 
+    list(
+    'num_clubs' = nrow(team_codes),
+    'num_games' = nrow(fit_data),
+    'home' = fit_data$home_code,
+    'away' = fit_data$away_code,
+    'goal_diff' = fit_data$h_goals - fit_data$a_goals
+  )
+  
+  pc_stan <- stan(file = here("simulations/paired_comp.stan"), 
+                  seed = 12321,
+                  data = pc_stan_data,
+                  chains = 2, iter = 5000, warmup = 2000, init = "random", thin = 5,
+                  cores = 2, control = list(adapt_delta = 0.99))
+  
+  pc_pars <- rstan::extract(pc_stan, pars = 'alpha')
+  pc_eta <- mean(pc_pars$alpha)
+  pc_bias <- mean(pc_eta - x$home_advantage)
+  pc_mse <- mean((pc_eta - x$home_advantage)^2)
   
   ### FIT LM:
   fit_data <- 
@@ -58,16 +79,19 @@ run_simulation <- function(x) {
   ### Return
   df_out <- 
     tibble(
+      'method' = x$method,
       'true_params' = x$home_advantage,
       'bivpois_eta' = bivpois_eta,
       'bivpois_estimated_ha' =  bivpois_estimated_ha,
-      'bivpois_eta_bias' = bivpois_eta_bias,
-      'bivpois_eta_mse' = bivpois_eta_mse, 
+      'bivpois_bias' = bivpois_bias,
+      'bivpois_mse' = bivpois_mse, 
+      'pc_eta' = pc_eta,
+      'pc_bias' = pc_bias,
+      'pc_mse' = pc_mse,
       'lm_eta' = lm_eta, 
-      'lm_eta_bias' = lm_eta_bias, 
-      'lm_eta_mse' = lm_eta_mse,
-      'team_strength_correlation' = team_strength_correlation,
-      'lambda3' = lambda3
+      'lm_bias' = lm_eta_bias, 
+      'lm_mse' = lm_eta_mse,
+      'team_strength_correlation' = team_strength_correlation
     )
   
 
