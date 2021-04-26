@@ -4,7 +4,7 @@
 library(tidyverse)
 
 ### Bivariate Poission Data Generation
-generate_bivpois <- function(run, sim_id, num_club, team_strength_correlation, lambda3) {
+generate_bivpois <- function(run, sim_id, num_club, team_strength_correlation, lambda3, home_advantage) {
   
   ### Covariance Matrix for Team Strengths
   covariance_matrix <- matrix(c(0.35^2, 
@@ -27,9 +27,7 @@ generate_bivpois <- function(run, sim_id, num_club, team_strength_correlation, l
     select(club) %>%
     flatten_chr() 
   games <- expand.grid(home = games, away = games)
-  
-  home_advantage <- runif(1, 0, 1)
-  
+
   games <- 
     games %>%
     filter(home != away) %>%
@@ -60,7 +58,7 @@ generate_bivpois <- function(run, sim_id, num_club, team_strength_correlation, l
 
 
 ### Bivariate Normal Data Generation
-generate_bivnorm <- function(run, sim_id, num_club, team_strength_correlation) {
+generate_bivnorm <- function(run, sim_id, num_club, team_strength_correlation, home_advantage) {
   
   ### Covariance Matrix for Team Strengths
   covariance_matrix <- matrix(c(0.35^2, 
@@ -84,7 +82,6 @@ generate_bivnorm <- function(run, sim_id, num_club, team_strength_correlation) {
     flatten_chr() 
   games <- expand.grid(home = games, away = games)
   
-  home_advantage <- runif(1, 0, 1)
   
   games <- 
     games %>%
@@ -94,10 +91,10 @@ generate_bivnorm <- function(run, sim_id, num_club, team_strength_correlation) {
     left_join(teams, by = c("away" = "club")) %>%
     rename(a_att = attack, a_def = defend) %>%
     mutate(
-      'mu1' = 1.4 + home_advantage + h_att + a_def, 
-      'mu2' = 1.4 + a_att + h_def,
-      'h_goals' = round(truncnorm::rtruncnorm(n = nrow(.), a = -0.49999, mean = mu1, sd = 1.2)), ## left truncated at -0.49999
-      'a_goals' = round(truncnorm::rtruncnorm(n = nrow(.), a = -0.49999, mean = mu2, sd = 1.2)), ## left truncated at  -0.49999
+      'mu1' = 5 + home_advantage + h_att + a_def, 
+      'mu2' = 5 + a_att + h_def,
+      'h_goals' = round(truncnorm::rtruncnorm(n = nrow(.), a = -0.49999, mean = mu1, sd = 1)), ## left truncated at -0.49999
+      'a_goals' = round(truncnorm::rtruncnorm(n = nrow(.), a = -0.49999, mean = mu2, sd = 1)), ## left truncated at  -0.49999
       'home_game' = 1) %>%
     select(home, away, h_goals, a_goals, home_game)
   

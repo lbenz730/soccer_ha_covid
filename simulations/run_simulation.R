@@ -42,7 +42,8 @@ run_simulation <- function(x) {
   
   bivpois_params <- rstan::extract(bivpois, pars = c("mu", "eta", "alpha", "delta"))
   bivpois_eta <- mean(bivpois_params$eta)
-  bivpois_estimated_ha <- exp(bivpois_eta)-1
+  bivpois_mu <- mean(bivpois_params$mu)
+  bivpois_estimated_ha <- exp(bivpois_eta + bivpois_mu) - exp(bivpois_mu)
   bivpois_bias <- mean(bivpois_estimated_ha -  x$home_advantage)
   bivpois_mse <- mean((bivpois_estimated_ha -  x$home_advantage)^2)
   
