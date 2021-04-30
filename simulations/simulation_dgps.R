@@ -4,7 +4,7 @@
 library(tidyverse)
 
 ### Bivariate Poission Data Generation
-generate_bivpois <- function(run, sim_id, num_club, team_strength_correlation, lambda3, home_advantage) {
+generate_bivpois <- function(run, sim_id, num_club, team_strength_correlation, lambda3, home_advantage, mu) {
   
   ### Covariance Matrix for Team Strengths
   covariance_matrix <- matrix(c(0.35^2, 
@@ -36,8 +36,8 @@ generate_bivpois <- function(run, sim_id, num_club, team_strength_correlation, l
     left_join(teams, by = c("away" = "club")) %>%
     rename(a_att = attack, a_def = defend) %>%
     mutate(
-      'lambda1' = exp(0 + log(home_advantage + 1) + h_att + a_def),
-      'lambda2' = exp(0 + a_att + h_def),
+      'lambda1' = exp(log(home_advantage + mu) + h_att + a_def),
+      'lambda2' = exp(log(mu) + a_att + h_def),
       'h_goals' = rpois(n = nrow(.), lambda = (lambda1 + lambda3)),
       'a_goals' = rpois(n = nrow(.), lambda = (lambda2 + lambda3)),
       'home_game' = 1) %>%
@@ -48,6 +48,7 @@ generate_bivpois <- function(run, sim_id, num_club, team_strength_correlation, l
       'method' = "bivpois",
       'teams' = teams,
       'games' = games,
+      'mu' = mu,
       'home_advantage' = home_advantage,
       'team_strength_correlation' = team_strength_correlation,
       'lambda3' = lambda3,

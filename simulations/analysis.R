@@ -6,8 +6,6 @@ library(ggbeeswarm)
 library(ggridges)
 
 source(here('helpers.R'))
-source(here('simulations/simulation_dgps.R'))
-source(here('simulations/run_simulation.R'))
 
 ### Analysis
 files <- dir('sim_files/v2_sims', full.names = T)
@@ -30,26 +28,44 @@ df_results <-
 
 df_summary <-
   df_results %>%
-  group_by(model_type, method, team_strength_correlation, 'home_advantage' = true_params) %>%
+  group_by(model_type, method, team_strength_correlation, mu, 'home_advantage' = true_params) %>%
   summarise(mean_abs_bias = mean(abs(estimated_ha_bias)),
             mean_bias = mean(estimated_ha_bias),
             lower_025 = quantile(estimated_ha_bias, 0.025),
             upper_975 = quantile(estimated_ha_bias, 0.975))
 
-ggplot(df_summary, aes(x = as.character(team_strength_correlation), y = mean_abs_bias,
-                       fill = model_type, label = sprintf('%0.2f', mean_abs_bias))) +
-  facet_grid(paste('DGP:', method) ~ paste('Home Advantage:', home_advantage)) +
+ggplot(filter(df_summary, method == 'Bivariate Poisson'),
+       aes(x = fct_reorder(as.character(team_strength_correlation), team_strength_correlation), y = mean_abs_bias,
+           fill = model_type, label = sprintf('%0.2f', mean_abs_bias))) +
+  facet_grid(paste('Mu:', log(mu)) ~ paste('Home Advantage:', home_advantage)) +
   geom_col(position = 'dodge') +
   geom_text(position = position_dodge(width = 0.9), vjust = -0.5) +
   labs(title = "Simulated Bias in Home Advantage Estimates",
+       subtitle = 'DGP: Bivariate Poisson',
        x = 'Team Strength Correlation',
        y = "Mean Absolute Bias",
-       fill = '') +
+       fill = 'Model') +
   scale_y_continuous(limits = c(0, 0.9))
-ggsave(file = here("simulations/sim_results.png"), height = 9/1.2, width = 16/1.2)
+ggsave(file = here("simulations/figures/sim_results_bvp.png"), height = 9/1.2, width = 16/1.2)
 
-### Plot
-ggplot(df_results, aes(x = (estimated_ha_bias), y = model_type, fill = model_type)) +
+ggplot(filter(df_summary, method == 'Bivariate Normal'),
+       aes(x = fct_reorder(as.character(team_strength_correlation), team_strength_correlation), y = mean_abs_bias,
+           fill = model_type, label = sprintf('%0.2f', mean_abs_bias))) +
+  facet_wrap(~paste('Home Advantage:', home_advantage)) +
+  geom_col(position = 'dodge') +
+  geom_text(position = position_dodge(width = 0.9), vjust = -0.5) +
+  labs(title = "Simulated Bias in Home Advantage Estimates",
+       subtitle = 'DGP: Bivariate Normal',
+       x = 'Team Strength Correlation',
+       y = "Mean Absolute Bias",
+       fill = 'Model') +
+  scale_y_continuous(limits = c(0, 0.9))
+ggsave(file = here("simulations/figures/sim_results_bvn.png"), height = 9/1.2, width = 16/1.2)
+
+# ### Plot
+ggplot(df_results, aes(x = (estimated_ha_bias), y = model_type, fill = fct_relevel(replace(as.character(round(log(mu),2)), 
+                                                                               is.na(as.character(round(log(mu),2))), '--'), 
+                                                                              '--', after = Inf))) +
   facet_grid(paste('DGP:', method) ~ paste('Home Advantage:', true_params)) +
   # geom_boxplot(width = 0.1, outlier.shape = NA) +
   # geom_beeswarm(alpha = 0.5, pch = 21, groupOnX = FALSE) +
@@ -57,11 +73,10 @@ ggplot(df_results, aes(x = (estimated_ha_bias), y = model_type, fill = model_typ
   geom_density_ridges(scale = 0.8, alpha = 0.5) +
   labs(title = "Simulated Bias in Home Advantage Estimates",
        x = "Bias (Estimated HA - Known HA)",
-       y = '',
-       fill = 'Team Strength Correlation') +
+       y = 'Model',
+       fill = 'Mu') +
   geom_vline(aes(xintercept = 0), lty = 2, lwd =0.5) +
-  theme(legend.position = 'none',
-        axis.text.y = element_text(size = 18))
+  theme(axis.text.y = element_text(size = 18))
 
-ggsave(file = here("simulations/sim_results2.png"), height = 9/1.2, width = 16/1.2)
+ggsave(file = here("simulations/figures/sim_ridge.png"), height = 9/1.2, width = 16/1.2)
 

@@ -92,7 +92,8 @@ run_simulation <- function(x) {
       'lm_eta' = lm_eta, 
       'lm_bias' = lm_eta_bias, 
       'lm_mse' = lm_eta_mse,
-      'team_strength_correlation' = team_strength_correlation
+      'team_strength_correlation' = team_strength_correlation,
+      'mu' = ifelse(is.null(x$mu), NA, x$mu)
     )
   
 
