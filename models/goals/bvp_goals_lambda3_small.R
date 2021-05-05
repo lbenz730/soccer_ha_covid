@@ -5,7 +5,7 @@ library(glue)
 source(here('helpers.R'))
 options(mc.cores=parallel::detectCores())
 
-directory <- 'bvp_goals_lambda3'
+directory <- 'bvp_goals_lambda3_small'
 
 
 if(!dir.exists(here(glue('model_objects/{directory}')))) {
@@ -17,7 +17,7 @@ if(!dir.exists(here(glue('posteriors/{directory}')))) {
 
 
 league_info <- read_csv(here("league_info.csv"))
-empirical_baselines <- read_csv(here('models/empirical_baselines.csv'))
+empirical_baselines <- read_csv(here('models/empirical_baselines_small.csv'))
 
 ### Iterate Over Leagues
 for(i in 1:nrow(league_info)) {
@@ -49,7 +49,6 @@ for(i in 1:nrow(league_info)) {
   df <- 
     df %>% 
     mutate('season' = as.character(season)) %>% 
-    filter(season > '2018-19') %>% 
     mutate('home' = paste(home, season, sep = '_'),
            'away' = paste(away, season, sep = '_')) 
   team_ids <- team_codes(df)
@@ -80,7 +79,7 @@ for(i in 1:nrow(league_info)) {
   )
   
   ### Fit Model
-  model <- stan(file = here(glue('stan/goals/{directory}.stan')), 
+  model <- stan(file = here(glue('stan/goals/{gsub("_small", "", directory)}.stan')), 
                 data = stan_data, 
                 seed = 73097,
                 chains = 3, 

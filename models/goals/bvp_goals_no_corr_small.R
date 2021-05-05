@@ -5,7 +5,7 @@ library(glue)
 source(here('helpers.R'))
 options(mc.cores=parallel::detectCores())
 
-directory <- 'bvp_goals_lambda3'
+directory <- 'bvp_goals_no_corr_small'
 
 
 if(!dir.exists(here(glue('model_objects/{directory}')))) {
@@ -17,7 +17,6 @@ if(!dir.exists(here(glue('posteriors/{directory}')))) {
 
 
 league_info <- read_csv(here("league_info.csv"))
-empirical_baselines <- read_csv(here('models/empirical_baselines.csv'))
 
 ### Iterate Over Leagues
 for(i in 1:nrow(league_info)) {
@@ -49,7 +48,7 @@ for(i in 1:nrow(league_info)) {
   df <- 
     df %>% 
     mutate('season' = as.character(season)) %>% 
-    filter(season > '2018-19') %>% 
+    filter(season >= '2018-19') %>% 
     mutate('home' = paste(home, season, sep = '_'),
            'away' = paste(away, season, sep = '_')) 
   team_ids <- team_codes(df)
@@ -58,7 +57,7 @@ for(i in 1:nrow(league_info)) {
     mutate('home_id' = team_ids[home],
            'away_id' = team_ids[away],
            'pre_covid' = as.numeric(date < covid_date),
-           'season_numeric' = as.numeric(as.factor(season)))
+           'season_numeric' = as.numeric(as.factor(season))) 
   
   ### List of Stan Params
   stan_data <- list(
@@ -71,21 +70,16 @@ for(i in 1:nrow(league_info)) {
     
     h_goals = df$home_score,
     a_goals = df$away_score,
-    ind_pre = df$pre_covid,
-    
-    mu_hf_pre = mean(empirical_baselines$goals_ha_pre),
-    mu_hf_post = mean(empirical_baselines$goals_ha_post),
-    sd_hf_pre = 3 * sd(empirical_baselines$goals_ha_pre),
-    sd_hf_post = 3 * sd(empirical_baselines$goals_ha_post)
+    ind_pre = df$pre_covid
   )
   
   ### Fit Model
-  model <- stan(file = here(glue('stan/goals/{directory}.stan')), 
+  model <- stan(file = here(glue('stan/goals/{gsub("_small", "", directory)}.stan')), 
                 data = stan_data, 
                 seed = 73097,
                 chains = 3, 
-                iter = 20000, 
-                warmup = 10000, 
+                iter = 7000, 
+                warmup = 2000, 
                 control = list(adapt_delta = 0.95),
                 
                 ### Don't return lambda1/lambda2 for each game x iteration to save space
