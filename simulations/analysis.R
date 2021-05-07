@@ -63,10 +63,9 @@ ggplot(filter(df_summary, method == 'Bivariate Normal'),
 ggsave(file = here("simulations/figures/sim_results_bvn.png"), height = 9/1.2, width = 16/1.2)
 
 # ### Plot
-ggplot(df_results, aes(x = (estimated_ha_bias), y = model_type, fill = fct_relevel(replace(as.character(round(log(mu),2)), 
-                                                                               is.na(as.character(round(log(mu),2))), '--'), 
-                                                                              '--', after = Inf))) +
-  facet_grid(paste('DGP:', method) ~ paste('Home Advantage:', true_params)) +
+ggplot(df_results %>% filter(method == 'Bivariate Poisson'), aes(x = (estimated_ha_bias), y = model_type, fill = model_type)) +
+  # facet_grid(paste('DGP:', method) ~ paste('Home Advantage:', true_params)) +
+  facet_wrap(~paste('Home Advantage:', true_params)) +
   # geom_boxplot(width = 0.1, outlier.shape = NA) +
   # geom_beeswarm(alpha = 0.5, pch = 21, groupOnX = FALSE) +
   # geom_quasirandom(alpha = 0.5, pch = 21, groupOnX = FALSE) +
@@ -79,4 +78,62 @@ ggplot(df_results, aes(x = (estimated_ha_bias), y = model_type, fill = fct_relev
   theme(axis.text.y = element_text(size = 18))
 
 ggsave(file = here("simulations/figures/sim_ridge.png"), height = 9/1.2, width = 16/1.2)
+
+
+ggplot(filter(df_summary, (method == 'Bivariate Poisson' & mu == 1) | method == 'Bivariate Normal'),
+       aes(x = fct_reorder(as.character(team_strength_correlation), team_strength_correlation), y = mean_abs_bias,
+           fill = model_type, label = sprintf('%0.4f', mean_abs_bias))) +
+  facet_grid(paste('DGP:', method) ~ paste('Home Advantage:', home_advantage)) +
+  geom_col(position = 'dodge') +
+  geom_text(position = position_dodge(width = 0.9), vjust = -0.5, size = 3.5) +
+  labs(title = "Simulated Bias in Home Advantage Estimates",
+       x = 'Team Strength Correlation',
+       y = "Mean Absolute Bias",
+       fill = 'Model') +
+  scale_y_continuous(limits = c(0, 0.55))
+ggsave(file = here("simulations/figures/dgp_grid.png"), height = 9/1.2, width = 16/1.2)
+
+
+library(xtable)
+library(knitr)
+library(kableExtra)
+x <- 
+df_summary %>% 
+  ungroup() %>% 
+  filter(method == 'Bivariate Normal' | log(mu) == 0) %>% 
+  select(method, model_type, home_advantage, team_strength_correlation, mean_abs_bias, mean_bias) %>% 
+  mutate('mean_abs_bias' = round(mean_abs_bias, 3),
+         'mean_bias' = round(mean_bias, 3)) %>% 
+  arrange(home_advantage) %>% 
+  pivot_wider(names_from = c('home_advantage', 'team_strength_correlation'),
+              values_from = c('mean_abs_bias', 'mean_bias'),
+              ) %>% 
+
+  arrange(desc(method)) %>% 
+  select(-method) 
+
+x %>% 
+  select(model_type, 
+         contains('bias_0_-0.8'), contains('bias_0_-0.4'), contains('bias_0_0')
+        ) %>% 
+  xtable(digits = 3) %>%
+  print(include.rownames = F)
+
+
+x %>% 
+  select(model_type, 
+         contains('bias_0.25_-0.8'), contains('bias_0.25_-0.4'), contains('bias_0.25_0')
+  ) %>% 
+  xtable(digits = 3) %>%
+  print(include.rownames = F)
+
+x %>% 
+  select(model_type, 
+         contains('bias_0.5_-0.8'), contains('bias_0.5_-0.4'), contains('bias_0.5_0')
+  ) %>% 
+  xtable(digits = 3) %>%
+  print(include.rownames = F)
+
+
+
 
