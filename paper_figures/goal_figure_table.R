@@ -52,7 +52,7 @@ ggplot(draws, aes(x = posterior_draw, y = league_f)) +
         plot.subtitle = element_text(hjust = 0.5, size = 24),
         legend.text = element_text(size = 16))
 
-# ggsave(here(glue('paper_figures/figures/figure3.png')), width = 16/1.2, height = 9/1.2)
+ggsave(here(glue('paper_figures/figures/figure1.png')), width = 16/1.2, height = 9/1.2)
 
 ### Posterior Means
 df_means <- 

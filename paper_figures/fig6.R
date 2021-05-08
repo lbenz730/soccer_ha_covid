@@ -148,7 +148,7 @@ p1 + p3 + p2 + plot_layout(design = design) +
                   theme = theme(plot.title = element_text(size = 50, hjust = 0.5, face = 'bold'),
                                 plot.subtitle = element_text(size = 40, hjust = 0.5, face = 'bold')))
 
-ggsave('figures/figure5.png', height = 30, width = 22)
+ggsave('figures/figure6.png', height = 30, width = 22)
 
 
 

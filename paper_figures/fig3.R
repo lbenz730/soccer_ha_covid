@@ -85,4 +85,4 @@ ggplot(team_strengths, aes(x = alpha, y = delta)) +
        y = 'Defensive Team Strength',
        title = 'German Bundesliga Team Strengths',
        subtitle = '2015-16')
-ggsave('figures/figure2.png', height = 9/1.5, width = 16/1.5)
+ggsave('figures/figure3.png', height = 9/1.5, width = 16/1.5)
