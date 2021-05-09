@@ -31,7 +31,8 @@ This repository contains the data and code used in a manuscript _Estimating the 
 
 * __simulations/simulation.R__ R script for running simulations described in Section (4).
 * __simulations/biv_pois.stan__ STAN file for running simulations described in Section (4).
-* __simulations/sim_files/:__ Folder of saved simulation results
+* __simulations/paired_comp.stan__ STAN file for running simulations described in Section (4).
+* __simulations/sim_files/:__ Folder of saved simulation results (specifically, see __v2_sims/__ for the most up to date versions in version 2 of the paper).
 
 ### Other
 
