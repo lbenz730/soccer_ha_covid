@@ -82,8 +82,6 @@ generate_bivnorm <- function(run, sim_id, num_club, team_strength_correlation, h
     select(club) %>%
     flatten_chr() 
   games <- expand.grid(home = games, away = games)
-  
-  
   games <- 
     games %>%
     filter(home != away) %>%
@@ -92,10 +90,12 @@ generate_bivnorm <- function(run, sim_id, num_club, team_strength_correlation, h
     left_join(teams, by = c("away" = "club")) %>%
     rename(a_att = attack, a_def = defend) %>%
     mutate(
-      'mu1' = 5 + home_advantage + h_att + a_def, 
-      'mu2' = 5 + a_att + h_def,
-      'h_goals' = round(truncnorm::rtruncnorm(n = nrow(.), a = -0.49999, mean = mu1, sd = 1)), ## left truncated at -0.49999
-      'a_goals' = round(truncnorm::rtruncnorm(n = nrow(.), a = -0.49999, mean = mu2, sd = 1)), ## left truncated at  -0.49999
+      'mu1' = 0.2 + h_att + a_def, 
+      'mu2' = 0.2 + a_att + h_def,
+      'h_goals' = 
+        round(truncnorm::rtruncnorm(n = nrow(.), a = -0.49999, mean = mu1, sd = 1.75))    ## left truncated at -0.49999
+        +sample(c(0, 1), replace = T, prob = c(1-home_advantage, home_advantage), size = nrow(.)),
+      'a_goals' = round(truncnorm::rtruncnorm(n = nrow(.), a = -0.49999, mean = mu2, sd = 1.75)), ## left truncated at  -0.49999
       'home_game' = 1) %>%
     select(home, away, h_goals, a_goals, home_game)
   

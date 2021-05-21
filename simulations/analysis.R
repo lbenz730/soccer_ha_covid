@@ -9,6 +9,7 @@ source(here('helpers.R'))
 
 ### Analysis
 files <- dir('sim_files/v2_sims', full.names = T)
+
 simulation <- furrr::future_map_dfr(files, read_csv)
 
 simulation_long <-
@@ -98,24 +99,24 @@ library(xtable)
 library(knitr)
 library(kableExtra)
 x <- 
-df_summary %>% 
+  df_summary %>% 
   ungroup() %>% 
   filter(method == 'Bivariate Normal' | log(mu) == 0) %>% 
   select(method, model_type, home_advantage, team_strength_correlation, mean_abs_bias, mean_bias) %>% 
-  mutate('mean_abs_bias' = round(mean_abs_bias, 3),
-         'mean_bias' = round(mean_bias, 3)) %>% 
+  mutate('mean_abs_bias' = round(mean_abs_bias, 10),
+         'mean_bias' = round(mean_bias, 10)) %>% 
   arrange(home_advantage) %>% 
   pivot_wider(names_from = c('home_advantage', 'team_strength_correlation'),
               values_from = c('mean_abs_bias', 'mean_bias'),
-              ) %>% 
-
+  ) %>% 
+  
   arrange(desc(method)) %>% 
   select(-method) 
 
 x %>% 
   select(model_type, 
          contains('bias_0_-0.8'), contains('bias_0_-0.4'), contains('bias_0_0')
-        ) %>% 
+  ) %>% 
   xtable(digits = 3) %>%
   print(include.rownames = F)
 

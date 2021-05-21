@@ -53,7 +53,7 @@ bivnorm_data <-
 simulation_data <- c(bivpois_data, bivnorm_data) 
 
 ### Run Sims (Indicies to Run from different places, if needed)
-start_ix <- 1
-end_ix <- 3600
+start_ix <- 2701  + 243
+end_ix <- 3000 
 simulation_data <- simulation_data[start_ix:end_ix]
 simulation <- map_df(.x = simulation_data, .f = run_simulation)
