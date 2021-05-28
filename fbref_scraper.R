@@ -68,12 +68,13 @@ get_match_stats <- function(game_html) {
                "shot_creating_actions" = SCA,
                "goal_creating_actions" = GCA,
                "passes_attempted" = pATT,
-               "passes_completed" = Cmp,
-               "carries" = Carries,
+               # "passes_completed" = Cmp,
+               # "carries" = Carries,
                "passing_progressive_dist" = pPrgDist,
                "carry_progressive_dist" = cPrgDist,
                "dribble_attempts" = dAtt,
-               "dribble_success" = Succ) %>% 
+               # "dribble_success" = Succ
+               ) %>% 
         mutate_all(as.character) %>% 
         mutate_all(as.numeric) %>% 
         apply(2, sum) %>% 
@@ -98,12 +99,13 @@ get_match_stats <- function(game_html) {
                "shot_creating_actions" = SCA,
                "goal_creating_actions" = GCA,
                "passes_attempted" = pATT,
-               "passes_completed" = Cmp,
-               "carries" = Carries,
+               # "passes_completed" = Cmp,
+               # "carries" = Carries,
                "passing_progressive_dist" = pPrgDist,
                "carry_progressive_dist" = cPrgDist,
                "dribble_attempts" = dAtt,
-               "dribble_success" = Succ) %>% 
+               # "dribble_success" = Succ
+               ) %>% 
         mutate_all(as.character) %>% 
         mutate_all(as.numeric) %>% 
         apply(2, sum) %>% 
@@ -193,9 +195,14 @@ for(i in 1:nrow(league_info)) {
   for(j in 1:5) {
     url <- urls[j]
     x <- scan(url, what = "", sep = "\n")
-    x <- x[str_detect(x, "data-stat=\"gameweek|round\" ") & str_detect(x, "^<tr ><th scope=\"row\"")]
-    df_stats <- future_map_dfr(x, ~get_match_stats(.x)) %>% 
+    x <- x[str_detect(x, "data-stat=\"gameweek|round\" ") & str_detect(x, "<tr ><th scope=\"row\"")]
+    
+    ### LSB Change added as of 2021-04-25 to fix scraping issue w/ fbref.com . Data not re-scraped 
+    y <- str_split(x[1], '</td></tr>')[[1]]
+    
+    df_stats <- future_map_dfr(y, ~get_match_stats(.x)) %>% 
       distinct() %>% 
+      filter(!is.na(date)) %>% 
       mutate("season" = years[j])
     write_csv(df_stats, paste0("fbref_data/", gsub("\\s", "_", tolower(league_info$alias[i])), "/", years[j], ".csv"))
   }

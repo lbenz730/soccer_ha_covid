@@ -48,7 +48,7 @@ ggplot(draws, aes(x = posterior_draw, y = league_f)) +
         plot.subtitle = element_text(hjust = 0.5, size = 24),
         legend.text = element_text(size = 16))
 
-ggsave(here(glue('paper_figures/figures/figure6.png')), width = 16/1.2, height = 9/1.2)
+ggsave(here(glue('paper_figures/figures/figure4.png')), width = 16/1.2, height = 9/1.2)
 
 
 ### Directory to Read in From
@@ -92,5 +92,5 @@ ggplot(draws, aes(x = posterior_draw, y = league_f)) +
         plot.subtitle = element_text(hjust = 0.5, size = 24),
         legend.text = element_text(size = 16))
 
-ggsave(here(glue('paper_figures/figures/figure7.png')), width = 16/1.2, height = 9/1.2)
+ggsave(here(glue('paper_figures/figures/figure5.png')), width = 16/1.2, height = 9/1.2)
 

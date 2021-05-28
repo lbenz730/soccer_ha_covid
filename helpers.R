@@ -30,6 +30,7 @@ wld_rates <- function(league, covid_date) {
          'home_win_rate' = mean(df$home_score > df$away_score, na.rm = T),
          'away_win_rate' = mean(df$home_score < df$away_score, na.rm = T),
          'draw_rate' = mean(df$home_score == df$away_score, na.rm = T),
+         'zero_zero_rate' = mean(df$home_score == 0 & df$away_score == 0, na.rm = T),
          # 'yc_draw_rate' = mean(df$home_yellow_cards == df$away_yellow_cards, na.rm = T),
          'goals_per_game' = mean(df$home_score + df$away_score, na.rm = T),
          'yc_per_game' = mean(df$home_yellow_cards + df$away_yellow_cards, na.rm = T),

@@ -52,7 +52,7 @@ ggplot(draws, aes(x = posterior_draw, y = league_f)) +
         plot.subtitle = element_text(hjust = 0.5, size = 24),
         legend.text = element_text(size = 16))
 
-ggsave(here(glue('paper_figures/figures/figure3.png')), width = 16/1.2, height = 9/1.2)
+ggsave(here(glue('paper_figures/figures/figure1.png')), width = 16/1.2, height = 9/1.2)
 
 ### Posterior Means
 df_means <- 
@@ -79,6 +79,6 @@ df_means %>%
   mutate('delta' = mean_post -mean_pre) %>% 
   mutate('pct' = paste0(sprintf('%0.1f', delta/abs(mean_pre) * 100), '%')) %>%  
   inner_join(probs) %>% 
-  arrange(desc(p_decrease)) 
+  arrange(desc(p_decrease)) %>% 
   xtable::xtable(digits = c(0, 0, 3,3,3,1,3)) %>%
   print(include.rownames = F)
