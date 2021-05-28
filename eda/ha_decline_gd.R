@@ -34,7 +34,7 @@ df_means <-
   inner_join(select(league_info, 'league' = alias, logo_url))
 
 df_means %>% 
-  filter(!league %in% c('Norwegian Eliteserien', 'Swedish Allsvenskan')) %>% 
+  filter(!league %in% c('Norwegian Eliteserien', 'Swedish Allsvenskan')) %>%
   mutate('ha_before' = exp(mean_pre + mu) - exp(mu),
          'ha_after' = exp(mean_post + mu) - exp(mu)) %>% 
   summarise('mean_before' = mean(ha_before),
